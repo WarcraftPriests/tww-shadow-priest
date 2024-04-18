@@ -1,0 +1,37 @@
+# !ns12oXnmq0ViKIVB)kTqvFjLQG4rl2l2OucjODDOWl8TxpEYf7avcTwRIVnN5CoZylXERT5yR33EySl8MTMQSnJThTn1J)4QHb6vh(9B2MDhpo0FN7052HEBnNwjSn)15E0wtSnhg6goDZUoxi4(zVFac5UXWW3G1B7FWE5MZC81ymSbBtW9A8FA17373D6jBZW()4oeohdqnMy4xxZ1uHqPPAbPsPevw)fCwmxTxFHWW1mALMYjvCbrbBjS1m4ErqU0wht1Zp2(87336F)(NhoFUDFNdqVpUBaIsgsAzmycQrrKgJHXGWXrK4gTXiuX8WOOuL8)IuwSzfSqifkELuBysMqtYzHKWQyeT0WOgU0mb7xNfXpEzx3OdW7SRlQIGtLWTokkXTpmE6KRp0mgV3lUUKZDQ1h(L3F2TQ5HSZ(9X(hCd9j)kQUGF5Ecm09lh5MXUUecnph)AjkZ)bdkmM05nlX2SeqygqyyisdjmcWcZhnorNnblTSnEpZ59lg60QWAg3k4S8yX(yMOtlzqPVkLheskrujPz(GzrBo08cgH8HGeIGmIGuIusies(gQWCzhcpPkhnzoACen(K8HOXr04YSiZCMjrsaxD((mdQ(k0b049RW7tYHnxFulXPqlxzHFpYc5gdHLziGitrrMHYgpjBzHo1)fNL0FvwSGibMRkRCyU6yUezUUAsTcfjsukICjRWsKPUHL9W1m56aPWTLiksSLvks5SuIfWScnXaAYs2XrCIIqgqXz5iPkqcna5KdGvOkScvQYY5cRakNqBNGGGD6iUHKSFBo915bkp)3rsU38vwt5sJpH2soRuPCwxLYzn6Okd2vvafFX(wRmmtseBjXxCRzzBAgnB2M(FyBSxQ4DeY2hG(SEqcOkBAGwV5CX56txYLNlWRUIM0wuNonNTuFLuPnp9KhLpP7ALq0ciOtqOSFS1JSPFHOTFSNI8fFjdOlz6Trc6J6csx0FrXcUn9GHPF2)9
+# NOTE: adjust BOSS_Yalnu hp
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=2700
+enemy="The Everbloom 27 Fortified"
+enemy_health=9999999
+keystone_level=27
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=1,delay=010,enemies="Everbloom_Cultivator_1":2104993:Humanoid|"Everbloom_Cultivator_2":2104993:Humanoid|"Everbloom_Naturalist_1":2368118:Humanoid|"Everbloom_Naturalist_2":2368118:Humanoid|"Dreadpetal_1":1052496:Elemental|"Dreadpetal_2":1052496:Elemental|"Dreadpetal_3":1052496:Elemental|"Dreadpetal_4":1052496:Elemental|"Dreadpetal_5":1052496:Elemental|"Dreadpetal_6":1052496:Elemental|"Rockspine_Stinger_1":1578745:Beast|"Melded_Berserker_1":2631242:Elemental
+raid_events+=/pull,pull=02,bloodlust=0,delay=005,enemies="Everbloom_Naturalist_1":2368118:Humanoid|"Rockspine_Stinger_1":1578745:Beast|"Rockspine_Stinger_2":1578745:Beast|"Dreadpetal_1":1052496:Elemental|"Dreadpetal_2":1052496:Elemental|"Dreadpetal_3":1052496:Elemental|"Dreadpetal_4":1052496:Elemental|"Dreadpetal_5":1052496:Elemental
+raid_events+=/pull,pull=03,bloodlust=0,delay=013,enemies="Everbloom_Cultivator_1":2104993:Humanoid|"Everbloom_Naturalist_1":2368118:Humanoid|"Dreadpetal_1":1052496:Elemental|"Dreadpetal_2":1052496:Elemental|"Dreadpetal_3":1052496:Elemental|"Dreadpetal_4":1052496:Elemental|"Dreadpetal_5":1052496:Elemental|"Rockspine_Stinger_1":1578745:Beast|"Rockspine_Stinger_2":1578745:Beast
+raid_events+=/pull,pull=04,bloodlust=0,delay=011,enemies="Everbloom_Cultivator_1":2104993:Humanoid|"Everbloom_Naturalist_1":2368118:Humanoid|"Dreadpetal_1":1052496:Elemental|"Dreadpetal_2":1052496:Elemental|"Dreadpetal_3":1052496:Elemental|"Dreadpetal_4":1052496:Elemental|"Dreadpetal_5":1052496:Elemental
+raid_events+=/pull,pull=05,bloodlust=0,delay=013,enemies="Dreadpetal_1":1052496:Elemental|"Dreadpetal_2":1052496:Elemental|"Dreadpetal_3":1052496:Elemental|"Dreadpetal_4":1052496:Elemental|"Dreadpetal_5":1052496:Elemental|"Everbloom_Naturalist_1":2368118:Humanoid|"Everbloom_Naturalist_2":2368118:Humanoid|"Everbloom_Naturalist_3":2368118:Humanoid|"Everbloom_Mender_1":2368118:Humanoid|"Everbloom_Mender_2":2368118:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=007,enemies="Everbloom_Naturalist_1":2368118:Humanoid|"Everbloom_Naturalist_2":2368118:Humanoid|"Everbloom_Naturalist_3":2368118:Humanoid|"Everbloom_Naturalist_4":2368118:Humanoid|"Everbloom_Mender_1":2368118:Humanoid|"Everbloom_Mender_2":2368118:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=012,enemies="BOSS_Witherbark":32853628:Elemental
+raid_events+=/pull,pull=08,bloodlust=0,delay=009,enemies="Melded_Berserker_1":2631242:Elemental|"Melded_Berserker_2":2631242:Elemental|"Twisted_Abomination_1":3683736:Humanoid|"Everbloom_Mender_1":2368118:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=013,enemies="Everbloom_Cultivator_1":2104993:Humanoid|"Everbloom_Naturalist_1":2368118:Humanoid|"Dreadpetal_1":1052496:Elemental|"Dreadpetal_2":1052496:Elemental|"Dreadpetal_3":1052496:Elemental|"Dreadpetal_4":1052496:Elemental|"Dreadpetal_5":1052496:Elemental|"Melded_Berserker_1":2631242:Elemental
+raid_events+=/pull,pull=10,bloodlust=0,delay=007,enemies="Everbloom_Cultivator_1":2104993:Humanoid|"Everbloom_Naturalist_1":2368118:Humanoid|"Dreadpetal_1":1052496:Elemental|"Dreadpetal_2":1052496:Elemental|"Dreadpetal_3":1052496:Elemental|"Dreadpetal_4":1052496:Elemental|"Dreadpetal_5":1052496:Elemental|"Twisted_Abomination_1":3683736:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=015,enemies="Everbloom_Mender_1":2368118:Humanoid|"Twisted_Abomination_1":3683736:Humanoid
+raid_events+=/pull,pull=12,bloodlust=0,delay=006,enemies="Everbloom_Cultivator_1":2104993:Humanoid|"Dreadpetal_1":1052496:Elemental|"Dreadpetal_2":1052496:Elemental|"Dreadpetal_3":1052496:Elemental|"Dreadpetal_4":1052496:Elemental|"Dreadpetal_5":1052496:Elemental|"Twisted_Abomination_1":3683736:Humanoid|"Melded_Berserker_1":2631242:Elemental|"Melded_Berserker_2":2631242:Elemental
+raid_events+=/pull,pull=13,bloodlust=0,delay=005,enemies="BOSS_Dulhu":10513161:Elemental|"BOSS_Earthshaper_Telu":7008774:Humanoid|"BOSS_Life_Warden_Gola":7008774:Humanoid
+raid_events+=/pull,pull=14,bloodlust=0,delay=009,enemies="Infested_Icecaller_1":4209984:Humanoid|"Hapless_Assistant_1":1578745:Humanoid|"Hapless_Assistant_2":1578745:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=012,enemies="Hapless_Assistant_1":1578745:Humanoid|"Hapless_Assistant_2":1578745:Humanoid|"Hapless_Assistant_3":1578745:Humanoid|"Hapless_Assistant_4":1578745:Humanoid|"Hapless_Assistant_5":1578745:Humanoid|"Putrid_Pyromancer_1":4209984:Humanoid|"Addled_Arcanomancer_1":4209984:Humanoid
+raid_events+=/pull,pull=16,bloodlust=0,delay=015,enemies="Hapless_Assistant_1":1578745:Humanoid|"Hapless_Assistant_2":1578745:Humanoid|"Hapless_Assistant_3":1578745:Humanoid|"Hapless_Assistant_4":1578745:Humanoid|"Putrid_Pyromancer_1":4209984:Humanoid|"Infested_Icecaller_1":4209984:Humanoid|"Addled_Arcanomancer_1":4209984:Humanoid
+raid_events+=/pull,pull=17,bloodlust=0,delay=008,enemies="BOSS_Archmage_Sol":15331694:Humanoid
+raid_events+=/pull,pull=18,bloodlust=0,delay=009,enemies="Hapless_Assistant_1":1578745:Humanoid|"Hapless_Assistant_2":1578745:Humanoid|"Hapless_Assistant_3":1578745:Humanoid|"Hapless_Assistant_4":1578745:Humanoid|"Hapless_Assistant_5":1578745:Humanoid|"Hapless_Assistant_6":1578745:Humanoid
+raid_events+=/pull,pull=19,bloodlust=1,delay=011,enemies="BOSS_Yalnu":32853628:Giant|"Gnarled_Ancient_1":1754159:Elemental

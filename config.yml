@@ -1,0 +1,289 @@
+builds:
+  # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
+  da-cthun:
+    gearSetup: default
+    talents:
+      composite: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEISOQAAAAAAAAAAAAASoFRiUCSSSSSigUIJJRaEIiQKSLkEUgE # DA_nzoth_cthun_98189156546479_Spike_DR
+      single: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAgQaSkIlgkkERigUIJJRaEIiQKSLkEUQSA # DA_yogg_cthun_121432580256687_Spike_DR
+      3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkkUCSSSEJCShkkEpRgICpItQSQBJA # DA_nzoth_yogg_cthun_129962419368879_Flay_DR
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkkUCSSSSkIIFSSSkGBiIki0CJBFkA # DA_nzoth_yogg_cthun_129962384799663_Flay_DR
+  vf-yogg-cthun:
+    gearSetup: default
+    talents:
+      composite: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkmDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_DR
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAgISOQAAAAAAAAAAAAACaOQkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_yogg_cthun_119242012489647_Spike_DR
+      single: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkiDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_ME
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkmDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_DR
+      3t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAg4AaSkItgkkERigUIJJRaEIiQKSLkEUQSA # VF_yogg_cthun_121432581043119_Spike_DR
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAggIBAAAAAAAAAAAAIOQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_yogg_cthun_112370199803823_Flay_DR
+  vf-nzoth-yogg-cthun-dr:
+    gearSetup: default
+    talents:
+      composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_DR
+      single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
+      3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkk0CSSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962419368879_Flay_DR
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_DR
+  vf-nzoth-yogg-cthun-me:
+    gearSetup: default
+    talents:
+      composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQKSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_ME
+      single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+      2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
+      3t: BIQAAAAAAAAAAAAAAAAAAAAAAEigEAAAAAAAAAAAAg4AKSkk0CSSSEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_cthun_129962386092975_Spike_ME
+      4t: BIQAAAAAAAAAAAAAAAAAAAAAAEiIOQAAAAAAAAAAAAACKSkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_nzoth_yogg_cthun_129962250860463_Spike_ME
+gear:
+  # 6.3k Mastery (+2084 from BSL) | 6.2k Haste | 2.7k Crit | 3.3k Vers
+  default:
+    head: "mask_of_the_furnace_seraph,id=202542,ilevel=528" # haste/crit
+    neck: "eye_of_the_rising_flame,id=207163,ilevel=528" # mastery/haste
+    shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=528" # haste/mastery
+    back: "voice_of_the_silent_star,id=204465,ilevel=535" # crit/haste
+    chest: "vesture_of_the_smoldering_serpent,id=207121,ilevel=528" # haste/crit
+    wrists: "vibrant_wildercloth_wristwraps,id=193510,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525" # haste/mastery + BSL
+    hands: "grasp_of_the_furnace_seraph,id=202543,ilevel=528" # vers/haste
+    waist: "blooming_redeemers_sash,id=207124,ilevel=528" # haste/mastery
+    legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=528" # mastery/crit
+    feet: "vibrant_wildercloth_slippers,id=193519,bonus_id=8836/8840/8902/8802/8793/8932,ilevel=525" # haste/mastery + BSL
+    finger1: "seal_of_filial_duty,id=195526,ilevel=535" # mastery/haste
+    finger2: "seal_of_diurnas_chosen,id=195480,ilevel=528" # vers/crit
+    trinket1: "neltharions_call_to_suffering,id=204211,ilevel=535"
+    trinket2: "whispering_incarnate_icon,id=194301,ilevel=528"
+    main_hand: "vakash_the_shadowed_inferno,id=207788,ilevel=528" # mastery/haste
+    off_hand: "scripture_of_primal_devotion,id=195513,ilevel=528" # haste/vers
+  # 6.5k Mastery | 5.9k Haste | 3.3k Crit | 2.2k Vers
+  noCantrip:
+    head: "mask_of_the_furnace_seraph,id=202542,ilevel=528" # haste/crit
+    neck: "eye_of_the_rising_flame,id=207163,ilevel=528" # mastery/haste
+    shoulders: "devotion_of_the_furnace_seraph,id=202540,ilevel=528" # haste/mastery
+    back: "inflammable_drapeleaf,id=207160,ilevel=528" # crit/vers
+    chest: "command_of_the_furnace_seraph,id=202545,ilevel=528" # crit/vers
+    wrists: "anguished_restraints,id=207120,ilevel=528" # vers/crit
+    hands: "twisting_shadow_claws,id=207115,ilevel=528" # mastery/haste
+    waist: "urctoss_hibernal_dial,id=207119,ilevel=528" # crit/vers
+    legs: "breeches_of_the_furnace_seraph,id=202541,ilevel=528" # mastery/crit
+    feet: "lifewoven_slippers,id=207123,ilevel=528" # mastery/haste
+    finger1: "band_of_burning_thorns,id=207159,ilevel=528" # haste/mastery
+    finger2: "entropic_convergence_loop,id=202572,ilevel=528" # mastery/haste
+    trinket1: "neltharions_call_to_suffering,id=204211,ilevel=535"
+    trinket2: "whispering_incarnate_icon,id=194301,ilevel=528"
+    main_hand: "eternal_kindlers_greatstaff,id=207795,ilevel=528" # haste/mastery
+    off_hand: ""
+gems:
+  meta: "192988"
+  main: "192919"
+enchants:
+  head: "incandescent_essence"
+  chest: "waking_stats_3"
+  ring: "devotion_of_mastery_3"
+  legs: "lambent_armor_kit_3"
+  main_hand: "wafting_devotion_3"
+sims:
+  alchemy:
+    description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - 1
+      - 2
+      - 3
+    files:
+      - alchemy.simc
+  apl:
+    description: "APL Sims used for testing rotational changes only."
+    builds: true
+    weights: false
+    chart: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - apl.simc
+  consumables:
+    description: "Sims Food and Augment Rune consumables you can use to augment your character."
+    iterations: 20000
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - consumables.simc
+  enchants:
+    description: "Sims all possible enchants to your characters gear by slot. Lists each enchant at ranks 1, 2, and 3."
+    iterations: 20000
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - 1
+      - 2
+      - 3
+    files:
+      - enchants.simc
+  gems:
+    description: "Sims all available gems against each other. Lists each gem at ranks 1, 2, and 3."
+    iterations: 20000
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - 1
+      - 2
+      - 3
+    files:
+      - gems.simc
+  racials:
+    description: "Swaps out the racial that includes all stat effects or special abilities where they prove to be a DPS increase."
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - racials.simc
+  special-gear:
+    description: "Sims unique gear with effects to see the DPS gain. Includes Tailoring, Jewelcrafting, and Inscription gear, crafted with BiS stats when possible. Compared against Mythic BiS gear from the Raid or Mythic+ gear.<br><br>A negative DPS gain means the crafted piece with BiS stats is worse than the Mythic BiS piece. This usually means the BiS piece has a higher ilvl than the crafted piece."
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - gear.simc
+  stats:
+    description: "Stat distribution sim to see where we would want to add stats given the option. Each letter stands for a secondary stat and the number indicates how many steps were added to that build. So H10 means we add 10 steps of haste (currently 100 stat each step)."
+    builds: true
+    weights: false
+    chart: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - generated.simc
+  talents:
+    description: "Sims various talent builds generated by Talent Tree Manager. Shows the major cooldown and Idol combination used for that actor, names in gold can be clicked to copy the import string."
+    iterations: smart
+    builds: false
+    weights: false
+    chart: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - DA-Spike.simc
+      - DA-Flay.simc
+      - DA-Spike_DR.simc
+      - DA-Flay_DR.simc
+      - VF-Spike.simc
+      - VF-Flay.simc
+      - VF-Spike_DR.simc
+      - VF-Flay_DR.simc
+  talents-top:
+    description: "Shows top talents."
+    iterations: 20000
+    builds: false
+    weights: false
+    chart: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - talents.simc
+  tiersets:
+    description: "Sims each tier set currently available by just activating just the set effect, not with the gear."
+    builds: true
+    weights: false
+    chart: true
+    lookupType: spell
+    steps:
+      - DPS
+    files:
+      - tiersets.simc
+  trinket-combos:
+    description: "Combines the top trinkets together to get your BiS 2 trinkets.\n\nWIIF = Full, WIID = DPS only, WIIT = DPS + Tank, WIIH = DPS + Healer.\n\nOCEBA = Bronze, OCEEA = Emerald, OCEOA = Obsidian, OCEAA = Azure, OCERA = Ruby"
+    builds: true
+    weights: false
+    chart: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - generated.simc
+  trinkets:
+    description: "Sims all trinkets by themselves (no second trinket)."
+    builds: true
+    weights: false
+    chart: true
+    lookupType: item
+    steps:
+      - 483
+      - 489
+      - 496
+      - 515
+      - 522
+      - 525
+      - 528
+      - 535
+    files:
+      - raid.simc
+      - dungeons.simc
+      - other.simc
+  weights:
+    description: Stat weight sims for current BiS gear setup..
+    builds: true
+    weights: true
+    chart: false
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - weights.simc
+compositeWeights: weightsFatedRaids
+singleTargetWeights: weightsSingle
+twoTargetWeights: weightsTwoTargets
+threeTargetWeights: weightsThreeTargets
+fourTargetWeights: weightsFourTargets
+singleTargetProfiles:
+  - pw_na_1
+  - lm_na_1
+  - hm_na_1
+dungeonSeason: 4
+dungeonStandardWeights: weightsStandardSeasonFour
+dungeonPushWeights: weightsPushSeasonFour
+simcBuild: latest
+defaultIterations: 10000
+raidbots:
+  apiUrlBase: https://www.raidbots.com
+  numOfRetries: 100
+  retryInterval: 10
+analyze:
+  dungeonCharts: false
+  markdown: true
+  csv: true
+  json: true
+stats:
+  base: 2000
+  steps: 500
+  total: 18000
+  min:
+    haste: 5000
+    mastery: 5500
+    crit: 1000
+    vers: 0
+  include:
+    - mastery
+    - haste
+    - crit
+    - versatility

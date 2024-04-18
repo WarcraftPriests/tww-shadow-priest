@@ -1,0 +1,36 @@
+# !nA13ZTjoq4)wAFPTpugJ433m3dnPTZKE35KjKP9EIbzqytnwYfejnVWF73Uscqq80EZiBqsR(2D)2pKuMB2dzP0Ysb)RS2UAbpBRpztswAHOr0EhTHjLSB4vcLD9sX144189zxTYMYFclntMLkz)e()EADjR15MBhY)gJDS55H87f9s2q(7hYVQNlz8S0Y6QQ6I(g5ZzBjrzP91LzP)BW9F67FO)J0ZqNhPn9m03f9TTmU8U(MMSTUt9t731WEKPh7mmzhy8wxR)Wgr18unFvlaBsCyTrEklgFrIphxn0Xf7HwhAEgPEQjGS0Qkpwvv22e9SUXMNJ9DnRkW0FJ65O3h90yqkXaC25JobDrcBk0cSJVXSWxbrWQqZJzHP2WqLHr2jQVTJ10HAOOlgljyclNcdTjXlCC1oWXBd)Tvbmycr)GTyvlr1aEc)zfdZuKCcz9mj20WfYUaBy8xrRAckYMwj24fRWlrf4yq5RQPyO7suEZ1BfLRluX2riUqIAHwHvSnPtSJXWvXOMUtuZA0tX2saJOAoisu0Vwcoo)mGAb7OU2Lyb1OIDRR)cheUOxWVOUohgu3r214If56eKKfqgOWluHxu2l(mtAI7zWSuRtqop2l)aYSWOlMq)Fk2Os1vlvDnA1iT1UgZDn27gQapoB9(fyXXDU6O8o5xTL1l(6BlzZkZrjR3Qkz4cGhP2x(D6eywKjXZQ(inm2QpCMnYEHBUyPetKy1GjAMCJbxLs2SP6wYczNztZvFCnUtSunL(OGp2Z3ZeC1brUBcWdIyNWtQ2LL2XAyfs84TzOtBRRK3wv1XKQdniZik29DW8PJssl1VLsiboQ0m99EXXo(ArcMxxHPv6Nff9Dd532slAqLwkhMWSrYeiE(joediepN41GCDtDXXHCjeYNfTsw7qUGd9paNDUVv0ZlTq2Zgz)GyNqnYKOn)MWtHiGBXbAn8ap70z4lpCOgSa)rbVrHZPHt3DSCOVTdd83m5qpFh31o8VVnDiNrlomKFhftkkamNXkzLd5hyTSxzHCWcK3KmISBmznUPs6ZAY4mIu)zazo8IYFh5IIJ7uU7TFM1beiicgYtpad)e9r27GSKYpAy0DIomzv8QzOwH4eS2UZ0NaIbUCuNb(Z9LLnmONuSNbM2(oRWpCr4tiorJcLOxwjU(d3)P)yi)FQ5GMStX(DGNlPNO7zVcUGe0PRVflscGPGOg6l75trcCznbN2G9FKw3qHBbbvV)QUPzi)bHKDQZMss)bCZQ3ad9aRfu9pRiKVwRUV3CgeTqL6f7eykaqvo4YLGojWZyj4phYprpIXBBnLVhLxNPW1cBXq(PAjOa8W0S9movrDlOa7CgYVPAi)zr)yocIUNouJ3sChJEsl8HPBvEYuGGH0cwnwwfLH8xdWs5OI41d5vncrRT2nErcsISlrHxu7Q0dFJklGI9B01PgT7F71nmEXbft(aS7d(jvNLEaE5j4EVkhCQSg9CvlJDq0uQC)o2((6gC7jS34uFruZzLWowiaz)3d
+# NOTE: set this to only fight the BOSS_Ink_of_Ozumat on the last encounter
+fight_style=DungeonRoute
+override.windfury_totem=0
+override.arcane_intellect=0
+override.power_word_fortitude=1
+override.battle_shout=0
+override.mark_of_the_wild=0
+override.mystic_touch=0
+override.chaos_brand=0
+override.bleeding=0
+single_actor_batch=1
+max_time=2700
+enemy="Throne of Tides 27 Tyrannical"
+enemy_health=9999999
+keystone_level=27
+keystone_pct_hp=27
+
+raid_events+=/pull,pull=01,bloodlust=1,delay=010,enemies="Naz'jar_Invader_1":1756356:Humanoid|"Naz'jar_Invader_2":1756356:Humanoid|"Naz'jar_Invader_3":1756356:Humanoid|"Naz'jar_Invader_4":1756356:Humanoid|"Naz'jar_Invader_5":1756356:Humanoid|"Vicious_Snap_Dragon_1":1317267:Beast|"Vicious_Snap_Dragon_2":1317267:Beast|"Vicious_Snap_Dragon_3":1317267:Beast|"Naz'jar_Oracle_1":1975902:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=013,enemies="Naz'jar_Oracle_1":1975902:Humanoid|"Naz'jar_Oracle_2":1975902:Humanoid|"Naz'jar_Sentinel_1":3512713:Humanoid
+raid_events+=/pull,pull=03,bloodlust=0,delay=008,enemies="Naz'jar_Ravager_1":6147248:Humanoid|"Vicious_Snap_Dragon_1":1317267:Beast|"Vicious_Snap_Dragon_2":1317267:Beast
+raid_events+=/pull,pull=04,bloodlust=0,delay=008,enemies="Naz'jar_Invader_1":1756356:Humanoid|"Naz'jar_Invader_2":1756356:Humanoid|"Naz'jar_Oracle_1":1975902:Humanoid|"Naz'jar_Sentinel_1":3512713:Humanoid|"Naz'jar_Sentinel_2":3512713:Humanoid|"Naz'jar_Tempest_Witch_1":1975902:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=012,enemies="Naz'jar_Invader_1":1756356:Humanoid|"Deep_Murloc_Drudge_1":658634:Humanoid|"Deep_Murloc_Drudge_2":658634:Humanoid|"Deep_Murloc_Drudge_3":658634:Humanoid|"Deep_Murloc_Drudge_4":658634:Humanoid|"Deep_Murloc_Drudge_5":658634:Humanoid|"Deep_Murloc_Drudge_6":658634:Humanoid|"Deep_Murloc_Drudge_7":658634:Humanoid|"Deep_Murloc_Drudge_8":658634:Humanoid|"Deep_Murloc_Drudge_9":658634:Humanoid|"Deep_Murloc_Drudge_10":658634:Humanoid|"Naz'jar_Tempest_Witch_1":1975902:Humanoid|"Naz'jar_Tempest_Witch_2":1975902:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=009,enemies="Naz'jar_Invader_1":1756356:Humanoid|"Vicious_Snap_Dragon_1":1317267:Beast|"Vicious_Snap_Dragon_2":1317267:Beast|"Naz'jar_Oracle_1":1975902:Humanoid|"Naz'jar_Tempest_Witch_1":1975902:Humanoid
+raid_events+=/pull,pull=07,bloodlust=1,delay=012,enemies="Naz'jar_Ravager_1":6147248:Humanoid|"Vicious_Snap_Dragon_1":1317267:Beast|"Vicious_Snap_Dragon_2":1317267:Beast|"Vicious_Snap_Dragon_3":1317267:Beast|"Vicious_Snap_Dragon_4":1317267:Beast|"Vicious_Snap_Dragon_5":1317267:Beast|"Vicious_Snap_Dragon_6":1317267:Beast
+raid_events+=/pull,pull=08,bloodlust=0,delay=010,enemies="Naz'jar_Invader_1":1756356:Humanoid|"Naz'jar_Invader_2":1756356:Humanoid|"Naz'jar_Oracle_1":1975902:Humanoid|"Naz'jar_Sentinel_1":3512713:Humanoid|"Naz'jar_Tempest_Witch_1":1975902:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=012,enemies="BOSS_Lady_Naz'jar":15688435:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=006,enemies="BOSS_Commander_Ulthok":19967098:Aberration
+raid_events+=/pull,pull=11,bloodlust=0,delay=012,enemies="Faceless_Watcher_1":3512713:Aberration|"Faceless_Seer_1":2195445:Aberration|"Minion_of_Ghur'sha_1":1317267:Aberration|"Minion_of_Ghur'sha_2":1317267:Aberration|"Minion_of_Ghur'sha_3":1317267:Aberration|"Minion_of_Ghur'sha_4":1317267:Aberration
+raid_events+=/pull,pull=12,bloodlust=0,delay=010,enemies="Faceless_Watcher_1":3512713:Aberration|"Faceless_Seer_1":2195445:Aberration|"Minion_of_Ghur'sha_1":1317267:Aberration|"Minion_of_Ghur'sha_2":1317267:Aberration|"Minion_of_Ghur'sha_3":1317267:Aberration
+raid_events+=/pull,pull=13,bloodlust=0,delay=006,enemies="Faceless_Watcher_1":3512713:Aberration|"Faceless_Watcher_2":3512713:Aberration|"Faceless_Seer_1":2195445:Aberration|"Faceless_Seer_2":2195445:Aberration
+raid_events+=/pull,pull=14,bloodlust=0,delay=014,enemies="BOSS_Erunak_Stonespeaker":17970391:Humanoid|"Minion_of_Ghur'sha_1":1317267:Aberration|"Minion_of_Ghur'sha_2":1317267:Aberration|"Minion_of_Ghur'sha_3":1317267:Aberration|"Minion_of_Ghur'sha_4":1317267:Aberration|"Minion_of_Ghur'sha_5":1317267:Aberration|"Minion_of_Ghur'sha_6":1317267:Aberration|"Minion_of_Ghur'sha_7":1317267:Aberration|"Minion_of_Ghur'sha_8":1317267:Aberration|"Minion_of_Ghur'sha_9":1317267:Aberration|"Minion_of_Ghur'sha_10":1317267:Aberration|"Minion_of_Ghur'sha_11":1317267:Aberration|"Minion_of_Ghur'sha_12":1317267:Aberration
+raid_events+=/pull,pull=15,bloodlust=0,delay=007,enemies="Gilgoblin_Hunter_1":1536813:Humanoid|"Gilgoblin_Hunter_2":1536813:Humanoid|"Gilgoblin_Hunter_3":1536813:Humanoid|"Gilgoblin_Hunter_4":1536813:Humanoid|"Gilgoblin_Aquamage_1":1207495:Humanoid|"Gilgoblin_Aquamage_2":1207495:Humanoid|"Tainted_Sentry_1":3512713:Elemental
+raid_events+=/pull,pull=16,bloodlust=0,delay=012,enemies="Gilgoblin_Hunter_1":1536813:Humanoid|"Gilgoblin_Hunter_2":1536813:Humanoid|"Gilgoblin_Aquamage_1":1207495:Humanoid|"Gilgoblin_Aquamage_2":1207495:Humanoid|"Tainted_Sentry_1":3512713:Elemental
+raid_events+=/pull,pull=17,bloodlust=1,delay=011,enemies="Tainted_Sentry_1":3512713:Elemental|"Tainted_Sentry_2":3512713:Elemental|"Gilgoblin_Aquamage_1":1207495:Humanoid|"Gilgoblin_Aquamage_2":1207495:Humanoid|"Gilgoblin_Aquamage_3":1207495:Humanoid|"Gilgoblin_Aquamage_4":1207495:Humanoid|"Gilgoblin_Aquamage_5":1207495:Humanoid|"Gilgoblin_Aquamage_6":1207495:Humanoid
+raid_events+=/pull,pull=18,bloodlust=0,delay=008,enemies="BOSS_Ink_of_Ozumat":19967098:Elemental
