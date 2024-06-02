@@ -71,29 +71,36 @@ def generate_parser(description):
 def get_dungeon_combos():
     """creates a list of the dungeon combinations"""
     season = config["dungeonSeason"]
-    if season == 3:
-        keys = [
-            "atal",
-            "brh",
-            "dht",
-            "everbloom",
-            "galakrond",
-            "murozond",
-            "tott",
-            "waycrest",
-        ]
-    elif season == 2:
-        keys = ["bhh", "freehold", "hoi", "neltharus", "nelths", "ulda", "ur", "vtp"]
-    elif season == 4:
-        keys = ["algethar", "azure", "bhh", "hoi", "neltharus", "nokhud", "rlp", "ulda"]
+    type = config["dungeonType"]
+    if type == "slice":
+        return ["slice"]
+    elif type == "route":
+        if season == 3:
+            keys = [
+                "atal",
+                "brh",
+                "dht",
+                "everbloom",
+                "galakrond",
+                "murozond",
+                "tott",
+                "waycrest",
+            ]
+        elif season == 2:
+            keys = ["bhh", "freehold", "hoi", "neltharus", "nelths", "ulda", "ur", "vtp"]
+        elif season == 4:
+            keys = ["algethar", "azure", "bhh", "hoi", "neltharus", "nokhud", "rlp", "ulda"]
+        else:
+            keys = ["algethar", "azure", "cos", "hov", "nokhud", "rlp", "smbg", "temple"]
+        affixes = ["fort", "tyran"]
+        levels = ["standard", "push"]
+        combos = [
+            f"{key}-{affix}-{level}"
+            for key in keys
+            for affix in affixes
+            for level in levels
+        ]  # noqa: E501
+        return combos
     else:
-        keys = ["algethar", "azure", "cos", "hov", "nokhud", "rlp", "smbg", "temple"]
-    affixes = ["fort", "tyran"]
-    levels = ["standard", "push"]
-    combos = [
-        f"{key}-{affix}-{level}"
-        for key in keys
-        for affix in affixes
-        for level in levels
-    ]  # noqa: E501
-    return combos
+        print(f"Invalid type given: {type}")
+        exit(1)

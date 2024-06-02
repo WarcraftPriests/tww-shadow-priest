@@ -55,22 +55,26 @@ def build_settings(profile_name_string, weights, dungeons):
     if weights:
         settings_string += fightExpressions["weights"]
     if dungeons:
-        season = config["dungeonSeason"]
-        if "standard" in profile_name_string:
-            r_file_location = (
-                f"internal/routes/season{season}/standard/{profile_name_string}.simc"  # noqa: E501
-            )
-        elif "push" in profile_name_string:
-            r_file_location = (
-                f"internal/routes/season{season}/push/{profile_name_string}.simc"  # noqa: E501
-            )
-        else:
-            print(f"Profile name is non-standard: {profile_name_string}")
-            exit(1)
-        with open(r_file_location, "r", encoding="utf8") as r_file:
-            data = r_file.read()
-            r_file.close()
-        settings_string += "\n" + data
+        type = config["dungeonType"]
+        if type == "slice":
+            settings_string += "\n" + fightExpressions["dungeons"]
+        elif type == "route":
+            season = config["dungeonSeason"]
+            if "standard" in profile_name_string:
+                r_file_location = (
+                    f"internal/routes/season{season}/standard/{profile_name_string}.simc"  # noqa: E501
+                )
+            elif "push" in profile_name_string:
+                r_file_location = (
+                    f"internal/routes/season{season}/push/{profile_name_string}.simc"  # noqa: E501
+                )
+            else:
+                print(f"Profile name is non-standard: {profile_name_string}")
+                exit(1)
+            with open(r_file_location, "r", encoding="utf8") as r_file:
+                data = r_file.read()
+                r_file.close()
+            settings_string += "\n" + data
     return settings_string
 
 

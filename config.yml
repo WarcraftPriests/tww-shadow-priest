@@ -1,4 +1,13 @@
 builds:
+  hero:
+    AR:
+      AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
+      AR_SP: "sustained_potency:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
+    VW:
+      VW_VE_DoS: "void_empowerment:1/depth_of_shadows:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
+      VW_DH_DoS: "darkening_horizon:1/depth_of_shadows:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
+      VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
+      VW_DH_VW: "darkening_horizon:1/voidwraith:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   da-cthun:
     gearSetup: default
@@ -262,10 +271,11 @@ singleTargetProfiles:
 dungeonSeason: 4
 dungeonStandardWeights: weightsStandardSeasonFour
 dungeonPushWeights: weightsPushSeasonFour
+dungeonType: slice
 simcBuild: latest
 defaultIterations: 10000
 raidbots:
-  apiUrlBase: https://www.raidbots.com
+  apiUrlBase: https://mimiron.raidbots.com
   numOfRetries: 100
   retryInterval: 10
 analyze:
