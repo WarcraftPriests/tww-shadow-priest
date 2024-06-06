@@ -69,12 +69,17 @@ def find_weight(sim_type, profile_name, dungeons):
         weight_type = "dungeonStandardWeights"
     elif sim_type == "Dungeons-Push":
         weight_type = "dungeonPushWeights"
+    elif sim_type == "Dungeons-Slice":
+        weight = 1
+        return weight
     elif dungeons:
         if sim_type == profile_name:
             weight = 1
         else:
             weight = 0
         return weight
+    if weight_type == "":
+        print(f"error: no weight type. {sim_type}, {profile_name}, {dungeons}")
     weight = find_weights(config[weight_type]).get(profile_name)
     if not weight:
         return 0
@@ -348,6 +353,7 @@ def not_dungeon_fight(fight_type):
         "Single",
         "Dungeons-Push",
         "Dungeons-Standard",
+        "Dungeons-Slice"
         "2T",
         "3T",
         "4T",
@@ -399,8 +405,9 @@ def clear_output_files(talent_string):
     clear_dir(
         "results",
         talent_string,
-        ["Composite", "Single", "Dungeons-Standard", "Dungeons-Push", "2T", "3T", "4T"],
+        utils.get_sim_types(),
     )
+    # Check if this needs to be adjusted to clear out the Slice fights
     clear_dir("results/dungeons/push", talent_string, dungeon_fights)
     clear_dir("results/dungeons/standard", talent_string, dungeon_fights)
 
@@ -422,30 +429,14 @@ def build_readme_md(directory, talent_string):
             for talent in config["builds"]:
                 readme.write(f"## {talent.upper()}\n")
                 file_list = []
-                for fight_type in [
-                    "Composite",
-                    "Single",
-                    "Dungeons-Standard",
-                    "Dungeons-Push",
-                    "2T",
-                    "3T",
-                    "4T",
-                ]:
+                for fight_type in utils.get_sim_types():
                     file_list.append(f"results/Results_{fight_type}_{talent}.md")
                 for result in file_list:
                     result_name = generate_result_name(result, talent)
                     readme.write(f"- [{result_name}]({result})\n")
         else:
             file_list = []
-            for fight_type in [
-                "Composite",
-                "Single",
-                "Dungeons-Standard",
-                "Dungeons-Push",
-                "2T",
-                "3T",
-                "4T",
-            ]:
+            for fight_type in utils.get_sim_types():
                 file_list.append(f"results/Results_{fight_type}.md")
             for result in file_list:
                 readme.write(f"- [{result[16:-3]}]({result})\n")
@@ -479,8 +470,12 @@ def analyze(talents, directory, dungeons, weights, timestamp):
         data = pandas.read_csv(csv, usecols=["profile", "actor", "DD", "DPS"])
 
     talent_string = f"_{talents}" if talents else ""
+    if config["dungeonType"] == "route":
+        dungeon_list = ["Dungeons-Standard", "Dungeons-Push"]
+    elif config["dungeonType"] == "slice":
+        dungeon_list = ["Dungeons-Slice"]
     sim_types = (
-        ["Dungeons-Standard", "Dungeons-Push"]
+        dungeon_list
         if dungeons
         else ["Composite", "Single", "2T", "3T", "4T"]
     )

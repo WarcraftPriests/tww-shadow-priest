@@ -104,3 +104,11 @@ def get_dungeon_combos():
     else:
         print(f"Invalid type given: {type}")
         exit(1)
+
+def get_sim_types():
+    type_list = ["Composite", "Single", "2T", "3T", "4T"]
+    if config["dungeonType"] == "route":
+        type_list.extend(["Dungeons-Standard", "Dungeons-Push"])
+    if config["dungeonType"] == "slice":
+        type_list.extend(["Dungeons-Slice"])
+    return type_list

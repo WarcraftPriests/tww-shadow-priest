@@ -51,32 +51,79 @@ def filter_dungeon_type(combo):
         return False
 
 
+def get_hero_builds(ht, cds, idols):
+    hero_talent_combos = list(config["builds"]["hero"][ht].keys())
+    return [
+        f"{ht}_{cd}_{idol}" for ht in hero_talent_combos for cd in cds for idol in idols
+    ]
+
+
 def get_builds():
+    combos = []
     cds = ["VF", "DA"]
-    idols = [
+    # Archon and Voidweaver can have different Idol options, manually splitting
+    at_idols = [
         "yshaarj_cthun",
-        "nzoth_yogg",
         "nzoth_cthun",
         "yogg_cthun",
         "nzoth_yogg_cthun",
         "cthun",
     ]
-    combos = [f"{cd}_{idol}" for cd in cds for idol in idols]  # noqa: E501
+    combos.extend(get_hero_builds("AR", cds, at_idols))
+    ## Voidweaver
+    vw_idols = [
+        "yshaarj_cthun",
+        "nzoth_cthun",
+        "yogg_cthun",
+        "nzoth_yogg_cthun",
+        "cthun",
+    ]
+    combos.extend(get_hero_builds("VW", cds, vw_idols))
     return combos
 
 
-def find_spec_talents(talent):
+class Talents:
+    def __init__(self, st, ct, ht):
+        self.st = st
+        self.ct = ct
+        self.ht = ht
+
+
+def find_talents(talent):
     spec_talents = "not_found"
-    with open("talents/talents_duplicated.simc", "r", encoding="utf8") as file:
-        for line in file:
-            if talent in line:
-                spec_talents = line.split("+=")[1].replace('"', "").replace("\n", "")
-                break
-    file.close()
+    class_talents = "not_found"
+    hero_talents = "not_found"
+    hero_specs = ["AR", "VW"]
+    for hero_talent in hero_specs:
+        with open(
+            f"talents/hero_{hero_talent}_duplicated.simc", "r", encoding="utf8"
+        ) as file:
+            for line in file:
+                if talent in line:
+                    if "spec_talents" in line:
+                        spec_talents = (
+                            line.split("+=")[1].replace('"', "").replace("\n", "")
+                        )
+                    if "class_talents" in line:
+                        class_talents = (
+                            line.split("+=", 1)[1].replace('"', "").replace("\n", "")
+                        )
+                    if "hero_talents" in line:
+                        hero_talents = (
+                            line.split("+=")[1].replace('"', "").replace("\n", "")
+                        )
+
+                    if (
+                        spec_talents != "not_found"
+                        and class_talents != "not_found"
+                        and hero_talents != "not_found"
+                    ):
+                        break
+        file.close()
     if spec_talents == "not_found":
         print(f"{talent} not found")
         exit()
-    return spec_talents
+    return Talents(spec_talents, class_talents, hero_talents)
 
 
 def get_base_actor():
@@ -109,7 +156,15 @@ def create_sim_file(base, talent_dictionary, batches):
         ) as file:
             file.writelines(base)
             for actor in items[start:end]:
-                file.writelines([f'copy="{actor[0]}","Base"\n', f"{actor[1]}\n\n"])
+                name = actor[0]
+                talents = actor[1]
+                file.writelines([f'copy="{name}","Base"\n'])
+                if talents.st != "not_found":
+                    file.writelines(f"{talents.st}\n")
+                if talents.ct != "not_found":
+                    file.writelines(f"{talents.ct}\n")
+                if talents.ht != "not_found":
+                    file.writelines(f"{talents.ht}\n")
             file.write("iterations=1")
         file.close()
 
@@ -150,15 +205,7 @@ if __name__ == "__main__":
         for cd in build_configs
         for filler in ["Spike_ME", "Flay_ME", "Spike_DR", "Flay_DR"]
     ]  # noqa: E501
-    results = [
-        "Single",
-        "2T",
-        "3T",
-        "4T",
-        "Composite",
-        "Dungeons-Push",
-        "Dungeons-Standard",
-    ]
+    results = utils.get_sim_types()
     push_results = list(filter(filter_dungeon_type, utils.get_dungeon_combos()))
 
     # Get aggregate results
@@ -166,19 +213,27 @@ if __name__ == "__main__":
         results, combos, "talents/results", args.top_matches, args.match_jitter
     )
     # Get individual push dungeon results
-    dungeon_talent_names = get_top_talents(
-        push_results, combos, "talents/results/dungeons/push", 2, 1
-    )
+    if config["dungeonType"] == "route":
+        dungeon_talent_names = get_top_talents(
+            push_results, combos, "talents/results/dungeons/push", 2, 1
+        )
+    elif config["dungeonType"] == "slice":
+        dungeon_talent_names = get_top_talents(
+            ["slice"],
+            combos,
+            "talents/results/dungeons",
+            args.top_matches,
+            args.match_jitter,
+        )
     talent_names.extend(dungeon_talent_names)
     # De-duplicate again
     talent_names = list(set(talent_names))
     print(f"Found {len(talent_names)} top builds.")
-    # exit()
 
     # Build Talent Dictionary
     talent_dictionary = {}
     for talent in talent_names:
-        talent_dictionary[talent] = find_spec_talents(talent)
+        talent_dictionary[talent] = find_talents(talent)
 
     # Get base actor data
     base = get_base_actor()

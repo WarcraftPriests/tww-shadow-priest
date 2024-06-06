@@ -338,4 +338,5 @@ def find_weights(key):
         return weights_standard_season_four
     if key == 'weightsPushSeasonFour':
         return weights_push_season_four
+    print(f"{key} not found")
     return None
