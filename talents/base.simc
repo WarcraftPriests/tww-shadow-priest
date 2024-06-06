@@ -8,6 +8,9 @@ spec_talents=devouring_plague:1/shadowy_apparitions:1/misery:1/thought_harvester
 
 ${apl}
 
+set_bonus=tww1_2pc=1
+set_bonus=tww1_4pc=1
+
 head=${gear.head},gem_id=${gems.main},enchant=${enchants.head}
 neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
 shoulders=${gear.shoulders}
