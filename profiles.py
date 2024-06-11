@@ -190,6 +190,16 @@ def replace_gear(data, talent_string):
     return data
 
 
+def lookup_hero_talents(name):
+    hero_talent_type = name.split("_")[0]
+    if "_DA" in name:
+        hero_key = name.split("_DA")[0]
+        return config["builds"]["hero"][hero_talent_type][hero_key]
+    if "_VF" in name:
+        hero_key = name.split("_VF")[0]
+        return config["builds"]["hero"][hero_talent_type][hero_key]
+
+
 def create_talent_builds():
     """creates profiles from talents.yml"""
     profiles = ""
@@ -199,10 +209,16 @@ def create_talent_builds():
     for build in talent_builds["builds"]:
         talent_name = build
         talent_string = talent_builds["builds"][build]
+        if config["forceHeroTalents"] is True:
+            hero_string = lookup_hero_talents(build)
+            profiles = profiles + f'profileset."{talent_name}"+=hero_talents={hero_string}\n'
         profiles = profiles + f'profileset."{talent_name}"+=talents={talent_string}\n'
     for build in talent_builds["generated"]:
         talent_name = build
         talent_string = talent_builds["generated"][build]
+        if config["forceHeroTalents"] is True:
+            hero_string = lookup_hero_talents(build)
+            profiles = profiles + f'profileset."{talent_name}"+=hero_talents={hero_string}\n'
         profiles = profiles + f'profileset."{talent_name}"+=talents={talent_string}\n'
     return profiles
 

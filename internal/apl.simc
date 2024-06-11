@@ -15,6 +15,7 @@ actions.precombat+=/augmentation
 actions.precombat+=/snapshot_stats
 actions.precombat+=/shadowform,if=!buff.shadowform.up
 actions.precombat+=/arcane_torrent
+actions.precombat+=/use_item,name=aberrant_spellforge
 actions.precombat+=/shadow_crash,if=raid_event.adds.in>=25&spell_targets.shadow_crash<=8&!fight_style.dungeonslice&(!set_bonus.tier31_4pc|spell_targets.shadow_crash>1)
 actions.precombat+=/vampiric_touch,if=!talent.shadow_crash.enabled|raid_event.adds.in<25|spell_targets.shadow_crash>8|fight_style.dungeonslice|set_bonus.tier31_4pc&spell_targets.shadow_crash=1
 
@@ -68,7 +69,7 @@ actions.aoe_variables+=/variable,name=holding_crash,op=set,value=(variable.max_v
 actions.aoe_variables+=/variable,name=manual_vts_applied,op=set,value=(active_dot.vampiric_touch+8*!variable.holding_crash)>=variable.max_vts|!variable.is_vt_possible
 
 # TODO: Check VE/DA enter conditions based on dots
-actions.cds=potion,if=buff.voidform.up|buff.power_infusion.up|buff.dark_ascension.up&(fight_remains<=cooldown.power_infusion.remains+15)|fight_remains<=30
+actions.cds=potion,if=(buff.voidform.up|buff.power_infusion.up|buff.dark_ascension.up&(fight_remains<=cooldown.power_infusion.remains+15))&(fight_remains>=320|time_to_bloodlust>=320|buff.bloodlust.react)|fight_remains<=30
 actions.cds+=/fireblood,if=buff.power_infusion.up|fight_remains<=8
 actions.cds+=/berserking,if=buff.power_infusion.up|fight_remains<=12
 actions.cds+=/blood_fury,if=buff.power_infusion.up|fight_remains<=15
@@ -76,7 +77,7 @@ actions.cds+=/ancestral_call,if=buff.power_infusion.up|fight_remains<=15
 # Use Nymue's before we go into our cooldowns
 actions.cds+=/use_item,name=nymues_unraveling_spindle,if=variable.dots_up&(fight_remains<30|target.time_to_die>15)&(!talent.dark_ascension|cooldown.dark_ascension.remains<3+gcd.max|fight_remains<15)
 # Sync Power Infusion with Voidform or Dark Ascension
-actions.cds+=/power_infusion,if=(buff.voidform.up|buff.dark_ascension.up)&(!talent.darkening_horizon|buff.entropic_rift.up)
+actions.cds+=/power_infusion,if=(buff.voidform.up|buff.dark_ascension.up&(fight_remains<=80|fight_remains>=140))&(!talent.darkening_horizon|buff.entropic_rift.up)
 # Use <a href='https://www.wowhead.com/spell=10060/power-infusion'>Power Infusion</a> while <a href='https://www.wowhead.com/spell=194249/voidform'>Voidform</a> or <a href='https://www.wowhead.com/spell=391109/dark-ascension'>Dark Ascension</a> is active. Chain directly after your own <a href='https://www.wowhead.com/spell=10060/power-infusion'>Power Infusion</a>.
 actions.cds+=/invoke_external_buff,name=power_infusion,if=(buff.voidform.up|buff.dark_ascension.up)&!buff.power_infusion.up
 # Make sure Mindbender is active before popping Void Eruption and dump charges of Mind Blast before casting
@@ -135,7 +136,7 @@ actions.main+=/mind_blast,target_if=dot.devouring_plague.remains>execute_time&(c
 actions.main+=/shadow_word_death,target_if=dot.devouring_plague.ticking&pet.fiend.remains<=2&pet.fiend.active&talent.inescapable_torment&active_enemies<=7
 actions.main+=/void_bolt,if=variable.dots_up
 #actions.main+=/call_action_list,name=empowered_filler,if=priest.cthun_last_trigger_attempt>=3.5&cooldown.mind_blast.full_recharge_time>=gcd.max*2&talent.idol_of_cthun&talent.void_eruption
-actions.main+=/call_action_list,name=empowered_filler,if=(buff.mind_spike_insanity.stack=2&talent.mind_spike|buff.mind_flay_insanity.stack=2&!talent.mind_spike)&talent.empowered_surges
+actions.main+=/call_action_list,name=empowered_filler,if=(buff.mind_spike_insanity.stack=2&talent.mind_spike|buff.mind_flay_insanity.stack=2&!talent.mind_spike)&talent.empowered_surges&buff.power_surge.up
 #actions.main+=/call_action_list,name=heal_for_tof,if=equipped.rashoks_molten_heart&buff.molten_radiance.up,line_cd=15
 actions.main+=/call_action_list,name=heal_for_tof,if=!buff.twist_of_fate.up&buff.twist_of_fate_can_trigger_on_ally_heal.up&(talent.rhapsody|talent.divine_star|talent.halo)
 # Spend your Insanity on Devouring Plague at will if the fight will end in less than 10s
@@ -172,8 +173,7 @@ actions.trinkets+=/use_item,name=dreambinder_loom_of_the_great_cycle,use_off_gcd
 actions.trinkets+=/use_item,name=darkmoon_deck_box_inferno,if=equipped.darkmoon_deck_box_inferno
 actions.trinkets+=/use_item,name=darkmoon_deck_box_rime,if=equipped.darkmoon_deck_box_rime
 actions.trinkets+=/use_item,name=darkmoon_deck_box_dance,if=equipped.darkmoon_deck_box_dance
-actions.trinkets+=/use_item,name=conjured_chillglobe
-actions.trinkets+=/use_item,name=iceblood_deathsnare,if=(!raid_event.adds.exists|raid_event.adds.up|spell_targets.iceblood_deathsnare>=5)|fight_remains<20
+actions.trinkets+=/use_item,name=aberrant_spellforge
 # Use Erupting Spear Fragment with cooldowns, adds are currently active, or the fight will end in less than 20 seconds
 actions.trinkets+=/use_item,name=erupting_spear_fragment,if=(buff.power_infusion.up|raid_event.adds.up|fight_remains<20)&equipped.erupting_spear_fragment
 # Use Belor'relos on cooldown except to hold for incoming adds or if already facing 5 or more targets
@@ -181,6 +181,7 @@ actions.trinkets+=/use_item,name=belorrelos_the_suncaller,if=(!raid_event.adds.e
 # Use Beacon to the Beyond on cooldown except to hold for incoming adds or if already facing 5 or more targets
 actions.trinkets+=/use_item,name=beacon_to_the_beyond,if=(!raid_event.adds.exists|raid_event.adds.up|spell_targets.beacon_to_the_beyond>=5|fight_remains<20)&equipped.beacon_to_the_beyond
 actions.trinkets+=/use_item,name=conjured_chillglobe
+actions.trinkets+=/use_item,name=spymasters_web,if=buff.spymasters_report.stack=1&buff.power_infusion.up&!buff.spymasters_web.up|buff.power_infusion.up&(fight_remains<120)|(fight_remains<=20|buff.dark_ascension.up&fight_remains<=60|buff.entropic_rift.up&talent.entropic_rift&fight_remains<=30)&!buff.spymasters_web.up
 actions.trinkets+=/use_item,name=iceblood_deathsnare,if=(!raid_event.adds.exists|raid_event.adds.up|spell_targets.iceblood_deathsnare>=5)|fight_remains<20
 actions.trinkets+=/use_items,if=(buff.voidform.up|buff.power_infusion.up|buff.dark_ascension.up|(cooldown.void_eruption.remains>10&trinket.cooldown.duration<=60))&(buff.entropic_rift.up|!talent.void_blast)|fight_remains<20
 actions.trinkets+=/use_item,name=desperate_invokers_codex,if=equipped.desperate_invokers_codex
