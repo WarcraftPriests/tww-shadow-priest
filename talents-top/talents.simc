@@ -3,7 +3,8 @@ level=80
 role=spell
 position=back
 spec=shadow
-talents=BIQAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAQEAkERkIINSSSkGBJIki0CJBgA
+class_talents=shadowfiend:1/shadow_word_death:1/death_and_madness:1/power_infusion:1/tithe_evasion:1/twins_of_the_sun_priestess:1/twist_of_fate:2/throes_of_pain:2/divine_star:1
+spec_talents=devouring_plague:1/shadowy_apparitions:1/misery:1/thought_harvester:1/psychic_link:1/surge_of_insanity:1
 
 ${apl}
 

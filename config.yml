@@ -16,8 +16,8 @@ builds:
         name: VW_DH_DoS_DA_cthun_80603201402799_Spike_DR
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGAAAAAAAAAAAAAmxsNGzMzyYMzMmtZmxgZhZmZGzGDMGDziZbqZGsAzMzAgCwYIY2YB
       dungeons:
-        name: VW_
-        string: 1231
+        name: VW_VE_DoS_DA_nzoth_cthun_98245853312943_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAwws5BGzMzyYMzMmtZmxgZhZmZGzGDMGDziZbqZGsAzMzAgCwYWEMbsA
       single:
         name: VW_DH_DoS_DA_cthun_80589590852527_Spike_DR
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwwsxYmZWGPgZmZGzMjBzCzMzMmNGYMGmFz2UzMYBmZmBAFgxQwsxC
@@ -37,8 +37,8 @@ builds:
         name: AR_EC_DA_nzoth_cthun_98181774799791_Spike_DR
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMmZAAAAAAAAAAAAAGmNGzMzygZmZGzMjBzGzMzMmNGYMGmFz2UzMYBmBYmFLTNMAkxYB
       dungeons:
-        name: VW_
-        string: 1231
+        name: AR_EC_DA_nzoth_cthun_98241904105391_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzMDAAAAAAAAAAAAwgNPwYGzCMzMzsNzMGMbMzMzY2YgxYYWMbTNzgFYGgZWsM1wAQGjFA
       single:
         name: AR_EC_DA_cthun_80589590852527_Spike_DR
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwwsxYmZWGPgZmZGzMjBzGzMzMmNGYMGmFz2UzMYBmBYmFLTNMAkxYB
@@ -58,8 +58,8 @@ builds:
         name: VW_DH_DoS_DA_cthun_80603209529263_Spike_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGPAAAAAAAAAAAAAwMsMGzMzyYMzMmtZmxgZhZmZGzGDMGDziZbqZGsAzMzAgCwYIY2YB
       dungeons:
-        name: VW_
-        string: 1231
+        name: VW_VE_DoS_DA_nzoth_cthun_98245854099375_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAw4Bs4BGzMzyYMzMmtZmxgZhZmZGzGDMGDziZbqZGsAzMzAgCwYWEMbsA
       single:
         name: VW_DH_DoS_DA_cthun_80658310067119_Spike_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwgFPwYmZWGPgZmZGzMjBzCzMzMmNGYMGmFz2UzMYBmZmBAFgxQwsxC
@@ -79,8 +79,8 @@ builds:
         name: VW_VE_DoS_VF_cthun_80658273088431_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAMGDAAAAAAAAAAAAwYmFPwYmZ2GjZmZGzMjBzCzMzMmNGYMGmFz2UzMYBGzMAoAMmFBzGL
       dungeons:
-        name: VW_
-        string: 1231
+        name: VW_VE_DoS_VF_nzoth_cthun_98245887375279_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzs5BGzMz2YMzMmtZmxgZhZmZGzGDMGDziZbqZGsAjZGAUAGzigZjF
       single:
         name: VW_DH_DoS_VF_cthun_80589590852527_Spike_DR
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwwsxYmZ2GPgZmZGzMjBzCzMzMmNGYMGmFz2UzMYBmZmBAFgxQwsxC
