@@ -9,45 +9,112 @@ builds:
       VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
       VW_DH_VW: "darkening_horizon:1/voidwraith:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  da-cthun:
+  vw-da-cthun-dr:
     gearSetup: default
     talents:
-      composite: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
-      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAEISOQAAAAAAAAAAAAASoFRiUCSSSSSigUIJJRaEIiQKSLkEUgE # DA_nzoth_cthun_98189156546479_Spike_DR
-      single: BIQAAAAAAAAAAAAAAAAAAAAAAASkEAAAAAAAAAAAAgQaEJJl4ASSSkkIIFSSSkGBiIki0CJBFIB # DA_cthun_80589590852527_Spike_DR
-      2t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAgQaSkIlgkkERigUIJJRaEIiQKSLkEUQSA # DA_yogg_cthun_121432580256687_Spike_DR
-      3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkkUCSSSEJCShkkEpRgICpItQSQBJA # DA_nzoth_yogg_cthun_129962419368879_Flay_DR
-      4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkkUCSSSSkIIFSSSkGBiIki0CJBFkA # DA_nzoth_yogg_cthun_129962384799663_Flay_DR
-  vf-yogg-cthun:
+      composite:
+        name: VW_DH_DoS_DA_cthun_80603201402799_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGAAAAAAAAAAAAAmxsNGzMzyYMzMmtZmxgZhZmZGzGDMGDziZbqZGsAzMzAgCwYIY2YB
+      dungeons:
+        name: VW_
+        string: 1231
+      single:
+        name: VW_DH_DoS_DA_cthun_80589590852527_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwwsxYmZWGPgZmZGzMjBzCzMzMmNGYMGmFz2UzMYBmZmBAFgxQwsxC
+      2t:
+        name: VW_DH_DoS_DA_nzoth_cthun_98181774799791_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMmZAAAAAAAAAAAAAGmNGzMzygZmZGzMjBzCzMzMmNGYMGmFz2UzMYBmZmBAFgxQwsxC
+      3t:
+        name: VW_VE_DoS_DA_nzoth_cthun_98246095263663_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzYAAAAAAAAAAAAAGjNPwYmZWgZmxsNzMGMLMzMzY2YgxYYWMbTNzgFYmZGAUAGzigZjF
+      4t:
+        name: VW_VE_DoS_DA_nzoth_cthun_98245887375279_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzs5BGzMzyYMzMmtZmxgZhZmZGzGDMGDziZbqZGsAjZGAUAGzigZjF 
+  ar-da-cthun:
     gearSetup: default
     talents:
-      composite: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkmDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_DR
-      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAgISOQAAAAAAAAAAAAACaOQkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_yogg_cthun_119242012489647_Spike_DR
-      single: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkiDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_ME
-      2t: BIQAAAAAAAAAAAAAAAAAAAAAAgAJBAAAAAAAAAAAAIkmDEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_yogg_cthun_119242215601071_Flay_DR
-      3t: BIQAAAAAAAAAAAAAAAAAAAAAAgIkEAAAAAAAAAAAAg4AaSkItgkkERigUIJJRaEIiQKSLkEUQSA # VF_yogg_cthun_121432581043119_Spike_DR
-      4t: BIQAAAAAAAAAAAAAAAAAAAAAAggIBAAAAAAAAAAAAIOQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_yogg_cthun_112370199803823_Flay_DR
-  vf-nzoth-yogg-cthun-dr:
+      composite:
+        name: AR_EC_DA_nzoth_cthun_98181774799791_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMmZAAAAAAAAAAAAAGmNGzMzygZmZGzMjBzGzMzMmNGYMGmFz2UzMYBmBYmFLTNMAkxYB
+      dungeons:
+        name: VW_
+        string: 1231
+      single:
+        name: AR_EC_DA_cthun_80589590852527_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwwsxYmZWGPgZmZGzMjBzGzMzMmNGYMGmFz2UzMYBmBYmFLTNMAkxYB
+      2t:
+        name: AR_EC_DA_nzoth_cthun_98181843465135_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgxMDAAAAAAAAAAAAwwsxYmZWGjZmZGzMjBzGzMzMmNGYMGmFz2UzMYBGAzsYZqhBgMGLA
+      3t:
+        name: AR_EC_DA_nzoth_yogg_cthun_129962386888623_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMDAAAAAAAAAAAAwwsZGzMzCPgZmZmtxMGMbMzMzY2YgxYYWMbTNzgFMDgZWsM1wAQGjFA
+      4t:
+        name: AR_EC_VF_nzoth_yogg_cthun_129962285176751_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMY8ADAAAAAAAAAAAAwYmFzYmZ2gZmZmtxMGMbMzMzY2YgxYYWMbTNzgFMDgZWsM1wAQGjFA 
+  vw-da-cthun-me:
     gearSetup: default
     talents:
-      composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
-      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_DR
-      single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
-      2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkmEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_DR
-      3t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAISaSkk0CSSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962419368879_Flay_DR
-      4t: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQaSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_DR
-  vf-nzoth-yogg-cthun-me:
+      composite:
+        name: VW_DH_DoS_DA_cthun_80603209529263_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGPAAAAAAAAAAAAAwMsMGzMzyYMzMmtZmxgZhZmZGzGDMGDziZbqZGsAzMzAgCwYIY2YB
+      dungeons:
+        name: VW_
+        string: 1231
+      single:
+        name: VW_DH_DoS_DA_cthun_80658310067119_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwgFPwYmZWGPgZmZGzMjBzCzMzMmNGYMGmFz2UzMYBmZmBAFgxQwsxC
+      2t:
+        name: VW_DH_DoS_DA_nzoth_cthun_98245896008623_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMGPAAAAAAAAAAAAAwYs4BGzMzyYMzMGzMjBzCzMzMmNGYMGmFz2UzMYBmZmBAFgxQwsxC
+      3t:
+        name: VW_VE_DoS_DA_nzoth_cthun_98245887645615_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAwYs4BGzMzCjZmxsNzMGMLMzMzY2YgxYYWMbTNzgFYmZGAUAGzigZjF
+      4t:
+        name: VW_VE_DoS_DA_nzoth_cthun_98245887645615_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAwYs4BGzMzCjZmxsNzMGMLMzMzY2YgxYYWMbTNzgFYmZGAUAGzigZjF 
+  vw-vf-cthun:
     gearSetup: default
     talents:
-      composite: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
-      dungeons: BIQAAAAAAAAAAAAAAAAAAAAAAECiEAAAAAAAAAAAAgQKSkk0CSSSSkIIFSSSkGBiIki0CJBFkA # VF_nzoth_yogg_cthun_129962384799663_Flay_ME
-      single: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
-      2t: BIQAAAAAAAAAAAAAAAAAAAAAAECIBAAAAAAAAAAAAIkiEJJtISSSEJCShkkEpRgICpItQSQBJA # VF_nzoth_yogg_cthun_129962453971887_Flay_ME
-      3t: BIQAAAAAAAAAAAAAAAAAAAAAAEigEAAAAAAAAAAAAg4AKSkk0CSSSEJCShkkEpRgICpItQSQBJB # VF_nzoth_yogg_cthun_129962386092975_Spike_ME
-      4t: BIQAAAAAAAAAAAAAAAAAAAAAAEiIOQAAAAAAAAAAAAACKSkk0CSSSSkIIFSSSkGBiIki0CJBFkE # VF_nzoth_yogg_cthun_129962250860463_Spike_ME
+      composite:
+        name: VW_VE_DoS_VF_cthun_80658273088431_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMGDAAAAAAAAAAAAwYmFPwYmZ2GjZmZGzMjBzCzMzMmNGYMGmFz2UzMYBGzMAoAMmFBzGL
+      dungeons:
+        name: VW_
+        string: 1231
+      single:
+        name: VW_DH_DoS_VF_cthun_80589590852527_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxMDAAAAAAAAAAAAwwsxYmZ2GPgZmZGzMjBzCzMzMmNGYMGmFz2UzMYBmZmBAFgxQwsxC
+      2t:
+        name: VW_VE_DoS_VF_cthun_80658273088431_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMGDAAAAAAAAAAAAwYmNPwYmZ2GjZmZGzMjBzCzMzMmNGYMGmFz2UzMYBGzMAoAMmFBzGL
+      3t:
+        name: VW_VE_DoS_VF_nzoth_cthun_98245891561391_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmxgZhZmZGzGDMGDziZbqZGsAjZGAUAGzigZjF
+      4t:
+        name: VW_VE_DoS_VF_nzoth_cthun_98245891561391_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmxgZhZmZGzGDMGDziZbqZGsAjZGAUAGzigZjF 
 gear:
-  # 6.3k Mastery | 6.2k Haste | 2.7k Crit | 3.3k Vers
+  # 12.8k Mastery (13%) | 13.3k Haste (20%) | 8.2k Crit (17%) | 500 Vers (1%)
   default:
+    head: "living_lusters_semblance,id=212083,ilevel=632" # mastery/crit
+    neck: "sureki_zealots_insignia,id=225577,ilevel=636" # haste/mastery
+    shoulders: "living_lusters_dominion,id=212081,ilevel=632" # haste/vers
+    back: "wings_of_shattered_sorrow,id=225574,ilevel=636" # crit/haste
+    chest: "living_lusters_raiment,id=212086,ilevel=632" # haste/mastery
+    wrists: "skeinspinners_duplicitous_cuffs,id=225584,ilevel=636" # haste/mastery
+    hands: "punctured_apiary_gloves,id=221067,ilevel=632" # haste/mastery
+    waist: "acrid_ascendants_sash,id=225585,ilevel=636" # mastery/haste
+    legs: "living_lusters_trousers,id=212082,ilevel=636" # mastery/crit
+    feet: "assimilated_eggshell_slippers,id=225582,ilevel=632" # mastery/haste
+    finger1: "writhing_ringworm,id=225576,ilevel=632" # mastery/haste
+    finger2: "seal_of_the_poisoned_pact,id=225578,ilevel=632" # crit/mastery
+    trinket1: "unbound_changeling,id=178708,ilevel=632"
+    trinket2: "signet_of_the_priory,id=219308,ilevel=632"
+    main_hand: "takazjs_entropic_edict,id=212397,ilevel=636" # mastery/haste
+    off_hand: ""
+  # TODO: fix this
+  # 12.8k Mastery (13%) | 13.3k Haste (20%) | 8.2k Crit (17%) | 500 Vers (1%)
+  noCantrip:
     head: "living_lusters_semblance,id=212083,ilevel=632" # mastery/crit
     neck: "sureki_zealots_insignia,id=225577,ilevel=636" # haste/mastery
     shoulders: "living_lusters_dominion,id=212081,ilevel=632" # haste/vers

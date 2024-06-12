@@ -13,7 +13,10 @@ def get_talents(args):
         if args.talents:
             talents = [args.talents]
         elif config["sims"][args.dir[:-1]]["builds"]:
-            talents = config["builds"].keys()
+            talents = config["builds"]
+            # We store hero talents in the same place, removing that as an option
+            talents.pop('hero')
+            talents = talents.keys()
         else:
             talents = []
     except KeyError:

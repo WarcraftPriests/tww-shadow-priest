@@ -153,12 +153,15 @@ def build_simc_file(talent_string, profile_name):
     return f"profiles/{profile_name}.simc"
 
 
-def replace_talents(talent_string, data):
+def replace_talents(talent_string, data, talent_name):
     """Replaces the talents variable with the talent string given"""
+    hero_string = ""
+    if config["forceHeroTalents"] is True:
+        hero_string = f"\nhero_talents={lookup_hero_talents(talent_name)}"
     if "talents=" in data:
-        data = re.sub(r"talents=.*", f"talents={talent_string}", data)
+        data = re.sub(r"talents=.*", f"talents={talent_string}{hero_string}", data)
     else:
-        data.replace("spec=shadow", f"spec=shadow\ntalents={talent_string}")
+        data.replace("spec=shadow", f"spec=shadow\ntalents={talent_string}{hero_string}")
     return data
 
 
@@ -260,9 +263,11 @@ def build_profiles(talent_string, apl_string):
             combinations = utils.get_dungeon_combos()
         if talent_string:
             if args.dungeons:
-                talents_expr = config["builds"][talent_string]["talents"]["dungeons"]
+                talents_expr = config["builds"][talent_string]["talents"]["dungeons"]["string"]
+                talents_name = config["builds"][talent_string]["talents"]["dungeons"]["name"]
             else:
-                talents_expr = config["builds"][talent_string]["talents"]["composite"]
+                talents_expr = config["builds"][talent_string]["talents"]["composite"]["string"]
+                talents_name = config["builds"][talent_string]["talents"]["composite"]["name"]
         else:
             talents_expr = ""
         data = replace_gear(data, talent_string)
@@ -272,7 +277,12 @@ def build_profiles(talent_string, apl_string):
         data = data.replace("${builds}", create_talent_builds())
         # insert talents in here so copy= works correctly
         if talents_expr:
-            data = data.replace("${talents}", str(talents_expr))
+            replacement = str(talents_expr)
+            # probably dont need this?
+            # if config["forceHeroTalents"] is True:
+            #     hero_string = lookup_hero_talents(talents_name)
+            #     replacement = replacement + f"\nhero_talents={hero_string}"
+            data = data.replace("${talents}", replacement)
 
         for profile in combinations:
             # Don't build the profile if it has no weight
@@ -312,19 +322,23 @@ def build_profiles(talent_string, apl_string):
                 else:
                     target_count = int(profile[-1])
                 if profile in config["singleTargetProfiles"]:
-                    new_talents = config["builds"][talent_string]["talents"]["single"]
-                    sim_data = replace_talents(new_talents, sim_data)
+                    new_talents = config["builds"][talent_string]["talents"]["single"]["string"]
+                    new_talents_name = config["builds"][talent_string]["talents"]["single"]["name"]
+                    sim_data = replace_talents(new_talents, sim_data, new_talents_name)
                 elif target_count == 2:
-                    new_talents = config["builds"][talent_string]["talents"]["2t"]
-                    sim_data = replace_talents(new_talents, sim_data)
+                    new_talents = config["builds"][talent_string]["talents"]["2t"]["string"]
+                    new_talents_name = config["builds"][talent_string]["talents"]["2t"]["name"]
+                    sim_data = replace_talents(new_talents, sim_data, new_talents_name)
                 elif target_count == 3:
-                    new_talents = config["builds"][talent_string]["talents"]["3t"]
-                    sim_data = replace_talents(new_talents, sim_data)
+                    new_talents = config["builds"][talent_string]["talents"]["3t"]["string"]
+                    new_talents_name = config["builds"][talent_string]["talents"]["3t"]["name"]
+                    sim_data = replace_talents(new_talents, sim_data, new_talents_name)
                 elif target_count == 4:
-                    new_talents = config["builds"][talent_string]["talents"]["4t"]
-                    sim_data = replace_talents(new_talents, sim_data)
+                    new_talents = config["builds"][talent_string]["talents"]["4t"]["string"]
+                    new_talents_name = config["builds"][talent_string]["talents"]["4t"]["name"]
+                    sim_data = replace_talents(new_talents, sim_data, new_talents_name)
                 else:
-                    sim_data = replace_talents(talents_expr, sim_data)
+                    sim_data = replace_talents(talents_expr, sim_data, talents_name)
 
             simc_file = build_simc_file(talent_string, profile_name)
             with open(args.dir + simc_file, "w+", encoding="utf8") as o_file:
