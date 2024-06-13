@@ -353,7 +353,7 @@ def not_dungeon_fight(fight_type):
         "Single",
         "Dungeons-Push",
         "Dungeons-Standard",
-        "Dungeons-Slice"
+        "Dungeons-Slice",
         "2T",
         "3T",
         "4T",
@@ -371,6 +371,9 @@ def clear_dir(path, talent_string, fight_types):
         output_files = []
         if talent_string:
             for talent in config["builds"]:
+                # We store hero talents in the same place, removing that as an option
+                if talent == "hero":
+                    continue
                 for fight_type in fight_types:
                     dungeonChartsGen = config["analyze"][
                         "dungeonCharts"
@@ -427,6 +430,9 @@ def build_readme_md(directory, talent_string):
         readme.write(f"# {directory[:-1]} Results\n")
         if talent_string:
             for talent in config["builds"]:
+                # We store hero talents in the same place, removing that as an option
+                if talent == "hero":
+                    continue
                 readme.write(f"## {talent.upper()}\n")
                 file_list = []
                 for fight_type in utils.get_sim_types():

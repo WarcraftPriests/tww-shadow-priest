@@ -1,16 +1,12 @@
 priest="Base"
-level=70
+level=80
 role=spell
 position=back
 spec=shadow
 talents=${talents}
 
-set_bonus=tier29_2pc=0
-set_bonus=tier29_4pc=0
-set_bonus=tier30_2pc=0
-set_bonus=tier30_4pc=0
-set_bonus=tier31_2pc=0
-set_bonus=tier31_4pc=0
+set_bonus=tww1_2pc=0
+set_bonus=tww1_4pc=0
 
 ${apl}
 
@@ -31,41 +27,7 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
-profileset."T29-2-set"+=set_bonus=tier29_2pc=1
-profileset."T29-2_4-set"+=set_bonus=tier29_2pc=1
-profileset."T29-2_4-set"+=set_bonus=tier29_4pc=1
+profileset."TWW1-2-set"+=set_bonus=tww1_2pc=1
 
-profileset."T30-2-set"+=set_bonus=tier30_2pc=1
-profileset."T30-2_4-set"+=set_bonus=tier30_2pc=1
-profileset."T30-2_4-set"+=set_bonus=tier30_4pc=1
-
-profileset."T31-2-set"+=set_bonus=tier31_2pc=1
-profileset."T31-2_4-set"+=set_bonus=tier31_2pc=1
-profileset."T31-2_4-set"+=set_bonus=tier31_4pc=1
-
-profileset."T29-2-set+T30-2-set"+=set_bonus=tier30_2pc=1
-profileset."T29-2-set+T30-2-set"+=set_bonus=tier29_2pc=1
-
-profileset."T30-2-set+T31-2-set"+=set_bonus=tier30_2pc=1
-profileset."T30-2-set+T31-2-set"+=set_bonus=tier31_2pc=1
-
-profileset."T29-2-set+T31-2-set"+=set_bonus=tier29_2pc=1
-profileset."T29-2-set+T31-2-set"+=set_bonus=tier31_2pc=1
-
-profileset."T31-2-set+T29-4-set"+=set_bonus=tier31_2pc=1
-profileset."T31-2-set+T29-4-set"+=set_bonus=tier29_4pc=1
-
-profileset."T31-2-set+T30-4-set"+=set_bonus=tier31_2pc=1
-profileset."T31-2-set+T30-4-set"+=set_bonus=tier30_4pc=1
-
-profileset."T30-2-set+T29-4-set"+=set_bonus=tier30_2pc=1
-profileset."T30-2-set+T29-4-set"+=set_bonus=tier29_4pc=1
-
-profileset."T30-2-set+T31-4-set"+=set_bonus=tier30_2pc=1
-profileset."T30-2-set+T31-4-set"+=set_bonus=tier31_4pc=1
-
-profileset."T29-2-set+T30-4-set"+=set_bonus=tier29_2pc=1
-profileset."T29-2-set+T30-4-set"+=set_bonus=tier30_4pc=1
-
-profileset."T29-2-set+T31-4-set"+=set_bonus=tier29_2pc=1
-profileset."T29-2-set+T31-4-set"+=set_bonus=tier31_4pc=1
+profileset."TWW1-2_4-set"+=set_bonus=tww1_2pc=1
+profileset."TWW1-2_4-set"+=set_bonus=tww1_4pc=1

@@ -1,5 +1,5 @@
 priest="Base"
-level=70
+level=80
 role=spell
 position=back
 spec=shadow
@@ -109,3 +109,5 @@ profileset."Mechagnome"+=race=mechagnome
 profileset."Orc"+=race=orc
 
 profileset."Highmountain_Tauren"+=race=highmountain_tauren
+
+profileset."Earthen"+=race=earthen

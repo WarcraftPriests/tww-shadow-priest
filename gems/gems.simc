@@ -147,6 +147,6 @@ profileset."Deadly_Amber_2"+=main_hand=${gear.main_hand},enchant=${enchants.main
 profileset."Deadly_Amber_3"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213503
 
 ### Stamina/Haste
-profileset."Deadly_Amber_1"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213504
-profileset."Deadly_Amber_2"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213505
-profileset."Deadly_Amber_3"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213506
+profileset."Quick_Amber_1"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213504
+profileset."Quick_Amber_2"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213505
+profileset."Quick_Amber_3"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213506

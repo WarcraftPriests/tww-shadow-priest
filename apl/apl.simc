@@ -1,5 +1,5 @@
 priest="Base"
-level=70
+level=80
 role=spell
 position=back
 spec=shadow
@@ -25,7 +25,7 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 priest="new"
-level=70
+level=80
 role=spell
 position=back
 spec=shadow

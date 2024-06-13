@@ -1,13 +1,13 @@
 builds:
   hero:
     AR:
-      AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
-      AR_SP: "sustained_potency:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
+      AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/shock_pulse:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
+      AR_SP: "sustained_potency:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/shock_pulse:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
     VW:
-      VW_VE_DoS: "void_empowerment:1/depth_of_shadows:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
-      VW_DH_DoS: "darkening_horizon:1/depth_of_shadows:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
-      VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
-      VW_DH_VW: "darkening_horizon:1/voidwraith:1/entropic_rift:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/collapsing_void:1"
+      VW_VE_DoS: "void_empowerment:1/depth_of_shadows:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
+      VW_DH_DoS: "darkening_horizon:1/depth_of_shadows:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
+      VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
+      VW_DH_VW: "darkening_horizon:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   vw-da-cthun-dr:
     gearSetup: default
@@ -131,14 +131,15 @@ gear:
     trinket2: "signet_of_the_priory,id=219308,ilevel=632"
     main_hand: "takazjs_entropic_edict,id=212397,ilevel=636" # mastery/haste
     off_hand: ""
+# TODO: support multi-colors here for the meta gem
 gems:
-  meta: "192988"
-  main: "192919"
+  meta: "213743" # Culminating Blasphemite
+  main: "213494" # Quick Onyx
 enchants:
   head: ""
   chest: "councils_intellect_3"
-  ring: "radiant_haste_3"
-  legs: "daybreak_spellthread_3"
+  ring: "cursed_mastery_3"
+  legs: "sunset_spellthread_3"
   main_hand: "authority_of_radiant_power_3"
 sims:
   alchemy:
@@ -334,13 +335,13 @@ analyze:
   csv: true
   json: true
 stats:
-  base: 2000
-  steps: 500
-  total: 18000
+  base: 4000
+  steps: 1000
+  total: 34000
   min:
-    haste: 5000
-    mastery: 5500
-    crit: 1000
+    haste: 10000
+    mastery: 10000
+    crit: 3000
     vers: 0
   include:
     - mastery

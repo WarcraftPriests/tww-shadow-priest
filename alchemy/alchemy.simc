@@ -1,5 +1,5 @@
 priest="Base"
-level=70
+level=80
 role=spell
 position=back
 spec=shadow
@@ -28,76 +28,31 @@ potion=disabled
 flask=disabled
 
 # Flasks/Phials
-profileset."Iced_Phial_of_Corrupting_Rage_40_3"+=flask=iced_phial_of_corrupting_rage_3
-profileset."Iced_Phial_of_Corrupting_Rage_40_3"+=dragonflight.corrupting_rage_uptime=0.4
+profileset."Flask_of_Alchemical_Chaos_1"+=flask=flask_of_alchemical_chaos_1
+profileset."Flask_of_Alchemical_Chaos_2"+=flask=flask_of_alchemical_chaos_2
+profileset."Flask_of_Alchemical_Chaos_3"+=flask=flask_of_alchemical_chaos_3
 
-# profileset."Iced_Phial_of_Corrupting_Rage_50_1"+=flask=iced_phial_of_corrupting_rage_1
-# profileset."Iced_Phial_of_Corrupting_Rage_50_1"+=dragonflight.corrupting_rage_uptime=0.5
-# profileset."Iced_Phial_of_Corrupting_Rage_50_2"+=flask=iced_phial_of_corrupting_rage_2
-# profileset."Iced_Phial_of_Corrupting_Rage_50_2"+=dragonflight.corrupting_rage_uptime=0.5
-profileset."Iced_Phial_of_Corrupting_Rage_50_3"+=flask=iced_phial_of_corrupting_rage_3
-profileset."Iced_Phial_of_Corrupting_Rage_50_3"+=dragonflight.corrupting_rage_uptime=0.5
+profileset."Flask_of_Tempered_Aggression_1"+=flask=flask_of_tempered_aggression_1
+profileset."Flask_of_Tempered_Aggression_2"+=flask=flask_of_tempered_aggression_2
+profileset."Flask_of_Tempered_Aggression_3"+=flask=flask_of_tempered_aggression_3
 
-# profileset."Iced_Phial_of_Corrupting_Rage_70_1"+=flask=iced_phial_of_corrupting_rage_1
-# profileset."Iced_Phial_of_Corrupting_Rage_70_1"+=dragonflight.corrupting_rage_uptime=0.7
-# profileset."Iced_Phial_of_Corrupting_Rage_70_2"+=flask=iced_phial_of_corrupting_rage_2
-# profileset."Iced_Phial_of_Corrupting_Rage_70_2"+=dragonflight.corrupting_rage_uptime=0.7
-profileset."Iced_Phial_of_Corrupting_Rage_70_3"+=flask=iced_phial_of_corrupting_rage_3
-profileset."Iced_Phial_of_Corrupting_Rage_70_3"+=dragonflight.corrupting_rage_uptime=0.7
+profileset."Flask_of_Tempered_Mastery_1"+=flask=flask_of_tempered_mastery_1
+profileset."Flask_of_Tempered_Mastery_2"+=flask=flask_of_tempered_mastery_2
+profileset."Flask_of_Tempered_Mastery_3"+=flask=flask_of_tempered_mastery_3
 
-# profileset."Iced_Phial_of_Corrupting_Rage_85_1"+=flask=iced_phial_of_corrupting_rage_1
-# profileset."Iced_Phial_of_Corrupting_Rage_85_1"+=dragonflight.corrupting_rage_uptime=0.85
-# profileset."Iced_Phial_of_Corrupting_Rage_85_2"+=flask=iced_phial_of_corrupting_rage_2
-# profileset."Iced_Phial_of_Corrupting_Rage_85_2"+=dragonflight.corrupting_rage_uptime=0.85
-profileset."Iced_Phial_of_Corrupting_Rage_85_3"+=flask=iced_phial_of_corrupting_rage_3
-profileset."Iced_Phial_of_Corrupting_Rage_85_3"+=dragonflight.corrupting_rage_uptime=0.85
+profileset."Flask_of_Tempered_Swiftness_1"+=flask=flask_of_tempered_swiftness_1
+profileset."Flask_of_Tempered_Swiftness_2"+=flask=flask_of_tempered_swiftness_2
+profileset."Flask_of_Tempered_Swiftness_3"+=flask=flask_of_tempered_swiftness_3
 
-# profileset."Iced_Phial_of_Corrupting_Rage_95_1"+=flask=iced_phial_of_corrupting_rage_1
-# profileset."Iced_Phial_of_Corrupting_Rage_95_1"+=dragonflight.corrupting_rage_uptime=0.95
-# profileset."Iced_Phial_of_Corrupting_Rage_95_2"+=flask=iced_phial_of_corrupting_rage_2
-# profileset."Iced_Phial_of_Corrupting_Rage_95_2"+=dragonflight.corrupting_rage_uptime=0.95
-profileset."Iced_Phial_of_Corrupting_Rage_95_3"+=flask=iced_phial_of_corrupting_rage_3
-profileset."Iced_Phial_of_Corrupting_Rage_95_3"+=dragonflight.corrupting_rage_uptime=0.95
-
-# profileset."Phial_of_Charged_Isolation_1"+=flask=phial_of_charged_isolation_1
-# profileset."Phial_of_Charged_Isolation_2"+=flask=phial_of_charged_isolation_2
-profileset."Phial_of_Charged_Isolation_3"+=flask=phial_of_charged_isolation_3
-
-# profileset."Phial_of_Elemental_Chaos_1"+=flask=phial_of_elemental_chaos_1
-# profileset."Phial_of_Elemental_Chaos_2"+=flask=phial_of_elemental_chaos_2
-profileset."Phial_of_Elemental_Chaos_3"+=flask=phial_of_elemental_chaos_3
-
-# profileset."Phial_of_Glacial_Fury_1"+=flask=phial_of_glacial_fury_1
-# profileset."Phial_of_Glacial_Fury_2"+=flask=phial_of_glacial_fury_2
-profileset."Phial_of_Glacial_Fury_3"+=flask=phial_of_glacial_fury_3
-
-# profileset."Phial_of_Static_Empowerment_1"+=flask=phial_of_static_empowerment_1
-# profileset."Phial_of_Static_Empowerment_2"+=flask=phial_of_static_empowerment_2
-profileset."Phial_of_Static_Empowerment_3"+=flask=phial_of_static_empowerment_3
-
-# profileset."Phial_of_Tepid_Versatility_1"+=flask=phial_of_tepid_versatility_1
-# profileset."Phial_of_Tepid_Versatility_2"+=flask=phial_of_tepid_versatility_2
-profileset."Phial_of_Tepid_Versatility_3"+=flask=phial_of_tepid_versatility_3
-# phial_of_eye_in_the_storm (tank only probs)
+profileset."Flask_of_Tempered_Versatility_1"+=flask=flask_of_tempered_versatility_1
+profileset."Flask_of_Tempered_Versatility_2"+=flask=flask_of_tempered_versatility_2
+profileset."Flask_of_Tempered_Versatility_3"+=flask=flask_of_tempered_versatility_3
 
 # Potions
-# profileset."Residual_Neural_Channeling_Agent_1"+=potion=residual_neural_channeling_agent_1
-# profileset."Residual_Neural_Channeling_Agent_2"+=potion=residual_neural_channeling_agent_2
-# profileset."Residual_Neural_Channeling_Agent_3"+=potion=residual_neural_channeling_agent_3
+profileset."Potion_of_Unwavering_Focus_1"+=potion=potion_of_unwavering_focus_1
+profileset."Potion_of_Unwavering_Focus_2"+=potion=potion_of_unwavering_focus_2
+profileset."Potion_of_Unwavering_Focus_3"+=potion=potion_of_unwavering_focus_3
 
-# profileset."Bottled_Putrescence_1"+=potion=bottled_putrescence_1
-# profileset."Bottled_Putrescence_2"+=potion=bottled_putrescence_2
-profileset."Bottled_Putrescence_3"+=potion=bottled_putrescence_3
-
-# profileset."Elemental_Potion_of_Power_1"+=potion=elemental_potion_of_power_1
-# profileset."Elemental_Potion_of_Power_2"+=potion=elemental_potion_of_power_2
-profileset."Elemental_Potion_of_Power_3"+=potion=elemental_potion_of_power_3
-
-# might be elemental_power
-# profileset."Elemental_Potion_of_Ultimate_Power_1"+=potion=elemental_potion_of_ultimate_power_1
-# profileset."Elemental_Potion_of_Ultimate_Power_2"+=potion=elemental_potion_of_ultimate_power_2
-profileset."Elemental_Potion_of_Ultimate_Power_3"+=potion=elemental_potion_of_ultimate_power_3
-
-# profileset."Potion_of_Shocking_Disclosure_1"+=potion=potion_of_shocking_disclosure_1
-# profileset."Potion_of_Shocking_Disclosure_2"+=potion=potion_of_shocking_disclosure_2
-profileset."Potion_of_Shocking_Disclosure_3"+=potion=potion_of_shocking_disclosure_3
+profileset."Tempered_Potion_1"+=potion=tempered_potion_1
+profileset."Tempered_Potion_2"+=potion=tempered_potion_2
+profileset."Tempered_Potion_3"+=potion=tempered_potion_3
