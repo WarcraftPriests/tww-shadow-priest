@@ -74,8 +74,6 @@ def get_builds():
     vw_idols = [
         "yshaarj_cthun",
         "nzoth_cthun",
-        "yogg_cthun",
-        "nzoth_yogg_cthun",
         "cthun",
     ]
     combos.extend(get_hero_builds("VW", cds, vw_idols))

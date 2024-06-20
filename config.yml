@@ -287,14 +287,12 @@ sims:
     chart: true
     lookupType: item
     steps:
-      - 483
-      - 489
-      - 496
-      - 515
-      - 522
-      - 525
-      - 528
-      - 535
+      - 580
+      - 593
+      - 600
+      - 606
+      - 613
+      - 619
     files:
       - raid.simc
       - dungeons.simc

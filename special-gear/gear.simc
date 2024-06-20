@@ -25,6 +25,8 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
+# Season 1 Crafted - 616 Item Level
+
 # 10.2 Special Items
 profileset."2h_Dreambinder_Loom_of_the_Great_Cycle_528"+=main_hand=dreambinder_loom_of_the_great_cycle,id=208616,ilevel=528,enchant=${enchants.main_hand}
 profileset."2h_Dreambinder_Loom_of_the_Great_Cycle_528"+=off_hand=disabled

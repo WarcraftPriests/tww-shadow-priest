@@ -127,7 +127,6 @@ actions.filler=vampiric_touch,target_if=min:remains,if=buff.unfurling_darkness.u
 actions.filler+=/shadow_word_death,target_if=target.health.pct<20|(buff.deathspeaker.up|set_bonus.tier31_2pc)&dot.devouring_plague.ticking
 actions.filler+=/mind_spike_insanity,target_if=max:dot.devouring_plague.remains,if=dot.devouring_plague.remains>cast_time
 actions.filler+=/mind_flay,target_if=max:dot.devouring_plague.remains,if=buff.mind_flay_insanity.up
-actions.filler+=/mindgames,target_if=max:dot.devouring_plague.remains
 actions.filler+=/shadow_word_death,target_if=min:target.time_to_die,if=talent.inescapable_torment&pet.fiend.active
 # Save up to 20s if adds are coming soon.
 actions.filler+=/halo,if=spell_targets>1
@@ -175,7 +174,6 @@ actions.main+=/mind_spike_insanity,if=!cooldown.void_torrent.up&priest.cthun_las
 actions.main+=/mind_blast,if=(!buff.mind_devourer.up|cooldown.void_eruption.up&talent.void_eruption)&(!cooldown.void_torrent.up|full_recharge_time<=3|priest.cthun_last_trigger_attempt<3.5)
 # Void Torrent if you are not holding Shadow Crash for an add pack coming, prefer the target with the most DoTs active. Only cast if Devouring Plague is on that target and will last at least 2 seconds
 actions.main+=/void_torrent,if=!variable.holding_crash,target_if=dot.devouring_plague.remains>=2.5,interrupt_if=cooldown.shadow_word_death.ready&pet.fiend.active&set_bonus.tier31_2pc
-# Cast Mindgames if all DoTs will be active by the time the cast finishes
 actions.main+=/call_action_list,name=filler
 
 actions.trinkets=use_item,name=voidmenders_shadowgem,if=(buff.power_infusion.up|fight_remains<20)&equipped.voidmenders_shadowgem

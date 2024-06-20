@@ -22,112 +22,102 @@ finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
-# Season 4
-# Highest from key: 509 // Upgrade: 522 // Highest from vault: 522->528
-profileset."Idol_of_Pure_Decay_522"+=trinket1=idol_of_pure_decay,id=193660,ilevel=522
-profileset."Idol_of_Pure_Decay_528"+=trinket1=idol_of_pure_decay,id=193660,ilevel=528
+# Season 1
+## TODO: Fix item levels, completely guessing
+# Highest from key: 600 // Upgrade: 613 // Highest from vault: 613->619
+## Ara-Kara
+profileset."Ara_Kara_Sacbrood_580"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=580
+profileset."Ara_Kara_Sacbrood_600"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=600
+profileset."Ara_Kara_Sacbrood_613"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=613
+profileset."Ara_Kara_Sacbrood_619"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=619
 
-profileset."Irideus_Fragment_522"+=trinket1=irideus_fragment,id=193743,ilevel=522
-profileset."Irideus_Fragment_528"+=trinket1=irideus_fragment,id=193743,ilevel=528
+profileset."Harvesters_Edict_580"+=trinket1=harvesters_edict,id=219317,ilevel=580
+profileset."Harvesters_Edict_600"+=trinket1=harvesters_edict,id=219317,ilevel=600
+profileset."Harvesters_Edict_613"+=trinket1=harvesters_edict,id=219317,ilevel=613
+profileset."Harvesters_Edict_619"+=trinket1=harvesters_edict,id=219317,ilevel=619
 
-profileset."Erupting_Spear_Fragment_522"+=trinket1=erupting_spear_fragment,id=193769,ilevel=522
-profileset."Erupting_Spear_Fragment_528"+=trinket1=erupting_spear_fragment,id=193769,ilevel=528
+## City of Threads
+profileset."Cirral_Concoctory_580"+=trinket1=cirral_concoctory,id=219321,ilevel=580
+profileset."Cirral_Concoctory_600"+=trinket1=cirral_concoctory,id=219321,ilevel=600
+profileset."Cirral_Concoctory_613"+=trinket1=cirral_concoctory,id=219321,ilevel=613
+profileset."Cirral_Concoctory_619"+=trinket1=cirral_concoctory,id=219321,ilevel=619
 
-profileset."Spoils_of_Neltharus_522"+=trinket1=spoils_of_neltharus,id=193773,ilevel=522
-profileset."Spoils_of_Neltharus_528"+=trinket1=spoils_of_neltharus,id=193773,ilevel=528
+## The Stonevault
+profileset."High_Speakers_Accretion_580"+=trinket1=high_speakers_accretion,id=219303,ilevel=580
+profileset."High_Speakers_Accretion_600"+=trinket1=high_speakers_accretion,id=219303,ilevel=600
+profileset."High_Speakers_Accretion_613"+=trinket1=high_speakers_accretion,id=219303,ilevel=613
+profileset."High_Speakers_Accretion_619"+=trinket1=high_speakers_accretion,id=219303,ilevel=619
 
-profileset."Time_Breaching_Talon_522"+=trinket1=time_breaching_talon,id=193791,ilevel=522
-profileset."Time_Breaching_Talon_528"+=trinket1=time_breaching_talon,id=193791,ilevel=528
+## The Dawnbreaker
+profileset."Empowering_Crystal_of_Anubikkaj_580"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=580
+profileset."Empowering_Crystal_of_Anubikkaj_600"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=600
+profileset."Empowering_Crystal_of_Anubikkaj_613"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=613
+profileset."Empowering_Crystal_of_Anubikkaj_619"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=619
 
-profileset."Emerald_Coachs_Whistle_522"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=522
-profileset."Emerald_Coachs_Whistle_528"+=trinket1=emerald_coachs_whistle,id=193718,ilevel=528
+## Mists of Tirna Scithe
+### all, crit, haste, mastery
+profileset."Unbound_Changeling_All_600"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
+profileset."Unbound_Changeling_All_613"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
+profileset."Unbound_Changeling_All_619"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
 
-profileset."Tome_of_Unstable_Power_522"+=trinket1=tome_of_unstable_power,id=212685,ilevel=522
-profileset."Tome_of_Unstable_Power_528"+=trinket1=tome_of_unstable_power,id=212685,ilevel=528
+profileset."Unbound_Changeling_Crit_600"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
+profileset."Unbound_Changeling_Crit_613"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
+profileset."Unbound_Changeling_Crit_619"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
 
-profileset."Umbrelskuls_Fractured_Heart_522"+=trinket1=umbrelskuls_fractured_heart,id=212684,ilevel=522
-profileset."Umbrelskuls_Fractured_Heart_528"+=trinket1=umbrelskuls_fractured_heart,id=212684,ilevel=528
+profileset."Unbound_Changeling_Haste_600"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
+profileset."Unbound_Changeling_Haste_613"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
+profileset."Unbound_Changeling_Haste_619"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
 
-profileset."Furious_Ragefeather_522"+=trinket1=furious_ragefeather,id=193677,ilevel=522
-profileset."Furious_Ragefeather_528"+=trinket1=furious_ragefeather,id=193677,ilevel=528
+profileset."Unbound_Changeling_Mastery_600"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
+profileset."Unbound_Changeling_Mastery_613"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
+profileset."Unbound_Changeling_Mastery_619"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
 
-profileset."Ruby_Whelp_Shell_FS6_522"+=trinket1=ruby_whelp_shell,id=193757,ilevel=522
-profileset."Ruby_Whelp_Shell_FS6_522"+=dragonflight.ruby_whelp_shell_training=fire_shot:6
-profileset."Ruby_Whelp_Shell_FS6_528"+=trinket1=ruby_whelp_shell,id=193757,ilevel=528
-profileset."Ruby_Whelp_Shell_FS6_528"+=dragonflight.ruby_whelp_shell_training=fire_shot:6
+## The Necrotic Wake
+profileset."Satchel_of_Misbegotten_Minions_600"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=600
+profileset."Satchel_of_Misbegotten_Minions_613"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=613
+profileset."Satchel_of_Misbegotten_Minions_619"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=619
 
-profileset."Ruby_Whelp_Shell_LFN6_522"+=trinket1=ruby_whelp_shell,id=193757,ilevel=522
-profileset."Ruby_Whelp_Shell_LFN6_522"+=dragonflight.ruby_whelp_shell_training=lobbing_fire_nova:6
-profileset."Ruby_Whelp_Shell_LFN6_528"+=trinket1=ruby_whelp_shell,id=193757,ilevel=528
-profileset."Ruby_Whelp_Shell_LFN6_528"+=dragonflight.ruby_whelp_shell_training=lobbing_fire_nova:6
+## Siege of Boralus
+profileset."Hadals_Nautilus_600"+=trinket1=hadals_nautilus,id=159622,ilevel=600
+profileset."Hadals_Nautilus_613"+=trinket1=hadals_nautilus,id=159622,ilevel=613
+profileset."Hadals_Nautilus_619"+=trinket1=hadals_nautilus,id=159622,ilevel=619
 
-profileset."Ruby_Whelp_Shell_SRW6_522"+=trinket1=ruby_whelp_shell,id=193757,ilevel=522
-profileset."Ruby_Whelp_Shell_SRW6_522"+=dragonflight.ruby_whelp_shell_training=sleepy_ruby_warmth:6
-profileset."Ruby_Whelp_Shell_SRW6_528"+=trinket1=ruby_whelp_shell,id=193757,ilevel=528
-profileset."Ruby_Whelp_Shell_SRW6_528"+=dragonflight.ruby_whelp_shell_training=sleepy_ruby_warmth:6
+## Grim Batol
+### TODO: not sure which one is real?
+profileset."Gale_of_Shadows1_600"+=trinket1=gale_of_shadows1,id=56462,ilevel=600
+profileset."Gale_of_Shadows1_613"+=trinket1=gale_of_shadows1,id=56462,ilevel=613
+profileset."Gale_of_Shadows1_619"+=trinket1=gale_of_shadows1,id=56462,ilevel=619
 
-profileset."Ruby_Whelp_Shell_URW6_522"+=trinket1=ruby_whelp_shell,id=193757,ilevel=522
-profileset."Ruby_Whelp_Shell_URW6_522"+=dragonflight.ruby_whelp_shell_training=under_red_wings:6
-profileset."Ruby_Whelp_Shell_URW6_528"+=trinket1=ruby_whelp_shell,id=193757,ilevel=528
-profileset."Ruby_Whelp_Shell_URW6_528"+=dragonflight.ruby_whelp_shell_training=under_red_wings:6
+profileset."Gale_of_Shadows2_600"+=trinket1=gale_of_shadows2,id=56138,ilevel=600
+profileset."Gale_of_Shadows2_613"+=trinket1=gale_of_shadows2,id=56138,ilevel=613
+profileset."Gale_of_Shadows2_619"+=trinket1=gale_of_shadows2,id=56138,ilevel=619
 
-# Old Season 3 Trinkets (483/489)
-## Atal'Dazar
-profileset."Vessel_of_Skittering_Shadows_483"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=483
-profileset."Vessel_of_Skittering_Shadows_489"+=trinket1=vessel_of_skittering_shadows,id=159610,ilevel=489
+# Mythic 0 Only - 580
+## TODO: Fix item levels, completely guessing
+## The Rookery
+profileset."Entropic_Skardyn_Core_580"+=trinket1=entropic_skardyn_core,id=219296,ilevel=580
 
-## Black Rook Hold
-profileset."Caged_Horror_483"+=trinket1=caged_horror,id=136716,ilevel=483
-profileset."Caged_Horror_489"+=trinket1=caged_horror,id=136716,ilevel=489
+profileset."Sigil_of_Algari_Concordance_580"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=580
 
-## Darkheart Thicket
-profileset."Corrupted_Starlight_483"+=trinket1=corrupted_starlight,id=137301,ilevel=483
-profileset."Corrupted_Starlight_489"+=trinket1=corrupted_starlight,id=137301,ilevel=489
+## Priory of the Sacred Flame
+profileset."Signet_of_the_Priory_580"+=trinket1=signet_of_the_priory,id=219308,ilevel=580
 
-profileset."Oakhearts_Gnarled_Root_483"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=483
-profileset."Oakhearts_Gnarled_Root_489"+=trinket1=oakhearts_gnarled_root,id=137306,ilevel=489
+## Cinderbrew Meadery
+profileset."Synergistic_Brewterializer_580"+=trinket1=synergistic_brewterializer,id=219299,ilevel=580
 
-## Everbloom
-profileset."Coagulated_Genesaur_Blood_483"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=483
-profileset."Coagulated_Genesaur_Blood_489"+=trinket1=coagulated_genesaur_blood,id=110004,ilevel=489
+## Darkflame Cleft
+profileset."Remnant_of_Darkness_580"+=trinket1=remnant_of_darkness,id=219307,ilevel=580
 
-## Throne of the Tides
-profileset."Sea_Star_483"+=trinket1=sea_star,id=133201,ilevel=483
-profileset."Sea_Star_489"+=trinket1=sea_star,id=133201,ilevel=489
-
-## Waycrest Manor
-profileset."Balefire_Branch_FULL_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_FULL_483"+=dragonflight.balefire_branch_loss_rng_type=percent
-profileset."Balefire_Branch_FULL_483"+=dragonflight.balefire_branch_loss_percent=0.0
-profileset."Balefire_Branch_FULL_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_FULL_489"+=dragonflight.balefire_branch_loss_rng_type=percent
-profileset."Balefire_Branch_FULL_489"+=dragonflight.balefire_branch_loss_percent=0.0
-
-### This is default currently in dungeon sims
-profileset."Balefire_Branch_2RPPM_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_2RPPM_483"+=dragonflight.balefire_branch_loss_rng_type=rppm
-profileset."Balefire_Branch_2RPPM_483"+=dragonflight.balefire_branch_loss_rppm=2
-profileset."Balefire_Branch_2RPPM_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_2RPPM_489"+=dragonflight.balefire_branch_loss_rng_type=rppm
-profileset."Balefire_Branch_2RPPM_489"+=dragonflight.balefire_branch_loss_rppm=2
-
-### This is default currently in non-dungeon sims
-profileset."Balefire_Branch_80%_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_80%_483"+=dragonflight.balefire_branch_loss_tick=2_s
-profileset."Balefire_Branch_80%_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_80%_489"+=dragonflight.balefire_branch_loss_tick=2_s
-
-profileset."Balefire_Branch_70%_483"+=trinket1=balefire_branch,id=159630,ilevel=483
-profileset."Balefire_Branch_70%_483"+=dragonflight.balefire_branch_loss_tick=1_s
-profileset."Balefire_Branch_70%_489"+=trinket1=balefire_branch,id=159630,ilevel=489
-profileset."Balefire_Branch_70%_489"+=dragonflight.balefire_branch_loss_tick=1_s
-
-profileset."Lady_Waycrests_Music_Box_483"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=483
-profileset."Lady_Waycrests_Music_Box_489"+=trinket1=lady_waycrests_music_box,id=159631,ilevel=489
-
-## Dawn of the Infinite
-profileset."Mirror_of_Fractured_Tomorrows_483"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=483
-profileset."Mirror_of_Fractured_Tomorrows_489"+=trinket1=mirror_of_fractured_tomorrows,id=207581,ilevel=489
-
-profileset."Time_Thiefs_Gambit_483"+=trinket1=timethiefs_gambit,id=207579,ilevel=483
-profileset."Time_Thiefs_Gambit_489"+=trinket1=timethiefs_gambit,id=207579,ilevel=489
+profileset."Carved_Blazikon_Wax_580"+=trinket1=carved_blazikon_wax,id=219305,ilevel=580
