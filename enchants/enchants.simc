@@ -17,8 +17,8 @@ hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.main}
 legs=${gear.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},gem_id=${gems.main}
-finger2=${gear.finger2},gem_id=${gems.main}
+finger1=${gear.finger1},gem_id=${gems.main}/${gems.main}
+finger2=${gear.finger2},gem_id=${gems.main}/${gems.main}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
 main_hand=${gear.main_hand}
@@ -87,50 +87,50 @@ profileset."Chest_Crystalline_Radiance_2"+=chest=${gear.chest},enchant=crystalli
 profileset."Chest_Crystalline_Radiance_3"+=chest=${gear.chest},enchant=crystalline_radiance_3
 
 # Ring
-profileset."Ring_Cursed_Critical_Strike_1"+=finger1=${gear.finger1},enchant=cursed_critical_strike_1,gem_id=${gems.main}
-profileset."Ring_Cursed_Critical_Strike_2"+=finger1=${gear.finger1},enchant=cursed_critical_strike_2,gem_id=${gems.main}
-profileset."Ring_Cursed_Critical_Strike_3"+=finger1=${gear.finger1},enchant=cursed_critical_strike_3,gem_id=${gems.main}
+profileset."Ring_Cursed_Critical_Strike_1"+=finger1=${gear.finger1},enchant=cursed_critical_strike_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Cursed_Critical_Strike_2"+=finger1=${gear.finger1},enchant=cursed_critical_strike_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Cursed_Critical_Strike_3"+=finger1=${gear.finger1},enchant=cursed_critical_strike_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Cursed_Haste_1"+=finger1=${gear.finger1},enchant=cursed_haste_1,gem_id=${gems.main}
-profileset."Ring_Cursed_Haste_2"+=finger1=${gear.finger1},enchant=cursed_haste_2,gem_id=${gems.main}
-profileset."Ring_Cursed_Haste_3"+=finger1=${gear.finger1},enchant=cursed_haste_3,gem_id=${gems.main}
+profileset."Ring_Cursed_Haste_1"+=finger1=${gear.finger1},enchant=cursed_haste_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Cursed_Haste_2"+=finger1=${gear.finger1},enchant=cursed_haste_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Cursed_Haste_3"+=finger1=${gear.finger1},enchant=cursed_haste_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Cursed_Mastery_1"+=finger1=${gear.finger1},enchant=cursed_mastery_1,gem_id=${gems.main}
-profileset."Ring_Cursed_Mastery_2"+=finger1=${gear.finger1},enchant=cursed_mastery_2,gem_id=${gems.main}
-profileset."Ring_Cursed_Mastery_3"+=finger1=${gear.finger1},enchant=cursed_mastery_3,gem_id=${gems.main}
+profileset."Ring_Cursed_Mastery_1"+=finger1=${gear.finger1},enchant=cursed_mastery_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Cursed_Mastery_2"+=finger1=${gear.finger1},enchant=cursed_mastery_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Cursed_Mastery_3"+=finger1=${gear.finger1},enchant=cursed_mastery_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Cursed_Versatility_1"+=finger1=${gear.finger1},enchant=cursed_versatility_1,gem_id=${gems.main}
-profileset."Ring_Cursed_Versatility_2"+=finger1=${gear.finger1},enchant=cursed_versatility_2,gem_id=${gems.main}
-profileset."Ring_Cursed_Versatility_3"+=finger1=${gear.finger1},enchant=cursed_versatility_3,gem_id=${gems.main}
+profileset."Ring_Cursed_Versatility_1"+=finger1=${gear.finger1},enchant=cursed_versatility_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Cursed_Versatility_2"+=finger1=${gear.finger1},enchant=cursed_versatility_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Cursed_Versatility_3"+=finger1=${gear.finger1},enchant=cursed_versatility_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Glimmering_Critical_Strike_1"+=finger1=${gear.finger1},enchant=glimmering_critical_strike_1,gem_id=${gems.main}
-profileset."Ring_Glimmering_Critical_Strike_2"+=finger1=${gear.finger1},enchant=glimmering_critical_strike_2,gem_id=${gems.main}
-profileset."Ring_Glimmering_Critical_Strike_3"+=finger1=${gear.finger1},enchant=glimmering_critical_strike_3,gem_id=${gems.main}
+profileset."Ring_Glimmering_Critical_Strike_1"+=finger1=${gear.finger1},enchant=glimmering_critical_strike_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Glimmering_Critical_Strike_2"+=finger1=${gear.finger1},enchant=glimmering_critical_strike_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Glimmering_Critical_Strike_3"+=finger1=${gear.finger1},enchant=glimmering_critical_strike_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Glimmering_Haste_1"+=finger1=${gear.finger1},enchant=glimmering_haste_1,gem_id=${gems.main}
-profileset."Ring_Glimmering_Haste_2"+=finger1=${gear.finger1},enchant=glimmering_haste_2,gem_id=${gems.main}
-profileset."Ring_Glimmering_Haste_3"+=finger1=${gear.finger1},enchant=glimmering_haste_3,gem_id=${gems.main}
+profileset."Ring_Glimmering_Haste_1"+=finger1=${gear.finger1},enchant=glimmering_haste_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Glimmering_Haste_2"+=finger1=${gear.finger1},enchant=glimmering_haste_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Glimmering_Haste_3"+=finger1=${gear.finger1},enchant=glimmering_haste_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Glimmering_Mastery_1"+=finger1=${gear.finger1},enchant=glimmering_mastery_1,gem_id=${gems.main}
-profileset."Ring_Glimmering_Mastery_2"+=finger1=${gear.finger1},enchant=glimmering_mastery_2,gem_id=${gems.main}
-profileset."Ring_Glimmering_Mastery_3"+=finger1=${gear.finger1},enchant=glimmering_mastery_3,gem_id=${gems.main}
+profileset."Ring_Glimmering_Mastery_1"+=finger1=${gear.finger1},enchant=glimmering_mastery_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Glimmering_Mastery_2"+=finger1=${gear.finger1},enchant=glimmering_mastery_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Glimmering_Mastery_3"+=finger1=${gear.finger1},enchant=glimmering_mastery_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Glimmering_Versatility_1"+=finger1=${gear.finger1},enchant=glimmering_versatility_1,gem_id=${gems.main}
-profileset."Ring_Glimmering_Versatility_2"+=finger1=${gear.finger1},enchant=glimmering_versatility_2,gem_id=${gems.main}
-profileset."Ring_Glimmering_Versatility_3"+=finger1=${gear.finger1},enchant=glimmering_versatility_3,gem_id=${gems.main}
+profileset."Ring_Glimmering_Versatility_1"+=finger1=${gear.finger1},enchant=glimmering_versatility_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Glimmering_Versatility_2"+=finger1=${gear.finger1},enchant=glimmering_versatility_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Glimmering_Versatility_3"+=finger1=${gear.finger1},enchant=glimmering_versatility_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Radiant_Critical_Strike_1"+=finger1=${gear.finger1},enchant=radiant_critical_strike_1,gem_id=${gems.main}
-profileset."Ring_Radiant_Critical_Strike_2"+=finger1=${gear.finger1},enchant=radiant_critical_strike_2,gem_id=${gems.main}
-profileset."Ring_Radiant_Critical_Strike_3"+=finger1=${gear.finger1},enchant=radiant_critical_strike_3,gem_id=${gems.main}
+profileset."Ring_Radiant_Critical_Strike_1"+=finger1=${gear.finger1},enchant=radiant_critical_strike_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Radiant_Critical_Strike_2"+=finger1=${gear.finger1},enchant=radiant_critical_strike_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Radiant_Critical_Strike_3"+=finger1=${gear.finger1},enchant=radiant_critical_strike_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Radiant_Haste_1"+=finger1=${gear.finger1},enchant=radiant_haste_1,gem_id=${gems.main}
-profileset."Ring_Radiant_Haste_2"+=finger1=${gear.finger1},enchant=radiant_haste_2,gem_id=${gems.main}
-profileset."Ring_Radiant_Haste_3"+=finger1=${gear.finger1},enchant=radiant_haste_3,gem_id=${gems.main}
+profileset."Ring_Radiant_Haste_1"+=finger1=${gear.finger1},enchant=radiant_haste_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Radiant_Haste_2"+=finger1=${gear.finger1},enchant=radiant_haste_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Radiant_Haste_3"+=finger1=${gear.finger1},enchant=radiant_haste_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Radiant_Mastery_1"+=finger1=${gear.finger1},enchant=radiant_mastery_1,gem_id=${gems.main}
-profileset."Ring_Radiant_Mastery_2"+=finger1=${gear.finger1},enchant=radiant_mastery_2,gem_id=${gems.main}
-profileset."Ring_Radiant_Mastery_3"+=finger1=${gear.finger1},enchant=radiant_mastery_3,gem_id=${gems.main}
+profileset."Ring_Radiant_Mastery_1"+=finger1=${gear.finger1},enchant=radiant_mastery_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Radiant_Mastery_2"+=finger1=${gear.finger1},enchant=radiant_mastery_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Radiant_Mastery_3"+=finger1=${gear.finger1},enchant=radiant_mastery_3,gem_id=${gems.main}/${gems.main}
 
-profileset."Ring_Radiant_Versatility_1"+=finger1=${gear.finger1},enchant=radiant_versatility_1,gem_id=${gems.main}
-profileset."Ring_Radiant_Versatility_2"+=finger1=${gear.finger1},enchant=radiant_versatility_2,gem_id=${gems.main}
-profileset."Ring_Radiant_Versatility_3"+=finger1=${gear.finger1},enchant=radiant_versatility_3,gem_id=${gems.main}
+profileset."Ring_Radiant_Versatility_1"+=finger1=${gear.finger1},enchant=radiant_versatility_1,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Radiant_Versatility_2"+=finger1=${gear.finger1},enchant=radiant_versatility_2,gem_id=${gems.main}/${gems.main}
+profileset."Ring_Radiant_Versatility_3"+=finger1=${gear.finger1},enchant=radiant_versatility_3,gem_id=${gems.main}/${gems.main}

@@ -17,41 +17,41 @@ hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.main}
 legs=${gear.legs},enchant=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}
-finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}
+finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Nerub'ar Palace
 ## TODO: Fix item levels
-## LFR: 580 | Normal: 593 | Heroic: 606 | Mythic: 619
-profileset."Aberrant_Spellforge_580"+=trinket1=aberrant_spellforge,id=212451,ilevel=580
+## LFR: 593 | Normal: 606 | Heroic: 619 | Mythic: 632
 profileset."Aberrant_Spellforge_593"+=trinket1=aberrant_spellforge,id=212451,ilevel=593
 profileset."Aberrant_Spellforge_606"+=trinket1=aberrant_spellforge,id=212451,ilevel=606
 profileset."Aberrant_Spellforge_619"+=trinket1=aberrant_spellforge,id=212451,ilevel=619
+profileset."Aberrant_Spellforge_632"+=trinket1=aberrant_spellforge,id=212451,ilevel=632
 
 ### Healer trinket, test if it works?
-# profileset."Gruesome_Syringe_580"+=trinket1=gruesome_syringe,id=212452,ilevel=580
 # profileset."Gruesome_Syringe_593"+=trinket1=gruesome_syringe,id=212452,ilevel=593
 # profileset."Gruesome_Syringe_606"+=trinket1=gruesome_syringe,id=212452,ilevel=606
 # profileset."Gruesome_Syringe_619"+=trinket1=gruesome_syringe,id=212452,ilevel=619
+# profileset."Gruesome_Syringe_632"+=trinket1=gruesome_syringe,id=212452,ilevel=632
 
-profileset."Mad_Queens_Mandate_580"+=trinket1=mad_queens_mandate,id=212454,ilevel=580
 profileset."Mad_Queens_Mandate_593"+=trinket1=mad_queens_mandate,id=212454,ilevel=593
 profileset."Mad_Queens_Mandate_606"+=trinket1=mad_queens_mandate,id=212454,ilevel=606
 profileset."Mad_Queens_Mandate_619"+=trinket1=mad_queens_mandate,id=212454,ilevel=619
+profileset."Mad_Queens_Mandate_632"+=trinket1=mad_queens_mandate,id=212454,ilevel=632
 
-profileset."Spymasters_Web_580"+=trinket1=spymasters_web,id=220202,ilevel=580
 profileset."Spymasters_Web_593"+=trinket1=spymasters_web,id=220202,ilevel=593
 profileset."Spymasters_Web_606"+=trinket1=spymasters_web,id=220202,ilevel=606
 profileset."Spymasters_Web_619"+=trinket1=spymasters_web,id=220202,ilevel=619
+profileset."Spymasters_Web_632"+=trinket1=spymasters_web,id=220202,ilevel=632
 
-profileset."Ovinaxs_Mercurial_Egg_580"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=580
 profileset."Ovinaxs_Mercurial_Egg_593"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=593
 profileset."Ovinaxs_Mercurial_Egg_606"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=606
 profileset."Ovinaxs_Mercurial_Egg_619"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=619
+profileset."Ovinaxs_Mercurial_Egg_632"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=632
 
-profileset."Treacherous_Transmitter_580"+=trinket1=treacherous_transmitter,id=221023,ilevel=580
 profileset."Treacherous_Transmitter_593"+=trinket1=treacherous_transmitter,id=221023,ilevel=593
 profileset."Treacherous_Transmitter_606"+=trinket1=treacherous_transmitter,id=221023,ilevel=606
 profileset."Treacherous_Transmitter_619"+=trinket1=treacherous_transmitter,id=221023,ilevel=619
+profileset."Treacherous_Transmitter_632"+=trinket1=treacherous_transmitter,id=221023,ilevel=632

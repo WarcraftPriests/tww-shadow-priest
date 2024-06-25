@@ -17,42 +17,47 @@ hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.main}
 legs=${gear.legs},enchant=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}
-finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}
+finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Season 1
 ## TODO: Fix item levels, completely guessing
-# Highest from key: 600 // Upgrade: 613 // Highest from vault: 613->619
+# Highest from key: 600 // Upgrade: 613 // Highest from vault: ?->632
 ## Ara-Kara
 profileset."Ara_Kara_Sacbrood_580"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=580
 profileset."Ara_Kara_Sacbrood_600"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=600
 profileset."Ara_Kara_Sacbrood_613"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=613
 profileset."Ara_Kara_Sacbrood_619"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=619
+profileset."Ara_Kara_Sacbrood_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
 
 profileset."Harvesters_Edict_580"+=trinket1=harvesters_edict,id=219317,ilevel=580
 profileset."Harvesters_Edict_600"+=trinket1=harvesters_edict,id=219317,ilevel=600
 profileset."Harvesters_Edict_613"+=trinket1=harvesters_edict,id=219317,ilevel=613
 profileset."Harvesters_Edict_619"+=trinket1=harvesters_edict,id=219317,ilevel=619
+profileset."Harvesters_Edict_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
 
 ## City of Threads
 profileset."Cirral_Concoctory_580"+=trinket1=cirral_concoctory,id=219321,ilevel=580
 profileset."Cirral_Concoctory_600"+=trinket1=cirral_concoctory,id=219321,ilevel=600
 profileset."Cirral_Concoctory_613"+=trinket1=cirral_concoctory,id=219321,ilevel=613
 profileset."Cirral_Concoctory_619"+=trinket1=cirral_concoctory,id=219321,ilevel=619
+profileset."Cirral_Concoctory_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
 
 ## The Stonevault
 profileset."High_Speakers_Accretion_580"+=trinket1=high_speakers_accretion,id=219303,ilevel=580
 profileset."High_Speakers_Accretion_600"+=trinket1=high_speakers_accretion,id=219303,ilevel=600
 profileset."High_Speakers_Accretion_613"+=trinket1=high_speakers_accretion,id=219303,ilevel=613
 profileset."High_Speakers_Accretion_619"+=trinket1=high_speakers_accretion,id=219303,ilevel=619
+profileset."High_Speakers_Accretion_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
 
 ## The Dawnbreaker
 profileset."Empowering_Crystal_of_Anubikkaj_580"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=580
 profileset."Empowering_Crystal_of_Anubikkaj_600"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=600
 profileset."Empowering_Crystal_of_Anubikkaj_613"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=613
 profileset."Empowering_Crystal_of_Anubikkaj_619"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=619
+profileset."Empowering_Crystal_of_Anubikkaj_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
 
 ## Mists of Tirna Scithe
 ### all, crit, haste, mastery
@@ -62,6 +67,8 @@ profileset."Unbound_Changeling_All_613"+=shadowlands.unbound_changeling_stat_typ
 profileset."Unbound_Changeling_All_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
 profileset."Unbound_Changeling_All_619"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Unbound_Changeling_All_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
+profileset."Unbound_Changeling_All_632"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
 
 profileset."Unbound_Changeling_Crit_600"+=shadowlands.unbound_changeling_stat_type=crit
 profileset."Unbound_Changeling_Crit_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
@@ -69,6 +76,8 @@ profileset."Unbound_Changeling_Crit_613"+=shadowlands.unbound_changeling_stat_ty
 profileset."Unbound_Changeling_Crit_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
 profileset."Unbound_Changeling_Crit_619"+=shadowlands.unbound_changeling_stat_type=crit
 profileset."Unbound_Changeling_Crit_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
+profileset."Unbound_Changeling_Crit_632"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
 
 profileset."Unbound_Changeling_Haste_600"+=shadowlands.unbound_changeling_stat_type=haste
 profileset."Unbound_Changeling_Haste_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
@@ -76,6 +85,8 @@ profileset."Unbound_Changeling_Haste_613"+=shadowlands.unbound_changeling_stat_t
 profileset."Unbound_Changeling_Haste_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
 profileset."Unbound_Changeling_Haste_619"+=shadowlands.unbound_changeling_stat_type=haste
 profileset."Unbound_Changeling_Haste_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
+profileset."Unbound_Changeling_Haste_632"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
 
 profileset."Unbound_Changeling_Mastery_600"+=shadowlands.unbound_changeling_stat_type=mastery
 profileset."Unbound_Changeling_Mastery_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
@@ -83,26 +94,32 @@ profileset."Unbound_Changeling_Mastery_613"+=shadowlands.unbound_changeling_stat
 profileset."Unbound_Changeling_Mastery_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
 profileset."Unbound_Changeling_Mastery_619"+=shadowlands.unbound_changeling_stat_type=mastery
 profileset."Unbound_Changeling_Mastery_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
+profileset."Unbound_Changeling_Mastery_632"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
 
 ## The Necrotic Wake
 profileset."Satchel_of_Misbegotten_Minions_600"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=600
 profileset."Satchel_of_Misbegotten_Minions_613"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=613
 profileset."Satchel_of_Misbegotten_Minions_619"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=619
+profileset."Satchel_of_Misbegotten_Minions_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
 
 ## Siege of Boralus
 profileset."Hadals_Nautilus_600"+=trinket1=hadals_nautilus,id=159622,ilevel=600
 profileset."Hadals_Nautilus_613"+=trinket1=hadals_nautilus,id=159622,ilevel=613
 profileset."Hadals_Nautilus_619"+=trinket1=hadals_nautilus,id=159622,ilevel=619
+profileset."Hadals_Nautilus_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
 
 ## Grim Batol
 ### TODO: not sure which one is real?
 profileset."Gale_of_Shadows1_600"+=trinket1=gale_of_shadows1,id=56462,ilevel=600
 profileset."Gale_of_Shadows1_613"+=trinket1=gale_of_shadows1,id=56462,ilevel=613
 profileset."Gale_of_Shadows1_619"+=trinket1=gale_of_shadows1,id=56462,ilevel=619
+profileset."Gale_of_Shadows1_632"+=trinket1=gale_of_shadows1,id=56462,ilevel=632
 
 profileset."Gale_of_Shadows2_600"+=trinket1=gale_of_shadows2,id=56138,ilevel=600
 profileset."Gale_of_Shadows2_613"+=trinket1=gale_of_shadows2,id=56138,ilevel=613
 profileset."Gale_of_Shadows2_619"+=trinket1=gale_of_shadows2,id=56138,ilevel=619
+profileset."Gale_of_Shadows2_632"+=trinket1=gale_of_shadows2,id=56138,ilevel=632
 
 # Mythic 0 Only - 580
 ## TODO: Fix item levels, completely guessing
