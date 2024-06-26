@@ -65,9 +65,9 @@ profileset."Weapon_Councils_Guile_1"+=main_hand=${gear.main_hand},enchant=counci
 profileset."Weapon_Councils_Guile_2"+=main_hand=${gear.main_hand},enchant=councils_guile_2
 profileset."Weapon_Councils_Guile_3"+=main_hand=${gear.main_hand},enchant=councils_guile_3
 
-profileset."Weapon_Oathsworn_Tenacity_1"+=main_hand=${gear.main_hand},enchant=oathsworn_tenacity_1
-profileset."Weapon_Oathsworn_Tenacity_2"+=main_hand=${gear.main_hand},enchant=oathsworn_tenacity_2
-profileset."Weapon_Oathsworn_Tenacity_3"+=main_hand=${gear.main_hand},enchant=oathsworn_tenacity_3
+profileset."Weapon_Oathsworns_Tenacity_1"+=main_hand=${gear.main_hand},enchant=oathsworns_tenacity_1
+profileset."Weapon_Oathsworns_Tenacity_2"+=main_hand=${gear.main_hand},enchant=oathsworns_tenacity_2
+profileset."Weapon_Oathsworns_Tenacity_3"+=main_hand=${gear.main_hand},enchant=oathsworns_tenacity_3
 
 profileset."Weapon_Stonebound_Artistry_1"+=main_hand=${gear.main_hand},enchant=stonebound_artistry_1
 profileset."Weapon_Stonebound_Artistry_2"+=main_hand=${gear.main_hand},enchant=stonebound_artistry_2
