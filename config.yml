@@ -339,8 +339,8 @@ stats:
   steps: 1000
   total: 34000
   min:
-    haste: 10000
-    mastery: 10000
+    haste: 7000
+    mastery: 7000
     crit: 3000
     vers: 0
   include:
