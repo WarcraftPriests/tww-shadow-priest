@@ -18,8 +18,8 @@ hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.main}
 legs=${gear.legs},enchant=${enchants.legs}
 feet=${gear.feet}
-finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}
-finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}
+finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 trinket1=${gear.trinket1}
 trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}

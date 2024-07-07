@@ -90,6 +90,8 @@ def convert_builds(profile):
         return
 
     for line in data:
+        # Since we only have one Shadow Crash, force to the target version
+        line = line.replace("shadow_crash:1", "125983:1")
         if "Solved loadout " not in line:
             if line not in lines_seen or line.isspace():
                 if "profileset" in line and apply_rules(line):
