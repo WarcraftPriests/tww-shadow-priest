@@ -14,6 +14,8 @@ def apply_rules(line):
     # Don't add combos that waste points on Shadow Crash without Whispering Shadows  # noqa: E501
     if "shadow_crash" in line and "whispering_shadows" not in line:
         return True
+    if "125983" in line and "whispering_shadows" not in line:
+        return True
     # Don't add combos that waste points on Inescapable Torment without Y'Shaarj
     # if "inescapable_torment" in line and "yshaarj" not in line:
     #     return True
