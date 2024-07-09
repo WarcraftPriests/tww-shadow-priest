@@ -9,7 +9,6 @@ actions.precombat+=/variable,name=me_force_prio,default=1,op=reset
 actions.precombat+=/variable,name=max_vts,default=0,op=reset
 actions.precombat+=/variable,name=is_vt_possible,default=0,op=reset
 actions.precombat+=/variable,name=pooling_mindblasts,default=0,op=reset
-actions.precombat+=/variable,name=use_cd_management,default=0,op=reset
 actions.precombat+=/arcane_torrent
 actions.precombat+=/use_item,name=aberrant_spellforge
 actions.precombat+=/shadow_crash,if=raid_event.adds.in>=25&spell_targets.shadow_crash<=8&!fight_style.dungeonslice&(!set_bonus.tier31_4pc|spell_targets.shadow_crash>1)
@@ -18,7 +17,6 @@ actions.precombat+=/vampiric_touch,if=!talent.shadow_crash.enabled|raid_event.ad
 # Executed every time the actor is available.
 actions=variable,name=holding_crash,op=set,value=raid_event.adds.in<15
 actions+=/variable,name=pool_for_cds,op=set,value=(cooldown.void_eruption.remains<=gcd.max*3&talent.void_eruption|cooldown.dark_ascension.up&talent.dark_ascension)|talent.void_torrent&talent.psychic_link&cooldown.void_torrent.remains<=4&(!raid_event.adds.exists&spell_targets.vampiric_touch>1|raid_event.adds.in<=5|raid_event.adds.remains>=6&!variable.holding_crash)&!buff.voidform.up
-actions+=/variable,name=holding_cds,op=set,value=!(fight_remains>=140|fight_remains<=50|talent.mindbender&pet.fiend.active&fight_remains<=70)&talent.void_eruption&cooldown.void_eruption.up&variable.use_cd_management&!active_allied_augmentations
 actions+=/call_action_list,name=aoe,if=active_enemies>2
 actions+=/run_action_list,name=main
 
@@ -51,10 +49,10 @@ actions.main+=/shadow_word_death,target_if=max:(target.health.pct<=20)*100+dot.d
 actions.main+=/mind_blast,target_if=max:dot.devouring_plague.remains,if=(cooldown.mind_blast.full_recharge_time<=gcd.max+execute_time|pet.fiend.remains<=execute_time+gcd.max)&pet.fiend.active&talent.inescapable_torment&pet.fiend.remains>=execute_time&active_enemies<=7&(!buff.mind_devourer.up|!talent.mind_devourer)&dot.devouring_plague.remains>execute_time&!variable.pooling_mindblasts
 # High Priority Shadow Word: Death is Mindbender is expiring in less than a gcd plus wiggle room
 actions.main+=/shadow_word_death,target_if=max:dot.devouring_plague.remains,if=pet.fiend.remains<=(gcd.max+1)&pet.fiend.active&talent.inescapable_torment&active_enemies<=7
-# Use Voidbolt on the enemy with the largest time to die. We do no care about dots because Voidbolt is only accessible inside voidform which guarantees maximum effect
+# Use Voidbolt on the enemy with the largest time to die. Force a cooldown check here to make sure SimC doesn't wait too long (i.e. weird MF:I desync with GCD)
 actions.main+=/void_bolt,target_if=max:target.time_to_die,if=cooldown.void_bolt.remains<=0.1
 # Do not overcap MSI or MFI during Empowered Surges (Archon).
-actions.main+=/call_action_list,name=empowered_filler,if=(buff.mind_spike_insanity.stack=1&talent.mind_spike|buff.mind_flay_insanity.stack=1&!talent.mind_spike|buff.power_surge.up)&talent.empowered_surges&(!cooldown.void_eruption.up|variable.holding_cds)
+actions.main+=/call_action_list,name=empowered_filler,if=(buff.mind_spike_insanity.stack=1&talent.mind_spike|buff.mind_flay_insanity.stack=1&!talent.mind_spike|buff.power_surge.up)&talent.empowered_surges&!cooldown.void_eruption.up
 # Hyper cringe optimisations that fish for TOF using heals. Set priest.twist_of_fate_heal_rppm=<rppm> to make this be used.
 actions.main+=/call_action_list,name=heal_for_tof,if=!buff.twist_of_fate.up&buff.twist_of_fate_can_trigger_on_ally_heal.up&(talent.rhapsody|talent.divine_star|talent.halo)
 # Spend your Insanity on Devouring Plague at will if the fight will end in less than 10s
@@ -88,14 +86,14 @@ actions.cds+=/berserking,if=buff.power_infusion.up|fight_remains<=12
 actions.cds+=/blood_fury,if=buff.power_infusion.up|fight_remains<=15
 actions.cds+=/ancestral_call,if=buff.power_infusion.up|fight_remains<=15
 # Sync Power Infusion with Voidform or Dark Ascension
-actions.cds+=/power_infusion,if=(buff.voidform.up|buff.dark_ascension.up&(fight_remains<=80|fight_remains>=140)|active_allied_augmentations|!variable.use_cd_management)
+actions.cds+=/power_infusion,if=(buff.voidform.up|buff.dark_ascension.up&(fight_remains<=80|fight_remains>=140)|active_allied_augmentations)
 # Use <a href='https://www.wowhead.com/spell=10060/power-infusion'>Power Infusion</a> while <a href='https://www.wowhead.com/spell=194249/voidform'>Voidform</a> or <a href='https://www.wowhead.com/spell=391109/dark-ascension'>Dark Ascension</a> is active. Chain directly after your own <a href='https://www.wowhead.com/spell=10060/power-infusion'>Power Infusion</a>.
 actions.cds+=/invoke_external_buff,name=power_infusion,if=(buff.voidform.up|buff.dark_ascension.up)&!buff.power_infusion.up
 actions.cds+=/invoke_external_buff,name=bloodlust,if=buff.power_infusion.up&fight_remains<120|fight_remains<=40
 # Make sure Mindbender is active before popping Dark Ascension unless you have insignificant talent points or too many targets
 actions.cds+=/halo,if=talent.power_surge&(pet.fiend.active&cooldown.fiend.remains>=4&talent.mindbender|!talent.mindbender&!cooldown.fiend.up|active_enemies>2&!talent.inescapable_torment|!talent.dark_ascension)&(cooldown.mind_blast.charges=0|!talent.void_eruption|cooldown.void_eruption.remains>=gcd.max*4)
 # Make sure Mindbender is active before popping Void Eruption and dump charges of Mind Blast before casting
-actions.cds+=/void_eruption,if=!cooldown.fiend.up&(pet.fiend.active&cooldown.fiend.remains>=4|!talent.mindbender|active_enemies>2&!talent.inescapable_torment.rank)&(cooldown.mind_blast.charges=0)&!variable.holding_cds
+actions.cds+=/void_eruption,if=!cooldown.fiend.up&(pet.fiend.active&cooldown.fiend.remains>=4|!talent.mindbender|active_enemies>2&!talent.inescapable_torment.rank)&(cooldown.mind_blast.charges=0|time>15)
 actions.cds+=/dark_ascension,if=pet.fiend.active&cooldown.fiend.remains>=4|!talent.mindbender&!cooldown.fiend.up|active_enemies>2&!talent.inescapable_torment
 actions.cds+=/call_action_list,name=trinkets
 # Use Desperate Prayer to heal up should Shadow Word: Death or other damage bring you below 75%
