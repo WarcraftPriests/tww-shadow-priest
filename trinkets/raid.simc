@@ -23,35 +23,34 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Nerub'ar Palace
-## TODO: Fix item levels
-## LFR: 593 | Normal: 606 | Heroic: 619 | Mythic: 632
-profileset."Aberrant_Spellforge_593"+=trinket1=aberrant_spellforge,id=212451,ilevel=593
+## LFR: 606 | Normal: 619 | Heroic: 626 | Mythic: 639
 profileset."Aberrant_Spellforge_606"+=trinket1=aberrant_spellforge,id=212451,ilevel=606
 profileset."Aberrant_Spellforge_619"+=trinket1=aberrant_spellforge,id=212451,ilevel=619
-profileset."Aberrant_Spellforge_632"+=trinket1=aberrant_spellforge,id=212451,ilevel=632
+profileset."Aberrant_Spellforge_626"+=trinket1=aberrant_spellforge,id=212451,ilevel=626
+profileset."Aberrant_Spellforge_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
 
 ### Healer trinket, test if it works?
-# profileset."Gruesome_Syringe_593"+=trinket1=gruesome_syringe,id=212452,ilevel=593
 # profileset."Gruesome_Syringe_606"+=trinket1=gruesome_syringe,id=212452,ilevel=606
 # profileset."Gruesome_Syringe_619"+=trinket1=gruesome_syringe,id=212452,ilevel=619
-# profileset."Gruesome_Syringe_632"+=trinket1=gruesome_syringe,id=212452,ilevel=632
+# profileset."Gruesome_Syringe_626"+=trinket1=gruesome_syringe,id=212452,ilevel=626
+# profileset."Gruesome_Syringe_639"+=trinket1=gruesome_syringe,id=212452,ilevel=639
 
-profileset."Mad_Queens_Mandate_593"+=trinket1=mad_queens_mandate,id=212454,ilevel=593
 profileset."Mad_Queens_Mandate_606"+=trinket1=mad_queens_mandate,id=212454,ilevel=606
 profileset."Mad_Queens_Mandate_619"+=trinket1=mad_queens_mandate,id=212454,ilevel=619
-profileset."Mad_Queens_Mandate_632"+=trinket1=mad_queens_mandate,id=212454,ilevel=632
+profileset."Mad_Queens_Mandate_626"+=trinket1=mad_queens_mandate,id=212454,ilevel=626
+profileset."Mad_Queens_Mandate_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Spymasters_Web_593"+=trinket1=spymasters_web,id=220202,ilevel=593
 profileset."Spymasters_Web_606"+=trinket1=spymasters_web,id=220202,ilevel=606
 profileset."Spymasters_Web_619"+=trinket1=spymasters_web,id=220202,ilevel=619
-profileset."Spymasters_Web_632"+=trinket1=spymasters_web,id=220202,ilevel=632
+profileset."Spymasters_Web_626"+=trinket1=spymasters_web,id=220202,ilevel=626
+profileset."Spymasters_Web_639"+=trinket1=spymasters_web,id=220202,ilevel=639
 
-profileset."Ovinaxs_Mercurial_Egg_593"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=593
 profileset."Ovinaxs_Mercurial_Egg_606"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=606
 profileset."Ovinaxs_Mercurial_Egg_619"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=619
-profileset."Ovinaxs_Mercurial_Egg_632"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Ovinaxs_Mercurial_Egg_626"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=626
+profileset."Ovinaxs_Mercurial_Egg_639"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Treacherous_Transmitter_593"+=trinket1=treacherous_transmitter,id=221023,ilevel=593
 profileset."Treacherous_Transmitter_606"+=trinket1=treacherous_transmitter,id=221023,ilevel=606
 profileset."Treacherous_Transmitter_619"+=trinket1=treacherous_transmitter,id=221023,ilevel=619
-profileset."Treacherous_Transmitter_632"+=trinket1=treacherous_transmitter,id=221023,ilevel=632
+profileset."Treacherous_Transmitter_626"+=trinket1=treacherous_transmitter,id=221023,ilevel=626
+profileset."Treacherous_Transmitter_639"+=trinket1=treacherous_transmitter,id=221023,ilevel=639

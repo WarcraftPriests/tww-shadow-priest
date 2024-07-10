@@ -49,11 +49,11 @@ def main():
     parser.add_argument(
         '--min_ilevel', help='min ilevel to build items for', default=580)
     parser.add_argument(
-        '--max_ilevel', help='max ilevel to build items for', default=619)
+        '--max_ilevel', help='max ilevel to build items for', default=639)
     args = parser.parse_args()
 
     # ilevel_range = build_range(int(args.min_ilevel), int(args.max_ilevel))
-    ilevel_range = [580]
+    ilevel_range = [619, 626]
 
     trinket_list = []
     for ilevel in ilevel_range:

@@ -23,118 +23,135 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Season 1
-## TODO: Fix item levels, completely guessing
-# Highest from key: 600 // Upgrade: 613 // Highest from vault: ?->632
+# Normal: 593 // Mythic 0: 626 // Mythic+: ?->626 // Vault: 623->639
 ## Ara-Kara
-profileset."AraKara_Sacbrood_580"+=trinket1=arakara_sacbrood,id=219314,ilevel=580
-profileset."AraKara_Sacbrood_600"+=trinket1=arakara_sacbrood,id=219314,ilevel=600
-profileset."AraKara_Sacbrood_613"+=trinket1=arakara_sacbrood,id=219314,ilevel=613
+profileset."AraKara_Sacbrood_593"+=trinket1=arakara_sacbrood,id=219314,ilevel=593
+profileset."AraKara_Sacbrood_606"+=trinket1=arakara_sacbrood,id=219314,ilevel=606
 profileset."AraKara_Sacbrood_619"+=trinket1=arakara_sacbrood,id=219314,ilevel=619
-profileset."AraKara_Sacbrood_632"+=trinket1=arakara_sacbrood,id=219314,ilevel=632
+profileset."AraKara_Sacbrood_626"+=trinket1=arakara_sacbrood,id=219314,ilevel=626
+profileset."AraKara_Sacbrood_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
 
-profileset."Harvesters_Edict_580"+=trinket1=harvesters_edict,id=219317,ilevel=580
-profileset."Harvesters_Edict_600"+=trinket1=harvesters_edict,id=219317,ilevel=600
-profileset."Harvesters_Edict_613"+=trinket1=harvesters_edict,id=219317,ilevel=613
+profileset."Harvesters_Edict_593"+=trinket1=harvesters_edict,id=219317,ilevel=593
+profileset."Harvesters_Edict_606"+=trinket1=harvesters_edict,id=219317,ilevel=606
 profileset."Harvesters_Edict_619"+=trinket1=harvesters_edict,id=219317,ilevel=619
-profileset."Harvesters_Edict_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
+profileset."Harvesters_Edict_626"+=trinket1=harvesters_edict,id=219317,ilevel=626
+profileset."Harvesters_Edict_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
 
 ## City of Threads
-profileset."Cirral_Concoctory_580"+=trinket1=cirral_concoctory,id=219321,ilevel=580
-profileset."Cirral_Concoctory_600"+=trinket1=cirral_concoctory,id=219321,ilevel=600
-profileset."Cirral_Concoctory_613"+=trinket1=cirral_concoctory,id=219321,ilevel=613
+profileset."Cirral_Concoctory_593"+=trinket1=cirral_concoctory,id=219321,ilevel=593
+profileset."Cirral_Concoctory_606"+=trinket1=cirral_concoctory,id=219321,ilevel=606
 profileset."Cirral_Concoctory_619"+=trinket1=cirral_concoctory,id=219321,ilevel=619
-profileset."Cirral_Concoctory_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
+profileset."Cirral_Concoctory_626"+=trinket1=cirral_concoctory,id=219321,ilevel=626
+profileset."Cirral_Concoctory_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
 
 ## The Stonevault
-profileset."High_Speakers_Accretion_580"+=trinket1=high_speakers_accretion,id=219303,ilevel=580
-profileset."High_Speakers_Accretion_600"+=trinket1=high_speakers_accretion,id=219303,ilevel=600
-profileset."High_Speakers_Accretion_613"+=trinket1=high_speakers_accretion,id=219303,ilevel=613
+profileset."High_Speakers_Accretion_593"+=trinket1=high_speakers_accretion,id=219303,ilevel=593
+profileset."High_Speakers_Accretion_606"+=trinket1=high_speakers_accretion,id=219303,ilevel=606
 profileset."High_Speakers_Accretion_619"+=trinket1=high_speakers_accretion,id=219303,ilevel=619
-profileset."High_Speakers_Accretion_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
+profileset."High_Speakers_Accretion_626"+=trinket1=high_speakers_accretion,id=219303,ilevel=626
+profileset."High_Speakers_Accretion_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
 
 ## The Dawnbreaker
-profileset."Empowering_Crystal_of_Anubikkaj_580"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=580
-profileset."Empowering_Crystal_of_Anubikkaj_600"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=600
-profileset."Empowering_Crystal_of_Anubikkaj_613"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=613
+profileset."Empowering_Crystal_of_Anubikkaj_593"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=593
+profileset."Empowering_Crystal_of_Anubikkaj_606"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=606
 profileset."Empowering_Crystal_of_Anubikkaj_619"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=619
-profileset."Empowering_Crystal_of_Anubikkaj_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_626"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=626
+profileset."Empowering_Crystal_of_Anubikkaj_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+
+### Healing trinket, might be useful
+profileset."Mereldars_Toll_593"+=trinket1=mereldars_toll,id=219313,ilevel=593
+profileset."Mereldars_Toll_606"+=trinket1=mereldars_toll,id=219313,ilevel=606
+profileset."Mereldars_Toll_619"+=trinket1=mereldars_toll,id=219313,ilevel=619
+profileset."Mereldars_Toll_626"+=trinket1=mereldars_toll,id=219313,ilevel=626
+profileset."Mereldars_Toll_639"+=trinket1=mereldars_toll,id=219313,ilevel=639
 
 ## Mists of Tirna Scithe
 ### all, crit, haste, mastery
-profileset."Unbound_Changeling_All_600"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
-profileset."Unbound_Changeling_All_613"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
+profileset."Unbound_Changeling_All_593"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_593"+=trinket1=unbound_changeling,id=178708,ilevel=593
+profileset."Unbound_Changeling_All_606"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_606"+=trinket1=unbound_changeling,id=178708,ilevel=606
 profileset."Unbound_Changeling_All_619"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Unbound_Changeling_All_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
-profileset."Unbound_Changeling_All_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
+profileset."Unbound_Changeling_All_626"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_626"+=trinket1=unbound_changeling,id=178708,ilevel=626
+profileset."Unbound_Changeling_All_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 
-profileset."Unbound_Changeling_Crit_600"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
-profileset."Unbound_Changeling_Crit_613"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
+profileset."Unbound_Changeling_Crit_593"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_593"+=trinket1=unbound_changeling,id=178708,ilevel=593
+profileset."Unbound_Changeling_Crit_606"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_606"+=trinket1=unbound_changeling,id=178708,ilevel=606
 profileset."Unbound_Changeling_Crit_619"+=shadowlands.unbound_changeling_stat_type=crit
 profileset."Unbound_Changeling_Crit_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
-profileset."Unbound_Changeling_Crit_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
+profileset."Unbound_Changeling_Crit_626"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_626"+=trinket1=unbound_changeling,id=178708,ilevel=626
+profileset."Unbound_Changeling_Crit_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 
-profileset."Unbound_Changeling_Haste_600"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
-profileset."Unbound_Changeling_Haste_613"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
+profileset."Unbound_Changeling_Haste_593"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_593"+=trinket1=unbound_changeling,id=178708,ilevel=593
+profileset."Unbound_Changeling_Haste_606"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_606"+=trinket1=unbound_changeling,id=178708,ilevel=606
 profileset."Unbound_Changeling_Haste_619"+=shadowlands.unbound_changeling_stat_type=haste
 profileset."Unbound_Changeling_Haste_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
-profileset."Unbound_Changeling_Haste_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
+profileset."Unbound_Changeling_Haste_626"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_626"+=trinket1=unbound_changeling,id=178708,ilevel=626
+profileset."Unbound_Changeling_Haste_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 
-profileset."Unbound_Changeling_Mastery_600"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_600"+=trinket1=unbound_changeling,id=178708,ilevel=600
-profileset."Unbound_Changeling_Mastery_613"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_613"+=trinket1=unbound_changeling,id=178708,ilevel=613
+profileset."Unbound_Changeling_Mastery_593"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_593"+=trinket1=unbound_changeling,id=178708,ilevel=593
+profileset."Unbound_Changeling_Mastery_606"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_606"+=trinket1=unbound_changeling,id=178708,ilevel=606
 profileset."Unbound_Changeling_Mastery_619"+=shadowlands.unbound_changeling_stat_type=mastery
 profileset."Unbound_Changeling_Mastery_619"+=trinket1=unbound_changeling,id=178708,ilevel=619
-profileset."Unbound_Changeling_Mastery_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
+profileset."Unbound_Changeling_Mastery_626"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_626"+=trinket1=unbound_changeling,id=178708,ilevel=626
+profileset."Unbound_Changeling_Mastery_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 
 ## The Necrotic Wake
-profileset."Satchel_of_Misbegotten_Minions_600"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=600
-profileset."Satchel_of_Misbegotten_Minions_613"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=613
+profileset."Satchel_of_Misbegotten_Minions_593"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=593
+profileset."Satchel_of_Misbegotten_Minions_606"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=606
 profileset."Satchel_of_Misbegotten_Minions_619"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=619
-profileset."Satchel_of_Misbegotten_Minions_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_626"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=626
+profileset."Satchel_of_Misbegotten_Minions_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
 ## Siege of Boralus
-profileset."Hadals_Nautilus_600"+=trinket1=hadals_nautilus,id=159622,ilevel=600
-profileset."Hadals_Nautilus_613"+=trinket1=hadals_nautilus,id=159622,ilevel=613
+profileset."Hadals_Nautilus_606"+=trinket1=hadals_nautilus,id=159622,ilevel=593
+profileset."Hadals_Nautilus_606"+=trinket1=hadals_nautilus,id=159622,ilevel=606
 profileset."Hadals_Nautilus_619"+=trinket1=hadals_nautilus,id=159622,ilevel=619
-profileset."Hadals_Nautilus_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
+profileset."Hadals_Nautilus_626"+=trinket1=hadals_nautilus,id=159622,ilevel=626
+profileset."Hadals_Nautilus_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
 
 ## Grim Batol
 ### TODO: not sure which one is real?
-profileset."Gale_of_Shadows1_600"+=trinket1=gale_of_shadows1,id=56462,ilevel=600
-profileset."Gale_of_Shadows1_613"+=trinket1=gale_of_shadows1,id=56462,ilevel=613
-profileset."Gale_of_Shadows1_619"+=trinket1=gale_of_shadows1,id=56462,ilevel=619
-profileset."Gale_of_Shadows1_632"+=trinket1=gale_of_shadows1,id=56462,ilevel=632
+# profileset."Gale_of_Shadows1_606"+=trinket1=gale_of_shadows1,id=56462,ilevel=606
+# profileset."Gale_of_Shadows1_619"+=trinket1=gale_of_shadows1,id=56462,ilevel=619
+# profileset."Gale_of_Shadows1_626"+=trinket1=gale_of_shadows1,id=56462,ilevel=626
+# profileset."Gale_of_Shadows1_639"+=trinket1=gale_of_shadows1,id=56462,ilevel=639
 
-profileset."Gale_of_Shadows2_600"+=trinket1=gale_of_shadows2,id=56138,ilevel=600
-profileset."Gale_of_Shadows2_613"+=trinket1=gale_of_shadows2,id=56138,ilevel=613
-profileset."Gale_of_Shadows2_619"+=trinket1=gale_of_shadows2,id=56138,ilevel=619
-profileset."Gale_of_Shadows2_632"+=trinket1=gale_of_shadows2,id=56138,ilevel=632
+# profileset."Gale_of_Shadows2_606"+=trinket1=gale_of_shadows2,id=56198,ilevel=606
+# profileset."Gale_of_Shadows2_619"+=trinket1=gale_of_shadows2,id=56198,ilevel=619
+# profileset."Gale_of_Shadows2_626"+=trinket1=gale_of_shadows2,id=56198,ilevel=626
+# profileset."Gale_of_Shadows2_639"+=trinket1=gale_of_shadows2,id=56198,ilevel=639
 
-# Mythic 0 Only - 580
-## TODO: Fix item levels, completely guessing
+# Normal Only - 593
 ## The Rookery
-profileset."Entropic_Skardyn_Core_580"+=trinket1=entropic_skardyn_core,id=219296,ilevel=580
+profileset."Entropic_Skardyn_Core_593"+=trinket1=entropic_skardyn_core,id=219296,ilevel=593
 
-profileset."Sigil_of_Algari_Concordance_580"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=580
+profileset."Sigil_of_Algari_Concordance_593"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=593
 
 ## Priory of the Sacred Flame
-profileset."Signet_of_the_Priory_580"+=trinket1=signet_of_the_priory,id=219308,ilevel=580
+profileset."Signet_of_the_Priory_593"+=trinket1=signet_of_the_priory,id=219308,ilevel=593
+
+profileset."Bursting_Lightshard_593"+=trinket1=bursting_lightshard,id=219310,ilevel=593
 
 ## Cinderbrew Meadery
-profileset."Synergistic_Brewterializer_580"+=trinket1=synergistic_brewterializer,id=219299,ilevel=580
+profileset."Synergistic_Brewterializer_593"+=trinket1=synergistic_brewterializer,id=219299,ilevel=593
 
 ## Darkflame Cleft
-profileset."Remnant_of_Darkness_580"+=trinket1=remnant_of_darkness,id=219307,ilevel=580
+profileset."Remnant_of_Darkness_593"+=trinket1=remnant_of_darkness,id=219307,ilevel=593
 
-profileset."Carved_Blazikon_Wax_580"+=trinket1=carved_blazikon_wax,id=219305,ilevel=580
+profileset."Carved_Blazikon_Wax_593"+=trinket1=carved_blazikon_wax,id=219305,ilevel=593
