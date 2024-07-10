@@ -6,27 +6,28 @@ python build_combos.py
 from itertools import combinations
 
 combos = {
-    # s1 dungeons (?/632)
-    "Ara_Kara_Sacbrood_632": "arakara_sacbrood,id=219314,ilevel=632",
-    "Harvesters_Edict_632": "harvesters_edict,id=219317,ilevel=632",
-    "Cirral_Concoctory_632": "cirral_concoctory,id=219321,ilevel=632",
-    "High_Speakers_Accretion_632": "high_speakers_accretion,id=219303,ilevel=632",
-    "Empowering_Crystal_of_Anubikkaj_632": "empowering_crystal_of_anubikkaj,id=219312,ilevel=632",
-    "Unbound_Changeling_All_632": "unbound_changeling,id=178708,ilevel=632",
-    "Unbound_Changeling_Crit_632": "unbound_changeling,id=178708,ilevel=632",
-    "Unbound_Changeling_Haste_632": "unbound_changeling,id=178708,ilevel=632",
-    "Unbound_Changeling_Mastery_632": "unbound_changeling,id=178708,ilevel=632",
-    "Satchel_of_Misbegotten_Minions_632": "satchel_of_misbegotten_minions,id=178772,ilevel=632",
-    "Hadals_Nautilus_632": "hadals_nautilus,id=159622,ilevel=632",
-    "Gale_of_Shadows1_632": "gale_of_shadows1,id=56462,ilevel=632",
-    "Gale_of_Shadows2_632": "gale_of_shadows2,id=56138,ilevel=632",
-    # neru'bar palace (?/632)
-    "Aberrant_Spellforge_632": "aberrant_spellforge,id=212451,ilevel=632",
-    # "Gruesome_Syringe_632": "gruesome_syringe,id=212452,ilevel=632",
-    "Mad_Queens_Mandate_632": "mad_queens_mandate,id=212454,ilevel=632",
-    "Spymasters_Web_632": "spymasters_web,id=220202,ilevel=632",
-    "Ovinaxs_Mercurial_Egg_632": "ovinaxs_mercurial_egg,id=220305,ilevel=632",
-    "Treacherous_Transmitter_632": "treacherous_transmitter,id=221023,ilevel=632",
+    # s1 dungeons (?/639)
+    "Ara_Kara_Sacbrood_639": "arakara_sacbrood,id=219314,ilevel=639",
+    "Harvesters_Edict_639": "harvesters_edict,id=219317,ilevel=639",
+    "Cirral_Concoctory_639": "cirral_concoctory,id=219321,ilevel=639",
+    "High_Speakers_Accretion_639": "high_speakers_accretion,id=219303,ilevel=639",
+    "Empowering_Crystal_of_Anubikkaj_639": "empowering_crystal_of_anubikkaj,id=219312,ilevel=639",
+    "Unbound_Changeling_All_639": "unbound_changeling,id=178708,ilevel=639",
+    "Unbound_Changeling_Crit_639": "unbound_changeling,id=178708,ilevel=639",
+    "Unbound_Changeling_Haste_639": "unbound_changeling,id=178708,ilevel=639",
+    "Unbound_Changeling_Mastery_639": "unbound_changeling,id=178708,ilevel=639",
+    "Satchel_of_Misbegotten_Minions_639": "satchel_of_misbegotten_minions,id=178772,ilevel=639",
+    "Hadals_Nautilus_639": "hadals_nautilus,id=159622,ilevel=639",
+    # neru'bar palace (?/639)
+    "Aberrant_Spellforge_639": "aberrant_spellforge,id=212451,ilevel=639",
+    "Mad_Queens_Mandate_639": "mad_queens_mandate,id=212454,ilevel=639",
+    "Spymasters_Web_639": "spymasters_web,id=220202,ilevel=639",
+    "Ovinaxs_Mercurial_Egg_639": "ovinaxs_mercurial_egg,id=220305,ilevel=639",
+    "Treacherous_Transmitter_639": "treacherous_transmitter,id=221023,ilevel=639",
+    # delves (626)
+    "Imperfect_Ascendancy_Serum_626": "imperfect_ascendancy_serum,id=225654,ilevel=626",
+    "Quickwick_Candlestick_626": "quickwick_candlestick,id=225649,ilevel=626",
+
 }
 
 

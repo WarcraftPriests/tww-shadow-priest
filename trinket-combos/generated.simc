@@ -22,500 +22,500 @@ finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
-profileset."Ara_Kara_Sacbrood_632-Harvesters_Edict_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Harvesters_Edict_632"+=trinket2=harvesters_edict,id=219317,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Harvesters_Edict_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Harvesters_Edict_639"+=trinket2=harvesters_edict,id=219317,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Cirral_Concoctory_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Cirral_Concoctory_632"+=trinket2=cirral_concoctory,id=219321,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Cirral_Concoctory_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Cirral_Concoctory_639"+=trinket2=cirral_concoctory,id=219321,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-High_Speakers_Accretion_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-High_Speakers_Accretion_632"+=trinket2=high_speakers_accretion,id=219303,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-High_Speakers_Accretion_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-High_Speakers_Accretion_639"+=trinket2=high_speakers_accretion,id=219303,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Empowering_Crystal_of_Anubikkaj_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Empowering_Crystal_of_Anubikkaj_632"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_All_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_All_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_All_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_All_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_All_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_All_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Crit_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Crit_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Crit_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Crit_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Crit_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Crit_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Haste_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Haste_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Haste_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Haste_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Haste_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Haste_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Mastery_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Mastery_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Unbound_Changeling_Mastery_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Mastery_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Mastery_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Unbound_Changeling_Mastery_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Hadals_Nautilus_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Hadals_Nautilus_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Gale_of_Shadows1_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Aberrant_Spellforge_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Gale_of_Shadows2_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Mad_Queens_Mandate_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Aberrant_Spellforge_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Spymasters_Web_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Mad_Queens_Mandate_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Spymasters_Web_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Treacherous_Transmitter_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Ara_Kara_Sacbrood_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Imperfect_Ascendancy_Serum_626"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Ara_Kara_Sacbrood_632-Treacherous_Transmitter_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
-profileset."Ara_Kara_Sacbrood_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Ara_Kara_Sacbrood_639-Quickwick_Candlestick_626"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Harvesters_Edict_632-Cirral_Concoctory_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Cirral_Concoctory_632"+=trinket2=cirral_concoctory,id=219321,ilevel=632
+profileset."Harvesters_Edict_639-Cirral_Concoctory_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Cirral_Concoctory_639"+=trinket2=cirral_concoctory,id=219321,ilevel=639
 
-profileset."Harvesters_Edict_632-High_Speakers_Accretion_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-High_Speakers_Accretion_632"+=trinket2=high_speakers_accretion,id=219303,ilevel=632
+profileset."Harvesters_Edict_639-High_Speakers_Accretion_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-High_Speakers_Accretion_639"+=trinket2=high_speakers_accretion,id=219303,ilevel=639
 
-profileset."Harvesters_Edict_632-Empowering_Crystal_of_Anubikkaj_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Empowering_Crystal_of_Anubikkaj_632"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
+profileset."Harvesters_Edict_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 
-profileset."Harvesters_Edict_632-Unbound_Changeling_All_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Harvesters_Edict_632-Unbound_Changeling_All_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Unbound_Changeling_All_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Harvesters_Edict_639-Unbound_Changeling_All_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Harvesters_Edict_639-Unbound_Changeling_All_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Unbound_Changeling_All_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Harvesters_Edict_632-Unbound_Changeling_Crit_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Harvesters_Edict_632-Unbound_Changeling_Crit_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Unbound_Changeling_Crit_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Harvesters_Edict_639-Unbound_Changeling_Crit_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Harvesters_Edict_639-Unbound_Changeling_Crit_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Unbound_Changeling_Crit_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Harvesters_Edict_632-Unbound_Changeling_Haste_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Harvesters_Edict_632-Unbound_Changeling_Haste_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Unbound_Changeling_Haste_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Harvesters_Edict_639-Unbound_Changeling_Haste_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Harvesters_Edict_639-Unbound_Changeling_Haste_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Unbound_Changeling_Haste_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Harvesters_Edict_632-Unbound_Changeling_Mastery_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Harvesters_Edict_632-Unbound_Changeling_Mastery_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Unbound_Changeling_Mastery_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Harvesters_Edict_639-Unbound_Changeling_Mastery_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Harvesters_Edict_639-Unbound_Changeling_Mastery_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Unbound_Changeling_Mastery_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Harvesters_Edict_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Harvesters_Edict_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."Harvesters_Edict_632-Hadals_Nautilus_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Harvesters_Edict_639-Hadals_Nautilus_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Harvesters_Edict_632-Gale_of_Shadows1_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Harvesters_Edict_639-Aberrant_Spellforge_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Harvesters_Edict_632-Gale_of_Shadows2_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Harvesters_Edict_639-Mad_Queens_Mandate_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Harvesters_Edict_632-Aberrant_Spellforge_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Harvesters_Edict_639-Spymasters_Web_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Harvesters_Edict_632-Mad_Queens_Mandate_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Harvesters_Edict_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Harvesters_Edict_632-Spymasters_Web_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Harvesters_Edict_639-Treacherous_Transmitter_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Harvesters_Edict_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Harvesters_Edict_639-Imperfect_Ascendancy_Serum_626"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Harvesters_Edict_632-Treacherous_Transmitter_632"+=trinket1=harvesters_edict,id=219317,ilevel=632
-profileset."Harvesters_Edict_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Harvesters_Edict_639-Quickwick_Candlestick_626"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Cirral_Concoctory_632-High_Speakers_Accretion_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-High_Speakers_Accretion_632"+=trinket2=high_speakers_accretion,id=219303,ilevel=632
+profileset."Cirral_Concoctory_639-High_Speakers_Accretion_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-High_Speakers_Accretion_639"+=trinket2=high_speakers_accretion,id=219303,ilevel=639
 
-profileset."Cirral_Concoctory_632-Empowering_Crystal_of_Anubikkaj_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Empowering_Crystal_of_Anubikkaj_632"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
+profileset."Cirral_Concoctory_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 
-profileset."Cirral_Concoctory_632-Unbound_Changeling_All_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Cirral_Concoctory_632-Unbound_Changeling_All_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Unbound_Changeling_All_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Cirral_Concoctory_639-Unbound_Changeling_All_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Cirral_Concoctory_639-Unbound_Changeling_All_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Unbound_Changeling_All_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Crit_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Crit_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Crit_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Crit_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Crit_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Crit_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Haste_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Haste_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Haste_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Haste_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Haste_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Haste_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Mastery_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Mastery_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Unbound_Changeling_Mastery_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Mastery_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Mastery_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Unbound_Changeling_Mastery_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Cirral_Concoctory_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Cirral_Concoctory_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."Cirral_Concoctory_632-Hadals_Nautilus_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Cirral_Concoctory_639-Hadals_Nautilus_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Cirral_Concoctory_632-Gale_of_Shadows1_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Cirral_Concoctory_639-Aberrant_Spellforge_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Cirral_Concoctory_632-Gale_of_Shadows2_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Cirral_Concoctory_639-Mad_Queens_Mandate_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Cirral_Concoctory_632-Aberrant_Spellforge_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Cirral_Concoctory_639-Spymasters_Web_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Cirral_Concoctory_632-Mad_Queens_Mandate_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Cirral_Concoctory_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Cirral_Concoctory_632-Spymasters_Web_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Cirral_Concoctory_639-Treacherous_Transmitter_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Cirral_Concoctory_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Cirral_Concoctory_639-Imperfect_Ascendancy_Serum_626"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Cirral_Concoctory_632-Treacherous_Transmitter_632"+=trinket1=cirral_concoctory,id=219321,ilevel=632
-profileset."Cirral_Concoctory_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Cirral_Concoctory_639-Quickwick_Candlestick_626"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."High_Speakers_Accretion_632-Empowering_Crystal_of_Anubikkaj_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Empowering_Crystal_of_Anubikkaj_632"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
+profileset."High_Speakers_Accretion_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_All_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_All_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_All_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_All_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_All_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_All_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Crit_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Crit_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Crit_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Crit_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Crit_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Crit_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Haste_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Haste_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Haste_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Haste_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Haste_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Haste_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Mastery_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Mastery_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Unbound_Changeling_Mastery_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Mastery_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Mastery_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Unbound_Changeling_Mastery_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."High_Speakers_Accretion_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Hadals_Nautilus_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."High_Speakers_Accretion_639-Hadals_Nautilus_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Gale_of_Shadows1_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."High_Speakers_Accretion_639-Aberrant_Spellforge_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Gale_of_Shadows2_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."High_Speakers_Accretion_639-Mad_Queens_Mandate_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Aberrant_Spellforge_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."High_Speakers_Accretion_639-Spymasters_Web_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Mad_Queens_Mandate_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."High_Speakers_Accretion_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Spymasters_Web_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."High_Speakers_Accretion_639-Treacherous_Transmitter_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."High_Speakers_Accretion_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."High_Speakers_Accretion_639-Imperfect_Ascendancy_Serum_626"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."High_Speakers_Accretion_632-Treacherous_Transmitter_632"+=trinket1=high_speakers_accretion,id=219303,ilevel=632
-profileset."High_Speakers_Accretion_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."High_Speakers_Accretion_639-Quickwick_Candlestick_626"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_All_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_All_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_All_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_All_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_All_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_All_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Crit_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Crit_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Crit_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Crit_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Crit_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Crit_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Haste_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Haste_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Haste_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Haste_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Haste_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Haste_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Mastery_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Mastery_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Unbound_Changeling_Mastery_632"+=trinket2=unbound_changeling,id=178708,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Mastery_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Mastery_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_Mastery_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Hadals_Nautilus_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Hadals_Nautilus_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Gale_of_Shadows1_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Aberrant_Spellforge_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Gale_of_Shadows2_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Mad_Queens_Mandate_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Aberrant_Spellforge_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Spymasters_Web_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Mad_Queens_Mandate_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Spymasters_Web_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Treacherous_Transmitter_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Imperfect_Ascendancy_Serum_626"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Empowering_Crystal_of_Anubikkaj_632-Treacherous_Transmitter_632"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=632
-profileset."Empowering_Crystal_of_Anubikkaj_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Empowering_Crystal_of_Anubikkaj_639-Quickwick_Candlestick_626"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Unbound_Changeling_All_632-Satchel_of_Misbegotten_Minions_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Unbound_Changeling_All_639-Satchel_of_Misbegotten_Minions_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."Unbound_Changeling_All_632-Hadals_Nautilus_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Hadals_Nautilus_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Unbound_Changeling_All_639-Hadals_Nautilus_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Hadals_Nautilus_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Unbound_Changeling_All_632-Gale_of_Shadows1_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Gale_of_Shadows1_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Unbound_Changeling_All_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Unbound_Changeling_All_632-Gale_of_Shadows2_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Gale_of_Shadows2_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Unbound_Changeling_All_639-Mad_Queens_Mandate_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Mad_Queens_Mandate_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Unbound_Changeling_All_632-Aberrant_Spellforge_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Aberrant_Spellforge_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Unbound_Changeling_All_639-Spymasters_Web_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Spymasters_Web_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Unbound_Changeling_All_632-Mad_Queens_Mandate_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Mad_Queens_Mandate_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Unbound_Changeling_All_639-Ovinaxs_Mercurial_Egg_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Unbound_Changeling_All_632-Spymasters_Web_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Spymasters_Web_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Unbound_Changeling_All_639-Treacherous_Transmitter_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Treacherous_Transmitter_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Unbound_Changeling_All_632-Ovinaxs_Mercurial_Egg_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Unbound_Changeling_All_639-Imperfect_Ascendancy_Serum_626"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Imperfect_Ascendancy_Serum_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Unbound_Changeling_All_632-Treacherous_Transmitter_632"+=shadowlands.unbound_changeling_stat_type=all
-profileset."Unbound_Changeling_All_632-Treacherous_Transmitter_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_All_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Unbound_Changeling_All_639-Quickwick_Candlestick_626"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Quickwick_Candlestick_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Unbound_Changeling_Crit_632-Satchel_of_Misbegotten_Minions_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Satchel_of_Misbegotten_Minions_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."Unbound_Changeling_Crit_632-Hadals_Nautilus_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Hadals_Nautilus_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Hadals_Nautilus_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Hadals_Nautilus_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Unbound_Changeling_Crit_632-Gale_of_Shadows1_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Gale_of_Shadows1_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Unbound_Changeling_Crit_632-Gale_of_Shadows2_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Gale_of_Shadows2_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Mad_Queens_Mandate_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Mad_Queens_Mandate_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Unbound_Changeling_Crit_632-Aberrant_Spellforge_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Aberrant_Spellforge_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Spymasters_Web_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Spymasters_Web_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Unbound_Changeling_Crit_632-Mad_Queens_Mandate_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Mad_Queens_Mandate_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Ovinaxs_Mercurial_Egg_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Unbound_Changeling_Crit_632-Spymasters_Web_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Spymasters_Web_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Treacherous_Transmitter_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Treacherous_Transmitter_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Unbound_Changeling_Crit_632-Ovinaxs_Mercurial_Egg_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Imperfect_Ascendancy_Serum_626"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Imperfect_Ascendancy_Serum_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Unbound_Changeling_Crit_632-Treacherous_Transmitter_632"+=shadowlands.unbound_changeling_stat_type=crit
-profileset."Unbound_Changeling_Crit_632-Treacherous_Transmitter_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Crit_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Unbound_Changeling_Crit_639-Quickwick_Candlestick_626"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Quickwick_Candlestick_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Unbound_Changeling_Haste_632-Satchel_of_Misbegotten_Minions_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Satchel_of_Misbegotten_Minions_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."Unbound_Changeling_Haste_632-Hadals_Nautilus_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Hadals_Nautilus_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Hadals_Nautilus_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Hadals_Nautilus_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Unbound_Changeling_Haste_632-Gale_of_Shadows1_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Gale_of_Shadows1_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Unbound_Changeling_Haste_632-Gale_of_Shadows2_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Gale_of_Shadows2_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Mad_Queens_Mandate_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Mad_Queens_Mandate_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Unbound_Changeling_Haste_632-Aberrant_Spellforge_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Aberrant_Spellforge_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Spymasters_Web_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Spymasters_Web_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Unbound_Changeling_Haste_632-Mad_Queens_Mandate_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Mad_Queens_Mandate_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Ovinaxs_Mercurial_Egg_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Unbound_Changeling_Haste_632-Spymasters_Web_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Spymasters_Web_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Treacherous_Transmitter_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Treacherous_Transmitter_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Unbound_Changeling_Haste_632-Ovinaxs_Mercurial_Egg_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Imperfect_Ascendancy_Serum_626"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Imperfect_Ascendancy_Serum_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Unbound_Changeling_Haste_632-Treacherous_Transmitter_632"+=shadowlands.unbound_changeling_stat_type=haste
-profileset."Unbound_Changeling_Haste_632-Treacherous_Transmitter_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Haste_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Unbound_Changeling_Haste_639-Quickwick_Candlestick_626"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Quickwick_Candlestick_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Unbound_Changeling_Mastery_632-Satchel_of_Misbegotten_Minions_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Satchel_of_Misbegotten_Minions_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Satchel_of_Misbegotten_Minions_632"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Satchel_of_Misbegotten_Minions_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
 
-profileset."Unbound_Changeling_Mastery_632-Hadals_Nautilus_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Hadals_Nautilus_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Hadals_Nautilus_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Hadals_Nautilus_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Unbound_Changeling_Mastery_632-Gale_of_Shadows1_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Gale_of_Shadows1_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Unbound_Changeling_Mastery_632-Gale_of_Shadows2_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Gale_of_Shadows2_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Mad_Queens_Mandate_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Mad_Queens_Mandate_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Unbound_Changeling_Mastery_632-Aberrant_Spellforge_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Aberrant_Spellforge_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Spymasters_Web_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Spymasters_Web_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Unbound_Changeling_Mastery_632-Mad_Queens_Mandate_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Mad_Queens_Mandate_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Ovinaxs_Mercurial_Egg_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Unbound_Changeling_Mastery_632-Spymasters_Web_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Spymasters_Web_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Treacherous_Transmitter_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Treacherous_Transmitter_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Unbound_Changeling_Mastery_632-Ovinaxs_Mercurial_Egg_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Imperfect_Ascendancy_Serum_626"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Imperfect_Ascendancy_Serum_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Unbound_Changeling_Mastery_632-Treacherous_Transmitter_632"+=shadowlands.unbound_changeling_stat_type=mastery
-profileset."Unbound_Changeling_Mastery_632-Treacherous_Transmitter_632"+=trinket1=unbound_changeling,id=178708,ilevel=632
-profileset."Unbound_Changeling_Mastery_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Unbound_Changeling_Mastery_639-Quickwick_Candlestick_626"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Quickwick_Candlestick_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Satchel_of_Misbegotten_Minions_632-Hadals_Nautilus_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
-profileset."Satchel_of_Misbegotten_Minions_632-Hadals_Nautilus_632"+=trinket2=hadals_nautilus,id=159622,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_639-Hadals_Nautilus_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
-profileset."Satchel_of_Misbegotten_Minions_632-Gale_of_Shadows1_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
-profileset."Satchel_of_Misbegotten_Minions_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_639-Aberrant_Spellforge_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Satchel_of_Misbegotten_Minions_632-Gale_of_Shadows2_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
-profileset."Satchel_of_Misbegotten_Minions_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_639-Mad_Queens_Mandate_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Satchel_of_Misbegotten_Minions_632-Aberrant_Spellforge_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
-profileset."Satchel_of_Misbegotten_Minions_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_639-Spymasters_Web_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Satchel_of_Misbegotten_Minions_632-Mad_Queens_Mandate_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
-profileset."Satchel_of_Misbegotten_Minions_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Satchel_of_Misbegotten_Minions_632-Spymasters_Web_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
-profileset."Satchel_of_Misbegotten_Minions_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_639-Treacherous_Transmitter_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Satchel_of_Misbegotten_Minions_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
-profileset."Satchel_of_Misbegotten_Minions_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_639-Imperfect_Ascendancy_Serum_626"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Satchel_of_Misbegotten_Minions_632-Treacherous_Transmitter_632"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=632
-profileset."Satchel_of_Misbegotten_Minions_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Satchel_of_Misbegotten_Minions_639-Quickwick_Candlestick_626"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Hadals_Nautilus_632-Gale_of_Shadows1_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
-profileset."Hadals_Nautilus_632-Gale_of_Shadows1_632"+=trinket2=gale_of_shadows1,id=56462,ilevel=632
+profileset."Hadals_Nautilus_639-Aberrant_Spellforge_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Hadals_Nautilus_632-Gale_of_Shadows2_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
-profileset."Hadals_Nautilus_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Hadals_Nautilus_639-Mad_Queens_Mandate_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Hadals_Nautilus_632-Aberrant_Spellforge_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
-profileset."Hadals_Nautilus_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Hadals_Nautilus_639-Spymasters_Web_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Hadals_Nautilus_632-Mad_Queens_Mandate_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
-profileset."Hadals_Nautilus_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Hadals_Nautilus_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Hadals_Nautilus_632-Spymasters_Web_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
-profileset."Hadals_Nautilus_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Hadals_Nautilus_639-Treacherous_Transmitter_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Hadals_Nautilus_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
-profileset."Hadals_Nautilus_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Hadals_Nautilus_639-Imperfect_Ascendancy_Serum_626"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Hadals_Nautilus_632-Treacherous_Transmitter_632"+=trinket1=hadals_nautilus,id=159622,ilevel=632
-profileset."Hadals_Nautilus_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Hadals_Nautilus_639-Quickwick_Candlestick_626"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Gale_of_Shadows1_632-Gale_of_Shadows2_632"+=trinket1=gale_of_shadows1,id=56462,ilevel=632
-profileset."Gale_of_Shadows1_632-Gale_of_Shadows2_632"+=trinket2=gale_of_shadows2,id=56138,ilevel=632
+profileset."Aberrant_Spellforge_639-Mad_Queens_Mandate_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+profileset."Aberrant_Spellforge_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Gale_of_Shadows1_632-Aberrant_Spellforge_632"+=trinket1=gale_of_shadows1,id=56462,ilevel=632
-profileset."Gale_of_Shadows1_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Aberrant_Spellforge_639-Spymasters_Web_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+profileset."Aberrant_Spellforge_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Gale_of_Shadows1_632-Mad_Queens_Mandate_632"+=trinket1=gale_of_shadows1,id=56462,ilevel=632
-profileset."Gale_of_Shadows1_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Aberrant_Spellforge_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+profileset."Aberrant_Spellforge_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Gale_of_Shadows1_632-Spymasters_Web_632"+=trinket1=gale_of_shadows1,id=56462,ilevel=632
-profileset."Gale_of_Shadows1_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Aberrant_Spellforge_639-Treacherous_Transmitter_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+profileset."Aberrant_Spellforge_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Gale_of_Shadows1_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=gale_of_shadows1,id=56462,ilevel=632
-profileset."Gale_of_Shadows1_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Aberrant_Spellforge_639-Imperfect_Ascendancy_Serum_626"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+profileset."Aberrant_Spellforge_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Gale_of_Shadows1_632-Treacherous_Transmitter_632"+=trinket1=gale_of_shadows1,id=56462,ilevel=632
-profileset."Gale_of_Shadows1_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Aberrant_Spellforge_639-Quickwick_Candlestick_626"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+profileset."Aberrant_Spellforge_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Gale_of_Shadows2_632-Aberrant_Spellforge_632"+=trinket1=gale_of_shadows2,id=56138,ilevel=632
-profileset."Gale_of_Shadows2_632-Aberrant_Spellforge_632"+=trinket2=aberrant_spellforge,id=212451,ilevel=632
+profileset."Mad_Queens_Mandate_639-Spymasters_Web_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
-profileset."Gale_of_Shadows2_632-Mad_Queens_Mandate_632"+=trinket1=gale_of_shadows2,id=56138,ilevel=632
-profileset."Gale_of_Shadows2_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Mad_Queens_Mandate_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Gale_of_Shadows2_632-Spymasters_Web_632"+=trinket1=gale_of_shadows2,id=56138,ilevel=632
-profileset."Gale_of_Shadows2_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Mad_Queens_Mandate_639-Treacherous_Transmitter_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Gale_of_Shadows2_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=gale_of_shadows2,id=56138,ilevel=632
-profileset."Gale_of_Shadows2_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Mad_Queens_Mandate_639-Imperfect_Ascendancy_Serum_626"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Gale_of_Shadows2_632-Treacherous_Transmitter_632"+=trinket1=gale_of_shadows2,id=56138,ilevel=632
-profileset."Gale_of_Shadows2_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Mad_Queens_Mandate_639-Quickwick_Candlestick_626"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Aberrant_Spellforge_632-Mad_Queens_Mandate_632"+=trinket1=aberrant_spellforge,id=212451,ilevel=632
-profileset."Aberrant_Spellforge_632-Mad_Queens_Mandate_632"+=trinket2=mad_queens_mandate,id=212454,ilevel=632
+profileset."Spymasters_Web_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=spymasters_web,id=220202,ilevel=639
+profileset."Spymasters_Web_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Aberrant_Spellforge_632-Spymasters_Web_632"+=trinket1=aberrant_spellforge,id=212451,ilevel=632
-profileset."Aberrant_Spellforge_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Spymasters_Web_639-Treacherous_Transmitter_639"+=trinket1=spymasters_web,id=220202,ilevel=639
+profileset."Spymasters_Web_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Aberrant_Spellforge_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=aberrant_spellforge,id=212451,ilevel=632
-profileset."Aberrant_Spellforge_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Spymasters_Web_639-Imperfect_Ascendancy_Serum_626"+=trinket1=spymasters_web,id=220202,ilevel=639
+profileset."Spymasters_Web_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Aberrant_Spellforge_632-Treacherous_Transmitter_632"+=trinket1=aberrant_spellforge,id=212451,ilevel=632
-profileset."Aberrant_Spellforge_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Spymasters_Web_639-Quickwick_Candlestick_626"+=trinket1=spymasters_web,id=220202,ilevel=639
+profileset."Spymasters_Web_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Mad_Queens_Mandate_632-Spymasters_Web_632"+=trinket1=mad_queens_mandate,id=212454,ilevel=632
-profileset."Mad_Queens_Mandate_632-Spymasters_Web_632"+=trinket2=spymasters_web,id=220202,ilevel=632
+profileset."Ovinaxs_Mercurial_Egg_639-Treacherous_Transmitter_639"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
+profileset."Ovinaxs_Mercurial_Egg_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
-profileset."Mad_Queens_Mandate_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=mad_queens_mandate,id=212454,ilevel=632
-profileset."Mad_Queens_Mandate_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Ovinaxs_Mercurial_Egg_639-Imperfect_Ascendancy_Serum_626"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
+profileset."Ovinaxs_Mercurial_Egg_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Mad_Queens_Mandate_632-Treacherous_Transmitter_632"+=trinket1=mad_queens_mandate,id=212454,ilevel=632
-profileset."Mad_Queens_Mandate_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Ovinaxs_Mercurial_Egg_639-Quickwick_Candlestick_626"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
+profileset."Ovinaxs_Mercurial_Egg_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Spymasters_Web_632-Ovinaxs_Mercurial_Egg_632"+=trinket1=spymasters_web,id=220202,ilevel=632
-profileset."Spymasters_Web_632-Ovinaxs_Mercurial_Egg_632"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=632
+profileset."Treacherous_Transmitter_639-Imperfect_Ascendancy_Serum_626"+=trinket1=treacherous_transmitter,id=221023,ilevel=639
+profileset."Treacherous_Transmitter_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
-profileset."Spymasters_Web_632-Treacherous_Transmitter_632"+=trinket1=spymasters_web,id=220202,ilevel=632
-profileset."Spymasters_Web_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Treacherous_Transmitter_639-Quickwick_Candlestick_626"+=trinket1=treacherous_transmitter,id=221023,ilevel=639
+profileset."Treacherous_Transmitter_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Ovinaxs_Mercurial_Egg_632-Treacherous_Transmitter_632"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=632
-profileset."Ovinaxs_Mercurial_Egg_632-Treacherous_Transmitter_632"+=trinket2=treacherous_transmitter,id=221023,ilevel=632
+profileset."Imperfect_Ascendancy_Serum_626-Quickwick_Candlestick_626"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=626
+profileset."Imperfect_Ascendancy_Serum_626-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
