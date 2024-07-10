@@ -308,7 +308,7 @@ sims:
       - DPS
     files:
       - weights.simc
-compositeWeights: weightsFatedRaids
+compositeWeights: weightsNerubarPalace
 singleTargetWeights: weightsSingle
 twoTargetWeights: weightsTwoTargets
 threeTargetWeights: weightsThreeTargets

@@ -1,159 +1,69 @@
 """weight dict definitions"""
 
-weights_vault_of_the_incarnates = {
+weights_nerubar_palace = {
     'pw_ba_1': 0.050,
-    'pw_sa_1': 0.0833,
-    'pw_na_1': 0.250,
-    'lm_ba_1': 0.100,
-    'lm_sa_1': 0.163,
-    'lm_na_1': 0.075,
-    'hm_ba_1': 0.013,
-    'hm_sa_1': 0.025,
-    'hm_na_1': 0.013,
+    'pw_sa_1': 0.113,
+    'pw_na_1': 0.488,
+    'lm_ba_1': 0.013,
+    'lm_sa_1': 0.075,
+    'lm_na_1': 0.138,
+    'hm_ba_1': 0.000,
+    'hm_sa_1': 0.000,
+    'hm_na_1': 0.038,
     'pw_ba_2': 0.000,
-    'pw_sa_2': 0.000,
-    'pw_na_2': 0.038,
+    'pw_sa_2': 0.075,
+    'pw_na_2': 0.000,
     'lm_ba_2': 0.000,
-    'lm_sa_2': 0.000,
-    'lm_na_2': 0.025,
+    'lm_sa_2': 0.013,
+    'lm_na_2': 0.000,
     'hm_ba_2': 0.000,
     'hm_sa_2': 0.000,
     'hm_na_2': 0.000,
     'pw_ba_4': 0.000,
     'pw_sa_4': 0.000,
-    'pw_na_4': 0.088,
+    'pw_na_4': 0.000,
     'lm_ba_4': 0.000,
     'lm_sa_4': 0.000,
-    'lm_na_4': 0.038,
+    'lm_na_4': 0.000,
     'hm_ba_4': 0.000,
     'hm_sa_4': 0.000,
     'hm_na_4': 0.000,
-}
-
-weights_aberrus_the_shadowed_crucible = {
-    'pw_ba_1': 0.08333333,
-    'pw_sa_1': 0.17777778,
-    'pw_na_1': 0.32777778,
-    'lm_ba_1': 0.01111111,
-    'lm_sa_1': 0.05555556,
-    'lm_na_1': 0.16111111,
-    'hm_ba_1': 0.00000000,
-    'hm_sa_1': 0.00000000,
-    'hm_na_1': 0.06111111,
-    'pw_ba_2': 0.01666667,
-    'pw_sa_2': 0.00000000,
-    'pw_na_2': 0.07222222,
-    'lm_ba_2': 0.00000000,
-    'lm_sa_2': 0.00000000,
-    'lm_na_2': 0.02777778,
-    'hm_ba_2': 0.00000000,
-    'hm_sa_2': 0.00000000,
-    'hm_na_2': 0.00555556,
-    'pw_ba_4': 0.00000000,
-    'pw_sa_4': 0.00000000,
-    'pw_na_4': 0.00000000,
-    'lm_ba_4': 0.00000000,
-    'lm_sa_4': 0.00000000,
-    'lm_na_4': 0.00000000,
-    'hm_ba_4': 0.00000000,
-    'hm_sa_4': 0.00000000,
-    'hm_na_4': 0.00000000,
-}
-
-weights_amirdrassil_the_dreams_hope = {
-    'pw_ba_1': 0.00000000,
-    'pw_sa_1': 0.25555556,
-    'pw_na_1': 0.41111111,
-    'lm_ba_1': 0.00000000,
-    'lm_sa_1': 0.10000000,
-    'lm_na_1': 0.07777778,
-    'hm_ba_1': 0.00000000,
-    'hm_sa_1': 0.01111111,
-    'hm_na_1': 0.03333333,
-    'pw_ba_2': 0.00000000,
-    'pw_sa_2': 0.00000000,
-    'pw_na_2': 0.00000000,
-    'lm_ba_2': 0.00000000,
-    'lm_sa_2': 0.00000000,
-    'lm_na_2': 0.00000000,
-    'hm_ba_2': 0.00000000,
-    'hm_sa_2': 0.00000000,
-    'hm_na_2': 0.00000000,
-    'pw_ba_3': 0.00000000,
-    'pw_sa_3': 0.00000000,
-    'pw_na_3': 0.05555556,
-    'lm_ba_3': 0.00000000,
-    'lm_sa_3': 0.00000000,
-    'lm_na_3': 0.05555556,
-    'hm_ba_3': 0.00000000,
-    'hm_sa_3': 0.00000000,
-    'hm_na_3': 0.00000000,
-}
-
-weights_fated_raids = {
-    'pw_ba_1': 0.04444444,
-    'pw_sa_1': 0.18611111,
-    'pw_na_1': 0.32962963,
-    'lm_ba_1': 0.03703704,
-    'lm_sa_1': 0.10601852,
-    'lm_na_1': 0.10462963,
-    'hm_ba_1': 0.00416667,
-    'hm_sa_1': 0.01203704,
-    'hm_na_1': 0.03564815,
-    'pw_ba_2': 0.00555556,
-    'pw_sa_2': 0.00000000,
-    'pw_na_2': 0.03657407,
-    'lm_ba_2': 0.00000000,
-    'lm_sa_2': 0.00000000,
-    'lm_na_2': 0.01759259,
-    'hm_ba_2': 0.00000000,
-    'hm_sa_2': 0.00000000,
-    'hm_na_2': 0.00185185,
-    'pw_ba_4': 0.00000000,
-    'pw_sa_4': 0.00000000,
-    'pw_na_4': 0.02916667,
-    'lm_ba_4': 0.00000000,
-    'lm_sa_4': 0.00000000,
-    'lm_na_4': 0.01250000,
-    'hm_ba_4': 0.00000000,
-    'hm_sa_4': 0.00000000,
-    'hm_na_4': 0.00000000,
-    'pw_ba_3': 0.00000000,
-    'pw_sa_3': 0.00000000,
-    'pw_na_3': 0.01851852,
-    'lm_ba_3': 0.00000000,
-    'lm_sa_3': 0.00000000,
-    'lm_na_3': 0.01851852,
-    'hm_ba_3': 0.00000000,
-    'hm_sa_3': 0.00000000,
-    'hm_na_3': 0.00000000,
+    'pw_ba_3': 0.000,
+    'pw_sa_3': 0.000,
+    'pw_na_3': 0.000,
+    'lm_ba_3': 0.000,
+    'lm_sa_3': 0.000,
+    'lm_na_3': 0.000,
+    'hm_ba_3': 0.000,
+    'hm_sa_3': 0.000,
+    'hm_na_3': 0.000,
 }
 
 weights_single = {
-    'pw_na_1': 0.7014778,
-    'lm_na_1': 0.2226601,
-    'hm_na_1': 0.0758621,
+    'pw_na_1': 0.73584905660,
+    'lm_na_1': 0.20754716981,
+    'hm_na_1': 0.05660377358,
 }
 
 weights_two_targets = {
-    'pw_ba_2': 0.0902256,
-    'pw_sa_2': 0.0000000,
-    'pw_na_2': 0.5939850,
-    'lm_ba_2': 0.0000000,
-    'lm_sa_2': 0.0000000,
-    'lm_na_2': 0.2857143,
-    'hm_ba_2': 0.0000000,
-    'hm_sa_2': 0.0000000,
-    'hm_na_2': 0.0300752,
+    'pw_ba_2': 0.000,
+    'pw_sa_2': 0.8571428571,
+    'pw_na_2': 0.000,
+    'lm_ba_2': 0.000,
+    'lm_sa_2': 0.1428571429,
+    'lm_na_2': 0.000,
+    'hm_ba_2': 0.000,
+    'hm_sa_2': 0.000,
+    'hm_na_2': 0.000,
 }
 
 weights_three_targets = {
     'pw_ba_3': 0.0,
     'pw_sa_3': 0.0,
-    'pw_na_3': 0.5,
+    'pw_na_3': 0.8,
     'lm_ba_3': 0.0,
     'lm_sa_3': 0.0,
-    'lm_na_3': 0.5,
+    'lm_na_3': 0.2,
     'hm_ba_3': 0.0,
     'hm_sa_3': 0.0,
     'hm_na_3': 0.0,
@@ -162,10 +72,10 @@ weights_three_targets = {
 weights_four_targets = {
     'pw_ba_4': 0.0,
     'pw_sa_4': 0.0,
-    'pw_na_4': 0.7,
+    'pw_na_4': 0.8,
     'lm_ba_4': 0.0,
     'lm_sa_4': 0.0,
-    'lm_na_4': 0.3,
+    'lm_na_4': 0.2,
     'hm_ba_4': 0.0,
     'hm_sa_4': 0.0,
     'hm_na_4': 0.0,
@@ -316,24 +226,18 @@ def find_weights(key):
         return weights_three_targets
     if key == 'weightsFourTargets':
         return weights_four_targets
-    if key == 'weightsVaultOfTheIncarnates':
-        return weights_vault_of_the_incarnates
-    if key == 'weightsAberrusTheShadowedCrucible':
-        return weights_aberrus_the_shadowed_crucible
     if key == 'weightsSeasonOne':
         return weights_season_one
     if key == 'weightsStandardSeasonTwo':
         return weights_standard_season_two
     if key == 'weightsPushSeasonTwo':
         return weights_push_season_two
-    if key == 'weightsAmirdrassilTheDreamsHope':
-        return weights_amirdrassil_the_dreams_hope
     if key == 'weightsStandardSeasonThree':
         return weights_standard_season_three
     if key == 'weightsPushSeasonThree':
         return weights_push_season_three
-    if key == 'weightsFatedRaids':
-        return weights_fated_raids
+    if key == 'weightsNerubarPalace':
+        return weights_nerubar_palace
     if key == 'weightsStandardSeasonFour':
         return weights_standard_season_four
     if key == 'weightsPushSeasonFour':

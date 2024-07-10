@@ -18,7 +18,7 @@ fightExpressions = {
     "sa": "raid_events+=/adds,count=3,first=45,cooldown=45,duration=10,distance=5",
     "1": "desired_targets=1",
     "2": "desired_targets=2",
-    "3": "enemy=Fluffy_Pillow\nenemy=enemy2\nenemy=enemy3\nraid_events+=/move_enemy,enemy_name=enemy3,cooldown=2000,duration=1000,x=-27,y=-27",  # noqa: E501
+    "3": "desired_targets=3",  # noqa: E501
     "4": "desired_targets=4",
     "dungeons": 'fight_style="DungeonSlice"',
     "ptr": "ptr=1\n",
