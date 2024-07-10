@@ -6,13 +6,13 @@
 - [3T - VW-DA-CTHUN-DR](results/Results_3T_vw-da-cthun-dr.md)
 - [4T - VW-DA-CTHUN-DR](results/Results_4T_vw-da-cthun-dr.md)
 - [Dungeons - VW-DA-CTHUN-DR](results/Results_Dungeons-Slice_vw-da-cthun-dr.md)
-## AR-DA-CTHUN
-- [Composite - AR-DA-CTHUN](results/Results_Composite_ar-da-cthun.md)
-- [Single - AR-DA-CTHUN](results/Results_Single_ar-da-cthun.md)
-- [2T - AR-DA-CTHUN](results/Results_2T_ar-da-cthun.md)
-- [3T - AR-DA-CTHUN](results/Results_3T_ar-da-cthun.md)
-- [4T - AR-DA-CTHUN](results/Results_4T_ar-da-cthun.md)
-- [Dungeons - AR-DA-CTHUN](results/Results_Dungeons-Slice_ar-da-cthun.md)
+## AR-CTHUN
+- [Composite - AR-CTHUN](results/Results_Composite_ar-cthun.md)
+- [Single - AR-CTHUN](results/Results_Single_ar-cthun.md)
+- [2T - AR-CTHUN](results/Results_2T_ar-cthun.md)
+- [3T - AR-CTHUN](results/Results_3T_ar-cthun.md)
+- [4T - AR-CTHUN](results/Results_4T_ar-cthun.md)
+- [Dungeons - AR-CTHUN](results/Results_Dungeons-Slice_ar-cthun.md)
 ## VW-DA-CTHUN-ME
 - [Composite - VW-DA-CTHUN-ME](results/Results_Composite_vw-da-cthun-me.md)
 - [Single - VW-DA-CTHUN-ME](results/Results_Single_vw-da-cthun-me.md)

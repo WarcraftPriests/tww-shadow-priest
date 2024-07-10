@@ -7,7 +7,7 @@ from itertools import combinations
 
 combos = {
     # s1 dungeons (?/632)
-    "Ara_Kara_Sacbrood_632": "ara_kara_sacbrood,id=219314,ilevel=632",
+    "Ara_Kara_Sacbrood_632": "arakara_sacbrood,id=219314,ilevel=632",
     "Harvesters_Edict_632": "harvesters_edict,id=219317,ilevel=632",
     "Cirral_Concoctory_632": "cirral_concoctory,id=219321,ilevel=632",
     "High_Speakers_Accretion_632": "high_speakers_accretion,id=219303,ilevel=632",

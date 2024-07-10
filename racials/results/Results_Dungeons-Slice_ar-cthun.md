@@ -1,0 +1,35 @@
+# Dungeons-Slice - ar-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|1191767|1.92%|
+|Mechagnome|1190813|1.84%|
+|Maghar_Orc|1188557|1.65%|
+|Troll|1186366|1.46%|
+|Draenei|1185153|1.36%|
+|Gnome|1184424|1.30%|
+|Dark_Iron_Dwarf|1183807|1.24%|
+|Human|1183730|1.24%|
+|Goblin|1183603|1.23%|
+|Night_Elf_Haste|1183359|1.20%|
+|Blood_Elf|1181641|1.06%|
+|Highmountain_Tauren|1180929|1.00%|
+|Nightborne|1179905|0.91%|
+|Zandalari_Troll_Paku|1179803|0.90%|
+|Kul_Tiran|1179438|0.87%|
+|Night_Elf_Crit|1179262|0.85%|
+|Void_Elf|1179230|0.85%|
+|Worgen|1177587|0.71%|
+|Dwarf|1175678|0.55%|
+|Tauren|1175144|0.50%|
+|Panda_Crit|1172159|0.25%|
+|Panda_Mastery|1171535|0.19%|
+|Zandalari_Troll_Bwonsamdi|1171401|0.18%|
+|Panda_Fortune_Cookie|1170881|0.14%|
+|Panda_Vers|1170848|0.13%|
+|Panda_Haste|1170812|0.13%|
+|Zandalari_Troll_Kimbul|1170300|0.09%|
+|Earthen|1169911|0.05%|
+|Lightforged_Draenei|1169829|0.05%|
+|Vulpera|1169372|0.01%|
+|Base|1169277|0.00%|
+|Undead|1168546|-0.06%|

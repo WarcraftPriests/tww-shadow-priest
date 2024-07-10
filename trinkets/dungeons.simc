@@ -26,11 +26,11 @@ ${gear.off_hand}
 ## TODO: Fix item levels, completely guessing
 # Highest from key: 600 // Upgrade: 613 // Highest from vault: ?->632
 ## Ara-Kara
-profileset."Ara_Kara_Sacbrood_580"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=580
-profileset."Ara_Kara_Sacbrood_600"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=600
-profileset."Ara_Kara_Sacbrood_613"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=613
-profileset."Ara_Kara_Sacbrood_619"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=619
-profileset."Ara_Kara_Sacbrood_632"+=trinket1=ara_kara_sacbrood,id=219314,ilevel=632
+profileset."AraKara_Sacbrood_580"+=trinket1=arakara_sacbrood,id=219314,ilevel=580
+profileset."AraKara_Sacbrood_600"+=trinket1=arakara_sacbrood,id=219314,ilevel=600
+profileset."AraKara_Sacbrood_613"+=trinket1=arakara_sacbrood,id=219314,ilevel=613
+profileset."AraKara_Sacbrood_619"+=trinket1=arakara_sacbrood,id=219314,ilevel=619
+profileset."AraKara_Sacbrood_632"+=trinket1=arakara_sacbrood,id=219314,ilevel=632
 
 profileset."Harvesters_Edict_580"+=trinket1=harvesters_edict,id=219317,ilevel=580
 profileset."Harvesters_Edict_600"+=trinket1=harvesters_edict,id=219317,ilevel=600

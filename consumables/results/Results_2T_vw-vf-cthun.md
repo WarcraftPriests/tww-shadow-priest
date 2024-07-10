@@ -1,18 +1,18 @@
 # 2T - vw-vf-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Zesty_Nibblers|1388556|0.37%|
-|Salty_Dog|1388389|0.36%|
-|Marinated_Tenderloins|1388016|0.33%|
-|Ginger_Glazed_Fillet|1387888|0.32%|
-|Sweet_and_Spicy_Soup|1387756|0.31%|
-|Deepfin_Patty|1387739|0.31%|
-|Chippy_Tea|1387704|0.31%|
-|Fiery_Fish_Sticks|1387541|0.30%|
-|Salt_Baked_Seafood|1387104|0.26%|
-|Fish_and_Chips|1387103|0.26%|
-|Crystallized_Augment_Rune|1384748|0.09%|
-|Base|1383454|0.00%|
-|Feast_of_the_Divine_Day|1383243|-0.02%|
-|Feast_of_the_Midnight_Masquerade|1383185|-0.02%|
-|Stuffed_Cave_Peppers|1382488|-0.07%|
+|Crystallized_Augment_Rune|1595974|1.07%|
+|Salty_Dog|1582298|0.20%|
+|Fiery_Fish_Sticks|1581914|0.18%|
+|Salt_Baked_Seafood|1581887|0.18%|
+|Fish_and_Chips|1581791|0.17%|
+|Ginger_Glazed_Fillet|1581599|0.16%|
+|Deepfin_Patty|1581592|0.16%|
+|Marinated_Tenderloins|1581574|0.16%|
+|Zesty_Nibblers|1581566|0.16%|
+|Chippy_Tea|1581510|0.15%|
+|Sweet_and_Spicy_Soup|1581247|0.14%|
+|Stuffed_Cave_Peppers|1580376|0.08%|
+|Feast_of_the_Midnight_Masquerade|1579843|0.05%|
+|Feast_of_the_Divine_Day|1579806|0.04%|
+|Base|1579100|0.00%|

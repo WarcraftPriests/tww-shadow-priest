@@ -1,0 +1,35 @@
+# Composite - ar-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1244463|1.82%|
+|Orc|1244174|1.80%|
+|Maghar_Orc|1239532|1.42%|
+|Dark_Iron_Dwarf|1238952|1.37%|
+|Draenei|1238116|1.30%|
+|Blood_Elf|1237529|1.25%|
+|Human|1237501|1.25%|
+|Troll|1237316|1.23%|
+|Night_Elf_Haste|1237306|1.23%|
+|Goblin|1236840|1.20%|
+|Gnome|1236794|1.19%|
+|Void_Elf|1236599|1.18%|
+|Highmountain_Tauren|1234177|0.98%|
+|Zandalari_Troll_Paku|1234168|0.98%|
+|Nightborne|1233843|0.95%|
+|Kul_Tiran|1233476|0.92%|
+|Worgen|1233321|0.91%|
+|Night_Elf_Crit|1233153|0.89%|
+|Tauren|1230236|0.65%|
+|Dwarf|1230028|0.64%|
+|Panda_Haste|1225493|0.27%|
+|Panda_Crit|1225373|0.26%|
+|Panda_Vers|1225287|0.25%|
+|Panda_Mastery|1225026|0.23%|
+|Panda_Fortune_Cookie|1224774|0.21%|
+|Zandalari_Troll_Bwonsamdi|1224212|0.16%|
+|Undead|1224004|0.14%|
+|Zandalari_Troll_Kimbul|1223821|0.13%|
+|Earthen|1222308|0.01%|
+|Lightforged_Draenei|1222240|0.00%|
+|Base|1222232|0.00%|
+|Vulpera|1221964|-0.02%|

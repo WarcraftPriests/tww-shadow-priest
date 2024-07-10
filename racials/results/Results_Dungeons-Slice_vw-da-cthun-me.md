@@ -1,0 +1,35 @@
+# Dungeons-Slice - vw-da-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1431708|2.08%|
+|Orc|1431497|2.06%|
+|Troll|1427640|1.79%|
+|Maghar_Orc|1424616|1.57%|
+|Dark_Iron_Dwarf|1422494|1.42%|
+|Draenei|1421504|1.35%|
+|Human|1421321|1.34%|
+|Goblin|1420023|1.25%|
+|Gnome|1419898|1.24%|
+|Night_Elf_Haste|1418761|1.16%|
+|Highmountain_Tauren|1417917|1.09%|
+|Tauren|1417911|1.09%|
+|Void_Elf|1417538|1.07%|
+|Blood_Elf|1417465|1.06%|
+|Dwarf|1416380|0.99%|
+|Kul_Tiran|1416163|0.97%|
+|Night_Elf_Crit|1416101|0.97%|
+|Nightborne|1415392|0.91%|
+|Zandalari_Troll_Paku|1414968|0.88%|
+|Worgen|1413781|0.80%|
+|Panda_Fortune_Cookie|1407644|0.36%|
+|Panda_Vers|1407305|0.34%|
+|Panda_Crit|1407025|0.32%|
+|Undead|1405852|0.23%|
+|Panda_Haste|1405527|0.21%|
+|Panda_Mastery|1405341|0.20%|
+|Lightforged_Draenei|1404552|0.14%|
+|Zandalari_Troll_Kimbul|1403900|0.10%|
+|Zandalari_Troll_Bwonsamdi|1403886|0.09%|
+|Vulpera|1403883|0.09%|
+|Base|1402559|0.00%|
+|Earthen|1401140|-0.10%|

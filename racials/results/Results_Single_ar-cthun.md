@@ -1,0 +1,35 @@
+# Single - ar-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1144999|1.78%|
+|Orc|1144928|1.77%|
+|Maghar_Orc|1140574|1.38%|
+|Dark_Iron_Dwarf|1139755|1.31%|
+|Draenei|1139755|1.31%|
+|Human|1138811|1.23%|
+|Void_Elf|1138706|1.22%|
+|Blood_Elf|1138459|1.19%|
+|Night_Elf_Haste|1138262|1.18%|
+|Goblin|1137844|1.14%|
+|Troll|1137738|1.13%|
+|Gnome|1137693|1.13%|
+|Zandalari_Troll_Paku|1136256|1.00%|
+|Highmountain_Tauren|1136229|1.00%|
+|Nightborne|1136205|0.99%|
+|Night_Elf_Crit|1135542|0.94%|
+|Worgen|1135431|0.93%|
+|Kul_Tiran|1135052|0.89%|
+|Tauren|1133540|0.76%|
+|Dwarf|1133000|0.71%|
+|Panda_Haste|1127954|0.26%|
+|Panda_Vers|1127936|0.26%|
+|Panda_Mastery|1127610|0.23%|
+|Panda_Crit|1127602|0.23%|
+|Panda_Fortune_Cookie|1127184|0.19%|
+|Zandalari_Troll_Bwonsamdi|1126895|0.17%|
+|Undead|1126681|0.15%|
+|Zandalari_Troll_Kimbul|1126593|0.14%|
+|Vulpera|1125036|0.00%|
+|Base|1125018|0.00%|
+|Earthen|1124982|0.00%|
+|Lightforged_Draenei|1124684|-0.03%|

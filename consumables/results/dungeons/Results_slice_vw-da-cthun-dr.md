@@ -1,18 +1,18 @@
 # slice - vw-da-cthun-dr
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Ginger_Glazed_Fillet|1236950|0.45%|
-|Salty_Dog|1236587|0.42%|
-|Sweet_and_Spicy_Soup|1236203|0.39%|
-|Fiery_Fish_Sticks|1236181|0.39%|
-|Fish_and_Chips|1235938|0.37%|
-|Zesty_Nibblers|1235734|0.35%|
-|Chippy_Tea|1234874|0.28%|
-|Deepfin_Patty|1234832|0.28%|
-|Marinated_Tenderloins|1234630|0.26%|
-|Salt_Baked_Seafood|1234248|0.23%|
-|Stuffed_Cave_Peppers|1232964|0.13%|
-|Crystallized_Augment_Rune|1232572|0.09%|
-|Feast_of_the_Divine_Day|1231435|0.00%|
-|Base|1231416|0.00%|
-|Feast_of_the_Midnight_Masquerade|1231226|-0.02%|
+|Crystallized_Augment_Rune|1395814|1.04%|
+|Ginger_Glazed_Fillet|1385741|0.31%|
+|Salt_Baked_Seafood|1384736|0.24%|
+|Deepfin_Patty|1384659|0.23%|
+|Salty_Dog|1384447|0.21%|
+|Fiery_Fish_Sticks|1384410|0.21%|
+|Zesty_Nibblers|1384302|0.20%|
+|Chippy_Tea|1384215|0.20%|
+|Marinated_Tenderloins|1384208|0.20%|
+|Sweet_and_Spicy_Soup|1383666|0.16%|
+|Fish_and_Chips|1383597|0.15%|
+|Feast_of_the_Midnight_Masquerade|1382410|0.07%|
+|Feast_of_the_Divine_Day|1381964|0.03%|
+|Stuffed_Cave_Peppers|1381927|0.03%|
+|Base|1381483|0.00%|

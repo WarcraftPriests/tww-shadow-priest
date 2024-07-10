@@ -1,18 +1,18 @@
 # Dungeons-Slice - vw-da-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Ginger_Glazed_Fillet|1256853|0.35%|
-|Marinated_Tenderloins|1256211|0.30%|
-|Sweet_and_Spicy_Soup|1255804|0.27%|
-|Deepfin_Patty|1255625|0.26%|
-|Salt_Baked_Seafood|1255327|0.23%|
-|Zesty_Nibblers|1255320|0.23%|
-|Chippy_Tea|1255239|0.23%|
-|Fish_and_Chips|1255209|0.22%|
-|Salty_Dog|1255122|0.22%|
-|Fiery_Fish_Sticks|1254925|0.20%|
-|Crystallized_Augment_Rune|1254010|0.13%|
-|Base|1252414|0.00%|
-|Stuffed_Cave_Peppers|1252358|0.00%|
-|Feast_of_the_Midnight_Masquerade|1252170|-0.02%|
-|Feast_of_the_Divine_Day|1251184|-0.10%|
+|Crystallized_Augment_Rune|1402406|0.99%|
+|Sweet_and_Spicy_Soup|1392100|0.25%|
+|Ginger_Glazed_Fillet|1391156|0.18%|
+|Marinated_Tenderloins|1391098|0.18%|
+|Salty_Dog|1391063|0.18%|
+|Salt_Baked_Seafood|1390782|0.16%|
+|Fiery_Fish_Sticks|1390773|0.16%|
+|Chippy_Tea|1390605|0.15%|
+|Fish_and_Chips|1390555|0.14%|
+|Zesty_Nibblers|1390189|0.12%|
+|Feast_of_the_Midnight_Masquerade|1390146|0.11%|
+|Deepfin_Patty|1389930|0.10%|
+|Feast_of_the_Divine_Day|1389708|0.08%|
+|Base|1388590|0.00%|
+|Stuffed_Cave_Peppers|1387535|-0.08%|

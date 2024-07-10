@@ -1,18 +1,18 @@
 # Single - ar-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Feast_of_the_Midnight_Masquerade|926578|0.82%|
-|Feast_of_the_Divine_Day|926244|0.79%|
-|Salty_Dog|922261|0.35%|
-|Zesty_Nibblers|922164|0.34%|
-|Ginger_Glazed_Fillet|922062|0.33%|
-|Fiery_Fish_Sticks|921989|0.32%|
-|Fish_and_Chips|921813|0.30%|
-|Deepfin_Patty|921594|0.28%|
-|Chippy_Tea|921593|0.28%|
-|Salt_Baked_Seafood|921501|0.27%|
-|Marinated_Tenderloins|921323|0.25%|
-|Stuffed_Cave_Peppers|921309|0.25%|
-|Sweet_and_Spicy_Soup|921235|0.24%|
-|Crystallized_Augment_Rune|919928|0.10%|
-|Base|919011|0.00%|
+|Crystallized_Augment_Rune|1124933|1.00%|
+|Ginger_Glazed_Fillet|1115863|0.19%|
+|Fiery_Fish_Sticks|1115574|0.16%|
+|Salt_Baked_Seafood|1115556|0.16%|
+|Fish_and_Chips|1115505|0.16%|
+|Salty_Dog|1115471|0.16%|
+|Chippy_Tea|1115412|0.15%|
+|Sweet_and_Spicy_Soup|1115389|0.15%|
+|Marinated_Tenderloins|1115235|0.13%|
+|Deepfin_Patty|1115209|0.13%|
+|Zesty_Nibblers|1114952|0.11%|
+|Stuffed_Cave_Peppers|1113800|0.01%|
+|Feast_of_the_Midnight_Masquerade|1113748|0.00%|
+|Base|1113740|0.00%|
+|Feast_of_the_Divine_Day|1113721|0.00%|

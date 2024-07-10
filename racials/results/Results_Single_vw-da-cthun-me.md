@@ -1,0 +1,35 @@
+# Single - vw-da-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|1267628|2.11%|
+|Mechagnome|1263770|1.80%|
+|Maghar_Orc|1260869|1.57%|
+|Troll|1260120|1.51%|
+|Dark_Iron_Dwarf|1260074|1.50%|
+|Void_Elf|1258910|1.41%|
+|Draenei|1257700|1.31%|
+|Gnome|1257476|1.29%|
+|Goblin|1257192|1.27%|
+|Human|1257191|1.27%|
+|Night_Elf_Haste|1257033|1.26%|
+|Blood_Elf|1254318|1.04%|
+|Tauren|1253811|1.00%|
+|Kul_Tiran|1253391|0.96%|
+|Highmountain_Tauren|1253122|0.94%|
+|Dwarf|1253078|0.94%|
+|Zandalari_Troll_Paku|1252862|0.92%|
+|Nightborne|1252417|0.89%|
+|Night_Elf_Crit|1251653|0.82%|
+|Worgen|1251601|0.82%|
+|Panda_Vers|1244823|0.27%|
+|Panda_Haste|1244762|0.27%|
+|Panda_Crit|1244604|0.26%|
+|Panda_Mastery|1244225|0.23%|
+|Panda_Fortune_Cookie|1244173|0.22%|
+|Undead|1243818|0.19%|
+|Zandalari_Troll_Kimbul|1243676|0.18%|
+|Zandalari_Troll_Bwonsamdi|1243582|0.17%|
+|Vulpera|1242008|0.05%|
+|Lightforged_Draenei|1241690|0.02%|
+|Earthen|1241564|0.01%|
+|Base|1241424|0.00%|

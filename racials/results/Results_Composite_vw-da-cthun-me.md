@@ -1,0 +1,35 @@
+# Composite - vw-da-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|1379632|2.07%|
+|Mechagnome|1375864|1.79%|
+|Maghar_Orc|1372744|1.56%|
+|Dark_Iron_Dwarf|1372257|1.53%|
+|Troll|1372231|1.53%|
+|Void_Elf|1369902|1.35%|
+|Draenei|1369379|1.31%|
+|Night_Elf_Haste|1368854|1.28%|
+|Gnome|1368680|1.26%|
+|Human|1368550|1.25%|
+|Goblin|1368396|1.24%|
+|Blood_Elf|1366174|1.08%|
+|Tauren|1364934|0.99%|
+|Dwarf|1364595|0.96%|
+|Kul_Tiran|1364510|0.95%|
+|Highmountain_Tauren|1364475|0.95%|
+|Zandalari_Troll_Paku|1363790|0.90%|
+|Nightborne|1363772|0.90%|
+|Night_Elf_Crit|1363066|0.85%|
+|Worgen|1362851|0.83%|
+|Panda_Haste|1355321|0.27%|
+|Panda_Vers|1355061|0.26%|
+|Panda_Crit|1354937|0.25%|
+|Panda_Mastery|1354676|0.23%|
+|Panda_Fortune_Cookie|1354486|0.21%|
+|Zandalari_Troll_Bwonsamdi|1353856|0.17%|
+|Undead|1353744|0.16%|
+|Zandalari_Troll_Kimbul|1353583|0.15%|
+|Vulpera|1351885|0.02%|
+|Earthen|1351805|0.01%|
+|Lightforged_Draenei|1351674|0.01%|
+|Base|1351606|0.00%|
