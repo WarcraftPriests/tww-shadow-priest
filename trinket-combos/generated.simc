@@ -77,6 +77,9 @@ profileset."Ara_Kara_Sacbrood_639-Imperfect_Ascendancy_Serum_626"+=trinket2=impe
 profileset."Ara_Kara_Sacbrood_639-Quickwick_Candlestick_626"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
 profileset."Ara_Kara_Sacbrood_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Ara_Kara_Sacbrood_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Harvesters_Edict_639-Cirral_Concoctory_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
 profileset."Harvesters_Edict_639-Cirral_Concoctory_639"+=trinket2=cirral_concoctory,id=219321,ilevel=639
 
@@ -129,6 +132,9 @@ profileset."Harvesters_Edict_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imper
 profileset."Harvesters_Edict_639-Quickwick_Candlestick_626"+=trinket1=harvesters_edict,id=219317,ilevel=639
 profileset."Harvesters_Edict_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Harvesters_Edict_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Cirral_Concoctory_639-High_Speakers_Accretion_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
 profileset."Cirral_Concoctory_639-High_Speakers_Accretion_639"+=trinket2=high_speakers_accretion,id=219303,ilevel=639
 
@@ -178,6 +184,9 @@ profileset."Cirral_Concoctory_639-Imperfect_Ascendancy_Serum_626"+=trinket2=impe
 profileset."Cirral_Concoctory_639-Quickwick_Candlestick_626"+=trinket1=cirral_concoctory,id=219321,ilevel=639
 profileset."Cirral_Concoctory_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Cirral_Concoctory_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."High_Speakers_Accretion_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
 profileset."High_Speakers_Accretion_639-Empowering_Crystal_of_Anubikkaj_639"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 
@@ -224,6 +233,9 @@ profileset."High_Speakers_Accretion_639-Imperfect_Ascendancy_Serum_626"+=trinket
 profileset."High_Speakers_Accretion_639-Quickwick_Candlestick_626"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
 profileset."High_Speakers_Accretion_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."High_Speakers_Accretion_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_All_639"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_All_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 profileset."Empowering_Crystal_of_Anubikkaj_639-Unbound_Changeling_All_639"+=trinket2=unbound_changeling,id=178708,ilevel=639
@@ -267,6 +279,9 @@ profileset."Empowering_Crystal_of_Anubikkaj_639-Imperfect_Ascendancy_Serum_626"+
 profileset."Empowering_Crystal_of_Anubikkaj_639-Quickwick_Candlestick_626"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 profileset."Empowering_Crystal_of_Anubikkaj_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Empowering_Crystal_of_Anubikkaj_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Unbound_Changeling_All_639-Satchel_of_Misbegotten_Minions_639"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Unbound_Changeling_All_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_All_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
@@ -302,6 +317,10 @@ profileset."Unbound_Changeling_All_639-Imperfect_Ascendancy_Serum_626"+=trinket2
 profileset."Unbound_Changeling_All_639-Quickwick_Candlestick_626"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Unbound_Changeling_All_639-Quickwick_Candlestick_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_All_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
+
+profileset."Unbound_Changeling_All_639-Forged_Gladiators_Badge_of_Ferocity_626"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
 
 profileset."Unbound_Changeling_Crit_639-Satchel_of_Misbegotten_Minions_639"+=shadowlands.unbound_changeling_stat_type=crit
 profileset."Unbound_Changeling_Crit_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
@@ -339,6 +358,10 @@ profileset."Unbound_Changeling_Crit_639-Quickwick_Candlestick_626"+=shadowlands.
 profileset."Unbound_Changeling_Crit_639-Quickwick_Candlestick_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Crit_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Unbound_Changeling_Crit_639-Forged_Gladiators_Badge_of_Ferocity_626"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Unbound_Changeling_Haste_639-Satchel_of_Misbegotten_Minions_639"+=shadowlands.unbound_changeling_stat_type=haste
 profileset."Unbound_Changeling_Haste_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Haste_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=satchel_of_misbegotten_minions,id=178772,ilevel=639
@@ -374,6 +397,10 @@ profileset."Unbound_Changeling_Haste_639-Imperfect_Ascendancy_Serum_626"+=trinke
 profileset."Unbound_Changeling_Haste_639-Quickwick_Candlestick_626"+=shadowlands.unbound_changeling_stat_type=haste
 profileset."Unbound_Changeling_Haste_639-Quickwick_Candlestick_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Haste_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
+
+profileset."Unbound_Changeling_Haste_639-Forged_Gladiators_Badge_of_Ferocity_626"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
 
 profileset."Unbound_Changeling_Mastery_639-Satchel_of_Misbegotten_Minions_639"+=shadowlands.unbound_changeling_stat_type=mastery
 profileset."Unbound_Changeling_Mastery_639-Satchel_of_Misbegotten_Minions_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
@@ -411,6 +438,10 @@ profileset."Unbound_Changeling_Mastery_639-Quickwick_Candlestick_626"+=shadowlan
 profileset."Unbound_Changeling_Mastery_639-Quickwick_Candlestick_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Mastery_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Unbound_Changeling_Mastery_639-Forged_Gladiators_Badge_of_Ferocity_626"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Satchel_of_Misbegotten_Minions_639-Hadals_Nautilus_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
 profileset."Satchel_of_Misbegotten_Minions_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
@@ -435,6 +466,9 @@ profileset."Satchel_of_Misbegotten_Minions_639-Imperfect_Ascendancy_Serum_626"+=
 profileset."Satchel_of_Misbegotten_Minions_639-Quickwick_Candlestick_626"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
 profileset."Satchel_of_Misbegotten_Minions_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Satchel_of_Misbegotten_Minions_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Hadals_Nautilus_639-Aberrant_Spellforge_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
 profileset."Hadals_Nautilus_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
@@ -456,6 +490,9 @@ profileset."Hadals_Nautilus_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperf
 profileset."Hadals_Nautilus_639-Quickwick_Candlestick_626"+=trinket1=hadals_nautilus,id=159622,ilevel=639
 profileset."Hadals_Nautilus_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Hadals_Nautilus_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Aberrant_Spellforge_639-Mad_Queens_Mandate_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
 profileset."Aberrant_Spellforge_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
@@ -474,6 +511,9 @@ profileset."Aberrant_Spellforge_639-Imperfect_Ascendancy_Serum_626"+=trinket2=im
 profileset."Aberrant_Spellforge_639-Quickwick_Candlestick_626"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
 profileset."Aberrant_Spellforge_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Aberrant_Spellforge_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+profileset."Aberrant_Spellforge_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Mad_Queens_Mandate_639-Spymasters_Web_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
 profileset."Mad_Queens_Mandate_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -489,6 +529,9 @@ profileset."Mad_Queens_Mandate_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imp
 profileset."Mad_Queens_Mandate_639-Quickwick_Candlestick_626"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
 profileset."Mad_Queens_Mandate_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Mad_Queens_Mandate_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Spymasters_Web_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=spymasters_web,id=220202,ilevel=639
 profileset."Spymasters_Web_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
@@ -501,6 +544,9 @@ profileset."Spymasters_Web_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfe
 profileset."Spymasters_Web_639-Quickwick_Candlestick_626"+=trinket1=spymasters_web,id=220202,ilevel=639
 profileset."Spymasters_Web_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Spymasters_Web_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=spymasters_web,id=220202,ilevel=639
+profileset."Spymasters_Web_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Ovinaxs_Mercurial_Egg_639-Treacherous_Transmitter_639"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
 profileset."Ovinaxs_Mercurial_Egg_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
 
@@ -510,12 +556,24 @@ profileset."Ovinaxs_Mercurial_Egg_639-Imperfect_Ascendancy_Serum_626"+=trinket2=
 profileset."Ovinaxs_Mercurial_Egg_639-Quickwick_Candlestick_626"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
 profileset."Ovinaxs_Mercurial_Egg_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Ovinaxs_Mercurial_Egg_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
+profileset."Ovinaxs_Mercurial_Egg_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Treacherous_Transmitter_639-Imperfect_Ascendancy_Serum_626"+=trinket1=treacherous_transmitter,id=221023,ilevel=639
 profileset."Treacherous_Transmitter_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
 
 profileset."Treacherous_Transmitter_639-Quickwick_Candlestick_626"+=trinket1=treacherous_transmitter,id=221023,ilevel=639
 profileset."Treacherous_Transmitter_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
 
+profileset."Treacherous_Transmitter_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=treacherous_transmitter,id=221023,ilevel=639
+profileset."Treacherous_Transmitter_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
 profileset."Imperfect_Ascendancy_Serum_626-Quickwick_Candlestick_626"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=626
 profileset."Imperfect_Ascendancy_Serum_626-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
+
+profileset."Imperfect_Ascendancy_Serum_626-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=626
+profileset."Imperfect_Ascendancy_Serum_626-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
+profileset."Quickwick_Candlestick_626-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=quickwick_candlestick,id=225649,ilevel=626
+profileset."Quickwick_Candlestick_626-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
 

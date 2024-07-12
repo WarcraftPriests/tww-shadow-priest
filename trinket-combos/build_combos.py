@@ -27,7 +27,8 @@ combos = {
     # delves (626)
     "Imperfect_Ascendancy_Serum_626": "imperfect_ascendancy_serum,id=225654,ilevel=626",
     "Quickwick_Candlestick_626": "quickwick_candlestick,id=225649,ilevel=626",
-
+    # pvp (626)
+    "Forged_Gladiators_Badge_of_Ferocity_626": "forged_gladiators_badge_of_ferocity,id=218713,ilevel=626",
 }
 
 

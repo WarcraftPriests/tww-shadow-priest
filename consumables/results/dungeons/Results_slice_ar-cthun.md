@@ -1,18 +1,18 @@
 # slice - ar-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1168909|1.05%|
-|Deepfin_Patty|1159396|0.22%|
-|Sweet_and_Spicy_Soup|1159349|0.22%|
-|Fiery_Fish_Sticks|1159147|0.20%|
-|Salt_Baked_Seafood|1159132|0.20%|
-|Salty_Dog|1159001|0.19%|
-|Zesty_Nibblers|1158927|0.18%|
-|Fish_and_Chips|1158864|0.18%|
-|Marinated_Tenderloins|1158846|0.18%|
-|Chippy_Tea|1158699|0.16%|
-|Ginger_Glazed_Fillet|1157844|0.09%|
-|Base|1156810|0.00%|
-|Feast_of_the_Midnight_Masquerade|1156773|0.00%|
-|Stuffed_Cave_Peppers|1156361|-0.04%|
-|Feast_of_the_Divine_Day|1155957|-0.07%|
+|Crystallized_Augment_Rune|1035305|1.02%|
+|Chippy_Tea|1032102|0.70%|
+|Zesty_Nibblers|1031269|0.62%|
+|Sweet_and_Spicy_Soup|1031105|0.61%|
+|Salt_Baked_Seafood|1030900|0.59%|
+|Ginger_Glazed_Fillet|1030855|0.58%|
+|Marinated_Tenderloins|1030707|0.57%|
+|Fish_and_Chips|1030675|0.56%|
+|Fiery_Fish_Sticks|1030674|0.56%|
+|Salty_Dog|1030559|0.55%|
+|Deepfin_Patty|1030183|0.52%|
+|Feast_of_the_Midnight_Masquerade|1025251|0.03%|
+|Feast_of_the_Divine_Day|1025207|0.03%|
+|Stuffed_Cave_Peppers|1025189|0.03%|
+|Base|1024897|0.00%|

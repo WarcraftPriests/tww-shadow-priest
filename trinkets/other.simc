@@ -75,10 +75,9 @@ profileset."Darkmoon_Deck_Vivacity_629"+=trinket1=darkmoon_deck_vivacity,id=2226
 
 # PVP Trinkets
 #    Honor: ?
-# Conquest: 619
-## TODO: Check item level
-profileset."Forged_Gladiators_Badge_of_Ferocity_619"+=trinket1=forged_gladiators_badge_of_ferocity,id=218713,ilevel=619
-profileset."Forged_Gladiators_Insignia_of_Alacrity_619"+=trinket1=forged_gladiators_insignia_of_alacrity,id=218714,ilevel=619
+# Conquest: 626
+profileset."Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+profileset."Forged_Gladiators_Insignia_of_Alacrity_626"+=trinket1=forged_gladiators_insignia_of_alacrity,id=218714,ilevel=626
 
 # Ulduar Timewalking
 ## TODO: Check item level
