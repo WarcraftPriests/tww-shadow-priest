@@ -56,3 +56,35 @@ profileset."Potion_of_Unwavering_Focus_3"+=potion=potion_of_unwavering_focus_3
 profileset."Tempered_Potion_1"+=potion=tempered_potion_1
 profileset."Tempered_Potion_2"+=potion=tempered_potion_2
 profileset."Tempered_Potion_3"+=potion=tempered_potion_3
+
+# Flask + Potion Combos
+## Tempered Flasks make Tempered Potion weaker
+profileset."Flask_of_Alchemical_Chaos_3-Tempered_Potion_3"+=flask=flask_of_alchemical_chaos_3
+profileset."Flask_of_Alchemical_Chaos_3-Tempered_Potion_3"+=potion=tempered_potion_3
+
+profileset."Flask_of_Tempered_Aggression_3-Tempered_Potion_3"+=flask=flask_of_tempered_aggression_3
+profileset."Flask_of_Tempered_Aggression_3-Tempered_Potion_3"+=potion=tempered_potion_3
+
+profileset."Flask_of_Tempered_Mastery_3-Tempered_Potion_3"+=flask=flask_of_tempered_mastery_3
+profileset."Flask_of_Tempered_Mastery_3-Tempered_Potion_3"+=potion=tempered_potion_3
+
+profileset."Flask_of_Tempered_Swiftness_3-Tempered_Potion_3"+=flask=flask_of_tempered_swiftness_3
+profileset."Flask_of_Tempered_Swiftness_3-Tempered_Potion_3"+=potion=tempered_potion_3
+
+profileset."Flask_of_Tempered_Versatility_3-Tempered_Potion_3"+=flask=flask_of_tempered_versatility_3
+profileset."Flask_of_Tempered_Versatility_3-Tempered_Potion_3"+=potion=tempered_potion_3
+
+profileset."Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3"+=flask=flask_of_alchemical_chaos_3
+profileset."Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3"+=potion=potion_of_unwavering_focus_3
+
+profileset."Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3"+=flask=flask_of_tempered_aggression_3
+profileset."Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3"+=potion=potion_of_unwavering_focus_3
+
+profileset."Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3"+=flask=flask_of_tempered_mastery_3
+profileset."Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3"+=potion=potion_of_unwavering_focus_3
+
+profileset."Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3"+=flask=flask_of_tempered_swiftness_3
+profileset."Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3"+=potion=potion_of_unwavering_focus_3
+
+profileset."Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3"+=flask=flask_of_tempered_versatility_3
+profileset."Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3"+=potion=potion_of_unwavering_focus_3
