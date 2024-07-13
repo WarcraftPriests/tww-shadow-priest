@@ -1,1 +1,1 @@
-{"name": "3T - ar-cthun", "data": {"TWW1-2_4-set": {"DPS": 1718789}, "TWW1-2-set": {"DPS": 1695896}, "Base": {"DPS": 1654278}}, "ids": {"TWW1-2_4-set": null, "TWW1-2-set": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["TWW1-2_4-set", "TWW1-2-set"], "last_updated": "2024-07-10"}
+{"name": "3T - ar-cthun", "data": {"TWW1-2_4-set": {"DPS": 1766171}, "TWW1-2-set": {"DPS": 1742924}, "Base": {"DPS": 1697722}}, "ids": {"TWW1-2_4-set": null, "TWW1-2-set": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["TWW1-2_4-set", "TWW1-2-set"], "last_updated": "2024-07-12"}
