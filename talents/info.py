@@ -8,9 +8,7 @@ with open("../config.yml", "r", encoding="utf8") as ymlfile:
 
 
 def get_talents():
-    talents = config["builds"]
-    talents.pop("hero")
-    talents = talents.keys()
+    talents = config["builds"].keys()
     return talents
 
 

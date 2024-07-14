@@ -188,9 +188,9 @@ def duplicate_builds():
             talents[name] = value
         # duplicate all builds for each hero talent combo
         hero_talents = {}
-        for build in config["builds"]["hero"][hero_talent]:
+        for build in config["hero"][hero_talent]:
             print(f"Duplicating builds for {build}...")
-            talent_string = config["builds"]["hero"][hero_talent][build]
+            talent_string = config["hero"][hero_talent][build]
             for talent in talents:
                 name = f"{build}_{talent}"
                 hero_line = f"profileset.\"{name}\"+=\"hero_talents={talent_string}\"\n"
