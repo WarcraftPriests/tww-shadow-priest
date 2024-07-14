@@ -1,14 +1,4 @@
 builds:
-  hero:
-    AR:
-      AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/shock_pulse:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
-      AR_SP: "sustained_potency:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/shock_pulse:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
-    # Darkening Horizon is currently bugged, need to hard code 125982 for the ID
-    VW:
-      VW_VE_DoS: "void_empowerment:1/depth_of_shadows:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
-      VW_DH_DoS: "125982:1/depth_of_shadows:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
-      VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
-      VW_DH_VW: "125982:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   vw-da-cthun-dr:
     gearSetup: default
@@ -94,6 +84,16 @@ builds:
       4t:
         name: VW_DH_VW_VF_nzoth_cthun_98245891561391_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMmZAQBY2mtlgZjN
+hero:
+  AR:
+    AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/shock_pulse:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
+    AR_SP: "sustained_potency:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/shock_pulse:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
+  # Darkening Horizon is currently bugged, need to hard code 125982 for the ID
+  VW:
+    VW_VE_DoS: "void_empowerment:1/depth_of_shadows:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
+    VW_DH_DoS: "125982:1/depth_of_shadows:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
+    VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
+    VW_DH_VW: "125982:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
 gear:
   # 12.8k Mastery (13%) | 13.3k Haste (20%) | 8.2k Crit (17%) | 500 Vers (1%)
   default:

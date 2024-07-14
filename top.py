@@ -52,7 +52,7 @@ def filter_dungeon_type(combo):
 
 
 def get_hero_builds(ht, cds, idols):
-    hero_talent_combos = list(config["builds"]["hero"][ht].keys())
+    hero_talent_combos = list(config["hero"][ht].keys())
     return [
         f"{ht}_{cd}_{idol}" for ht in hero_talent_combos for cd in cds for idol in idols
     ]

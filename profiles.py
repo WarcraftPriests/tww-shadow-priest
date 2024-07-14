@@ -197,10 +197,10 @@ def lookup_hero_talents(name):
     hero_talent_type = name.split("_")[0]
     if "_DA" in name:
         hero_key = name.split("_DA")[0]
-        return config["builds"]["hero"][hero_talent_type][hero_key]
+        return config["hero"][hero_talent_type][hero_key]
     if "_VF" in name:
         hero_key = name.split("_VF")[0]
-        return config["builds"]["hero"][hero_talent_type][hero_key]
+        return config["hero"][hero_talent_type][hero_key]
 
 
 def create_talent_builds():
