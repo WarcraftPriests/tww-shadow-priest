@@ -63,7 +63,6 @@ def get_builds():
     cds = ["VF", "DA"]
     # Archon and Voidweaver can have different Idol options, manually splitting
     ar_idols = [
-        "yshaarj_cthun",
         "nzoth_cthun",
         "yogg_cthun",
         "nzoth_yogg_cthun",

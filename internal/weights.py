@@ -37,6 +37,15 @@ weights_nerubar_palace = {
     'hm_ba_3': 0.000,
     'hm_sa_3': 0.000,
     'hm_na_3': 0.000,
+    'pw_ba_8': 0.000,
+    'pw_sa_8': 0.000,
+    'pw_na_8': 0.000,
+    'lm_ba_8': 0.000,
+    'lm_sa_8': 0.000,
+    'lm_na_8': 0.000,
+    'hm_ba_8': 0.000,
+    'hm_sa_8': 0.000,
+    'hm_na_8': 0.000,
 }
 
 weights_single = {
@@ -79,6 +88,18 @@ weights_four_targets = {
     'hm_ba_4': 0.0,
     'hm_sa_4': 0.0,
     'hm_na_4': 0.0,
+}
+
+weights_eight_targets = {
+    'pw_ba_8': 0.0,
+    'pw_sa_8': 0.0,
+    'pw_na_8': 0.8,
+    'lm_ba_8': 0.0,
+    'lm_sa_8': 0.0,
+    'lm_na_8': 0.2,
+    'hm_ba_8': 0.0,
+    'hm_sa_8': 0.0,
+    'hm_na_8': 0.0,
 }
 
 weights_season_one = {
@@ -226,6 +247,8 @@ def find_weights(key):
         return weights_three_targets
     if key == 'weightsFourTargets':
         return weights_four_targets
+    if key == 'weightsEightTargets':
+        return weights_eight_targets
     if key == 'weightsSeasonOne':
         return weights_season_one
     if key == 'weightsStandardSeasonTwo':

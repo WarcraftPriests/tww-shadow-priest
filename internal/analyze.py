@@ -65,6 +65,8 @@ def find_weight(sim_type, profile_name, dungeons):
         weight_type = "threeTargetWeights"
     elif sim_type == "4T":
         weight_type = "fourTargetWeights"
+    elif sim_type == "8T":
+        weight_type = "eightTargetWeights"
     elif sim_type == "Dungeons-Standard":
         weight_type = "dungeonStandardWeights"
     elif sim_type == "Dungeons-Push":
@@ -357,6 +359,7 @@ def not_dungeon_fight(fight_type):
         "2T",
         "3T",
         "4T",
+        "8T",
     ]
     return fight_type in non_dungeon_fights
 
@@ -414,7 +417,7 @@ def clear_output_files(talent_string):
 
 def generate_result_name(result, talent):
     """takes a full result file path and generate a readable name from it"""
-    fight_types = ["Composite", "Single", "Dungeons", "2T", "3T", "4T"]
+    fight_types = ["Composite", "Single", "Dungeons", "2T", "4T", "8T"]
     for fight_type in fight_types:
         if fight_type in result:
             return f"{fight_type} - {talent.upper()}"
@@ -477,7 +480,7 @@ def analyze(talents, directory, dungeons, weights, timestamp):
     sim_types = (
         dungeon_list
         if dungeons
-        else ["Composite", "Single", "2T", "3T", "4T"]
+        else ["Composite", "Single", "2T", "4T", "8T"]
     )
 
     # Main Composites

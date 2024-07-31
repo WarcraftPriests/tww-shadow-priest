@@ -20,6 +20,7 @@ fightExpressions = {
     "2": "desired_targets=2",
     "3": "desired_targets=3",  # noqa: E501
     "4": "desired_targets=4",
+    "8": "desired_targets=8\nmax_time=60",
     "dungeons": 'fight_style="DungeonSlice"',
     "ptr": "ptr=1\n",
     "weights": 'calculate_scale_factors="1"\nscale_only="intellect,crit,mastery,vers,haste"',  # noqa: E501
@@ -238,10 +239,11 @@ def build_profiles(talent_string, apl_string):
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
     add_types = ["sa", "ba", "na"]
-    targets = ["1", "2", "3", "4"]
+    targets = ["1", "2", "4", "8"]
     overrides = ""
     with open("internal/overrides.simc", "r", encoding="utf8") as overrides_file:
         overrides = overrides_file.read()
+        overrides+="\n"
         overrides_file.close()
     combinations = [
         f"{fight}_{add}_{tar}"
@@ -297,12 +299,16 @@ def build_profiles(talent_string, apl_string):
             four_target_weight = (
                 find_weights(config["fourTargetWeights"]).get(profile) or 0
             )
+            eight_target_weight = (
+                find_weights(config["eightTargetWeights"]).get(profile) or 0
+            )
             if (
                 weight == 0
                 and st_weight == 0
                 and two_target_weight == 0
                 and three_target_weight == 0
                 and four_target_weight == 0
+                and eight_target_weight == 0
                 and not args.dungeons
             ):  # noqa: E501
                 # print(f"Skipping profile {profile} weights are all 0.")
@@ -337,6 +343,10 @@ def build_profiles(talent_string, apl_string):
                     new_talents = config["builds"][talent_string]["talents"]["4t"]["string"]
                     new_talents_name = config["builds"][talent_string]["talents"]["4t"]["name"]
                     sim_data = replace_talents(new_talents, sim_data, new_talents_name)
+                elif target_count == 8:
+                    new_talents = config["builds"][talent_string]["talents"]["8t"]["string"]
+                    new_talents_name = config["builds"][talent_string]["talents"]["8t"]["name"]
+                    sim_data = replace_talents(new_talents, sim_data, new_talents_name)
                 else:
                     sim_data = replace_talents(talents_expr, sim_data, talents_name)
 
@@ -344,9 +354,10 @@ def build_profiles(talent_string, apl_string):
             with open(args.dir + simc_file, "w+", encoding="utf8") as o_file:
                 if args.ptr:
                     o_file.writelines(fightExpressions["ptr"])
+                # certain things like duration overrides for pets needs to be first
+                o_file.writelines(overrides)
                 o_file.writelines(sim_data)
                 o_file.writelines(settings)
-                o_file.writelines(overrides)
                 o_file.close()
 
 

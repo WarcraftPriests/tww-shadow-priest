@@ -313,6 +313,7 @@ singleTargetWeights: weightsSingle
 twoTargetWeights: weightsTwoTargets
 threeTargetWeights: weightsThreeTargets
 fourTargetWeights: weightsFourTargets
+eightTargetWeights: weightsEightTargets
 singleTargetProfiles:
   - pw_na_1
   - lm_na_1
