@@ -243,7 +243,6 @@ def build_profiles(talent_string, apl_string):
     overrides = ""
     with open("internal/overrides.simc", "r", encoding="utf8") as overrides_file:
         overrides = overrides_file.read()
-        overrides+="\n"
         overrides_file.close()
     combinations = [
         f"{fight}_{add}_{tar}"
@@ -355,9 +354,9 @@ def build_profiles(talent_string, apl_string):
                 if args.ptr:
                     o_file.writelines(fightExpressions["ptr"])
                 # certain things like duration overrides for pets needs to be first
-                o_file.writelines(overrides)
                 o_file.writelines(sim_data)
                 o_file.writelines(settings)
+                o_file.writelines(overrides)
                 o_file.close()
 
 

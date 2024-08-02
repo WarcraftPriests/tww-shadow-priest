@@ -18,6 +18,7 @@ combos = {
     "Unbound_Changeling_Mastery_639": "unbound_changeling,id=178708,ilevel=639",
     "Satchel_of_Misbegotten_Minions_639": "satchel_of_misbegotten_minions,id=178772,ilevel=639",
     "Hadals_Nautilus_639": "hadals_nautilus,id=159622,ilevel=639",
+    "Gale_of_Shadows_639": "gale_of_shadows1,id=133304,ilevel=639",
     # neru'bar palace (?/639)
     "Aberrant_Spellforge_639": "aberrant_spellforge,id=212451,ilevel=639",
     "Mad_Queens_Mandate_639": "mad_queens_mandate,id=212454,ilevel=639",

@@ -56,6 +56,9 @@ profileset."Ara_Kara_Sacbrood_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=
 profileset."Ara_Kara_Sacbrood_639-Hadals_Nautilus_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
 profileset."Ara_Kara_Sacbrood_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
+profileset."Ara_Kara_Sacbrood_639-Gale_of_Shadows_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."Ara_Kara_Sacbrood_639-Aberrant_Spellforge_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
 profileset."Ara_Kara_Sacbrood_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
@@ -111,6 +114,9 @@ profileset."Harvesters_Edict_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=s
 profileset."Harvesters_Edict_639-Hadals_Nautilus_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
 profileset."Harvesters_Edict_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
+profileset."Harvesters_Edict_639-Gale_of_Shadows_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."Harvesters_Edict_639-Aberrant_Spellforge_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
 profileset."Harvesters_Edict_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
@@ -163,6 +169,9 @@ profileset."Cirral_Concoctory_639-Satchel_of_Misbegotten_Minions_639"+=trinket2=
 profileset."Cirral_Concoctory_639-Hadals_Nautilus_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
 profileset."Cirral_Concoctory_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
+profileset."Cirral_Concoctory_639-Gale_of_Shadows_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
+profileset."Cirral_Concoctory_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."Cirral_Concoctory_639-Aberrant_Spellforge_639"+=trinket1=cirral_concoctory,id=219321,ilevel=639
 profileset."Cirral_Concoctory_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
@@ -212,6 +221,9 @@ profileset."High_Speakers_Accretion_639-Satchel_of_Misbegotten_Minions_639"+=tri
 profileset."High_Speakers_Accretion_639-Hadals_Nautilus_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
 profileset."High_Speakers_Accretion_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
+profileset."High_Speakers_Accretion_639-Gale_of_Shadows_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
+profileset."High_Speakers_Accretion_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."High_Speakers_Accretion_639-Aberrant_Spellforge_639"+=trinket1=high_speakers_accretion,id=219303,ilevel=639
 profileset."High_Speakers_Accretion_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
@@ -258,6 +270,9 @@ profileset."Empowering_Crystal_of_Anubikkaj_639-Satchel_of_Misbegotten_Minions_6
 profileset."Empowering_Crystal_of_Anubikkaj_639-Hadals_Nautilus_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 profileset."Empowering_Crystal_of_Anubikkaj_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
+profileset."Empowering_Crystal_of_Anubikkaj_639-Gale_of_Shadows_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."Empowering_Crystal_of_Anubikkaj_639-Aberrant_Spellforge_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 profileset."Empowering_Crystal_of_Anubikkaj_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
@@ -289,6 +304,10 @@ profileset."Unbound_Changeling_All_639-Satchel_of_Misbegotten_Minions_639"+=trin
 profileset."Unbound_Changeling_All_639-Hadals_Nautilus_639"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Unbound_Changeling_All_639-Hadals_Nautilus_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_All_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
+
+profileset."Unbound_Changeling_All_639-Gale_of_Shadows_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Gale_of_Shadows_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
 
 profileset."Unbound_Changeling_All_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Unbound_Changeling_All_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
@@ -330,6 +349,10 @@ profileset."Unbound_Changeling_Crit_639-Hadals_Nautilus_639"+=shadowlands.unboun
 profileset."Unbound_Changeling_Crit_639-Hadals_Nautilus_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Crit_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
+profileset."Unbound_Changeling_Crit_639-Gale_of_Shadows_639"+=shadowlands.unbound_changeling_stat_type=crit
+profileset."Unbound_Changeling_Crit_639-Gale_of_Shadows_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Crit_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."Unbound_Changeling_Crit_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=crit
 profileset."Unbound_Changeling_Crit_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Crit_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
@@ -369,6 +392,10 @@ profileset."Unbound_Changeling_Haste_639-Satchel_of_Misbegotten_Minions_639"+=tr
 profileset."Unbound_Changeling_Haste_639-Hadals_Nautilus_639"+=shadowlands.unbound_changeling_stat_type=haste
 profileset."Unbound_Changeling_Haste_639-Hadals_Nautilus_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Haste_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
+
+profileset."Unbound_Changeling_Haste_639-Gale_of_Shadows_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Gale_of_Shadows_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
 
 profileset."Unbound_Changeling_Haste_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=haste
 profileset."Unbound_Changeling_Haste_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
@@ -410,6 +437,10 @@ profileset."Unbound_Changeling_Mastery_639-Hadals_Nautilus_639"+=shadowlands.unb
 profileset."Unbound_Changeling_Mastery_639-Hadals_Nautilus_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Mastery_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
+profileset."Unbound_Changeling_Mastery_639-Gale_of_Shadows_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Gale_of_Shadows_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=mastery
 profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
@@ -445,6 +476,9 @@ profileset."Unbound_Changeling_Mastery_639-Forged_Gladiators_Badge_of_Ferocity_6
 profileset."Satchel_of_Misbegotten_Minions_639-Hadals_Nautilus_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
 profileset."Satchel_of_Misbegotten_Minions_639-Hadals_Nautilus_639"+=trinket2=hadals_nautilus,id=159622,ilevel=639
 
+profileset."Satchel_of_Misbegotten_Minions_639-Gale_of_Shadows_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."Satchel_of_Misbegotten_Minions_639-Aberrant_Spellforge_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
 profileset."Satchel_of_Misbegotten_Minions_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
@@ -469,6 +503,9 @@ profileset."Satchel_of_Misbegotten_Minions_639-Quickwick_Candlestick_626"+=trink
 profileset."Satchel_of_Misbegotten_Minions_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
 profileset."Satchel_of_Misbegotten_Minions_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
 
+profileset."Hadals_Nautilus_639-Gale_of_Shadows_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=133304,ilevel=639
+
 profileset."Hadals_Nautilus_639-Aberrant_Spellforge_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
 profileset."Hadals_Nautilus_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
@@ -492,6 +529,30 @@ profileset."Hadals_Nautilus_639-Quickwick_Candlestick_626"+=trinket2=quickwick_c
 
 profileset."Hadals_Nautilus_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=hadals_nautilus,id=159622,ilevel=639
 profileset."Hadals_Nautilus_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
+profileset."Gale_of_Shadows_639-Aberrant_Spellforge_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
+
+profileset."Gale_of_Shadows_639-Mad_Queens_Mandate_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
+profileset."Gale_of_Shadows_639-Spymasters_Web_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
+profileset."Gale_of_Shadows_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
+
+profileset."Gale_of_Shadows_639-Treacherous_Transmitter_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
+
+profileset."Gale_of_Shadows_639-Imperfect_Ascendancy_Serum_626"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Imperfect_Ascendancy_Serum_626"+=trinket2=imperfect_ascendancy_serum,id=225654,ilevel=626
+
+profileset."Gale_of_Shadows_639-Quickwick_Candlestick_626"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
+
+profileset."Gale_of_Shadows_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
 
 profileset."Aberrant_Spellforge_639-Mad_Queens_Mandate_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
 profileset."Aberrant_Spellforge_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
