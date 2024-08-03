@@ -1,89 +1,89 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  vw-da-cthun-dr:
+  vw-cthun-dr:
     gearSetup: default
     talents:
       composite:
-        name: VW_DH_VW_DA_yshaarj_cthun_81151017351087_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYGDAAAAAAAAAAAAwMmtxYmZWGMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMzMDAKAz2stEMbsB
+        name: VW_VE_VW_DA_yshaarj_cthun_81151086016431_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAYAzYAAAAAAAAAAAAAmxsNGzMzyYMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmN2A
       dungeons:
-        name: VW_DH_VW_DA_nzoth_cthun_98245820544943_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAwYs5BGzMzy4BMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMzMDAKAz2stEMbsB
+        name: VW_DH_VW_DA_nzoth_cthun_98245857245103_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMz8AAAAAAAAAAAAAAGs5BGzMzyYMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgZmZAgAMbz2SwsxG
       single:
-        name: VW_DH_VW_DA_yshaarj_cthun_81151051920303_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwwYAAAAAAAAAAAAAmZmtxYmZWGMzMGzMzCMLMzMzY2YgxYYWMbTNzgFYmZGAUAmtZbJY2YD
+        name: VW_VE_VW_DA_yshaarj_cthun_81151120585647_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAYAGDAAAAAAAAAAAAwMzsNGzMzyYMzMGzMzygZhZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsB
       2t:
         name: VW_DH_VW_DA_yshaarj_cthun_81151086286767_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYGDAAAAAAAAAAAAwMsNGzMzCjZmxsNzMLwswMzMjZjBGjhZxsN1MDWgZmZAQBY2mtlgZjN
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYGDAAAAAAAAAAAAwMsNGzMzCjZmxsNzMLDmFmZmZMbMwYMMLmtpmZwCMzMDAEgZb2WCmN2A
       4t:
-        name: VW_DH_VW_DA_nzoth_cthun_98193585723311_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwYmZAAAAAAAAAAAAAmhtxYmZWgZmxsNzMLwswMzMjZjBGjhZxsN1MDWgZmZAQBY2mtlgZjN
+        name: VW_VE_VW_DA_nzoth_cthun_98193517287343_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAzYAAAAAAAAAAAAAm5BmtxYmZWYMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmN2A
       8t:
-        name: VW_DH_VW_DA_nzoth_cthun_98193274296239_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwYGAAAAAAAAAAAAAmZsNGzMzCjZmxsNzMLwswMzMjZjBGjhZxsN1MDWgZmZAQBY2mtlgZjN
-  ar-cthun:
+        name: VW_VE_VW_VF_nzoth_cthun_98245891561391_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmNPwYmZ2YMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmN2A
+  ar-vf-cthun-flay-me:
     gearSetup: default
     talents:
       composite:
-        name: AR_SP_VF_cthun_80588583704495_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAYmZAAAAAAAAAAAAAGmlxYmZ2YMzMzsNzMLwsxMzMjZjBGjhZxsN1MDWgBwMbWmaWMAkxYB
+        name: AR_SP_VF_cthun_80589389019055_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMzMPAAAAAAAAAAAAAwwswYmZ2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNLGAyYsA
       dungeons:
-        name: AR_EC_VF_nzoth_yogg_cthun_129962315593647_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYYAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLwsxMzMjZjBGjhZxsN1MDWwMAmZxyUziBgMGLA
+        name: AR_EC_VF_nzoth_cthun_98241696217007_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmBAAAAAAAAAAAAwws4BGzY2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMLWGNLGAyYsA
       single:
-        name: AR_SP_VF_cthun_80658376897455_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGzMzCMbMzMzY2YgxYYWMbTNzgFYAMzmlpmFDAZMWA
+        name: AR_SP_VF_cthun_80589658469295_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGPwswYmZ2GjZmZGzMzygZjZmZGzGDMGDziZbqZGsADgZ2sMaWMAkxYB
       2t:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962386888623_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMDAAAAAAAAAAAAwwsYGzMzGPgZmZmtxMLwsxMzMjZjBGjhZxsN1MDWwMAmZzyUziBgMGLA
+        name: AR_SP_VF_cthun_80589389019055_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMzMPAAAAAAAAAAAAAwwswYmZ2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNLGAyYsA
       4t:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962319779759_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMY8ADAAAAAAAAAAAAwwsYGzMzGjZmZmtxMLwsxMzMjZjBGjhZxsN1MDWwMAmZzyUziBgMGLA
+        name: AR_SP_VF_nzoth_cthun_99313291605935_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAzMAAAAAAAAAAAAAGPwsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNLGAyYsA
       8t:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962283079599_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYYAAAAAAAAAAAAAGzsYGzMzGPgZmZmtxMLwsxMzMjZjBGjhZxsN1MDWwMAmZzyUziBgMGLA
-  vw-da-cthun-me:
+        name: AR_EC_VF_nzoth_cthun_99313190942639_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAz8AAAAAAAAAAAAAAGzsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMLWGNLGAyYsA
+  vw-cthun-me:
     gearSetup: default
     talents:
       composite:
-        name: VW_DH_VW_DA_yshaarj_cthun_81151021283247_Spike_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYmHYAAAAAAAAAAAAAmhlxYmZWGMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMzMDAKAz2stEMbsB
+        name: VW_VE_VW_DA_yshaarj_cthun_81151017351087_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYGDAAAAAAAAAAAAwMmlxYmZWGMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgZmZAgAMbzySwsxG
       dungeons:
         name: VW_DH_VW_DA_nzoth_cthun_98245820544943_Spike_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAwYs4BGzMzy4BMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMzMDAKAz2stEMbsB
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAwYs4BGzMzy4BMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgZmZAgAMbz2SwsxG
       single:
-        name: VW_DH_VW_DA_yshaarj_cthun_81151053755311_Spike_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwwYAAAAAAAAAAAAAmZsMGzMzy4BMzMGzMzCMLMzMzY2YgxYYWMbTNzgFYmZGAUAmtZbJY2YD
+        name: VW_VE_VW_DA_yshaarj_cthun_81151120585647_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAYAGDAAAAAAAAAAAAwMzsMGzMzyYMzMGzMzygZhZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsB
       2t:
-        name: VW_DH_VW_DA_nzoth_cthun_98245887645615_Spike_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAwYs4BGzMzCjZmxsNzMLwswMzMjZjBGjhZxsN1MDWgZmZAQBY2mtlgZjN
+        name: VW_DH_VW_DA_yshaarj_cthun_81150844065711_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYGAAAAAAAAAAAAAmZsMGzMzCjZmxsNzMLDmFmZmZMbMwYMMLmtpmZwCMzMDAEgZb2WCmN2A
       4t:
-        name: VW_DH_VW_DA_nzoth_cthun_98193274296239_Spike_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwYGAAAAAAAAAAAAAmZsMGzMzCjZmxsNzMLwswMzMjZjBGjhZxsN1MDWgZmZAQBY2mtlgZjN
+        name: VW_DH_VW_DA_nzoth_cthun_98193278212015_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAz8AAAAAAAAAAAAAAmZmlxYmZWYMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgxMDAEgZb2WCmN2A
       8t:
-        name: VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZWYMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMmZAQBY2mtlgZjF
-  vw-vf-cthun:
+        name: VW_DH_VW_VF_nzoth_cthun_98245891561391_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgxMDAEgZb2WCmN2A
+  ar-vf-yogg-cthun-me:
     gearSetup: default
     talents:
       composite:
-        name: VW_DH_VW_VF_yshaarj_cthun_81151021537199_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYmHYAAAAAAAAAAAAAmxsNGzMzGMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMzMDAKAz2stEMbsB
+        name: AR_SP_VF_yogg_cthun_111238544044975_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAghhZAAAAAAAAAAAAAGmFGzMz2YMzMzYmZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMaWMAkxYB
       dungeons:
-        name: VW_DH_VW_VF_nzoth_cthun_98245887645615_Spike_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAAwYs4BGzMzGjZmxsNzMLwswMzMjZjBGjhZxsN1MDWgZmZAQBY2mtlgZjN
+        name: AR_EC_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMLWGNLGAyYsA
       single:
-        name: VW_VE_VW_VF_yshaarj_cthun_81151120585647_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYAGDAAAAAAAAAAAAwMzsMGzMz2YMzMGzMzCMLMzMzY2YgxYYWMbTNzgFYMzAgCwsNLLBzGb
+        name: AR_SP_VF_yogg_cthun_111238544044975_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAghhZAAAAAAAAAAAAAGmFGzMz2YMzMzYmZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMaWMAkxYB
       2t:
-        name: VW_DH_VW_VF_yshaarj_cthun_81151155492783_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYmZAAAAAAAAAAAAAmhtxYmZ2gZmxsNzMLwswMzMjZjBGjhZxsN1MDWgZmZAQBY2mtlgZjN
+        name: AR_SP_VF_yogg_cthun_119173219612591_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgxYmBAAAAAAAAAAAAwgFGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWwMDwMbWGNLGAyYsA
       4t:
-        name: VW_DH_VW_VF_nzoth_cthun_98245891561391_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMmZAQBY2mtlgZjN
+        name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNLGAyYsA
       8t:
-        name: VW_DH_VW_VF_nzoth_cthun_98245891561391_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmZBmFmZmZMbMwYMMLmtpmZwCMmZAQBY2mtlgZjN
+        name: AR_EC_VF_nzoth_yogg_cthun_129962073372591_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYAAAAAAAAAAAAAwYmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMLWGNLGAyYsA
 hero:
   AR:
     AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/shock_pulse:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
