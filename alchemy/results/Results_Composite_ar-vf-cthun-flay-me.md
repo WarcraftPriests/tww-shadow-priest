@@ -1,0 +1,35 @@
+# Composite - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1187559|7.07%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1182447|6.61%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1180919|6.47%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1179182|6.31%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1178548|6.26%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1168827|5.38%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1166463|5.17%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1164942|5.03%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1163874|4.93%|
+|Flask_of_Tempered_Mastery_3|1159705|4.56%|
+|Flask_of_Tempered_Aggression_3|1157826|4.39%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1156484|4.27%|
+|Flask_of_Alchemical_Chaos_3|1155760|4.20%|
+|Flask_of_Tempered_Mastery_2|1154919|4.13%|
+|Flask_of_Tempered_Versatility_3|1154658|4.10%|
+|Flask_of_Tempered_Aggression_2|1153895|4.03%|
+|Flask_of_Alchemical_Chaos_2|1152763|3.93%|
+|Flask_of_Tempered_Mastery_1|1151709|3.84%|
+|Flask_of_Tempered_Versatility_2|1151283|3.80%|
+|Flask_of_Tempered_Aggression_1|1150447|3.72%|
+|Flask_of_Alchemical_Chaos_1|1148539|3.55%|
+|Flask_of_Tempered_Swiftness_3|1148419|3.54%|
+|Flask_of_Tempered_Versatility_1|1147699|3.48%|
+|Flask_of_Tempered_Swiftness_2|1144773|3.21%|
+|Flask_of_Tempered_Swiftness_1|1141152|2.88%|
+|Tempered_Potion_3|1140156|2.80%|
+|Tempered_Potion_2|1138005|2.60%|
+|Tempered_Potion_1|1134830|2.31%|
+|Potion_of_Unwavering_Focus_3|1117941|0.79%|
+|Potion_of_Unwavering_Focus_2|1115619|0.58%|
+|Potion_of_Unwavering_Focus_1|1114686|0.50%|
+|Base|1109154|0.00%|

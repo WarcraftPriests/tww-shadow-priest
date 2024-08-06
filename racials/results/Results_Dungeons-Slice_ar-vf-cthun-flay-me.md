@@ -1,0 +1,35 @@
+# Dungeons-Slice - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|1257862|2.01%|
+|Mechagnome|1256697|1.92%|
+|Maghar_Orc|1253741|1.68%|
+|Dark_Iron_Dwarf|1252241|1.55%|
+|Troll|1249506|1.33%|
+|Draenei|1249282|1.31%|
+|Blood_Elf|1247843|1.20%|
+|Human|1246881|1.12%|
+|Void_Elf|1244751|0.95%|
+|Night_Elf_Crit|1244533|0.93%|
+|Kul_Tiran|1244404|0.92%|
+|Highmountain_Tauren|1244384|0.92%|
+|Dwarf|1244294|0.91%|
+|Worgen|1243991|0.88%|
+|Nightborne|1243811|0.87%|
+|Zandalari_Troll_Paku|1243187|0.82%|
+|Goblin|1242356|0.75%|
+|Night_Elf_Haste|1242035|0.73%|
+|Gnome|1241969|0.72%|
+|Tauren|1241415|0.68%|
+|Zandalari_Troll_Bwonsamdi|1234326|0.10%|
+|Undead|1233300|0.02%|
+|Lightforged_Draenei|1233160|0.01%|
+|Base|1233080|0.00%|
+|Earthen|1232960|-0.01%|
+|Vulpera|1231470|-0.13%|
+|Zandalari_Troll_Kimbul|1231160|-0.16%|
+|Panda_Fortune_Cookie|1228259|-0.39%|
+|Panda_Crit|1227392|-0.46%|
+|Panda_Haste|1227390|-0.46%|
+|Panda_Mastery|1226205|-0.56%|
+|Panda_Vers|1226112|-0.57%|
