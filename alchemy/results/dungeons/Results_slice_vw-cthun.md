@@ -1,0 +1,35 @@
+# slice - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1331575|6.86%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1323619|6.22%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1323465|6.21%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1322352|6.12%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1321298|6.03%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1305927|4.80%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1305779|4.79%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1305414|4.76%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1304957|4.72%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1301888|4.48%|
+|Flask_of_Alchemical_Chaos_3|1300888|4.40%|
+|Flask_of_Tempered_Versatility_3|1299053|4.25%|
+|Flask_of_Tempered_Aggression_3|1298953|4.24%|
+|Flask_of_Tempered_Mastery_3|1298704|4.22%|
+|Flask_of_Alchemical_Chaos_2|1297332|4.11%|
+|Flask_of_Tempered_Aggression_2|1295921|4.00%|
+|Flask_of_Tempered_Swiftness_3|1295281|3.95%|
+|Flask_of_Tempered_Versatility_2|1294823|3.91%|
+|Flask_of_Tempered_Mastery_2|1294258|3.86%|
+|Flask_of_Alchemical_Chaos_1|1292261|3.70%|
+|Flask_of_Tempered_Aggression_1|1292155|3.70%|
+|Flask_of_Tempered_Mastery_1|1292155|3.70%|
+|Flask_of_Tempered_Swiftness_2|1291933|3.68%|
+|Flask_of_Tempered_Versatility_1|1291808|3.67%|
+|Flask_of_Tempered_Swiftness_1|1287490|3.32%|
+|Tempered_Potion_3|1276992|2.48%|
+|Tempered_Potion_2|1274209|2.26%|
+|Tempered_Potion_1|1273038|2.16%|
+|Potion_of_Unwavering_Focus_3|1251600|0.44%|
+|Potion_of_Unwavering_Focus_2|1250760|0.37%|
+|Potion_of_Unwavering_Focus_1|1248951|0.23%|
+|Base|1246105|0.00%|

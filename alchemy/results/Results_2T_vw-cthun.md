@@ -1,0 +1,35 @@
+# 2T - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1573317|6.71%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1570240|6.50%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1567422|6.31%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1562960|6.01%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1557724|5.66%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1545880|4.85%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1541602|4.56%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1541382|4.55%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1541066|4.53%|
+|Flask_of_Tempered_Mastery_3|1539253|4.40%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1534992|4.11%|
+|Flask_of_Tempered_Versatility_3|1534187|4.06%|
+|Flask_of_Alchemical_Chaos_3|1534164|4.06%|
+|Flask_of_Tempered_Mastery_2|1533848|4.04%|
+|Flask_of_Tempered_Swiftness_3|1533567|4.02%|
+|Flask_of_Tempered_Versatility_2|1530197|3.79%|
+|Flask_of_Alchemical_Chaos_2|1529578|3.75%|
+|Flask_of_Tempered_Mastery_1|1528642|3.68%|
+|Flask_of_Tempered_Swiftness_2|1528599|3.68%|
+|Flask_of_Tempered_Aggression_3|1527699|3.62%|
+|Flask_of_Tempered_Swiftness_1|1525463|3.47%|
+|Flask_of_Alchemical_Chaos_1|1524948|3.43%|
+|Flask_of_Tempered_Versatility_1|1524885|3.43%|
+|Flask_of_Tempered_Aggression_2|1523259|3.32%|
+|Flask_of_Tempered_Aggression_1|1519447|3.06%|
+|Tempered_Potion_3|1511992|2.55%|
+|Tempered_Potion_2|1508304|2.30%|
+|Tempered_Potion_1|1505545|2.12%|
+|Potion_of_Unwavering_Focus_3|1480692|0.43%|
+|Potion_of_Unwavering_Focus_2|1479292|0.34%|
+|Potion_of_Unwavering_Focus_1|1477910|0.24%|
+|Base|1474340|0.00%|

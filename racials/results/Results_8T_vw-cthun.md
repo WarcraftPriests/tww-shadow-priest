@@ -1,0 +1,35 @@
+# 8T - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Dark_Iron_Dwarf|6050828|2.47%|
+|Orc|6050450|2.46%|
+|Troll|6038830|2.27%|
+|Blood_Elf|6015608|1.87%|
+|Maghar_Orc|6007587|1.74%|
+|Void_Elf|5984113|1.34%|
+|Draenei|5982954|1.32%|
+|Human|5982360|1.31%|
+|Mechagnome|5974489|1.18%|
+|Night_Elf_Haste|5967236|1.05%|
+|Gnome|5966447|1.04%|
+|Nightborne|5964543|1.01%|
+|Highmountain_Tauren|5964150|1.00%|
+|Kul_Tiran|5962327|0.97%|
+|Goblin|5962015|0.97%|
+|Tauren|5957916|0.90%|
+|Zandalari_Troll_Paku|5957084|0.88%|
+|Worgen|5955416|0.85%|
+|Dwarf|5951594|0.79%|
+|Night_Elf_Crit|5949731|0.76%|
+|Zandalari_Troll_Kimbul|5908256|0.06%|
+|Vulpera|5906523|0.03%|
+|Undead|5905549|0.01%|
+|Base|5904963|0.00%|
+|Zandalari_Troll_Bwonsamdi|5904310|-0.01%|
+|Lightforged_Draenei|5903450|-0.03%|
+|Earthen|5902085|-0.05%|
+|Panda_Haste|5885908|-0.32%|
+|Panda_Vers|5882995|-0.37%|
+|Panda_Mastery|5882597|-0.38%|
+|Panda_Crit|5882005|-0.39%|
+|Panda_Fortune_Cookie|5873595|-0.53%|

@@ -1,0 +1,35 @@
+# Dungeons-Slice - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|1357355|1.91%|
+|Mechagnome|1355824|1.80%|
+|Troll|1354207|1.68%|
+|Maghar_Orc|1353653|1.63%|
+|Dark_Iron_Dwarf|1351603|1.48%|
+|Draenei|1348450|1.24%|
+|Blood_Elf|1346778|1.12%|
+|Human|1346486|1.10%|
+|Gnome|1345750|1.04%|
+|Night_Elf_Crit|1344992|0.98%|
+|Kul_Tiran|1344830|0.97%|
+|Night_Elf_Haste|1344579|0.95%|
+|Highmountain_Tauren|1344568|0.95%|
+|Void_Elf|1344546|0.95%|
+|Nightborne|1344394|0.94%|
+|Goblin|1344250|0.93%|
+|Zandalari_Troll_Paku|1343975|0.91%|
+|Tauren|1343248|0.85%|
+|Worgen|1343116|0.84%|
+|Dwarf|1343006|0.83%|
+|Lightforged_Draenei|1334626|0.21%|
+|Undead|1333487|0.12%|
+|Zandalari_Troll_Bwonsamdi|1332591|0.05%|
+|Earthen|1332347|0.03%|
+|Base|1331886|0.00%|
+|Zandalari_Troll_Kimbul|1331749|-0.01%|
+|Vulpera|1331466|-0.03%|
+|Panda_Mastery|1328661|-0.24%|
+|Panda_Crit|1328174|-0.28%|
+|Panda_Vers|1327578|-0.32%|
+|Panda_Haste|1326598|-0.40%|
+|Panda_Fortune_Cookie|1326157|-0.43%|
