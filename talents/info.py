@@ -84,7 +84,7 @@ if __name__ == "__main__":
             file.close()
     print(f"Found {len(talent_spec_strings)} talent builds")
     # just do single target for now
-    fights = ["2T", "3T", "4T", "Composite", "Dungeons-Slice", "Single"]
+    fights = ["2T", "4T", "8T", "Composite", "Dungeons-Slice", "Single"]
     for fight in fights:
         print(f"generating Results_{fight}-info.md")
         with open(f"results/Results_{fight}.csv", "r", encoding="utf8") as file:

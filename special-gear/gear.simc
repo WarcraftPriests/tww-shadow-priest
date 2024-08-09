@@ -54,10 +54,30 @@ profileset."Back_Wings_of_Shattered_Sorrow_632"+=back=wings_of_shattered_sorrow,
 
 ## Embellishments
 ### 11303 - Dawnthread Lining (Crit above 80%)
-profileset."Embellishment_Dawnthread_Lining_1"+=feet=${gear.feet},ilevel=636,bonus_id=11303
+profileset."Embellishment_Dawnthread_Lining_90%_1"+=feet=${gear.feet},ilevel=636,bonus_id=11303
+profileset."Embellishment_Dawnthread_Lining_90%_1"+=thewarwithin.dawn_dusk_thread_lining_uptime=0.9
+
+profileset."Embellishment_Dawnthread_Lining_70%_1"+=feet=${gear.feet},ilevel=636,bonus_id=11303
+profileset."Embellishment_Dawnthread_Lining_70%_1"+=thewarwithin.dawn_dusk_thread_lining_uptime=0.7
+
+profileset."Embellishment_Dawnthread_Lining_50%_1"+=feet=${gear.feet},ilevel=636,bonus_id=11303
+profileset."Embellishment_Dawnthread_Lining_50%_1"+=thewarwithin.dawn_dusk_thread_lining_uptime=0.5
+
+profileset."Embellishment_Dawnthread_Lining_40%_1"+=feet=${gear.feet},ilevel=636,bonus_id=11303
+profileset."Embellishment_Dawnthread_Lining_40%_1"+=thewarwithin.dawn_dusk_thread_lining_uptime=0.4
 
 ### 11304 - Duskthread Lining (Vers above 80%)
-profileset."Embellishment_Duskthread_Lining_1"+=feet=${gear.feet},ilevel=636,bonus_id=11304
+profileset."Embellishment_Duskthread_Lining_90%_1"+=feet=${gear.feet},ilevel=636,bonus_id=11304
+profileset."Embellishment_Duskthread_Lining_90%_1"+=thewarwithin.dawn_dusk_thread_lining_uptime=0.9
+
+profileset."Embellishment_Duskthread_Lining_70%_1"+=feet=${gear.feet},ilevel=636,bonus_id=11304
+profileset."Embellishment_Duskthread_Lining_70%_1"+=thewarwithin.dawn_dusk_thread_lining_uptime=0.7
+
+profileset."Embellishment_Duskthread_Lining_50%_1"+=feet=${gear.feet},ilevel=636,bonus_id=11304
+profileset."Embellishment_Duskthread_Lining_50%_1"+=thewarwithin.dawn_dusk_thread_lining_uptime=0.5
+
+profileset."Embellishment_Duskthread_Lining_40%_1"+=feet=${gear.feet},ilevel=636,bonus_id=11304
+profileset."Embellishment_Duskthread_Lining_40%_1"+=thewarwithin.dawn_dusk_thread_lining_uptime=0.4
 
 ### 10520 - Elemental Focusing Lens (Spells deal damage - school based on socketed gems)
 profileset."Embellishment_Elemental_Focusing_Lens_1"+=feet=${gear.feet},ilevel=636,bonus_id=10520
