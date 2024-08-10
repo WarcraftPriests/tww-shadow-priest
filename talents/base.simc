@@ -8,14 +8,14 @@ spec_talents=devouring_plague:1/shadowy_apparitions:1/misery:1/thought_harvester
 
 ${apl}
 
-head=${gear.head},gem_id=${gems.main},enchant=${enchants.head}
-neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
+head=${gear.head},gem_id=${gems.meta},enchant=${enchants.head}
+neck=${gear.neck},gem_id=${gems.emerald}/${gems.ruby}
 shoulders=${gear.shoulders}
 back=${gear.back}
 chest=${gear.chest},enchant=${enchants.chest}
-wrists=${gear.wrists},gem_id=${gems.main}
+wrists=${gear.wrists},gem_id=${gems.onyx}
 hands=${gear.hands}
-waist=${gear.waist},gem_id=${gems.main}
+waist=${gear.waist},gem_id=${gems.sapphire}
 legs=${gear.legs},enchant=${enchants.legs}
 feet=${gear.feet}
 finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}

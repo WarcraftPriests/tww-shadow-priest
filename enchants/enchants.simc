@@ -7,14 +7,14 @@ talents=${talents}
 
 ${apl}
 
-head=${gear.head},gem_id=${gems.main}
-neck=${gear.neck},gem_id=${gems.meta}/${gems.main}/${gems.main}
+head=${gear.head},gem_id=${gems.meta}
+neck=${gear.neck},gem_id=${gems.emerald}/${gems.ruby}
 shoulders=${gear.shoulders}
 back=${gear.back}
 chest=${gear.chest}
-wrists=${gear.wrists},gem_id=${gems.main}
+wrists=${gear.wrists},gem_id=${gems.onyx}
 hands=${gear.hands}
-waist=${gear.waist},gem_id=${gems.main}
+waist=${gear.waist},gem_id=${gems.sapphire}
 legs=${gear.legs}
 feet=${gear.feet}
 finger1=${gear.finger1},gem_id=${gems.main}/${gems.main}

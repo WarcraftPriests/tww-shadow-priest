@@ -3,20 +3,19 @@ builds weapon strings
 python build_weapons.py
 """
 
-enchant = "enchant=wafting_devotion_3"
+enchant = "enchant=authority_of_the_depths_3"
 
 one_hands = {
-    "1h_Vakash_the_Shadowed_Inferno_528": "main_hand=vakash_the_shadowed_inferno,id=207788,ilevel=528",
+    "1h_Unceremonious_Bloodletter_639": "main_hand=unceremonious_bloodletter,id=221165,ilevel=639",
+    "1h_Kingslayers_Frostfang_639": "main_hand=kingslayers_frostfang,id=221171,ilevel=639",
+    "1h_Scithewood_Scepter_639": "main_hand=scithewood_scepter,id=178709,ilevel=639",
+    "1h_Wand_of_Untainted_Power_639": "main_hand=wand_of_untainted_power,id=133288,ilevel=639",
+    "1h_Scepter_of_Manifested_Miasma_639": "main_hand=scepter_of_manifested_miasma,id=212404,ilevel=639",
+    "1h_Sovereigns_Disdain_639": "main_hand=sovereigns_disdain,id=212394,ilevel=639",
 }
 
 off_hands = {
-    "OH_Tricksters_Captivating_Chime_528": "off_hand=tricksters_captivating_chime,id=207796,ilevel=528",  # noqa: E501
-    "OH_Crackling_Codex_of_the_Isles_525": "off_hand=crackling_codex_of_the_isles,id=194879,ilevel=525,crafted_stats=49/36",  # noqa: E501
-    "OH_Echos_Maddening_Volume_528": "off_hand=echos_maddening_volume,id=204324,ilevel=528",
-    "OH_Thadrions_Erratic_Arcanotrode_528": "off_hand=thadrions_erratic_arcanotrode,id=204318,ilevel=528",
-    "OH_Scripture_of_Primal_Devotion_528": "off_hand=scripture_of_primal_devotion,id=195513,ilevel=528",
-    "OH_Icewraths_Channeling_Conduit_528": "off_hand=icewraths_channeling_conduit,id=195484,ilevel=528",
-    "OH_Rod_of_Perfect_Order_528": "off_hand=rod_of_perfect_order,id=193745,ilevel=528",
+    "OH_Pail_of_Preserved_Obscurity_639": "off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639",  # noqa: E501
 }
 
 combos = [(mh, oh) for mh in one_hands.keys() for oh in off_hands.keys()]

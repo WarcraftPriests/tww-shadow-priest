@@ -3,18 +3,6 @@ builds gem combo profile
 python create_combos.py
 """
 
-from itertools import combinations
-
-# read in base.simc to get profile
-# open gems.simc output file re-write do not append
-# define list of meta gems
-# define gem list by color only if they have haste or mastery
-# define top gems that we test against full stacking
-# create combos, 1 per color, 1 per color except stam, full stack gems
-
-# 2 gems neck, 2 gems finger1, 2 gems finger2
-# 1 gem helm, 1 gem wrists, 1 gem waist
-
 meta = {
     "CB": 213743, # crit
 }

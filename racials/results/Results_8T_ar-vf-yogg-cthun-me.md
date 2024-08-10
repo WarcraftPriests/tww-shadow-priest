@@ -1,0 +1,35 @@
+# 8T - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Orc|6871522|2.76%|
+|Troll|6820308|1.99%|
+|Maghar_Orc|6817998|1.96%|
+|Blood_Elf|6814429|1.91%|
+|Dark_Iron_Dwarf|6809388|1.83%|
+|Human|6774804|1.31%|
+|Draenei|6769563|1.23%|
+|Mechagnome|6765261|1.17%|
+|Gnome|6761514|1.11%|
+|Goblin|6759021|1.08%|
+|Night_Elf_Haste|6758600|1.07%|
+|Void_Elf|6756912|1.05%|
+|Nightborne|6752213|0.98%|
+|Zandalari_Troll_Paku|6752060|0.97%|
+|Worgen|6746826|0.89%|
+|Kul_Tiran|6745615|0.88%|
+|Night_Elf_Crit|6744912|0.87%|
+|Highmountain_Tauren|6743515|0.85%|
+|Dwarf|6734594|0.71%|
+|Tauren|6732382|0.68%|
+|Zandalari_Troll_Kimbul|6687173|0.00%|
+|Base|6687001|0.00%|
+|Undead|6685305|-0.03%|
+|Lightforged_Draenei|6685173|-0.03%|
+|Zandalari_Troll_Bwonsamdi|6683071|-0.06%|
+|Earthen|6682413|-0.07%|
+|Vulpera|6682348|-0.07%|
+|Panda_Mastery|6659804|-0.41%|
+|Panda_Fortune_Cookie|6658503|-0.43%|
+|Panda_Crit|6657556|-0.44%|
+|Panda_Haste|6655413|-0.47%|
+|Panda_Vers|6652689|-0.51%|

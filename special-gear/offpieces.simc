@@ -1,257 +1,312 @@
 # TODOs:
-# - fix gems
 # - add crafted items
 # - check BoEs
-# - add enchants
+# - add cantrip weapons
 
 # Head
-copy="Head_Intertwiners_Shadowcowl_639","Base"
-head=intertwiners_shadowcowl,id=221187,ilevel=639 # mastery/crit (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# mastery/crit (D)
+profileset."Head_Intertwiners_Shadowcowl_639"+=head=intertwiners_shadowcowl,id=221187,ilevel=639,gem_id=213743
+profileset."Head_Intertwiners_Shadowcowl_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Head_Cocoonsilk_Cowl_639","Base"
-head=cocoonsilk_cowl,id=178693,ilevel=639 # vers/haste (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# vers/haste (D)
+# profileset."Head_Cocoonsilk_Cowl_639"+=
+# head=cocoonsilk_cowl,id=178693,ilevel=639,gem_id=213743 
+# hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Head_Abominable_Visage_639","Base"
-head=abominable_visage,id=178732,ilevel=639 # crit/mastery (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# crit/mastery (D)
+# profileset."Head_Abominable_Visage_639"+=
+# head=abominable_visage,id=178732,ilevel=639,gem_id=213743 
+# hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Head_Crown_of_Enfeebled_Bodies_639","Base"
-head=crown_of_enfeebled_bodies,id=133302,ilevel=639 # crit=haste (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# crit=haste (D)
+profileset."Head_Crown_of_Enfeebled_Bodies_639"+=head=crown_of_enfeebled_bodies,id=133302,ilevel=639,gem_id=213743 
+profileset."Head_Crown_of_Enfeebled_Bodies_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Head_Devotees_Discarded_Headdress_639","Base"
-head=devotees_discarded_headdress,id=212440,ilevel=639 # haste/crit (R)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# haste/crit (R)
+profileset."Head_Devotees_Discarded_Headdress_639"+=head=devotees_discarded_headdress,id=212440,ilevel=639,gem_id=213743 
+profileset."Head_Devotees_Discarded_Headdress_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
 # Neck
-copy="Neck_Elders_Hemolymphal_Periapt_639","Base"
-neck=elders_hemolymphal_periapt,id=221181,ilevel=639 # vers/crit (D)
+# vers/crit (D)
+# profileset."Neck_Elders_Hemolymphal_Periapt_639"+=
+# neck=elders_hemolymphal_periapt,id=221181,ilevel=639,gem_id=213482/213458 
 
-copy="Neck_Emergency_Stop_Keychain_639","Base"
-neck=emergency_stop_keychain,id=221077,ilevel=639 # mastery/haste (D)
+# mastery/haste (D)
+profileset."Neck_Emergency_Stop_Keychain_639"+=neck=emergency_stop_keychain,id=221077,ilevel=639,gem_id=213482/213458 
 
-copy="Neck_Trailspinner_Pendant_639","Base"
-neck=trailspinner_pendant,id=178707,ilevel=639 # mastery/crit (D)
+# mastery/crit (D)
+profileset."Neck_Trailspinner_Pendant_639"+=neck=trailspinner_pendant,id=178707,ilevel=639,gem_id=213482/213458
 
-copy="Neck_Sureki_Zealots_Insignia_639","Base"
-neck=sureki_zealots_insignia,id=225577,ilevel=639 # haste/mastery (R)
+# haste/mastery (R)
+profileset."Neck_Sureki_Zealots_Insignia_639"+=neck=sureki_zealots_insignia,id=225577,ilevel=639,gem_id=213482/213458 
 
-copy="Neck_Locket_of_Broken_Memories","Base"
-neck=locket_of_broken_memories,id=212448,ilevel=639 # crit/haste (R)
+# crit/haste (R)
+# profileset."Neck_Locket_of_Broken_Memories"+=neck=locket_of_broken_memories,id=212448,ilevel=639,gem_id=213482/213458 
 
-copy="Neck_Silken_Advisors_Favor","Base"
-neck=silken_advisors_favor,id=225575,ilevel=639 # vers/mastery (R)
+# vers/mastery (R)
+# profileset."Neck_Silken_Advisors_Favor"+=neck=silken_advisors_favor,id=225575,ilevel=639,gem_id=213482/213458 
 
 # Shoulders
-copy="Shoulder_Fanatics_Blackened_Shoulderwraps_639","Base"
-shoulder=fanatics_blackened_shoulderwraps,id=221135,ilevel=639 # vers/crit (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# vers/crit (D)
+# profileset."Shoulder_Fanatics_Blackened_Shoulderwraps_639"+=shoulder=fanatics_blackened_shoulderwraps,id=221135,ilevel=639 
+# profileset."Shoulder_Fanatics_Blackened_Shoulderwraps_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Shoulder_Ingra_Malochs_Mantle_639","Base"
-shoulder=ingra_malochs_mantle,id=178696,ilevel=639 # crit/vers (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# crit/vers (D)
+# profileset."Shoulder_Ingra_Malochs_Mantle_639"+=shoulder=ingra_malochs_mantle,id=178696,ilevel=639 
+# profileset."Shoulder_Ingra_Malochs_Mantle_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Shoulder_Reanimators_Mantle_639","Base"
-shoulder=reanimators_mantle,id=178740,ilevel=639 # haste/mastery (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# haste/mastery (D)
+profileset."Shoulder_Reanimators_Mantle_639"+=shoulder=reanimators_mantle,id=178740,ilevel=639 
+profileset."Shoulder_Reanimators_Mantle_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Shoulder_Beacons_of_the_False_Dawn_639","Base"
-shoulder=beacons_of_the_false_dawn,id=212439,ilevel=639 # crit/mastery (R)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# crit/mastery (R)
+# profileset."Shoulder_Beacons_of_the_False_Dawn_639"+=shoulder=beacons_of_the_false_dawn,id=212439,ilevel=639 
+# profileset."Shoulder_Beacons_of_the_False_Dawn_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
 # Back
-copy="Back_Swarmcallers_Shroud_639","Base"
-back=swarmcallers_shroud,id=221154,ilevel=639 # vers/crit (D)
+# vers/crit (D)
+# profileset."Back_Swarmcallers_Shroud_639"+=back=swarmcallers_shroud,id=221154,ilevel=639 
 
-copy="Back_Anvilhide_Cape_639","Base"
-back=anvilhide_cape,id=221088,ilevel=639 # mastery/haste (D)
+# mastery/haste (D)
+profileset."Back_Anvilhide_Cape_639"+=back=anvilhide_cape,id=221088,ilevel=639 
 
-copy="Back_Azureborne_Cloak_639","Base"
-back=azureborne_cloak,id=133292,ilevel=639 # vers/crit (D)
+# vers/crit (D)
+# profileset."Back_Azureborne_Cloak_639"+=back=azureborne_cloak,id=133292,ilevel=639 
 
-copy="Back_Shroud_of_Dark_Memories_639","Base"
-back=shroud_of_dark_memories,id=133309,ilevel=639 # vers/crit (D)
+# vers/crit (D)
+# profileset."Back_Shroud_of_Dark_Memories_639"+=back=shroud_of_dark_memories,id=133309,ilevel=639 
 
-copy="Back_Troggstitched_Drape_639","Base"
-back=troggstitched_drape,id=133363,ilevel=639 # mastery=crit (D)
+# mastery=crit (D)
+profileset."Back_Troggstitched_Drape_639"+=back=troggstitched_drape,id=133363,ilevel=639 
 
-copy="Back_Royal_Emblem_of_Nerubar_639","Base"
-back=royal_emblem_of_nerubar,id=212446,ilevel=639 # mastery/crit (R)
+# mastery/crit (R)
+profileset."Back_Royal_Emblem_of_Nerubar_639"+=back=royal_emblem_of_nerubar,id=212446,ilevel=639 
 
-copy="Back_Wings_of_Shattered_Sorrow_639","Base"
-back=wings_of_shattered_sorrow,id=225574,ilevel=639 # crit/haste (R)
+# crit/haste (R)
+# profileset."Back_Wings_of_Shattered_Sorrow_639"+=back=wings_of_shattered_sorrow,id=225574,ilevel=639 
+
+# haste/crit
+profileset."Back_Living_Lusters_Glow_639"+=back=living_lusters_glow,id=212078,ilevel=639 
 
 # Chest
-copy="Chest_Arachnofrost_Vest_639","Base"
-chest=arachnofrost_vest,id=221176,ilevel=639 # crit/haste (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# crit/haste (D)
+# profileset."Chest_Arachnofrost_Vest_639"+=chest=arachnofrost_vest,id=221176,ilevel=639,enchant=crystalline_radiance_3 
+# profileset."Chest_Arachnofrost_Vest_639"+hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Chest_Shadowed_Orators_Tunic_639","Base"
-chest=shadowed_orators_tunic,id=221095,ilevel=639 # vers/haste (D)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# vers/haste (D)
+# profileset."Chest_Shadowed_Orators_Tunic_639"+=chest=shadowed_orators_tunic,id=221095,ilevel=639,enchant=crystalline_radiance_3 
+# profileset."Chest_Shadowed_Orators_Tunic_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Chest_Bilesoaked_Harness_639","Base"
-chest=bilesoaked_harness,id=212419,ilevel=639 # mastery/crit (R)
-hands=living_lusters_touch,id=212084,ilevel=639 # vers/crit
+# mastery/crit (R)
+profileset."Chest_Bilesoaked_Harness_639"+=chest=bilesoaked_harness,id=212419,ilevel=639,enchant=crystalline_radiance_3 
+profileset."Chest_Bilesoaked_Harness_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
 # Wrists
-copy="Wrists_Vitriolic_Veinwoven_Wraps_639","Base"
-wrists=vitriolic_veinwoven_wraps,id=221182,ilevel=639 # haste/crit (D)
+# haste/crit (D)
+profileset."Wrists_Vitriolic_Veinwoven_Wraps_639"+=wrists=vitriolic_veinwoven_wraps,id=221182,ilevel=639,gem_id=213491 
 
-copy="Wrists_Deathshackle_Wristwraps_639","Base"
-wrists=deathshackle_wristwraps,id=178704,ilevel=639 # haste/vers (D)
+# haste/vers (D)
+profileset."Wrists_Deathshackle_Wristwraps_639"+=wrists=deathshackle_wristwraps,id=178704,ilevel=639,gem_id=213491 
 
-copy="Wrists_Necropolis_Lords_Shackles_639","Base"
-wrists=necropolis_lords_shackles,id=178782,ilevel=639 # mastery/vers (D)
+# mastery/vers (D)
+profileset."Wrists_Necropolis_Lords_Shackles_639"+=wrists=necropolis_lords_shackles,id=178782,ilevel=639,gem_id=213491 
 
-copy="Wrists_Crimsonborne_Bracers_639","Base"
-wrists=crimsonborne_bracers,id=133295,ilevel=639 # haste=crit (D)
+# haste=crit (D)
+profileset."Wrists_Crimsonborne_Bracers_639"+=wrists=crimsonborne_bracers,id=133295,ilevel=639,gem_id=213491 
 
-copy="Wrists_Crunchy_Intruders_Wristband_639","Base"
-wrists=crunchy_intruders_wristband,id=212426,ilevel=639 # crit/haste (R)
+# crit/haste (R)
+# profileset."Wrists_Crunchy_Intruders_Wristband_639"+=wrists=crunchy_intruders_wristband,id=212426,ilevel=639,gem_id=213491 
 
-copy="Wrists_skeinspinners_duplicitous_cuffs_639","Base"
-wrists=skeinspinners_duplicitous_cuffs,id=225584,ilevel=639 # haste/mastery (R)
+# haste/mastery (R)
+profileset."Wrists_Skeinspinners_Duplicitous_Cuffs_639"+=wrists=skeinspinners_duplicitous_cuffs,id=225584,ilevel=639,gem_id=213491 
+
+# vers/haste
+# profileset."Wrists_Living_Lusters_Crystbands_639"+=wrists=living_lusters_crystbands,id=212079,ilevel=639,gem_id=213491 
 
 # Hands
-copy="Hands_Subduers_Terrorgrips_639","Base"
-hands=subduers_terrorgrips,id=221170,ilevel=639 # crit/vers (D)
+# crit/vers (D)
+# profileset."Hands_Subduers_Terrorgrips_639"+=hands=subduers_terrorgrips,id=221170,ilevel=639 
 
-copy="Hands_Tricksprite_Gloves_639","Base"
-hands=tricksprite_gloves,id=178705,ilevel=639 # haste/crit (D)
+# haste/crit (D)
+profileset."Hands_Tricksprite_Gloves_639"+=hands=tricksprite_gloves,id=178705,ilevel=639 
 
-copy="Hands_Gory_Surgeons_Gloves_639","Base"
-hands=gory_surgeons_gloves,id=178748,ilevel=639 # mastery/crit (D)
+# mastery/crit (D)
+profileset."Hands_Gory_Surgeons_Gloves_639"+=hands=gory_surgeons_gloves,id=178748,ilevel=639 
 
-copy="Hands_Captains_Dustfinders_639","Base"
-hands=captains_dustfinders,id=159237,ilevel=639 # crit/mastery (D)
+# crit/mastery (D)
+# profileset."Hands_Captains_Dustfinders_639"+=hands=captains_dustfinders,id=159237,ilevel=639 
 
-copy="Hands_Bindings_of_the_Starless_Night_639","Base"
-hands=bindings_of_the_starless_night,id=212441,ilevel=639 # haste/vers (R)
+# haste/vers (R)
+profileset."Hands_Bindings_of_the_Starless_Night_639"+=hands=bindings_of_the_starless_night,id=212441,ilevel=639 
 
 # Waist
-copy="Waist_Burrowers_Cinch_639","Base"
-waist=burrowers_cinch,id=221158,ilevel=639 # crit/haste (D)
+# crit/haste (D)
+# profileset."Waist_Burrowers_Cinch_639"+=waist=burrowers_cinch,id=221158,ilevel=639,gem_id=213473 
 
-copy="Waist_Dorlitas_Safety_Belt_639","Base"
-waist=dorlitas_safety_belt,id=221087,ilevel=639 # vers/mastery (D)
+# vers/mastery (D)
+# profileset."Waist_Dorlitas_Safety_Belt_639"+=waist=dorlitas_safety_belt,id=221087,ilevel=639,gem_id=213473 
 
-copy="Waist_","Base"
-waist=cord_of_the_pious_warder,id=159245 # haste/mastery (D)
+# haste/mastery (D)
+profileset."Waist_Cord_of_the_Pious_Warder_639"+=waist=cord_of_the_pious_warder,id=159245,ilevel=639,gem_id=213473 
 
-copy="Waist_","Base"
-# shattered eye cincture - vers/crit (R)
+# vers/crit (R)
+# profileset."Waist_Shattered_Eye_Cincture_639"+=waist=shattered_eye_cincture,id=212430,ilevel=639,gem_id=213473 
 
-copy="Waist_","Base"
-# acrid ascendant's sash - mastery/haste (R)
+# mastery/haste (R)
+profileset."Waist_Acrid_Ascendants_Sash_639"+=waist=acrid_ascendants_sash,id=225585,ilevel=639,gem_id=213473 
+
+# crit/mastery
+# profileset."Waist_Living_Lusters_Lightbelt_639"+=waist=living_lusters_lightbelt,id=212080,ilevel=639,gem_id=213473 
 
 # Legs
-copy="Legs_","Base"
-# archaic venomancer's footwraps - haste/crit (D)
+# haste/crit (D)
+profileset."Legs_Archaic_Venomancers_Footwraps_639"+=legs=archaic_venomancers_footwraps,id=221164,ilevel=639,enchant=sunset_spellthread_3 
+profileset."Legs_Archaic_Venomancers_Footwraps_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Legs_","Base"
-# e.d.n.a. stabilizers - mastery/crit (D)
+# mastery/crit (D)
+profileset."Legs_E.D.N.A._Stabilizers_639"+=legs=e.d.n.a._stabilizers,id=221076,ilevel=639,enchant=sunset_spellthread_3 
+profileset."Legs_E.D.N.A._Stabilizers_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Legs_","Base"
-# powder monkey's leggings - vers/haste (D)
+# vers/haste (D)
+# profileset."Legs_Powder_Monkeys_Leggings_639"+=legs=powder_monkeys_leggings,id=159250,ilevel=639,enchant=sunset_spellthread_3 
+# profileset."Legs_Powder_Monkeys_Leggings_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Legs_","Base"
-# curse-tainted leggings - haste/mastery (D)
+# haste/mastery (D)
+profileset."Legs_Cursetainted_Leggings_639"+=legs=cursetainted_leggings,id=133308,ilevel=639,enchant=sunset_spellthread_3 
+profileset."Legs_Cursetainted_Leggings_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
-copy="Legs_","Base"
-# voidspoken sarong - mastery/vers (R)
+# mastery/vers (R)
+profileset."Legs_Voidspoken_Sarong_639"+=legs=voidspoken_sarong,id=212434,ilevel=639,enchant=sunset_spellthread_3 
+profileset."Legs_Voidspoken_Sarong_639"+=hands=living_lusters_touch,id=212084,ilevel=639
 
 # Feet
-copy="Feet_","Base"
-# tainted earthshard walkers - haste/vers (D)
+# haste/vers (D)
+profileset."Feet_Tainted_Earthshard_Walkers_639"+=feet=tainted_earthshard_walkers,id=221082,ilevel=639 
 
-copy="Feet_","Base"
-# slippers of unwavering faith - vers/crit (D)
+# vers/crit (D)
+# profileset."Feet_Slippers_of_Unwavering_Faith_639"+=feet=slippers_of_unwavering_faith,id=159278,ilevel=639 
 
-copy="Feet_","Base"
-# cosmic-tinged treads - vers/mastery (R)
+# vers/mastery (R)
+# profileset."Feet_Cosmictinged_Treads_639"+=feet=cosmictinged_treads,id=212416,ilevel=639 
 
-copy="Feet_","Base"
-# assimilated eggshell slippers - mastery/haste (R)
+# mastery/haste (R)
+profileset."Feet_Assimilated_Eggshell_Slippers_639"+=feet=assimilated_eggshell_slippers,id=225582,ilevel=639 
+
+# mastery/haste
+profileset."Feet_Living_Lusters_Boots_639"+=feet=living_lusters_boots,id=212085,ilevel=639
 
 # Rings
-copy="Finger1_","Base"
-# experiment 08752's band - vers/haste (D)
+# vers/haste (D)
+# profileset."Finger1_Experiment_08752s_Band_639"+=finger1=experiment_08752s_band,id=221189,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494
 
-copy="Finger1_","Base"
-# devout zealot's ring - crit/haste (D)
+# crit/haste (D)
+# profileset."Finger1_Devout_Zealots_Ring_639"+=finger1=devout_zealots_ring,id=221136,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# high nerubian signet - vers/mastery (D)
+# vers/mastery (D)
+# profileset."Finger1_High_Nerubian_Signet_639"+=finger1=high_nerubian_signet,id=221141,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# ritual commander's ring - vers/crit (D)
+# vers/crit (D)
+# profileset."Finger1_Ritual_Commanders_Ring_639"+=finger1=ritual_commanders_ring,id=178781,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# stitchflesh's misplaced signet - haste/vers (D)
+# haste/vers (D)
+profileset."Finger1_Stitchfleshs_Misplaced_Signet_639"+=finger1=stitchfleshs_misplaced_signet,id=178736,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# band of the anccient dredger - crit/haste (D)
+# haste/vers (D)
+profileset."Finger2_Stitchfleshs_Misplaced_Signet_639"+=finger2=stitchfleshs_misplaced_signet,id=178736,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# seal of the city watch - mastery/crit (D)
+# crit/haste (D)
+# profileset."Finger1_Band_of_the_Ancient_Dredger_639"+=finger1=band_of_the_ancient_dredger,id=159461,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# circle of bone - haste/mastery (D)
+# mastery/crit (D)
+profileset."Finger1_Seal_of_the_City_Watch_639"+=finger1=seal_of_the_city_watch,id=162542,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# ring of dun algaz - vers/crit (D)
+# mastery/crit (D)
+profileset."Finger2_Seal_of_the_City_Watch_639"+=finger2=seal_of_the_city_watch,id=162542,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# umbriss band - mastery/crit (D)
+# haste/mastery (D)
+profileset."Finger1_Circle_of_Bone_639"+=finger1=circle_of_bone,id=133299,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# key to the unseeming - haste/mastery (R)
+# haste/mastery (D)
+profileset."Finger@_Circle_of_Bone_639"+=finger2=circle_of_bone,id=133299,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# writing ringworm - mastery/haste (R)
+# vers/crit (D)
+# profileset."Finger1_Ring_of_Dun_Algaz_639"+=finger1=ring_of_dun_algaz,id=133287,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
 
-copy="Finger1_","Base"
-# seal of the poisoned pact - crit/mastery (R)
+# mastery/crit (D)
+profileset."Finger1_Umbriss_Band_639"+=finger1=umbriss_band,id=133286,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
+
+# mastery/crit (D)
+profileset."Finger2_Umbriss_Band_639"+=finger2=umbriss_band,id=133286,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
+
+# haste/mastery (R)
+profileset."Finger1_Key_to_the_Unseeming_639"+=finger1=key_to_the_unseeming,id=212447,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
+
+# haste/mastery (R)
+profileset."Finger2_Key_to_the_Unseeming_639"+=finger2=key_to_the_unseeming,id=212447,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
+
+# mastery/haste (R)
+profileset."Finger1_Writhing_Ringworm_639"+=finger1=writhing_ringworm,id=225576,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
+
+# mastery/haste (R)
+profileset."Finger2_Writhing_Ringworm_639"+=finger2=writhing_ringworm,id=225576,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
+
+# crit/mastery (R)
+profileset."Finger1_Seal_of_the_Poisoned_Pact_639"+=finger1=seal_of_the_poisoned_pact,id=225578,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494 
+
+# crit/mastery (R)
+profileset."Finger2_Seal_of_the_Poisoned_Pact_639"+=finger2=seal_of_the_poisoned_pact,id=225578,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # 1H + OH
-copy="1h_Vakash_the_Shadowed_Inferno_528-OH_Tricksters_Captivating_Chime_528","Base"
-main_hand=vakash_the_shadowed_inferno,id=207788,ilevel=528,enchant=wafting_devotion_3    
-off_hand=tricksters_captivating_chime,id=207796,ilevel=528
+profileset."1h_Unceremonious_Bloodletter_639-OH_Pail_of_Preserved_Obscurity_639"+=main_hand=unceremonious_bloodletter,id=221165,ilevel=639,enchant=authority_of_the_depths_3
+profileset."1h_Unceremonious_Bloodletter_639-OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
-# 1H - unceremonious bloodletter - haste/crit (D)
-# 1H - kingslayer's frostfang - mastery/vers (D)
-# 1H - scithewood scepter - mastery/crit (D)
-# 1H - modgud's blade - crit/haste (D)
-# 1H - wand of untainted power - haste=mastery (D)
-# 1H - scepter of manifested iasma - haste/vers (R)
-# 1H - sovereign's disdain - haste/crit (R)
-# OH - pail of preserved obscurity - mastery/haste (D)
-# OH - overflowing umbral pail - vers/crit (D)
-# OH - broodtwister's grim catalyst - vers/crit (R)
+profileset."1h_Kingslayers_Frostfang_639-OH_Pail_of_Preserved_Obscurity_639"+=main_hand=kingslayers_frostfang,id=221171,ilevel=639,enchant=authority_of_the_depths_3
+profileset."1h_Kingslayers_Frostfang_639-OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
+
+profileset."1h_Scithewood_Scepter_639-OH_Pail_of_Preserved_Obscurity_639"+=main_hand=scithewood_scepter,id=178709,ilevel=639,enchant=authority_of_the_depths_3
+profileset."1h_Scithewood_Scepter_639-OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
+
+profileset."1h_Wand_of_Untainted_Power_639-OH_Pail_of_Preserved_Obscurity_639"+=main_hand=wand_of_untainted_power,id=133288,ilevel=639,enchant=authority_of_the_depths_3
+profileset."1h_Wand_of_Untainted_Power_639-OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
+
+profileset."1h_Scepter_of_Manifested_Miasma_639-OH_Pail_of_Preserved_Obscurity_639"+=main_hand=scepter_of_manifested_miasma,id=212404,ilevel=639,enchant=authority_of_the_depths_3
+profileset."1h_Scepter_of_Manifested_Miasma_639-OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
+
+profileset."1h_Sovereigns_Disdain_639-OH_Pail_of_Preserved_Obscurity_639"+=main_hand=sovereigns_disdain,id=212394,ilevel=639,enchant=authority_of_the_depths_3
+profileset."1h_Sovereigns_Disdain_639-OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
+
+# main_hand=unceremonious_bloodletter,id=221165,ilevel=639 # haste/crit (D)
+# main_hand=kingslayers_frostfang,id=221171,ilevel=639 # mastery/vers (D)
+# main_hand=scithewood_scepter,id=178709,ilevel=639 # mastery/crit (D)
+# main_hand=modguds_blade,id=133283,ilevel=639 # crit/haste (D)
+# main_hand=wand_of_untainted_power,id=133288,ilevel=639 # haste=mastery (D)
+# main_hand=scepter_of_manifested_miasma,id=212404,ilevel=639 # haste/vers (R)
+# main_hand=sovereigns_disdain,id=212394,ilevel=639 # haste/crit (R)
+
+# off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639 # mastery/haste (D)
+# off_hand=overflowing_umbral_pail,id=221132,ilevel=639 # vers/crit (D)
+# off_hand=broodtwisters_grim_catalyst,id=212387,ilevel=639 # vers/crit (R)
 
 # 2H
-copy="2H_","Base"
-# kirx'vizk's speech rod - haste/vers (D)
-off_hand=disabled
+# haste/vers (D)
+profileset."2H_Krixvizks_Speech_Rod_639"+=main_hand=krixvizks_speech_rod,id=221166,ilevel=639,enchant=authority_of_the_depths_3 
+profileset."2H_Krixvizks_Speech_Rod_639"+=off_hand=disabled
 
-copy="2H_","Base"
-# melodious iron songspire - mastery/haste (D)
-off_hand=disabled
+# mastery/haste (D)
+profileset."2H_Melodious_Iron_Songspire_639"+=main_hand=melodious_iron_songspire,id=221085,ilevel=639,enchant=authority_of_the_depths_3 
+profileset."2H_Melodious_Iron_Songspire_639"+=off_hand=disabled
 
-copy="2H_","Base"
-# lakali's spire of knowledge - vers/mastery (D)
-off_hand=disabled
+# vers/mastery (D)
+# profileset."2H_Lakalis_Spire_of_Knowledge_639"+=main_hand=lakalis_spire_of_knowledge,id=178714,ilevel=639,enchant=authority_of_the_depths_3 
+# profileset."2H_Lakalis_Spire_of_Knowledge_639"+=off_hand=disabled
 
-copy="2H_","Base"
-# staff of siphoned essences - mastery=crit (D)
-off_hand=disabled
+# mastery=crit (D)
+profileset."2H_Staff_of_Siphoned_Essences_639"+=main_hand=staff_of_siphoned_essences,id=133303,ilevel=639,enchant=authority_of_the_depths_3 
+profileset."2H_Staff_of_Siphoned_Essences_639"+=off_hand=disabled
 
-copy="2H_","Base"
-# takazj's entropic edict - mastery/haste (R)
-off_hand=disabled
+# mastery/haste (R)
+profileset."2H_Takazjs_Entropic_Edict_639"+=main_hand=takazjs_entropic_edict,id=212397,ilevel=639,enchant=authority_of_the_depths_3 
+profileset."2H_Takazjs_Entropic_Edict_639"+=off_hand=disabled
 
 # Season 1 Tier Items
 # head=living_lusters_semblance,id=212083,ilevel=639 # mastery/crit
