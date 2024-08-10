@@ -1,4 +1,4 @@
-# 4T - vw-cthun-dr
+# Dungeons-Slice - vw-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|2423040|1.00|0.88|0.89|0.93|0.87|0.03|
+|Base|1403455|1.00|1.01|1.01|0.97|0.96|0.05|

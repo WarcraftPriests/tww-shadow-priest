@@ -1,4 +1,4 @@
-# Composite - vw-cthun-me
+# Single - vw-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|1177767|1.00|0.96|0.88|0.97|0.89|0.06|
+|Base|1272586|1.00|0.98|0.93|1.01|0.93|0.06|
