@@ -168,6 +168,17 @@ sims:
       - 3
     files:
       - enchants.simc
+  gem-combos:
+    description: "Sims combinations of gems to optimize the meta gems using 1 of each color. Only uses max rank of gems"
+    iterations: 20000
+    builds: true
+    weights: false
+    chart: true
+    lookupType: none
+    steps:
+      - DPS
+    files:
+      - generated.simc
   gems:
     description: "Sims all available gems against each other. Lists each gem at ranks 1, 2, and 3."
     iterations: 20000

@@ -1,18 +1,18 @@
 # 8T - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|6639529|0.97%|
-|Fish_and_Chips|6615385|0.60%|
-|Salt_Baked_Seafood|6615229|0.60%|
-|Salty_Dog|6611763|0.54%|
-|Ginger_Glazed_Fillet|6611192|0.54%|
-|Feast_of_the_Midnight_Masquerade|6610919|0.53%|
-|Marinated_Tenderloins|6610624|0.53%|
-|Deepfin_Patty|6610000|0.52%|
-|Sweet_and_Spicy_Soup|6609755|0.51%|
-|Chippy_Tea|6609638|0.51%|
-|Feast_of_the_Divine_Day|6608219|0.49%|
-|Zesty_Nibblers|6604845|0.44%|
-|Fiery_Fish_Sticks|6604200|0.43%|
-|Base|6575980|0.00%|
-|Stuffed_Cave_Peppers|6574211|-0.03%|
+|Crystallized_Augment_Rune|6640539|1.03%|
+|Marinated_Tenderloins|6614812|0.64%|
+|Deepfin_Patty|6614803|0.64%|
+|Ginger_Glazed_Fillet|6614242|0.63%|
+|Feast_of_the_Midnight_Masquerade|6613890|0.63%|
+|Fiery_Fish_Sticks|6613586|0.62%|
+|Salty_Dog|6613522|0.62%|
+|Feast_of_the_Divine_Day|6613182|0.62%|
+|Chippy_Tea|6610867|0.58%|
+|Fish_and_Chips|6610004|0.57%|
+|Sweet_and_Spicy_Soup|6609802|0.57%|
+|Zesty_Nibblers|6606595|0.52%|
+|Salt_Baked_Seafood|6606076|0.51%|
+|Stuffed_Cave_Peppers|6575393|0.04%|
+|Base|6572631|0.00%|

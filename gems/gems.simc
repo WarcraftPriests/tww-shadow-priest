@@ -131,7 +131,7 @@ profileset."Masterful_Amber_1"+=main_hand=${gear.main_hand},enchant=${enchants.m
 profileset."Masterful_Amber_2"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213508
 profileset."Masterful_Amber_3"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213509
 
-### Stamina/Mastery
+### Stamina/Versatility
 profileset."Versatile_Amber_1"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213510
 profileset."Versatile_Amber_2"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213511
 profileset."Versatile_Amber_3"+=main_hand=${gear.main_hand},enchant=${enchants.main_hand},gem_id=213512
