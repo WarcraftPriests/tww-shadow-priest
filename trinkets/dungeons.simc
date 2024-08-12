@@ -138,6 +138,7 @@ profileset."Entropic_Skardyn_Core_593"+=trinket1=entropic_skardyn_core,id=219296
 profileset."Sigil_of_Algari_Concordance_593"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=593
 
 ## Priory of the Sacred Flame
+### TODO: add custom options for allies
 profileset."Signet_of_the_Priory_593"+=trinket1=signet_of_the_priory,id=219308,ilevel=593
 
 profileset."Bursting_Lightshard_593"+=trinket1=bursting_lightshard,id=219310,ilevel=593

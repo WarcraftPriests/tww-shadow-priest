@@ -45,6 +45,8 @@ profileset."Spymasters_Web_619"+=trinket1=spymasters_web,id=220202,ilevel=619
 profileset."Spymasters_Web_626"+=trinket1=spymasters_web,id=220202,ilevel=626
 profileset."Spymasters_Web_639"+=trinket1=spymasters_web,id=220202,ilevel=639
 
+## TODO: add different options when added into simc
+## current default is 30 stacks of primary always
 profileset."Ovinaxs_Mercurial_Egg_606"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=606
 profileset."Ovinaxs_Mercurial_Egg_619"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=619
 profileset."Ovinaxs_Mercurial_Egg_626"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=626
