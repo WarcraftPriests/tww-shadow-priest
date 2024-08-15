@@ -1,18 +1,18 @@
 # Single - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1254617|1.00%|
-|Salty_Dog|1250105|0.63%|
-|Feast_of_the_Midnight_Masquerade|1249806|0.61%|
-|Feast_of_the_Divine_Day|1249799|0.61%|
-|Fiery_Fish_Sticks|1249732|0.60%|
-|Chippy_Tea|1249718|0.60%|
-|Deepfin_Patty|1249595|0.59%|
-|Salt_Baked_Seafood|1249585|0.59%|
-|Fish_and_Chips|1249309|0.57%|
-|Zesty_Nibblers|1249287|0.57%|
-|Sweet_and_Spicy_Soup|1249255|0.57%|
-|Marinated_Tenderloins|1249235|0.56%|
-|Ginger_Glazed_Fillet|1248629|0.52%|
-|Base|1242223|0.00%|
-|Stuffed_Cave_Peppers|1242120|-0.01%|
+|Crystallized_Augment_Rune|1255635|0.94%|
+|Salty_Dog|1251596|0.62%|
+|Marinated_Tenderloins|1251514|0.61%|
+|Fiery_Fish_Sticks|1251101|0.58%|
+|Feast_of_the_Midnight_Masquerade|1251078|0.58%|
+|Chippy_Tea|1251046|0.57%|
+|Salt_Baked_Seafood|1250987|0.57%|
+|Deepfin_Patty|1250969|0.57%|
+|Sweet_and_Spicy_Soup|1250936|0.57%|
+|Feast_of_the_Divine_Day|1250909|0.56%|
+|Ginger_Glazed_Fillet|1250885|0.56%|
+|Fish_and_Chips|1250597|0.54%|
+|Zesty_Nibblers|1249802|0.47%|
+|Base|1243896|0.00%|
+|Stuffed_Cave_Peppers|1243862|0.00%|

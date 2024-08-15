@@ -1,18 +1,18 @@
 # Dungeons-Slice - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1306288|1.10%|
-|Feast_of_the_Divine_Day|1300862|0.68%|
-|Fiery_Fish_Sticks|1300571|0.66%|
-|Feast_of_the_Midnight_Masquerade|1300395|0.64%|
-|Fish_and_Chips|1299952|0.61%|
-|Salty_Dog|1299814|0.60%|
-|Salt_Baked_Seafood|1299489|0.57%|
-|Ginger_Glazed_Fillet|1299401|0.57%|
-|Deepfin_Patty|1299130|0.54%|
-|Chippy_Tea|1298862|0.52%|
-|Marinated_Tenderloins|1298836|0.52%|
-|Sweet_and_Spicy_Soup|1298703|0.51%|
-|Zesty_Nibblers|1297999|0.46%|
-|Stuffed_Cave_Peppers|1292098|0.00%|
-|Base|1292092|0.00%|
+|Crystallized_Augment_Rune|1338186|0.98%|
+|Fish_and_Chips|1333719|0.64%|
+|Salt_Baked_Seafood|1332847|0.58%|
+|Ginger_Glazed_Fillet|1332638|0.56%|
+|Fiery_Fish_Sticks|1332424|0.54%|
+|Marinated_Tenderloins|1332267|0.53%|
+|Chippy_Tea|1331663|0.49%|
+|Feast_of_the_Midnight_Masquerade|1331606|0.48%|
+|Deepfin_Patty|1331591|0.48%|
+|Feast_of_the_Divine_Day|1331439|0.47%|
+|Salty_Dog|1331324|0.46%|
+|Sweet_and_Spicy_Soup|1331154|0.45%|
+|Zesty_Nibblers|1331094|0.44%|
+|Base|1325224|0.00%|
+|Stuffed_Cave_Peppers|1323290|-0.15%|
