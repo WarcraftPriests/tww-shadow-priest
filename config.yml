@@ -7,8 +7,8 @@ builds:
         name: VW_VE_VW_DA_yshaarj_cthun_81151017351087_Spike_DR
         string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYGDAAAAAAAAAAAAwMmtxYmZWGMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgZmZAgAMbzySwsxG
       dungeons:
-        name: VW_VE_VW_DA_nzoth_cthun_98245887375279_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzs4BGzMzyYMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmN2A
+        name: VW_VE_DoS_DA_nzoth_cthun_98245887375279_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzs4BGzMzyYMzMmtZmZZwswMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmNWA
       single:
         name: VW_VE_VW_DA_yshaarj_cthun_81151120585647_Flay_DR
         string: CIQAAAAAAAAAAAAAAAAAAAAAAYAGDAAAAAAAAAAAAwMzsNGzMzyYMzMGzMzygZhZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsB
@@ -28,8 +28,8 @@ builds:
         name: AR_SP_VF_cthun_80588449494959_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAYmHYAAAAAAAAAAAAAGmlxYmZ2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNLGAyYsA
       dungeons:
-        name: AR_EC_VF_nzoth_cthun_98241696217007_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmBAAAAAAAAAAAAwws4BGzY2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMLWGNLGAyYsA
+        name: AR_EC_VF_nzoth_cthun_100436424505263_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmBAAAAAAAAAAAAwwsYGzY2GjZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMAmZxyoZxAQGjFA
       single:
         name: AR_SP_VF_cthun_80658376897455_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGzMzygZjZmZGzGDMGDziZbqZGsADgZ2sMaWMAkxYB
@@ -61,8 +61,8 @@ builds:
         name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNLGAyYsA
       8t:
-        name: AR_EC_VF_nzoth_yogg_cthun_129962073372591_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYAAAAAAAAAAAAAwYmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMLWGNLGAyYsA
+        name: AR_EC_VF_nzoth_yogg_cthun_139024021305263_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYmBAAAAAAAAAAAAwwsYGDz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWwMAmZxyoZxAQGjFA
 hero:
   AR:
     AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/incessant_screams:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
@@ -74,14 +74,14 @@ hero:
     VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
     VW_DH_VW: "125982:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
 gear:
-  # 16.5k Mastery (16%) | 14.1k Haste (21%) | 8.9k Crit (18%) | 700 Vers (1%)
+  # 16.3k Mastery (15.7%) | 14.2k Haste (21.5%) | 8.9k Crit (17.7%) | 652 Vers (0.8%)
   default:
     head: "living_lusters_semblance,id=212083,ilevel=639" # mastery/crit
     neck: "sureki_zealots_insignia,id=225577,ilevel=639" # haste/mastery
     shoulders: "living_lusters_dominion,id=212081,ilevel=639" # haste/vers
     back: "wings_of_shattered_sorrow,id=225574,ilevel=639" # crit/haste
     chest: "living_lusters_raiment,id=212086,ilevel=639" # haste/mastery
-    wrists: "skeinspinners_duplicitous_cuffs,id=225584,ilevel=639" # haste/mastery
+    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11304,ilevel=636" # haste/mastery
     hands: "gory_surgeons_gloves,id=178748,ilevel=639" # haste/mastery
     waist: "acrid_ascendants_sash,id=225585,ilevel=639" # mastery/haste
     legs: "living_lusters_trousers,id=212082,ilevel=639" # crit/haste
@@ -90,8 +90,8 @@ gear:
     finger2: "seal_of_the_poisoned_pact,id=225578,ilevel=639" # crit/mastery
     trinket1: "spymasters_web,id=220202,ilevel=639"
     trinket2: "arakara_sacbrood,id=219314,ilevel=639"
-    main_hand: "takazjs_entropic_edict,id=212397,ilevel=639" # mastery/haste
-    off_hand: ""
+    main_hand: "scepter_of_radiant_magics,id=224405,bonus_id=11301/8793,ilevel=636" # haste/mastery
+    off_hand: "pail_of_preserved_obscurity,id=221172,ilevel=639" # mastery/haste
   # 22.8k Mastery (20%) | 11.1k Haste (17%) | 5.5k Crit (13%) | 700 Vers (1%)
   noCantrip:
     head: "living_lusters_semblance,id=212083,ilevel=639" # mastery/crit

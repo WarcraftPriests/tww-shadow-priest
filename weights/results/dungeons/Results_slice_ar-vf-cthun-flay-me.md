@@ -1,4 +1,4 @@
 # slice - ar-vf-cthun-flay-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|1378131|1.00|0.97|0.94|0.97|0.94|0.06|
+|Base|1368744|1.00|1.05|0.96|1.01|0.95|0.05|

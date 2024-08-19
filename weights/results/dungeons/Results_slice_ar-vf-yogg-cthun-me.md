@@ -1,4 +1,4 @@
 # slice - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|1344347|1.00|1.09|0.97|1.02|0.92|0.06|
+|Base|1338970|1.00|1.20|0.97|1.01|0.96|0.06|

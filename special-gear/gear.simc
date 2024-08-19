@@ -16,8 +16,7 @@ wrists=${gear.wrists},gem_id=${gems.onyx}
 hands=${gear.hands}
 waist=${gear.waist},gem_id=${gems.sapphire}
 legs=${gear.legs},enchant=${enchants.legs}
-# Overriding this to be equal to the crafted item level for ilvl scaling
-feet=${gear.feet},ilevel=636
+feet=${gear.feet}
 finger1=${gear.finger1},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 trinket1=${gear.trinket1}
@@ -29,10 +28,10 @@ ${gear.off_hand}
 ## TODO: Check Item Levels
 ## TODO: find others in journal
 ## TODO: fix offhands/mainhands
-profileset."1H_Fateweaved_Needle_639_OH_Dalaran_Guardians_Arcanotool_639"+=main_hand=fateweaved_needle,id=219382,ilevel=639,enchant=${enchants.main_hand}
-profileset."1H_Fateweaved_Needle_639_OH_Dalaran_Guardians_Arcanotool_639"+=off_hand=dalaran_guardians_arcanotool,id=226117,ilevel=639
-profileset."1H_Fateweaved_Mallet_639_OH_Dalaran_Guardians_Arcanotool_639"+=main_hand=fateweaved_mallet,id=219941,ilevel=639,enchant=${enchants.main_hand}
-profileset."1H_Fateweaved_Mallet_639_OH_Dalaran_Guardians_Arcanotool_639"+=off_hand=dalaran_guardians_arcanotool,id=226117,ilevel=639
+profileset."1H_Fateweaved_Needle_639_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_needle,id=219382,ilevel=639,enchant=${enchants.main_hand}
+profileset."1H_Fateweaved_Needle_639_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
+profileset."1H_Fateweaved_Mallet_639_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_mallet,id=219941,ilevel=639,enchant=${enchants.main_hand}
+profileset."1H_Fateweaved_Mallet_639_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
 profileset."1H_Crusher_of_the_Unsettled_639_OH_Fate_Weaver_639"+=main_hand=crusher_of_the_unsettled,id=221051,ilevel=639,enchant=${enchants.main_hand}
 profileset."1H_Crusher_of_the_Unsettled_639_OH_Fate_Weaver_639"+=off_hand=fate_weaver,id=219381,ilevel=639
@@ -84,22 +83,26 @@ profileset."Embellishment_Prismatic_Null_Stone_1"+=feet=${gear.feet},ilevel=636,
 ### 11209 - Pouch of Pocket Grenades (Split AoE damage proc)
 profileset."Embellishment_Pouch_of_Pocket_Grenades_1"+=feet=${gear.feet},ilevel=636,bonus_id=11209
 
+### Weapon Only Embellishments
 ### 11103 - Blessed Weapon Grip (Procs highest secondary - Weapon Only)
-profileset."Embellishment_Blessed_Weapon_Grip_1"+=feet=${gear.feet},ilevel=636,bonus_id=11103
+profileset."Embellishment_Blessed_Weapon_Grip_1"+=main_hand=scepter_of_radiant_magics,id=224405,bonus_id=11103/8793,ilevel=636,enchant=${enchants.main_hand}
+profileset."Embellishment_Blessed_Weapon_Grip_1"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
 ### 11299 - Darkmoon Sigil: Radiance (Weapon Only)
-profileset."Embellishment_Darkmoon_Sigil_Radiance_1"+=feet=${gear.feet},ilevel=636,bonus_id=11299
+profileset."Embellishment_Darkmoon_Sigil_Radiance_1"+=main_hand=scepter_of_radiant_magics,id=224405,bonus_id=11299/8793,ilevel=636,enchant=${enchants.main_hand}
+profileset."Embellishment_Darkmoon_Sigil_Radiance_1"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
 ### 11300 - Darkmoon Sigil: Ascension (Weapon Only)
-profileset."Embellishment_Darkmoon_Sigil_Ascension_1"+=feet=${gear.feet},ilevel=636,bonus_id=11300
+profileset."Embellishment_Darkmoon_Sigil_Ascension_1"+=main_hand=scepter_of_radiant_magics,id=224405,bonus_id=11300/8793,ilevel=636,enchant=${enchants.main_hand}
+profileset."Embellishment_Darkmoon_Sigil_Ascension_1"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
 ### 11302 - Darkmoon Sigil: Symbiosis (Weapon Only)
-profileset."Embellishment_Darkmoon_Sigil_Symbiosis_1"+=feet=${gear.feet},ilevel=636,bonus_id=11302
+profileset."Embellishment_Darkmoon_Sigil_Symbiosis_1"+=main_hand=scepter_of_radiant_magics,id=224405,bonus_id=11302/8793,ilevel=636,enchant=${enchants.main_hand}
+profileset."Embellishment_Darkmoon_Sigil_Symbiosis_1"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
 ### 11301 - Darkmoon Sigil: Vivacity (Weapon Only)
-profileset."Embellishment_Darkmoon_Sigil_Vivacity_1"+=feet=${gear.feet},ilevel=636,bonus_id=11301
-
-### X - Writhing Armor Banding (Double Nerubian Embellished Effect on another item? maybe LW only?)
+profileset."Embellishment_Darkmoon_Sigil_Vivacity_1"+=main_hand=scepter_of_radiant_magics,id=224405,bonus_id=11301/8793,ilevel=636,enchant=${enchants.main_hand}
+profileset."Embellishment_Darkmoon_Sigil_Vivacity_1"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
 ## Tailoring
 ### Woven Dusk - NYI
@@ -133,15 +136,13 @@ profileset."Finger1_Ring_of_Earthen_Craftsmanship_636"+=finger1=ring_of_earthen_
 profileset."Finger2_Ring_of_Earthen_Craftsmanship_636"+=finger2=ring_of_earthen_craftsmanship,id=215135,bonus_id=8793,ilevel=636,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 
 ## Enchanting
-### TODO: fix offhand
-profileset."1H_Scepter_of_Radiant_Magics_636_OH_Dalaran_Guardians_Arcanotool_639"+=main_hand=scepter_of_radiant_magics,id=224405,bonus_id=8793,ilevel=636,enchant=${enchants.main_hand}
-profileset."1H_Scepter_of_Radiant_Magics_636_OH_Dalaran_Guardians_Arcanotool_639"+=off_hand=dalaran_guardians_arcanotool,id=226117,ilevel=639
+profileset."1H_Scepter_of_Radiant_Magics_636_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=scepter_of_radiant_magics,id=224405,bonus_id=8793,ilevel=636,enchant=${enchants.main_hand}
+profileset."1H_Scepter_of_Radiant_Magics_636_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
 ## Inscription
 profileset."2H_Vagabonds_Bounding_Baton_636"+=main_hand=vagabonds_bounding_baton,id=222568,bonus_id=8793,ilevel=636,enchant=${enchants.main_hand}
 profileset."2H_Vagabonds_Bounding_Baton_636"+=off_hand=disabled
 
-### TODO: fix mainhand
 profileset."1H_Crusher_of_the_Unsettled_639_OH_Vagabonds_Torch_636"+=main_hand=crusher_of_the_unsettled,id=221051,ilevel=639,enchant=${enchants.main_hand}
 profileset."1H_Crusher_of_the_Unsettled_639_OH_Vagabonds_Torch_636"+=off_hand=vagabonds_torch,id=222566,bonus_id=8793,ilevel=636
 

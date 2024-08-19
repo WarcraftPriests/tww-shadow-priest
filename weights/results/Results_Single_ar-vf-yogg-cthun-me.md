@@ -1,4 +1,4 @@
 # Single - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|1286413|1.00|0.99|0.90|0.99|0.92|0.06|
+|Base|1282521|1.00|1.02|0.91|1.01|0.92|0.06|

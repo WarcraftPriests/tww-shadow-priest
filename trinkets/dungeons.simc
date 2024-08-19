@@ -31,11 +31,28 @@ profileset."AraKara_Sacbrood_619"+=trinket1=arakara_sacbrood,id=219314,ilevel=61
 profileset."AraKara_Sacbrood_626"+=trinket1=arakara_sacbrood,id=219314,ilevel=626
 profileset."AraKara_Sacbrood_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
 
-profileset."Harvesters_Edict_593"+=trinket1=harvesters_edict,id=219317,ilevel=593
-profileset."Harvesters_Edict_606"+=trinket1=harvesters_edict,id=219317,ilevel=606
-profileset."Harvesters_Edict_619"+=trinket1=harvesters_edict,id=219317,ilevel=619
-profileset."Harvesters_Edict_626"+=trinket1=harvesters_edict,id=219317,ilevel=626
-profileset."Harvesters_Edict_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+### Chance to collect orb
+profileset."Harvesters_Edict_20%_593"+=trinket1=harvesters_edict,id=219317,ilevel=593
+profileset."Harvesters_Edict_20%_593"+=thewarwithin.harvesters_edict_intercept_chance=0.2
+profileset."Harvesters_Edict_20%_606"+=trinket1=harvesters_edict,id=219317,ilevel=606
+profileset."Harvesters_Edict_20%_606"+=thewarwithin.harvesters_edict_intercept_chance=0.2
+profileset."Harvesters_Edict_20%_619"+=trinket1=harvesters_edict,id=219317,ilevel=619
+profileset."Harvesters_Edict_20%_619"+=thewarwithin.harvesters_edict_intercept_chance=0.2
+profileset."Harvesters_Edict_20%_626"+=trinket1=harvesters_edict,id=219317,ilevel=626
+profileset."Harvesters_Edict_20%_626"+=thewarwithin.harvesters_edict_intercept_chance=0.2
+profileset."Harvesters_Edict_20%_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_20%_639"+=thewarwithin.harvesters_edict_intercept_chance=0.2
+
+profileset."Harvesters_Edict_5%_593"+=trinket1=harvesters_edict,id=219317,ilevel=593
+profileset."Harvesters_Edict_5%_593"+=thewarwithin.harvesters_edict_intercept_chance=0.05
+profileset."Harvesters_Edict_5%_606"+=trinket1=harvesters_edict,id=219317,ilevel=606
+profileset."Harvesters_Edict_5%_606"+=thewarwithin.harvesters_edict_intercept_chance=0.05
+profileset."Harvesters_Edict_5%_619"+=trinket1=harvesters_edict,id=219317,ilevel=619
+profileset."Harvesters_Edict_5%_619"+=thewarwithin.harvesters_edict_intercept_chance=0.05
+profileset."Harvesters_Edict_5%_626"+=trinket1=harvesters_edict,id=219317,ilevel=626
+profileset."Harvesters_Edict_5%_626"+=thewarwithin.harvesters_edict_intercept_chance=0.05
+profileset."Harvesters_Edict_5%_639"+=trinket1=harvesters_edict,id=219317,ilevel=639
+profileset."Harvesters_Edict_5%_639"+=thewarwithin.harvesters_edict_intercept_chance=0.05
 
 ## City of Threads
 profileset."Cirral_Concoctory_593"+=trinket1=cirral_concoctory,id=219321,ilevel=593

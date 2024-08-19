@@ -1,18 +1,18 @@
 # 4T - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2720148|0.97%|
-|Zesty_Nibblers|2711988|0.66%|
-|Feast_of_the_Midnight_Masquerade|2710519|0.61%|
-|Salty_Dog|2710434|0.61%|
-|Fish_and_Chips|2710161|0.60%|
-|Chippy_Tea|2710010|0.59%|
-|Sweet_and_Spicy_Soup|2709901|0.59%|
-|Salt_Baked_Seafood|2709831|0.58%|
-|Feast_of_the_Divine_Day|2709606|0.58%|
-|Marinated_Tenderloins|2709494|0.57%|
-|Deepfin_Patty|2709379|0.57%|
-|Fiery_Fish_Sticks|2709373|0.57%|
-|Ginger_Glazed_Fillet|2708211|0.52%|
-|Base|2694103|0.00%|
-|Stuffed_Cave_Peppers|2693647|-0.02%|
+|Crystallized_Augment_Rune|2781594|0.99%|
+|Salty_Dog|2773562|0.69%|
+|Feast_of_the_Divine_Day|2772436|0.65%|
+|Feast_of_the_Midnight_Masquerade|2772058|0.64%|
+|Salt_Baked_Seafood|2771909|0.63%|
+|Marinated_Tenderloins|2771643|0.62%|
+|Sweet_and_Spicy_Soup|2771399|0.61%|
+|Chippy_Tea|2771310|0.61%|
+|Deepfin_Patty|2771256|0.61%|
+|Zesty_Nibblers|2771096|0.60%|
+|Fiery_Fish_Sticks|2771068|0.60%|
+|Fish_and_Chips|2770737|0.59%|
+|Ginger_Glazed_Fillet|2770156|0.57%|
+|Stuffed_Cave_Peppers|2754865|0.01%|
+|Base|2754462|0.00%|

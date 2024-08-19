@@ -1,18 +1,18 @@
 # Composite - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1270713|1.00%|
-|Zesty_Nibblers|1266427|0.66%|
-|Sweet_and_Spicy_Soup|1266087|0.63%|
-|Chippy_Tea|1266052|0.63%|
-|Deepfin_Patty|1265885|0.62%|
-|Marinated_Tenderloins|1265875|0.62%|
-|Salty_Dog|1265825|0.61%|
-|Salt_Baked_Seafood|1265781|0.61%|
-|Feast_of_the_Midnight_Masquerade|1265643|0.60%|
-|Feast_of_the_Divine_Day|1265537|0.59%|
-|Fish_and_Chips|1265497|0.59%|
-|Ginger_Glazed_Fillet|1265466|0.58%|
-|Fiery_Fish_Sticks|1265262|0.57%|
-|Stuffed_Cave_Peppers|1258197|0.01%|
-|Base|1258121|0.00%|
+|Crystallized_Augment_Rune|1306817|0.98%|
+|Feast_of_the_Divine_Day|1302183|0.62%|
+|Salty_Dog|1302046|0.61%|
+|Salt_Baked_Seafood|1301930|0.61%|
+|Feast_of_the_Midnight_Masquerade|1301909|0.60%|
+|Chippy_Tea|1301890|0.60%|
+|Marinated_Tenderloins|1301866|0.60%|
+|Sweet_and_Spicy_Soup|1301731|0.59%|
+|Fiery_Fish_Sticks|1301605|0.58%|
+|Ginger_Glazed_Fillet|1301478|0.57%|
+|Zesty_Nibblers|1301399|0.56%|
+|Fish_and_Chips|1301312|0.56%|
+|Deepfin_Patty|1301223|0.55%|
+|Stuffed_Cave_Peppers|1294285|0.01%|
+|Base|1294096|0.00%|
