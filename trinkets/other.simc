@@ -40,15 +40,15 @@ profileset."Bronzebeard_Family_Compass_626"+=trinket1=bronzebeard_family_compass
 # Anniversary Event
 # profileset."Hibernation_Crystal_463"+=trinket1=hibernation_crystal,id=150388,ilevel=463
 
-# Darkmoon Cards (bonusid - might not be needed?)
+# Darkmoon Cards (can't be upgraded - 577)
 # Darkmoon Sigil: Ascension (11300) - Gain Ascendance every 8s in combat. Grants secondary stat for 15s stacks up to 10 times
-profileset."Darkmoon_Deck_Ascend_629"+=trinket1=darkmoon_deck_ascend,id=222680,ilevel=629
+# profileset."Darkmoon_Deck_Ascend_577"+=trinket1=darkmoon_deck_ascend,id=222680,ilevel=629
 # Darkmoon Sigil: Radiance (11299) - Radiant Focus - Grants highest secondary stat after dealing enough damage
-profileset."Darkmoon_Deck_Radiance_629"+=trinket1=darkmoon_deck_radiance,id=219672,ilevel=629
+# profileset."Darkmoon_Deck_Radiance_577"+=trinket1=darkmoon_deck_radiance,id=219672,ilevel=629
 # Darkmoon Sigil: Symbiosis (11302) - Every 10s take 1% of HP to gain a stack of Vers up to 5 times
-profileset."Darkmoon_Deck_Symbiosis_629"+=trinket1=darkmoon_deck_symbiosis,id=222653,ilevel=629
+# profileset."Darkmoon_Deck_Symbiosis_577"+=trinket1=darkmoon_deck_symbiosis,id=222653,ilevel=629
 # Darkmoon Sigil: Vivacity (11301) - Secondary Stat + Speed or Avoidance
-profileset."Darkmoon_Deck_Vivacity_629"+=trinket1=darkmoon_deck_vivacity,id=222671,ilevel=629
+# profileset."Darkmoon_Deck_Vivacity_577"+=trinket1=darkmoon_deck_vivacity,id=222671,ilevel=629
 
 # Alchemy Stones
 ## Currently Epic level trinket is NYI

@@ -27,9 +27,15 @@ ${gear.off_hand}
 profileset."CB1_QO8"+=head=${gear.head},gem_id=213743
 profileset."CB1_QO8"+=neck=${gear.neck},gem_id=213494/213494/213494/213494
 profileset."CB1_QO8"+=shoulders=${gear.shoulders},gem_id=213494/213494/213494/213494/
+profileset."QO9"+=head=${gear.head},gem_id=213494
+profileset."QO9"+=neck=${gear.neck},gem_id=213494/213494/213494/213494
+profileset."QO9"+=shoulders=${gear.shoulders},gem_id=213494/213494/213494/213494/
 profileset."CB1_ME8"+=head=${gear.head},gem_id=213743
 profileset."CB1_ME8"+=neck=${gear.neck},gem_id=213482/213482/213482/213482
 profileset."CB1_ME8"+=shoulders=${gear.shoulders},gem_id=213482/213482/213482/213482/
+profileset."ME9"+=head=${gear.head},gem_id=213482
+profileset."ME9"+=neck=${gear.neck},gem_id=213482/213482/213482/213482
+profileset."ME9"+=shoulders=${gear.shoulders},gem_id=213482/213482/213482/213482/
 profileset."CB1_VE1_MR1_DO1_MS1_MA1_QO3"+=head=${gear.head},gem_id=213743
 profileset."CB1_VE1_MR1_DO1_MS1_MA1_QO3"+=neck=${gear.neck},gem_id=213485/213458/213491/213473
 profileset."CB1_VE1_MR1_DO1_MS1_MA1_QO3"+=shoulders=${gear.shoulders},gem_id=213509/213494/213494/213494/

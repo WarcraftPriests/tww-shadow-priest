@@ -67,6 +67,8 @@ def build_combos():
         for b in meta:
             # 9 stacked from top
             combos.append(f"{b}1_{gem}8")
+        # Add all top gems without meta in case it sucks
+        combos.append(f"{gem}9")
     # 1 per color (5) + 4 from top
     five_colors_three_top = [
         f"{color_gems}_{top_gems}"

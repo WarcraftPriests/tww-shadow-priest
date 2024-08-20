@@ -6,14 +6,16 @@ python build_combos.py
 from itertools import combinations
 
 combos = {
+    # timewalking (619)
+    "Energy_Siphon_619": "energy_siphon,id=156021,ilevel=619",
+    "Living_Flame_619": "living_flame,id=155947,ilevel=619",
     # s1 dungeons (?/639)
     "Ara_Kara_Sacbrood_639": "arakara_sacbrood,id=219314,ilevel=639",
-    "Harvesters_Edict_639": "harvesters_edict,id=219317,ilevel=639",
-    "Cirral_Concoctory_639": "cirral_concoctory,id=219321,ilevel=639",
-    "High_Speakers_Accretion_639": "high_speakers_accretion,id=219303,ilevel=639",
+    # "Harvesters_Edict_639": "harvesters_edict,id=219317,ilevel=639",
+    # "High_Speakers_Accretion_639": "high_speakers_accretion,id=219303,ilevel=639",
     "Empowering_Crystal_of_Anubikkaj_639": "empowering_crystal_of_anubikkaj,id=219312,ilevel=639",
     "Unbound_Changeling_All_639": "unbound_changeling,id=178708,ilevel=639",
-    "Unbound_Changeling_Crit_639": "unbound_changeling,id=178708,ilevel=639",
+    # "Unbound_Changeling_Crit_639": "unbound_changeling,id=178708,ilevel=639",
     "Unbound_Changeling_Haste_639": "unbound_changeling,id=178708,ilevel=639",
     "Unbound_Changeling_Mastery_639": "unbound_changeling,id=178708,ilevel=639",
     "Satchel_of_Misbegotten_Minions_639": "satchel_of_misbegotten_minions,id=178772,ilevel=639",
@@ -21,7 +23,7 @@ combos = {
     "Gale_of_Shadows_639": "gale_of_shadows1,id=133304,ilevel=639",
     # neru'bar palace (?/639)
     "Aberrant_Spellforge_639": "aberrant_spellforge,id=212451,ilevel=639",
-    "Mad_Queens_Mandate_639": "mad_queens_mandate,id=212454,ilevel=639",
+    # "Mad_Queens_Mandate_639": "mad_queens_mandate,id=212454,ilevel=639",
     "Spymasters_Web_639": "spymasters_web,id=220202,ilevel=639",
     "Ovinaxs_Mercurial_Egg_639": "ovinaxs_mercurial_egg,id=220305,ilevel=639",
     "Treacherous_Transmitter_639": "treacherous_transmitter,id=221023,ilevel=639",
