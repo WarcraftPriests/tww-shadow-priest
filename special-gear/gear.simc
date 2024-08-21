@@ -33,8 +33,8 @@ profileset."1H_Fateweaved_Needle_639_OH_Pail_of_Preserved_Obscurity_639"+=off_ha
 profileset."1H_Fateweaved_Mallet_639_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_mallet,id=219941,ilevel=639,enchant=${enchants.main_hand}
 profileset."1H_Fateweaved_Mallet_639_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
-profileset."1H_Crusher_of_the_Unsettled_639_OH_Fate_Weaver_639"+=main_hand=crusher_of_the_unsettled,id=221051,ilevel=639,enchant=${enchants.main_hand}
-profileset."1H_Crusher_of_the_Unsettled_639_OH_Fate_Weaver_639"+=off_hand=fate_weaver,id=219381,ilevel=639
+profileset."1H_Wand_of_Untainted_Power_639_OH_Fate_Weaver_639"+=main_hand=wand_of_untainted_power,id=133288,ilevel=639,enchant=${enchants.main_hand}
+profileset."1H_Wand_of_Untainted_Power_639_OH_Fate_Weaver_639"+=off_hand=fate_weaver,id=219381,ilevel=639
 
 # Season 2 2H staff
 # profileset."2H_Voltaic_Stormcaller_639"+=main_hand=voltaic_stormcaller,id=221032,ilevel=639
@@ -105,9 +105,9 @@ profileset."Embellishment_Darkmoon_Sigil_Vivacity_1"+=main_hand=scepter_of_radia
 profileset."Embellishment_Darkmoon_Sigil_Vivacity_1"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
 ## Tailoring
-### Woven Dusk - NYI
-profileset."Woven_Dusk_636"+=hands=grips_of_the_woven_dusk,id=222809,bonus_id=8793,ilevel=636
-profileset."Woven_Dusk_636"+=feet=slippers_of_the_woven_dusk,id=222810,bonus_id=8793,ilevel=636
+### Woven Dusk
+profileset."Woven_Dusk_Gloves_Slippers_636"+=hands=grips_of_the_woven_dusk,id=222809,bonus_id=8793,ilevel=636
+profileset."Woven_Dusk_Gloves_Slippers_636"+=feet=slippers_of_the_woven_dusk,id=222810,bonus_id=8793,ilevel=636
 
 ### Base Items
 profileset."Consecrated_Cloak_636"+=back=consecrated_cloak,id=222817,bonus_id=8793,ilevel=636
@@ -143,8 +143,8 @@ profileset."1H_Scepter_of_Radiant_Magics_636_OH_Pail_of_Preserved_Obscurity_639"
 profileset."2H_Vagabonds_Bounding_Baton_636"+=main_hand=vagabonds_bounding_baton,id=222568,bonus_id=8793,ilevel=636,enchant=${enchants.main_hand}
 profileset."2H_Vagabonds_Bounding_Baton_636"+=off_hand=disabled
 
-profileset."1H_Crusher_of_the_Unsettled_639_OH_Vagabonds_Torch_636"+=main_hand=crusher_of_the_unsettled,id=221051,ilevel=639,enchant=${enchants.main_hand}
-profileset."1H_Crusher_of_the_Unsettled_639_OH_Vagabonds_Torch_636"+=off_hand=vagabonds_torch,id=222566,bonus_id=8793,ilevel=636
+profileset."1H_Wand_of_Untainted_Power_639_OH_Vagabonds_Torch_636"+=main_hand=wand_of_untainted_power,id=133288,ilevel=639,enchant=${enchants.main_hand}
+profileset."1H_Wand_of_Untainted_Power_639_OH_Vagabonds_Torch_636"+=off_hand=vagabonds_torch,id=222566,bonus_id=8793,ilevel=636
 
 ## Engineering
 profileset."Wrists_Blasting_Bracers_Crit-636"+=wrists=blasting_bracers,id=221805,bonus_id=6647,ilevel=636,gem_id=${gems.onyx}
