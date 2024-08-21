@@ -75,29 +75,24 @@ def get_dungeon_combos():
     if type == "slice":
         return ["slice"]
     elif type == "route":
-        if season == 3:
+        if season == 1:
             keys = [
-                "atal",
-                "brh",
-                "dht",
-                "everbloom",
-                "galakrond",
-                "murozond",
-                "tott",
-                "waycrest",
+                "arakara",
+                "cityofthreads",
+                "dawnbreaker",
+                "grimbatol",
+                "mists",
+                "necrotic",
+                "siege",
+                "stonevault",
             ]
-        elif season == 2:
-            keys = ["bhh", "freehold", "hoi", "neltharus", "nelths", "ulda", "ur", "vtp"]
-        elif season == 4:
-            keys = ["algethar", "azure", "bhh", "hoi", "neltharus", "nokhud", "rlp", "ulda"]
         else:
-            keys = ["algethar", "azure", "cos", "hov", "nokhud", "rlp", "smbg", "temple"]
-        affixes = ["fort", "tyran"]
+            print(f"No season data defined in for season {season} in utils:get_dungeon_combos")
+            exit(1)
         levels = ["standard", "push"]
         combos = [
-            f"{key}-{affix}-{level}"
+            f"{key}-{level}"
             for key in keys
-            for affix in affixes
             for level in levels
         ]  # noqa: E501
         return combos
