@@ -1,18 +1,18 @@
 # 8T - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|5529166|1.08%|
-|Feast_of_the_Midnight_Masquerade|5508236|0.69%|
-|Feast_of_the_Divine_Day|5508106|0.69%|
-|Salt_Baked_Seafood|5505789|0.65%|
-|Sweet_and_Spicy_Soup|5505267|0.64%|
-|Marinated_Tenderloins|5504351|0.62%|
-|Ginger_Glazed_Fillet|5504134|0.62%|
-|Zesty_Nibblers|5504086|0.62%|
-|Chippy_Tea|5504007|0.62%|
-|Fish_and_Chips|5502617|0.59%|
-|Salty_Dog|5502573|0.59%|
-|Deepfin_Patty|5502427|0.59%|
-|Fiery_Fish_Sticks|5499519|0.53%|
-|Base|5470298|0.00%|
-|Stuffed_Cave_Peppers|5469085|-0.02%|
+|Crystallized_Augment_Rune|5667145|1.16%|
+|Feast_of_the_Divine_Day|5641608|0.70%|
+|Zesty_Nibblers|5640797|0.69%|
+|Salty_Dog|5638874|0.65%|
+|Fish_and_Chips|5638467|0.64%|
+|Feast_of_the_Midnight_Masquerade|5638457|0.64%|
+|Chippy_Tea|5637482|0.63%|
+|Salt_Baked_Seafood|5637037|0.62%|
+|Ginger_Glazed_Fillet|5636111|0.60%|
+|Deepfin_Patty|5635807|0.60%|
+|Sweet_and_Spicy_Soup|5635361|0.59%|
+|Marinated_Tenderloins|5634857|0.58%|
+|Fiery_Fish_Sticks|5634264|0.57%|
+|Stuffed_Cave_Peppers|5619947|0.31%|
+|Base|5602386|0.00%|

@@ -1,1 +1,1 @@
-{"name": "8T - vw-cthun", "data": {"TWW1-2_4-set": {"DPS": 5561462}, "TWW1-2-set": {"DPS": 5363183}, "Base": {"DPS": 5282424}}, "ids": {"TWW1-2_4-set": null, "TWW1-2-set": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["TWW1-2_4-set", "TWW1-2-set"], "last_updated": "2024-08-19"}
+{"name": "8T - vw-cthun", "data": {"TWW1-2_4-set": {"DPS": 5503295}, "TWW1-2-set": {"DPS": 5286429}, "Base": {"DPS": 5207326}}, "ids": {"TWW1-2_4-set": null, "TWW1-2-set": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["TWW1-2_4-set", "TWW1-2-set"], "last_updated": "2024-08-21"}

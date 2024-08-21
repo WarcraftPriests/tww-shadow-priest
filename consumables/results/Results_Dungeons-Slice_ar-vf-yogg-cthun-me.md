@@ -1,18 +1,18 @@
 # Dungeons-Slice - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1331584|0.96%|
-|Feast_of_the_Divine_Day|1327374|0.64%|
-|Feast_of_the_Midnight_Masquerade|1327134|0.62%|
-|Salty_Dog|1326945|0.61%|
-|Sweet_and_Spicy_Soup|1326293|0.56%|
-|Marinated_Tenderloins|1326199|0.55%|
-|Fiery_Fish_Sticks|1326120|0.55%|
-|Chippy_Tea|1325135|0.47%|
-|Salt_Baked_Seafood|1324959|0.46%|
-|Ginger_Glazed_Fillet|1324906|0.45%|
-|Deepfin_Patty|1324468|0.42%|
-|Fish_and_Chips|1324450|0.42%|
-|Zesty_Nibblers|1323930|0.38%|
-|Base|1318913|0.00%|
-|Stuffed_Cave_Peppers|1317580|-0.10%|
+|Crystallized_Augment_Rune|1349101|1.05%|
+|Salty_Dog|1345396|0.78%|
+|Sweet_and_Spicy_Soup|1345080|0.75%|
+|Zesty_Nibblers|1344980|0.74%|
+|Salt_Baked_Seafood|1344978|0.74%|
+|Chippy_Tea|1344928|0.74%|
+|Feast_of_the_Midnight_Masquerade|1344430|0.70%|
+|Ginger_Glazed_Fillet|1344305|0.69%|
+|Deepfin_Patty|1344157|0.68%|
+|Fiery_Fish_Sticks|1343950|0.67%|
+|Fish_and_Chips|1343832|0.66%|
+|Marinated_Tenderloins|1343610|0.64%|
+|Feast_of_the_Divine_Day|1342949|0.59%|
+|Stuffed_Cave_Peppers|1340926|0.44%|
+|Base|1335039|0.00%|
