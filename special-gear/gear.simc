@@ -43,7 +43,7 @@ profileset."1H_Wand_of_Untainted_Power_639_OH_Fate_Weaver_639"+=off_hand=fate_we
 profileset."Finger1_Seal_of_the_Poisoned_Pact_639"+=finger1=seal_of_the_poisoned_pact,id=225578,ilevel=639,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 profileset."Finger2_Seal_of_the_Poisoned_Pact_639"+=finger2=seal_of_the_poisoned_pact,id=225578,ilevel=639,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 
-profileset."Neck_Sureki_Zealots_Insignia_639"+=neck=sureki_zealots_insignia,id=225577,gem_id=${gems.emerald}/${gems.ruby}
+profileset."Neck_Sureki_Zealots_Insignia_639"+=neck=sureki_zealots_insignia,id=225577,gem_id=${gems.emerald}/${gems.ruby},ilevel=639
 
 profileset."Back_Wings_of_Shattered_Sorrow_639"+=back=wings_of_shattered_sorrow,id=225574,ilevel=639
 
