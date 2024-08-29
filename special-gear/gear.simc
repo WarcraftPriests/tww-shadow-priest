@@ -127,8 +127,8 @@ profileset."Consecrated_Slippers_636"+=feet=consecrated_slippers,id=222814,bonus
 profileset."Feet_Base"+=feet=${gear.feet}
 
 ## Jewelcrafting
-profileset."Finger1_Binding_of_Binding_636"+=finger1=binding_of_binding,id=215133,bonus_id=8793,ilevel=636,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
-profileset."Finger2_Binding_of_Binding_636"+=finger2=binding_of_binding,id=215133,bonus_id=8793,ilevel=636,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+# profileset."Finger1_Binding_of_Binding_636"+=finger1=binding_of_binding,id=215133,bonus_id=8793,ilevel=636,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+# profileset."Finger2_Binding_of_Binding_636"+=finger2=binding_of_binding,id=215133,bonus_id=8793,ilevel=636,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 
 ### Base Items
 profileset."Neck_Amulet_of_Earthen_Craftsmanship_636"+=neck=amulet_of_earthen_craftsmanship,id=215136,bonus_id=8793,ilevel=636,gem_id=${gems.emerald}/${gems.ruby}
