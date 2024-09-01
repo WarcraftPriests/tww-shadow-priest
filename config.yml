@@ -4,8 +4,8 @@ builds:
     gearSetup: default
     talents:
       composite:
-        name: VW_VE_VW_DA_yshaarj_cthun_81150947604399_Flay_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYAzMAAAAAAAAAAAAAmxsNGzMzyYMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmN2A
+        name: VW_VE_VW_DA_yshaarj_cthun_81151086016431_Flay_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAYAzYAAAAAAAAAAAAAmxsNGzMzyYMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmN2A
       dungeons:
         name: VW_VE_DoS_DA_nzoth_cthun_98245887375279_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzs4BGzMzyYMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmNWA
@@ -13,8 +13,8 @@ builds:
         name: VW_VE_VW_DA_yshaarj_cthun_81151120585647_Flay_DR
         string: CIQAAAAAAAAAAAAAAAAAAAAAAYAGDAAAAAAAAAAAAwMzsNGzMzyYMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsB
       2t:
-        name: VW_VE_VW_DA_yshaarj_cthun_81151017351087_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYGDAAAAAAAAAAAAwMmtxYmZWGMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgZmZAgAMbzySwsxG
+        name: VW_DH_VW_DA_yshaarj_cthun_81151019186095_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAYwYGDAAAAAAAAAAAAwMsNGzMzy4BMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgZmZAgAMbz2SwsxG
       4t:
         name: VW_VE_DoS_DA_nzoth_cthun_98245887375279_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzs4BGzMzyYMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmNWA
