@@ -1,17 +1,17 @@
 # slice - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1406492|0.96%|
-|Chippy_Tea|1402800|0.69%|
-|Zesty_Nibblers|1402642|0.68%|
-|Salt_Baked_Seafood|1402224|0.65%|
-|Fiery_Fish_Sticks|1402174|0.65%|
-|Feast_of_the_Divine_Day|1402158|0.64%|
-|Salty_Dog|1402047|0.64%|
-|Fish_and_Chips|1402012|0.63%|
-|Deepfin_Patty|1401886|0.62%|
-|Sweet_and_Spicy_Soup|1401451|0.59%|
-|Ginger_Glazed_Fillet|1401387|0.59%|
-|Marinated_Tenderloins|1400954|0.56%|
-|Stuffed_Cave_Peppers|1397481|0.31%|
-|Base|1393185|0.00%|
+|Crystallized_Augment_Rune|1439204|0.96%|
+|Zesty_Nibblers|1435935|0.73%|
+|Salty_Dog|1435921|0.73%|
+|Chippy_Tea|1435757|0.72%|
+|Deepfin_Patty|1434765|0.65%|
+|Marinated_Tenderloins|1434197|0.61%|
+|Sweet_and_Spicy_Soup|1433544|0.56%|
+|Fish_and_Chips|1433287|0.55%|
+|Ginger_Glazed_Fillet|1432998|0.53%|
+|Salt_Baked_Seafood|1432959|0.52%|
+|Feast_of_the_Divine_Day|1432866|0.52%|
+|Fiery_Fish_Sticks|1432647|0.50%|
+|Stuffed_Cave_Peppers|1429005|0.25%|
+|Base|1425512|0.00%|

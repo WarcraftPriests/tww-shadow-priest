@@ -133,9 +133,14 @@ profileset."Embellishment_Darkmoon_Sigil_Vivacity_OH_1"+=main_hand=wand_of_untai
 profileset."Embellishment_Darkmoon_Sigil_Vivacity_OH_1"+=off_hand=vagabonds_torch,id=222566,ilevel=636,bonus_id=11301/8793
 
 ## Tailoring
-### Woven Dusk
-profileset."Woven_Dusk_Gloves_Slippers_636"+=hands=grips_of_the_woven_dusk,id=222809,bonus_id=8793,ilevel=636
+### Woven Dusk (DPS - Haste)
+profileset."Woven_Dusk_Gloves_Slippers_636"+=hands=gloves_of_the_woven_dusk,id=222809,bonus_id=8793,ilevel=636
 profileset."Woven_Dusk_Gloves_Slippers_636"+=feet=slippers_of_the_woven_dusk,id=222810,bonus_id=8793,ilevel=636
+
+### Woven Dawn (Healing - Mastery)
+### Note: Currently procs with near full uptime as Shadow Priest
+profileset."Woven_Dawn_Grips_Treads_636"+=hands=grips_of_the_woven_dawn,id=222807,bonus_id=8793,ilevel=636
+profileset."Woven_Dawn_Grips_Treads_636"+=feet=treads_of_the_woven_dawn,id=222808,bonus_id=8793,ilevel=636
 
 ### Base Items
 profileset."Consecrated_Cloak_636"+=back=consecrated_cloak,id=222817,bonus_id=8793,ilevel=636
