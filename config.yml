@@ -216,7 +216,7 @@ sims:
     files:
       - gear.simc
   stats:
-    description: "Stat distribution sim to see where we would want to add stats given the option. Each letter stands for a secondary stat and the number indicates how many steps were added to that build. So H10 means we add 10 steps of haste (currently 100 stat each step)."
+    description: "Stat distribution sim to see where we would want to add stats given the option. Each letter stands for a secondary stat and the number indicates how many steps were added to that build. So H10 means we add 10 steps of haste (currently 1000 stat each step)."
     builds: true
     weights: false
     chart: true
@@ -265,7 +265,7 @@ sims:
     files:
       - tiersets.simc
   trinket-combos:
-    description: "Combines the top trinkets together to get your BiS 2 trinkets.\n\nWIIF = Full, WIID = DPS only, WIIT = DPS + Tank, WIIH = DPS + Healer.\n\nOCEBA = Bronze, OCEEA = Emerald, OCEOA = Obsidian, OCEAA = Azure, OCERA = Ruby"
+    description: "Combines the top trinkets together to get your BiS 2 trinkets."
     builds: true
     weights: false
     chart: true

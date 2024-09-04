@@ -157,7 +157,7 @@ profileset."Consecrated_Robe_636"+=chest=consecrated_robe,id=222819,bonus_id=879
 profileset."Consecrated_Robe_636"+=hands=living_lusters_touch,id=212084,ilevel=639
 profileset."Consecrated_Slippers_636"+=feet=consecrated_slippers,id=222814,bonus_id=8793,ilevel=636
 
-profileset."Feet_Base"+=feet=${gear.feet}
+# profileset."Feet_Base"+=feet=${gear.feet}
 
 ## Jewelcrafting
 profileset."Finger1_Binding_of_Binding_636"+=finger1=binding_of_binding,id=215133,bonus_id=8793,ilevel=636,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}

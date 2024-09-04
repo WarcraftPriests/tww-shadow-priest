@@ -55,6 +55,9 @@ profileset."Energy_Siphon_619-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id
 profileset."Energy_Siphon_619-Aberrant_Spellforge_639"+=trinket1=energy_siphon,id=156021,ilevel=619
 profileset."Energy_Siphon_619-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Energy_Siphon_619-Mad_Queens_Mandate_639"+=trinket1=energy_siphon,id=156021,ilevel=619
+profileset."Energy_Siphon_619-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Energy_Siphon_619-Spymasters_Web_639"+=trinket1=energy_siphon,id=156021,ilevel=619
 profileset."Energy_Siphon_619-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -100,6 +103,9 @@ profileset."Living_Flame_619-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,id=
 profileset."Living_Flame_619-Aberrant_Spellforge_639"+=trinket1=living_flame,id=155947,ilevel=619
 profileset."Living_Flame_619-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Living_Flame_619-Mad_Queens_Mandate_639"+=trinket1=living_flame,id=155947,ilevel=619
+profileset."Living_Flame_619-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Living_Flame_619-Spymasters_Web_639"+=trinket1=living_flame,id=155947,ilevel=619
 profileset."Living_Flame_619-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -142,6 +148,9 @@ profileset."Ara_Kara_Sacbrood_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows
 profileset."Ara_Kara_Sacbrood_639-Aberrant_Spellforge_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
 profileset."Ara_Kara_Sacbrood_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Ara_Kara_Sacbrood_639-Mad_Queens_Mandate_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
+profileset."Ara_Kara_Sacbrood_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Ara_Kara_Sacbrood_639-Spymasters_Web_639"+=trinket1=arakara_sacbrood,id=219314,ilevel=639
 profileset."Ara_Kara_Sacbrood_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -181,6 +190,9 @@ profileset."Empowering_Crystal_of_Anubikkaj_639-Gale_of_Shadows_639"+=trinket2=g
 profileset."Empowering_Crystal_of_Anubikkaj_639-Aberrant_Spellforge_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 profileset."Empowering_Crystal_of_Anubikkaj_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Empowering_Crystal_of_Anubikkaj_639-Mad_Queens_Mandate_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
+profileset."Empowering_Crystal_of_Anubikkaj_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Empowering_Crystal_of_Anubikkaj_639-Spymasters_Web_639"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=639
 profileset."Empowering_Crystal_of_Anubikkaj_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -211,6 +223,10 @@ profileset."Unbound_Changeling_All_639-Gale_of_Shadows_639"+=trinket2=gale_of_sh
 profileset."Unbound_Changeling_All_639-Aberrant_Spellforge_639"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Unbound_Changeling_All_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_All_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
+
+profileset."Unbound_Changeling_All_639-Mad_Queens_Mandate_639"+=shadowlands.unbound_changeling_stat_type=all
+profileset."Unbound_Changeling_All_639-Mad_Queens_Mandate_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_All_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
 
 profileset."Unbound_Changeling_All_639-Spymasters_Web_639"+=shadowlands.unbound_changeling_stat_type=all
 profileset."Unbound_Changeling_All_639-Spymasters_Web_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
@@ -248,6 +264,10 @@ profileset."Unbound_Changeling_Haste_639-Aberrant_Spellforge_639"+=shadowlands.u
 profileset."Unbound_Changeling_Haste_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Haste_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Unbound_Changeling_Haste_639-Mad_Queens_Mandate_639"+=shadowlands.unbound_changeling_stat_type=haste
+profileset."Unbound_Changeling_Haste_639-Mad_Queens_Mandate_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Haste_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Unbound_Changeling_Haste_639-Spymasters_Web_639"+=shadowlands.unbound_changeling_stat_type=haste
 profileset."Unbound_Changeling_Haste_639-Spymasters_Web_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Haste_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
@@ -284,6 +304,10 @@ profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=shadowlands
 profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Mastery_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Unbound_Changeling_Mastery_639-Mad_Queens_Mandate_639"+=shadowlands.unbound_changeling_stat_type=mastery
+profileset."Unbound_Changeling_Mastery_639-Mad_Queens_Mandate_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
+profileset."Unbound_Changeling_Mastery_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Unbound_Changeling_Mastery_639-Spymasters_Web_639"+=shadowlands.unbound_changeling_stat_type=mastery
 profileset."Unbound_Changeling_Mastery_639-Spymasters_Web_639"+=trinket1=unbound_changeling,id=178708,ilevel=639
 profileset."Unbound_Changeling_Mastery_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
@@ -313,6 +337,9 @@ profileset."Satchel_of_Misbegotten_Minions_639-Gale_of_Shadows_639"+=trinket2=ga
 profileset."Satchel_of_Misbegotten_Minions_639-Aberrant_Spellforge_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
 profileset."Satchel_of_Misbegotten_Minions_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Satchel_of_Misbegotten_Minions_639-Mad_Queens_Mandate_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
+profileset."Satchel_of_Misbegotten_Minions_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Satchel_of_Misbegotten_Minions_639-Spymasters_Web_639"+=trinket1=satchel_of_misbegotten_minions,id=178772,ilevel=639
 profileset."Satchel_of_Misbegotten_Minions_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -334,6 +361,9 @@ profileset."Hadals_Nautilus_639-Gale_of_Shadows_639"+=trinket2=gale_of_shadows1,
 profileset."Hadals_Nautilus_639-Aberrant_Spellforge_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
 profileset."Hadals_Nautilus_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Hadals_Nautilus_639-Mad_Queens_Mandate_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
+profileset."Hadals_Nautilus_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Hadals_Nautilus_639-Spymasters_Web_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
 profileset."Hadals_Nautilus_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -352,6 +382,9 @@ profileset."Hadals_Nautilus_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinke
 profileset."Gale_of_Shadows_639-Aberrant_Spellforge_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
 profileset."Gale_of_Shadows_639-Aberrant_Spellforge_639"+=trinket2=aberrant_spellforge,id=212451,ilevel=639
 
+profileset."Gale_of_Shadows_639-Mad_Queens_Mandate_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Gale_of_Shadows_639-Spymasters_Web_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
 profileset."Gale_of_Shadows_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -367,6 +400,9 @@ profileset."Gale_of_Shadows_639-Quickwick_Candlestick_626"+=trinket2=quickwick_c
 profileset."Gale_of_Shadows_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
 profileset."Gale_of_Shadows_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
 
+profileset."Aberrant_Spellforge_639-Mad_Queens_Mandate_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+profileset."Aberrant_Spellforge_639-Mad_Queens_Mandate_639"+=trinket2=mad_queens_mandate,id=212454,ilevel=639
+
 profileset."Aberrant_Spellforge_639-Spymasters_Web_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
 profileset."Aberrant_Spellforge_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
 
@@ -381,6 +417,21 @@ profileset."Aberrant_Spellforge_639-Quickwick_Candlestick_626"+=trinket2=quickwi
 
 profileset."Aberrant_Spellforge_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
 profileset."Aberrant_Spellforge_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
+
+profileset."Mad_Queens_Mandate_639-Spymasters_Web_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
+profileset."Mad_Queens_Mandate_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639
+
+profileset."Mad_Queens_Mandate_639-Treacherous_Transmitter_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Treacherous_Transmitter_639"+=trinket2=treacherous_transmitter,id=221023,ilevel=639
+
+profileset."Mad_Queens_Mandate_639-Quickwick_Candlestick_626"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Quickwick_Candlestick_626"+=trinket2=quickwick_candlestick,id=225649,ilevel=626
+
+profileset."Mad_Queens_Mandate_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+profileset."Mad_Queens_Mandate_639-Forged_Gladiators_Badge_of_Ferocity_626"+=trinket2=forged_gladiators_badge_of_ferocity,id=218713,ilevel=626
 
 profileset."Spymasters_Web_639-Ovinaxs_Mercurial_Egg_639"+=trinket1=spymasters_web,id=220202,ilevel=639
 profileset."Spymasters_Web_639-Ovinaxs_Mercurial_Egg_639"+=trinket2=ovinaxs_mercurial_egg,id=220305,ilevel=639

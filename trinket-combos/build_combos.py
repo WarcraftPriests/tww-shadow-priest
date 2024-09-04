@@ -23,7 +23,7 @@ combos = {
     "Gale_of_Shadows_639": "gale_of_shadows1,id=133304,ilevel=639",
     # neru'bar palace (?/639)
     "Aberrant_Spellforge_639": "aberrant_spellforge,id=212451,ilevel=639",
-    # "Mad_Queens_Mandate_639": "mad_queens_mandate,id=212454,ilevel=639",
+    "Mad_Queens_Mandate_639": "mad_queens_mandate,id=212454,ilevel=639",
     "Spymasters_Web_639": "spymasters_web,id=220202,ilevel=639",
     "Ovinaxs_Mercurial_Egg_639": "ovinaxs_mercurial_egg,id=220305,ilevel=639",
     "Treacherous_Transmitter_639": "treacherous_transmitter,id=221023,ilevel=639",
