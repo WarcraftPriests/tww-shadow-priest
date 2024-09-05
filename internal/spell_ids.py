@@ -156,6 +156,7 @@ racials = {
     "Zandalari_Troll_Bwonsamdi": 292360,
     "Highmountain_Tauren": 255658,
     "Earthen": 436344,
+    "Dracthyr": 365575,
 }
 
 special = {

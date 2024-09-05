@@ -111,3 +111,5 @@ profileset."Orc"+=race=orc
 profileset."Highmountain_Tauren"+=race=highmountain_tauren
 
 profileset."Earthen"+=race=earthen
+
+profileset."Dracthyr"+=race=dracthyr
