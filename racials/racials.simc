@@ -110,6 +110,18 @@ profileset."Orc"+=race=orc
 
 profileset."Highmountain_Tauren"+=race=highmountain_tauren
 
-profileset."Earthen"+=race=earthen
+# Earthen
+## Emerald - Haste
+profileset."Earthen_Emerald"+=race=earthen
+profileset."Earthen_Emerald"+=earthen_mineral=emerald
+## Emerald - Mastery
+profileset."Earthen_Onyx"+=race=earthen
+profileset."Earthen_Onyx"+=earthen_mineral=onyx
+## Emerald - Critical Strike
+profileset."Earthen_Ruby"+=race=earthen
+profileset."Earthen_Ruby"+=earthen_mineral=ruby
+## Emerald - Versatility
+profileset."Earthen_Sapphire"+=race=earthen
+profileset."Earthen_Sapphire"+=earthen_mineral=sapphire
 
 profileset."Dracthyr"+=race=dracthyr

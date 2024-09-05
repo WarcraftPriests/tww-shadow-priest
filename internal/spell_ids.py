@@ -155,7 +155,10 @@ racials = {
     "Zandalari_Troll_Paku": 292361,
     "Zandalari_Troll_Bwonsamdi": 292360,
     "Highmountain_Tauren": 255658,
-    "Earthen": 436344,
+    "Earthen_Emerald": 436341,
+    "Earthen_Onyx": 436341,
+    "Earthen_Ruby": 436341,
+    "Earthen_Sapphire": 436341,
     "Dracthyr": 365575,
 }
 
