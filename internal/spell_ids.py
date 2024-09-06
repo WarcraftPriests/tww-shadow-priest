@@ -125,7 +125,7 @@ gems = {
 
 racials = {
     "Human": 20598,
-    "Blood_Elf": 28730,
+    "Blood_Elf": 154742,
     "Vulpera": 312411,
     "Maghar_Orc": 274738,
     "Undead": 5227,
