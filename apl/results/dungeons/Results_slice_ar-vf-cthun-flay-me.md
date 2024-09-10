@@ -1,5 +1,5 @@
 # slice - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|1407577|0.00%|
-|move_shadowfiend|1407534|0.00%|
+|Base|1406405|0.00%|
+|mfi_ttd_check|1391157|-1.08%|

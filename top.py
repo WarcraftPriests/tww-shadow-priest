@@ -25,6 +25,29 @@ def get_top_talents(results, combos, directory, matches, jitter):
             for row in reader:
                 builds.append(row[1])
         file.close()
+        # st + crash
+        if result == "Single":
+            ar_st_crash = ""
+            vw_st_crash = ""
+            while ar_st_crash == "" and vw_st_crash == "":
+                for build in builds:
+                    ht = build.split("_")[0]
+                    # TODO: remove this
+                    if build == "actor":
+                        continue
+                    if ht == "AR" and ar_st_crash == "":
+                        st = find_talents(build).st
+                        if "whispering_shadows" in st:
+                            ar_st_crash = build
+                            talent_names.append(build)
+                    if ht == "VW" and vw_st_crash == "":
+                        st = find_talents(build).st
+                        if "whispering_shadows" in st:
+                            vw_st_crash = build
+                            talent_names.append(build)
+                if ar_st_crash == "" or vw_st_crash == "":
+                    print(f"No Single Target + Shadow Crash build found. AR: {ar_st_crash}, VW: {vw_st_crash}")
+                    exit()
         # get top x builds
         talent_names.extend(builds[1 : matches + 1])
         for combo in combos:

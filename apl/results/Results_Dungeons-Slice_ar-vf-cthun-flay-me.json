@@ -1,1 +1,1 @@
-{"name": "Dungeons-Slice - ar-vf-cthun-flay-me", "data": {"Base": {"DPS": 1407577}, "move_shadowfiend": {"DPS": 1407534}}, "ids": {"move_shadowfiend": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["move_shadowfiend"], "last_updated": "2024-09-05"}
+{"name": "Dungeons-Slice - ar-vf-cthun-flay-me", "data": {"Base": {"DPS": 1406405}, "mfi_ttd_check": {"DPS": 1391157}}, "ids": {"mfi_ttd_check": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["mfi_ttd_check"], "last_updated": "2024-09-08"}
