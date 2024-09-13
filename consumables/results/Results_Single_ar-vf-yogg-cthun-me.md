@@ -1,17 +1,17 @@
 # Single - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1286593|1.02%|
-|Salty_Dog|1281980|0.65%|
-|Marinated_Tenderloins|1281856|0.65%|
-|Chippy_Tea|1281819|0.64%|
-|Zesty_Nibblers|1281737|0.64%|
-|Sweet_and_Spicy_Soup|1281529|0.62%|
-|Feast_of_the_Divine_Day|1281455|0.61%|
-|Deepfin_Patty|1281247|0.60%|
-|Fish_and_Chips|1281215|0.59%|
-|Ginger_Glazed_Fillet|1281181|0.59%|
-|Salt_Baked_Seafood|1281122|0.59%|
-|Fiery_Fish_Sticks|1280839|0.57%|
-|Stuffed_Cave_Peppers|1277869|0.33%|
-|Base|1273639|0.00%|
+|Crystallized_Augment_Rune|1275262|0.94%|
+|Zesty_Nibblers|1271928|0.68%|
+|Chippy_Tea|1271105|0.61%|
+|Salty_Dog|1271060|0.61%|
+|Marinated_Tenderloins|1271044|0.61%|
+|Sweet_and_Spicy_Soup|1271004|0.60%|
+|Salt_Baked_Seafood|1270837|0.59%|
+|Feast_of_the_Divine_Day|1270832|0.59%|
+|Ginger_Glazed_Fillet|1270653|0.57%|
+|Fish_and_Chips|1270610|0.57%|
+|Deepfin_Patty|1270421|0.56%|
+|Fiery_Fish_Sticks|1270129|0.53%|
+|Stuffed_Cave_Peppers|1267212|0.30%|
+|Base|1263399|0.00%|

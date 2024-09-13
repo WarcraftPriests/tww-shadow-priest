@@ -1,17 +1,17 @@
 # Dungeons-Slice - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1439204|0.96%|
-|Zesty_Nibblers|1435935|0.73%|
-|Salty_Dog|1435921|0.73%|
-|Chippy_Tea|1435757|0.72%|
-|Deepfin_Patty|1434765|0.65%|
-|Marinated_Tenderloins|1434197|0.61%|
-|Sweet_and_Spicy_Soup|1433544|0.56%|
-|Fish_and_Chips|1433287|0.55%|
-|Ginger_Glazed_Fillet|1432998|0.53%|
-|Salt_Baked_Seafood|1432959|0.52%|
-|Feast_of_the_Divine_Day|1432866|0.52%|
-|Fiery_Fish_Sticks|1432647|0.50%|
-|Stuffed_Cave_Peppers|1429005|0.25%|
-|Base|1425512|0.00%|
+|Crystallized_Augment_Rune|1462882|0.96%|
+|Fish_and_Chips|1458584|0.66%|
+|Marinated_Tenderloins|1458452|0.65%|
+|Ginger_Glazed_Fillet|1458450|0.65%|
+|Salt_Baked_Seafood|1458025|0.63%|
+|Sweet_and_Spicy_Soup|1457848|0.61%|
+|Zesty_Nibblers|1457819|0.61%|
+|Chippy_Tea|1457797|0.61%|
+|Fiery_Fish_Sticks|1457238|0.57%|
+|Deepfin_Patty|1457215|0.57%|
+|Feast_of_the_Divine_Day|1457189|0.57%|
+|Salty_Dog|1456181|0.50%|
+|Stuffed_Cave_Peppers|1454723|0.40%|
+|Base|1448964|0.00%|

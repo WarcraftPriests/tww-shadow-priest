@@ -1,4 +1,4 @@
 # Dungeons-Slice - vw-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|1415558|1.00|1.15|0.98|0.98|1.01|0.06|
+|Base|1471817|1.00|1.06|0.92|0.97|0.93|0.05|
