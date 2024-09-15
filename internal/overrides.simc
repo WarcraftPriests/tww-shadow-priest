@@ -1,8 +1,2 @@
 
 # Overrides are added below here
-# direct damage
-override.spell_data=effect.179717.base_value=6
-# periodic damage
-override.spell_data=effect.191068.base_value=6
-# psychic link
-override.spell_data=effect.293563.base_value=25

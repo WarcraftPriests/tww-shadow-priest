@@ -24,18 +24,53 @@ ${gear.off_hand}
 
 # Delves
 ## Drop: 619 / Vault: 626
+profileset."Fungal_Friend_Flute_606"+=trinket1=fungal_friend_flute,id=215171,ilevel=606
 profileset."Fungal_Friend_Flute_619"+=trinket1=fungal_friend_flute,id=215171,ilevel=619
 profileset."Fungal_Friend_Flute_626"+=trinket1=fungal_friend_flute,id=215171,ilevel=626
 
+profileset."Kaheti_Shadeweavers_Emblem_606"+=trinket1=kaheti_shadeweavers_emblem,id=225651,ilevel=606
 profileset."Kaheti_Shadeweavers_Emblem_619"+=trinket1=kaheti_shadeweavers_emblem,id=225651,ilevel=619
 profileset."Kaheti_Shadeweavers_Emblem_626"+=trinket1=kaheti_shadeweavers_emblem,id=225651,ilevel=626
 
+profileset."Imperfect_Ascendancy_Serum_606"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=606
 profileset."Imperfect_Ascendancy_Serum_619"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=619
 profileset."Imperfect_Ascendancy_Serum_626"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=626
 
+profileset."Concoction_Kiss_of_Death_606"+=trinket1=concoction_kiss_of_death,id=215174,ilevel=606
+profileset."Concoction_Kiss_of_Death_619"+=trinket1=concoction_kiss_of_death,id=215174,ilevel=619
+profileset."Concoction_Kiss_of_Death_626"+=trinket1=concoction_kiss_of_death,id=215174,ilevel=626
+
+profileset."Shadowbinding_Ritual_Knife_606"+=trinket1=shadowbinding_ritual_knife,id=215178,ilevel=606
+profileset."Shadowbinding_Ritual_Knife_619"+=trinket1=shadowbinding_ritual_knife,id=215178,ilevel=619
+profileset."Shadowbinding_Ritual_Knife_626"+=trinket1=shadowbinding_ritual_knife,id=215178,ilevel=626
+
+profileset."Nizreks_Holographic_Manipulator_606"+=trinket1=nizreks_holographic_manipulator,id=225970,ilevel=606
+profileset."Nizreks_Holographic_Manipulator_619"+=trinket1=nizreks_holographic_manipulator,id=225970,ilevel=619
+profileset."Nizreks_Holographic_Manipulator_626"+=trinket1=nizreks_holographic_manipulator,id=225970,ilevel=626
+
+profileset."Quickwick_Candlestick_606"+=trinket1=quickwick_candlestick,id=225649,ilevel=606
+profileset."Quickwick_Candlestick_619"+=trinket1=quickwick_candlestick,id=225649,ilevel=619
+profileset."Quickwick_Candlestick_626"+=trinket1=quickwick_candlestick,id=225649,ilevel=626
+
+profileset."Horn_of_Declaration_606"+=trinket1=horn_of_declaration,id=217041,ilevel=606
+profileset."Horn_of_Declaration_619"+=trinket1=horn_of_declaration,id=217041,ilevel=619
+profileset."Horn_of_Declaration_626"+=trinket1=horn_of_declaration,id=217041,ilevel=626
+
+profileset."Candle_Confidant_606"+=trinket1=candle_confidant,id=225648,ilevel=606
+profileset."Candle_Confidant_619"+=trinket1=candle_confidant,id=225648,ilevel=619
+profileset."Candle_Confidant_626"+=trinket1=candle_confidant,id=225648,ilevel=626
+
+profileset."Everburning_Lantern_606"+=trinket1=everburning_lantern,id=215169,ilevel=606
+profileset."Everburning_Lantern_619"+=trinket1=everburning_lantern,id=215169,ilevel=619
+profileset."Everburning_Lantern_626"+=trinket1=everburning_lantern,id=215169,ilevel=626
+
+profileset."Unstable_Power_Suit_Core_606"+=trinket1=unstable_power_suit_core,id=225668,ilevel=606
+profileset."Unstable_Power_Suit_Core_619"+=trinket1=unstable_power_suit_core,id=225668,ilevel=619
+profileset."Unstable_Power_Suit_Core_626"+=trinket1=unstable_power_suit_core,id=225668,ilevel=626
+
 ## TODO: Confirm item level on this
-profileset."Bronzebeard_Family_Compass_619"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=619
-profileset."Bronzebeard_Family_Compass_626"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=626
+# profileset."Bronzebeard_Family_Compass_619"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=619
+# profileset."Bronzebeard_Family_Compass_626"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=626
 
 # Anniversary Event
 # profileset."Hibernation_Crystal_463"+=trinket1=hibernation_crystal,id=150388,ilevel=463
@@ -55,24 +90,6 @@ profileset."Bronzebeard_Family_Compass_626"+=trinket1=bronzebeard_family_compass
 
 # Jewelcrafting
 # NYI
-
-# Questing Trinkets
-## TODO: Confirm item level
-profileset."Concoction_Kiss_of_Death_619"+=trinket1=concoction_kiss_of_death,id=215174,ilevel=619
-
-profileset."Shadowbinding_Ritual_Knife_619"+=trinket1=shadowbinding_ritual_knife,id=215178,ilevel=619
-
-profileset."Nizreks_Holographic_Manipulator_619"+=trinket1=nizreks_holographic_manipulator,id=225970,ilevel=619
-
-profileset."Quickwick_Candlestick_619"+=trinket1=quickwick_candlestick,id=225649,ilevel=619
-
-profileset."Horn_of_Declaration_619"+=trinket1=horn_of_declaration,id=217041,ilevel=619
-
-profileset."Candle_Confidant_619"+=trinket1=candle_confidant,id=225648,ilevel=619
-
-profileset."Everburning_Lantern_619"+=trinket1=everburning_lantern,id=215169,ilevel=619
-
-profileset."Unstable_Power_Suit_Core_619"+=trinket1=unstable_power_suit_core,id=225668,ilevel=619
 
 # PVP Trinkets
 #    Honor: ?

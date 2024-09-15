@@ -14,7 +14,7 @@ combos = {
     # "Harvesters_Edict_639": "harvesters_edict,id=219317,ilevel=639",
     # "High_Speakers_Accretion_639": "high_speakers_accretion,id=219303,ilevel=639",
     "Empowering_Crystal_of_Anubikkaj_639": "empowering_crystal_of_anubikkaj,id=219312,ilevel=639",
-    "Unbound_Changeling_All_639": "unbound_changeling,id=178708,ilevel=639",
+    # "Unbound_Changeling_All_639": "unbound_changeling,id=178708,ilevel=639",
     # "Unbound_Changeling_Crit_639": "unbound_changeling,id=178708,ilevel=639",
     "Unbound_Changeling_Haste_639": "unbound_changeling,id=178708,ilevel=639",
     "Unbound_Changeling_Mastery_639": "unbound_changeling,id=178708,ilevel=639",
@@ -29,6 +29,7 @@ combos = {
     "Treacherous_Transmitter_639": "treacherous_transmitter,id=221023,ilevel=639",
     # delves (626)
     "Quickwick_Candlestick_626": "quickwick_candlestick,id=225649,ilevel=626",
+    "Shadowbinding_Ritual_Knife_626": "shadowbinding_ritual_knife,id=215178,ilevel=626",
     # pvp (626)
     "Forged_Gladiators_Badge_of_Ferocity_626": "forged_gladiators_badge_of_ferocity,id=218713,ilevel=626",
 }
