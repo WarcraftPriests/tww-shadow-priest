@@ -163,8 +163,8 @@ racials = {
 }
 
 special = {
-    "1H_Fateweaved_Needle_639_OH_Pail_of_Preserved_Obscurity_639": 219382,
-    "1H_Fateweaved_Mallet_639_OH_Pail_of_Preserved_Obscurity_639": 219941,
+    "1H_Fateweaved_Needle_626_OH_Pail_of_Preserved_Obscurity_639": 219382,
+    "1H_Fateweaved_Mallet_626_OH_Pail_of_Preserved_Obscurity_639": 219941,
     "1H_Wand_of_Untainted_Power_639_OH_Fate_Weaver_639": 219381,
     "Finger1_Seal_of_the_Poisoned_Pact_639": 225578,
     "Finger2_Seal_of_the_Poisoned_Pact_639": 225578,

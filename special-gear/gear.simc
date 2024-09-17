@@ -25,16 +25,13 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Season 1 Cantrip Items
-## TODO: Check Item Levels
-## TODO: find others in journal
-## TODO: fix offhands/mainhands
-profileset."1H_Fateweaved_Needle_639_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_needle,id=219382,ilevel=639,enchant=${enchants.main_hand}
-profileset."1H_Fateweaved_Needle_639_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
-profileset."1H_Fateweaved_Mallet_639_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_mallet,id=219941,ilevel=639,enchant=${enchants.main_hand}
-profileset."1H_Fateweaved_Mallet_639_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
+profileset."1H_Fateweaved_Needle_626_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_needle,id=219382,ilevel=626,enchant=${enchants.main_hand}
+profileset."1H_Fateweaved_Needle_626_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
+profileset."1H_Fateweaved_Mallet_626_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_mallet,id=219941,ilevel=626,enchant=${enchants.main_hand}
+profileset."1H_Fateweaved_Mallet_626_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=pail_of_preserved_obscurity,id=221172,ilevel=639
 
-profileset."1H_Wand_of_Untainted_Power_639_OH_Fate_Weaver_639"+=main_hand=wand_of_untainted_power,id=133288,ilevel=639,enchant=${enchants.main_hand}
-profileset."1H_Wand_of_Untainted_Power_639_OH_Fate_Weaver_639"+=off_hand=fate_weaver,id=219381,ilevel=639
+# profileset."1H_Wand_of_Untainted_Power_639_OH_Fate_Weaver_639"+=main_hand=wand_of_untainted_power,id=133288,ilevel=639,enchant=${enchants.main_hand}
+# profileset."1H_Wand_of_Untainted_Power_639_OH_Fate_Weaver_639"+=off_hand=fate_weaver,id=219381,ilevel=639
 
 # Season 2 2H staff
 # profileset."2H_Voltaic_Stormcaller_639"+=main_hand=voltaic_stormcaller,id=221032,ilevel=639
