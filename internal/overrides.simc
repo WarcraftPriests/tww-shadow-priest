@@ -1,13 +1,2 @@
 
 # Overrides are added below here
-## Ara-Kara Sacbrood Int Reduced by 5%
-override.spell_data=effect.1139520.coefficient=0.1942522
-## Harvester's Edict Damage and Mastery Increased by 5%
-override.spell_data=effect.1151381.coefficient=43.22388
-override.spell_data=effect.1151382.coefficient=1.3679379
-## Mereldar's Toll Versatility increased by 8%
-override.spell_data=effect.1150678.coefficient=0.54442044
-## Shadow-Binding Ritual Knife Intellect reduced by 5%
-override.spell_data=effect.1126151.coefficient=0.56992115
-## Spymaster's Web on use Reduced by 5%
-override.spell_data=effect.1141652.coefficient=0.1343376

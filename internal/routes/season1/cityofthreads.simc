@@ -1,39 +1,35 @@
-# !Tvzxtsjpqu4)s0HWxxQR3OLfULz9T0Bs5WqyeLfSycRR38(Bx60bsAMPQTMfs680N(KoenOFsRo12on(FM5R9tJ6AzciY0QZtdtZpEAWyTM3p2n5cCXo9aoE)4f9Bpet7RRRvB1kR511F)80I18)FxQvT9DD9NxgS)vxls0Q)ym)cdv9CBpsTB2y(X0q7hM6hnT6gTQXCzPFatsneMhFzf8lNgwm46oVmpBgTpUmmORl3FxT0myEXSoMqR(96KxxdUgI(PUcNRUqxNIlCvk4RzUPYDdw4gS0nyfoOfd5j8FPEgOwwdchJ8HvH2LA662IDpBaXhahAiZXgYJwiUSkZg9yCPgm7eNYivtqYDpiCparQofrvejuVud5Rcf6ozYpGesGcsGqmeH7VucvgtKDnOil5zlNLnSsC83IH4zdzaID19aL(SgxXwNcdrh7wKhwYi68ci9aX4SuCyNaDgqYRNkgtbJj5nCTuHMYwscWD9hylWDmcp9mQnlywjSsMsD(DmGtGZM3c(qtzyncgpYkk2FBFNERY9L5we5(Zk2iPwEh14BPdjkJj8ymjom4tY9uzp4e2Bovav8DiitFBd(E(OctYkwjZiKEm56BBUfcgg6bPVBY6(Qwu7RayngYToyzqRf6BpEicofDKogSGboeXM9F4uqawbBHfUfws7Vjojv5PuDqsO9TtPKjMugtW3)tUcq2c4)uHiHjUkYoty1H35DapEurKY3LfXT2(o(Ab)WQD)QG3TmEXmnsxnjXBMmpJ3QSEfZvZG5SfVWluHQ5(o7N66UASU7msPgq6J81u7Od)uZpxx8vQVCPVvRG38XV8Tlp81gfURO)3d
+# !9v12UXniq0FN(sKmmCX8AAvKsvfnsoQpI0EbN6ux72DXPj)9LzaBJDJQwKxJH5CMZCbCm3JUMZDTTDNM6dV5SmPR5pE)pIV5AoC(84W38xU2no4SYkwLRz84Z(tHRr7SKXdUBJiKMENuRmahKv6AM0yQCT3ieol3D3nIAnh0vka4Abub4ssNfq7SIii2iZ3o126cXFrt2JTwPvmU2WmqDTqYlX2ujm1cTrjzvCT6)JDW1CASF8Ydh69HG)(H2rKSdtHXpIFVB4jK3n758Riqrld(xJp)Y0WPVFC8vxZu3zxZ9)M)8NdHr4Tp4AE5q)Khb800Ll(HWdt99OBopVz6yV)fFpfH)vCXLy58J4MXHGuamhnE3fG8cmCIioj(xml9yw54UtbcfnvViExtBl4PiYm6jJQjJySu4JxscFMellt)cvSexmvYmnXwSwALoKmJFbUzmLBGbscei5z5MKwfjrurQaKOmSqYvH4xI7cQjqSIQKRlyKVBfOpfrcluqxemKxzfq2x1LssUl6a(5vxfHbJzwMPiUhqlFm)yoxOkMSIz7XeMQnyICTAbfL1LyvVLmDHXOPMcJHsJjKySTwNaJ9EKbLKX3L7qzRwkSiOmBCedQnlVQ0Z57ipLO5iHfub5QA0G1GyQyhnIV7BObI52Gy2eZKXbw1fhSAQYGk(SCfr1QqMR5ZrGn9plKl2qBuseVzpn1agRaqQ5jQ5uVfca1)aluBzPTH7A1noWOu(mj76ir98Vbb5MKQyzg12TCGqiRPDDD2L61Kw0RhoMpIqq6OMwYqViPxujBskc2LntEroBU4HPtgQ3e4ZTtRoEDHFKYLsAOYqtGXfLPhw9MKfFxMn3zQ35JQnbyQbCnalYLtZ4TAyy586pnn8KFCGUcGf9)4va(FI3rC01C13hVmeVDSOP5sxB4RTTx9R3sgY)C)n
 fight_style=DungeonRoute
-override.windfury_totem=0
+override.skyfury=0
 override.arcane_intellect=0
 override.power_word_fortitude=1
 override.battle_shout=0
 override.mark_of_the_wild=0
 override.mystic_touch=0
 override.chaos_brand=0
+override.hunters_mark=0
+override.mortal_wounds=0
 override.bleeding=0
-single_actor_batch=1
-max_time=2040
-enemy="The Azure Vault 20 Tyrannical"
-enemy_health=999999
-keystone_level=20
+single_actor_batch=0
+max_time=2700
+enemy="City of Threads 15"
+enemy_health=99999999
+keystone_level=15
 keystone_pct_hp=27
 
-raid_events+=/pull,pull=01,bloodlust=0,delay=012,mark_duration=13,enemies="Conjured_Lasher_1":876260:Elemental|"Conjured_Lasher_2":876260:Elemental|"Conjured_Lasher_3":876260:Elemental|"Conjured_Lasher_4":876260:Elemental|"Conjured_Lasher_5":876260:Elemental|"Conjured_Lasher_6":876260:Elemental|"Conjured_Lasher_7":876260:Elemental|"Conjured_Lasher_8":876260:Elemental|"Conjured_Lasher_9":876260:Elemental|"Arcane_Tender_1":1557796:Elemental
-raid_events+=/pull,pull=02,bloodlust=0,delay=008,mark_duration=13,enemies="Conjured_Lasher_1":876260:Elemental|"Conjured_Lasher_2":876260:Elemental|"Conjured_Lasher_3":876260:Elemental|"Conjured_Lasher_4":876260:Elemental
-raid_events+=/pull,pull=03,bloodlust=0,delay=008,mark_duration=13,enemies="Volatile_Sapling_1":97363:Aberration|"Volatile_Sapling_2":97363:Aberration|"Volatile_Sapling_3":97363:Aberration|"Volatile_Sapling_4":97363:Aberration|"Volatile_Sapling_5":97363:Aberration|"Volatile_Sapling_6":97363:Aberration|"Volatile_Sapling_7":97363:Aberration|"Volatile_Sapling_8":97363:Aberration|"Arcane_Tender_1":1557796:Elemental
-raid_events+=/pull,pull=04,bloodlust=0,delay=011,mark_duration=13,enemies="Volatile_Sapling_1":97363:Aberration|"Volatile_Sapling_2":97363:Aberration|"Volatile_Sapling_3":97363:Aberration|"Volatile_Sapling_4":97363:Aberration|"Arcane_Tender_1":1557796:Elemental|"Arcane_Tender_2":1557796:Elemental
-raid_events+=/pull,pull=05,bloodlust=0,delay=013,mark_duration=13,enemies="BOSS_Leymor":8896255:Elemental
-raid_events+=/pull,pull=06,bloodlust=0,delay=010,mark_duration=13,enemies="Arcane_Elemental_1":973621:Elemental|"Arcane_Elemental_2":973621:Elemental
-raid_events+=/pull,pull=07,bloodlust=0,delay=015,mark_duration=13,enemies="Unstable_Curator_1":1557796:Elemental|"Arcane_Elemental_1":973621:Elemental|"Arcane_Elemental_2":973621:Elemental|"Arcane_Elemental_3":973621:Elemental|"Arcane_Elemental_4":973621:Elemental|"Rune_Seal_Keeper_1":973621:Dragonkin
-raid_events+=/pull,pull=08,bloodlust=0,delay=012,mark_duration=13,enemies="Unstable_Curator_1":1557796:Elemental|"Crystal_Fury_1":1070985:Elemental|"Crystal_Fury_2":1070985:Elemental|"Arcane_Elemental_1":973621:Elemental|"Crystal_Thrasher_1":1557796:Elemental
-raid_events+=/pull,pull=09,bloodlust=0,delay=012,mark_duration=13,enemies="Unstable_Curator_1":1557796:Elemental|"Crystal_Fury_1":1070985:Elemental|"Crystal_Fury_2":1070985:Elemental
-raid_events+=/pull,pull=10,bloodlust=0,delay=010,mark_duration=13,enemies="Arcane_Construct_1":1557796:Elemental|"Arcane_Construct_2":1557796:Elemental
-raid_events+=/pull,pull=11,bloodlust=0,delay=007,mark_duration=13,enemies="Arcane_Elemental_1":973621:Elemental|"Rune_Seal_Keeper_1":973621:Dragonkin|"Astral_Attendant_1":584173:Elemental
-raid_events+=/pull,pull=12,bloodlust=0,delay=006,mark_duration=13,enemies="Astral_Attendant_1":584173:Elemental|"Rune_Seal_Keeper_1":973621:Dragonkin|"Vault_Guard_1":1070985:Dragonkin|"Vault_Guard_2":1070985:Dragonkin|"Vault_Guard_3":1070985:Dragonkin
-raid_events+=/pull,pull=13,bloodlust=0,delay=012,mark_duration=13,enemies="Vault_Guard_1":1070985:Dragonkin|"Vault_Guard_2":1070985:Dragonkin|"Scalebane_Lieutenant_1":1557796:Dragonkin|"Rune_Seal_Keeper_1":973621:Dragonkin|"Astral_Attendant_1":584173:Elemental|"Astral_Attendant_2":584173:Elemental
-raid_events+=/pull,pull=14,bloodlust=0,delay=005,mark_duration=13,enemies="BOSS_Azureblade":6354468:Dragonkin
-raid_events+=/pull,pull=15,bloodlust=0,delay=006,mark_duration=13,enemies="Astral_Attendant_1":584173:Elemental|"Astral_Attendant_2":584173:Elemental|"Vault_Guard_1":1070985:Dragonkin|"Rune_Seal_Keeper_1":973621:Dragonkin
-raid_events+=/pull,pull=16,bloodlust=0,delay=015,mark_duration=13,enemies="Nullmagic_Hornswog_1":973621:Beast|"Nullmagic_Hornswog_2":973621:Beast|"Nullmagic_Hornswog_3":973621:Beast|"Nullmagic_Hornswog_4":973621:Beast|"Drakonid_Breaker_1":1557796:Dragonkin|"Tarasek_Delver_1":584173:Dragonkin|"Tarasek_Delver_2":584173:Dragonkin|"Tarasek_Delver_3":584173:Dragonkin|"Tarasek_Delver_4":584173:Dragonkin
-raid_events+=/pull,pull=17,bloodlust=0,delay=012,mark_duration=13,enemies="Nullmagic_Hornswog_1":973621:Beast|"Nullmagic_Hornswog_2":973621:Beast|"Drakonid_Breaker_1":1557796:Dragonkin|"Tarasek_Delver_1":584173:Dragonkin|"Tarasek_Delver_2":584173:Dragonkin
-raid_events+=/pull,pull=18,bloodlust=0,delay=009,mark_duration=13,enemies="Nullmagic_Hornswog_1":973621:Beast|"Tarasek_Delver_1":584173:Dragonkin|"Tarasek_Delver_2":584173:Dragonkin|"Tarasek_Delver_3":584173:Dragonkin|"Tarasek_Delver_4":584173:Dragonkin
-raid_events+=/pull,pull=19,bloodlust=0,delay=006,mark_duration=13,enemies="Nullmagic_Hornswog_1":973621:Beast|"Drakonid_Breaker_1":1557796:Dragonkin|"Tarasek_Delver_1":584173:Dragonkin|"Tarasek_Delver_2":584173:Dragonkin|"Tarasek_Delver_3":584173:Dragonkin|"Tarasek_Delver_4":584173:Dragonkin
-raid_events+=/pull,pull=20,bloodlust=0,delay=010,mark_duration=13,enemies="Drakonid_Breaker_1":1557796:Dragonkin|"Drakonid_Breaker_2":1557796:Dragonkin
-raid_events+=/pull,pull=21,bloodlust=0,delay=010,mark_duration=13,enemies="BOSS_Telash_Greywing":8896255:Dragonkin
-raid_events+=/pull,pull=22,bloodlust=0,delay=012,mark_duration=13,enemies="BOSS_Umbrelskul":10675507:Elemental
+raid_events+=/pull,pull=01,bloodlust=0,delay=008,enemies="Sureki_Silkbinder_1":25310850:Humanoid|"Sureki_Silkbinder_2":25310850:Humanoid|"Sureki_Silkbinder_3":25310850:Humanoid|"Sureki_Venomblade_1":27076721:Uncategorized|"Sureki_Venomblade_2":27076721:Uncategorized|"Sureki_Venomblade_3":27076721:Uncategorized|"Royal_Swarmguard_1":52976194:Demon|"Battle_Scarab_1":5886243:Beast|"Battle_Scarab_2":5886243:Beast|"Battle_Scarab_3":5886243:Beast|"Battle_Scarab_4":5886243:Beast
+raid_events+=/pull,pull=02,bloodlust=0,delay=009,enemies="Sureki_Silkbinder_1":25310850:Humanoid|"Sureki_Silkbinder_2":25310850:Humanoid|"Sureki_Silkbinder_3":25310850:Humanoid|"Royal_Swarmguard_1":52976194:Demon|"Herald_Of_Ansurek_1":47089950:Humanoid|"Battle_Scarab_1":5886243:Beast|"Battle_Scarab_2":5886243:Beast|"Battle_Scarab_3":5886243:Beast|"Battle_Scarab_4":5886243:Beast
+raid_events+=/pull,pull=03,bloodlust=0,delay=012,enemies="Royal_Swarmguard_1":52976194:Demon|"Battle_Scarab_1":5886243:Beast|"Battle_Scarab_2":5886243:Beast|"Battle_Scarab_3":5886243:Beast|"Battle_Scarab_4":5886243:Beast|"Battle_Scarab_5":5886243:Beast|"Battle_Scarab_6":5886243:Beast|"Battle_Scarab_7":5886243:Beast|"Battle_Scarab_8":5886243:Beast|"Battle_Scarab_9":5886243:Beast|"Battle_Scarab_10":5886243:Beast|"Battle_Scarab_11":5886243:Beast|"Battle_Scarab_12":5886243:Beast|"Battle_Scarab_13":5886243:Beast|"Battle_Scarab_14":5886243:Beast|"Battle_Scarab_15":5886243:Beast|"Battle_Scarab_16":5886243:Beast|"Herald_Of_Ansurek_1":47089950:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=009,enemies="BOSS_Orator_Krixvizk":214289351:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=011,enemies="Xephitik_1":44146829:Uncategorized|"Eye_Of_The_Queen_1":52976194:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=012,enemies="Eye_Of_The_Queen_1":52976194:Humanoid|"Web_Marauder_1":38260585:Humanoid|"Agile_Pursuer_1":29431219:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=007,enemies="Eye_Of_The_Queen_1":52976194:Humanoid|"Web_Marauder_1":38260585:Humanoid|"Covert_Webmancer_1":29431219:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=009,enemies="Covert_Webmancer_1":29431219:Humanoid|"Web_Marauder_1":38260585:Humanoid|"Agile_Pursuer_1":29431219:Humanoid|"Eye_Of_The_Queen_1":52976194:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=013,enemies="BOSS_Nx":336740410:Humanoid|"BOSS_Vx":336740410:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=008,enemies="Agile_Pursuer_1":29431219:Humanoid|"Agile_Pursuer_2":29431219:Humanoid|"Web_Marauder_1":38260585:Humanoid|"Web_Marauder_2":38260585:Humanoid|"Sureki_Conscript_1":17658731:Humanoid|"Sureki_Conscript_2":17658731:Humanoid|"Sureki_Conscript_3":17658731:Humanoid|"Sureki_Conscript_4":17658731:Humanoid|"Sureki_Conscript_5":17658731:Humanoid|"Sureki_Conscript_6":17658731:Humanoid|"Sureki_Conscript_7":17658731:Humanoid|"Sureki_Conscript_8":17658731:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=014,enemies="Royal_Venomshell_1":58862438:Humanoid|"Web_Marauder_1":38260585:Humanoid|"Sureki_Conscript_1":17658731:Humanoid|"Sureki_Conscript_2":17658731:Humanoid|"Sureki_Conscript_3":17658731:Humanoid|"Sureki_Conscript_4":17658731:Humanoid|"Sureki_Conscript_5":17658731:Humanoid|"Sureki_Conscript_6":17658731:Humanoid|"Sureki_Conscript_7":17658731:Humanoid|"Sureki_Conscript_8":17658731:Humanoid|"Covert_Webmancer_1":29431219:Humanoid|"Covert_Webmancer_2":29431219:Humanoid
+raid_events+=/pull,pull=12,bloodlust=0,delay=006,enemies="Sureki_Unnaturaler_1":23544975:Uncategorized|"Sureki_Unnaturaler_2":23544975:Uncategorized|"Unstable_Test_Subject_1":47089950:Humanoid|"Assistant_Unnaturaler_1":11772487:Humanoid|"Assistant_Unnaturaler_2":11772487:Humanoid|"Assistant_Unnaturaler_3":11772487:Humanoid
+raid_events+=/pull,pull=13,bloodlust=0,delay=013,enemies="Congealed_Droplet_1":5886243:Aberration|"Congealed_Droplet_2":5886243:Aberration|"Congealed_Droplet_3":5886243:Aberration|"Congealed_Droplet_4":5886243:Aberration|"Congealed_Droplet_5":5886243:Aberration|"Congealed_Droplet_6":5886243:Aberration|"Congealed_Droplet_7":5886243:Aberration|"Congealed_Droplet_8":5886243:Aberration|"Congealed_Droplet_9":5886243:Aberration|"Congealed_Droplet_10":5886243:Aberration|"BOSS_The_Coaglamation":244902116:Elemental
+raid_events+=/pull,pull=14,bloodlust=0,delay=009,enemies="Unstable_Test_Subject_1":47089950:Humanoid|"Assistant_Unnaturaler_1":11772487:Humanoid|"Assistant_Unnaturaler_2":11772487:Humanoid|"Assistant_Unnaturaler_3":11772487:Humanoid|"Assistant_Unnaturaler_4":11772487:Humanoid|"Assistant_Unnaturaler_5":11772487:Humanoid
+raid_events+=/pull,pull=15,bloodlust=0,delay=009,enemies="Ravenous_Scarab_1":5886243:Beast|"Hulking_Warshell_1":82407413:Humanoid|"Elder_Shadeweaver_1":58862438:Demon
+raid_events+=/pull,pull=16,bloodlust=0,delay=011,enemies="Sureki_Unnaturaler_1":23544975:Uncategorized|"Sureki_Unnaturaler_2":23544975:Uncategorized|"BOSS_Izo_The_Grand_Splicer":244902116:Humanoid
