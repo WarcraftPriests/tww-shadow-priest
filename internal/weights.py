@@ -102,18 +102,7 @@ weights_eight_targets = {
     'hm_na_8': 0.0,
 }
 
-weights_standard_season_one = {
-    "arakara": 0.125,
-    "cityofthreads": 0.125,
-    "dawnbreaker": 0.125,
-    "grimbatol": 0.125,
-    "mists": 0.125,
-    "necrotic": 0.125,
-    "siege": 0.125,
-    "stonevault": 0.125,
-}
-
-weights_push_season_one = {
+weights_season_one = {
     "arakara": 0.125,
     "cityofthreads": 0.125,
     "dawnbreaker": 0.125,
@@ -136,10 +125,8 @@ def find_weights(key):
         return weights_four_targets
     if key == 'weightsEightTargets':
         return weights_eight_targets
-    if key == 'weightsStandardSeasonOne':
-        return weights_standard_season_one
-    if key == 'weightsPushSeasonOne':
-        return weights_push_season_one
+    if key == 'weightsSeasonOne':
+        return weights_season_one
     if key == 'weightsNerubarPalace':
         return weights_nerubar_palace
     print(f"{key} not found")

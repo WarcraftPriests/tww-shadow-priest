@@ -71,6 +71,8 @@ def find_weight(sim_type, profile_name, dungeons):
         weight_type = "dungeonStandardWeights"
     elif sim_type == "Dungeons-Push":
         weight_type = "dungeonPushWeights"
+    elif sim_type == "Dungeons-Route":
+        weight_type = "dungeonPushWeights"
     elif sim_type == "Dungeons-Slice":
         weight = 1
         return weight
@@ -355,6 +357,7 @@ def not_dungeon_fight(fight_type):
         "Single",
         "Dungeons-Push",
         "Dungeons-Standard",
+        "Dungeons-Route",
         "Dungeons-Slice",
         "2T",
         "3T",
@@ -474,7 +477,7 @@ def analyze(talents, directory, dungeons, weights, timestamp):
 
     talent_string = f"_{talents}" if talents else ""
     if config["dungeonType"] == "route":
-        dungeon_list = ["Dungeons-Standard", "Dungeons-Push"]
+        dungeon_list = ["Dungeons-Route"]
     elif config["dungeonType"] == "slice":
         dungeon_list = ["Dungeons-Slice"]
     sim_types = (

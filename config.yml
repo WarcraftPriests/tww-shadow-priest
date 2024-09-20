@@ -311,10 +311,10 @@ singleTargetProfiles:
   - pw_na_1
   - lm_na_1
   - hm_na_1
-dungeonSeason: 4
-dungeonStandardWeights: weightsStandardSeasonFour
-dungeonPushWeights: weightsPushSeasonFour
-dungeonType: slice
+dungeonSeason: 1
+dungeonStandardWeights: weightsSeasonOne
+dungeonPushWeights: weightsSeasonOne
+dungeonType: route
 simcBuild: latest
 forceHeroTalents: false
 defaultIterations: 10000

@@ -89,12 +89,14 @@ def get_dungeon_combos():
         else:
             print(f"No season data defined in for season {season} in utils:get_dungeon_combos")
             exit(1)
-        levels = ["standard", "push"]
-        combos = [
-            f"{key}-{level}"
-            for key in keys
-            for level in levels
-        ]  # noqa: E501
+        # currently unused, just doing push
+        # levels = ["standard", "push"]
+        # combos = [
+        #     f"{key}-{level}"
+        #     for key in keys
+        #     for level in levels
+        # ]
+        combos = [f"{key}" for key in keys]
         return combos
     else:
         print(f"Invalid type given: {type}")
@@ -103,7 +105,8 @@ def get_dungeon_combos():
 def get_sim_types():
     type_list = ["Composite", "Single", "2T", "4T", "8T"]
     if config["dungeonType"] == "route":
-        type_list.extend(["Dungeons-Standard", "Dungeons-Push"])
+        # type_list.extend(["Dungeons-Standard", "Dungeons-Push"])
+        type_list.extend(["Dungeons-Route"])
     if config["dungeonType"] == "slice":
         type_list.extend(["Dungeons-Slice"])
     return type_list

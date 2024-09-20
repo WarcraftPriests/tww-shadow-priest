@@ -235,7 +235,7 @@ if __name__ == "__main__":
     # Get individual push dungeon results
     if config["dungeonType"] == "route":
         dungeon_talent_names = get_top_talents(
-            push_results, combos, "talents/results/dungeons/push", 2, 1
+            push_results, combos, "talents/results/dungeons", 2, 1
         )
     elif config["dungeonType"] == "slice":
         dungeon_talent_names = get_top_talents(
