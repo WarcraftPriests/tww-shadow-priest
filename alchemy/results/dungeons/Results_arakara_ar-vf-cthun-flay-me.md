@@ -1,0 +1,35 @@
+# arakara - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|2223731|3.99%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|2220421|3.83%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|2215977|3.62%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|2213340|3.50%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|2211395|3.41%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|2203340|3.03%|
+|Flask_of_Tempered_Swiftness_3|2201258|2.94%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|2200175|2.88%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|2199931|2.87%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|2198348|2.80%|
+|Flask_of_Alchemical_Chaos_3|2198201|2.79%|
+|Flask_of_Tempered_Mastery_3|2197532|2.76%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|2196276|2.70%|
+|Flask_of_Tempered_Swiftness_2|2195440|2.66%|
+|Flask_of_Tempered_Aggression_3|2195307|2.66%|
+|Flask_of_Alchemical_Chaos_2|2193670|2.58%|
+|Flask_of_Tempered_Versatility_3|2193226|2.56%|
+|Flask_of_Tempered_Mastery_2|2192822|2.54%|
+|Flask_of_Tempered_Aggression_2|2191326|2.47%|
+|Flask_of_Tempered_Swiftness_1|2190393|2.43%|
+|Flask_of_Tempered_Versatility_2|2190016|2.41%|
+|Flask_of_Alchemical_Chaos_1|2188940|2.36%|
+|Flask_of_Tempered_Mastery_1|2188795|2.35%|
+|Flask_of_Tempered_Aggression_1|2187994|2.32%|
+|Flask_of_Tempered_Versatility_1|2185199|2.18%|
+|Tempered_Potion_3|2159814|1.00%|
+|Tempered_Potion_2|2158141|0.92%|
+|Tempered_Potion_1|2156709|0.85%|
+|Potion_of_Unwavering_Focus_2|2141203|0.13%|
+|Potion_of_Unwavering_Focus_3|2141172|0.13%|
+|Potion_of_Unwavering_Focus_1|2140648|0.10%|
+|Base|2138484|0.00%|

@@ -1,0 +1,35 @@
+# mists - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1630988|5.21%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1626808|4.94%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1625923|4.89%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1623927|4.76%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1622198|4.65%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1610118|3.87%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1608947|3.79%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1608058|3.74%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1607808|3.72%|
+|Flask_of_Tempered_Mastery_3|1606035|3.60%|
+|Flask_of_Alchemical_Chaos_3|1604889|3.53%|
+|Flask_of_Tempered_Swiftness_3|1604841|3.53%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1604374|3.50%|
+|Flask_of_Tempered_Aggression_3|1603435|3.44%|
+|Flask_of_Tempered_Mastery_2|1600968|3.28%|
+|Flask_of_Tempered_Versatility_3|1600256|3.23%|
+|Flask_of_Alchemical_Chaos_2|1599462|3.18%|
+|Flask_of_Tempered_Swiftness_2|1599305|3.17%|
+|Flask_of_Tempered_Aggression_2|1599043|3.15%|
+|Flask_of_Tempered_Mastery_1|1595959|2.95%|
+|Flask_of_Tempered_Versatility_2|1595750|2.94%|
+|Flask_of_Alchemical_Chaos_1|1594830|2.88%|
+|Flask_of_Tempered_Swiftness_1|1593986|2.83%|
+|Flask_of_Tempered_Aggression_1|1593496|2.80%|
+|Flask_of_Tempered_Versatility_1|1591272|2.65%|
+|Tempered_Potion_3|1574369|1.56%|
+|Tempered_Potion_2|1572725|1.46%|
+|Tempered_Potion_1|1571088|1.35%|
+|Potion_of_Unwavering_Focus_3|1553709|0.23%|
+|Potion_of_Unwavering_Focus_2|1552930|0.18%|
+|Potion_of_Unwavering_Focus_1|1551971|0.12%|
+|Base|1550159|0.00%|

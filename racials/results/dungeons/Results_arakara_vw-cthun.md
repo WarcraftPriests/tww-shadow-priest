@@ -1,0 +1,35 @@
+# arakara - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|2222778|2.11%|
+|Draenei|2205105|1.30%|
+|Human|2203532|1.22%|
+|Night_Elf_Haste|2202343|1.17%|
+|Goblin|2202252|1.17%|
+|Gnome|2201915|1.15%|
+|Orc|2199102|1.02%|
+|Void_Elf|2198808|1.01%|
+|Kul_Tiran|2198299|0.98%|
+|Highmountain_Tauren|2198213|0.98%|
+|Nightborne|2198187|0.98%|
+|Dracthyr|2197048|0.93%|
+|Tauren|2197024|0.93%|
+|Zandalari_Troll_Paku|2196682|0.91%|
+|Blood_Elf|2196557|0.90%|
+|Dwarf|2196279|0.89%|
+|Maghar_Orc|2196253|0.89%|
+|Worgen|2195990|0.88%|
+|Night_Elf_Crit|2195678|0.86%|
+|Dark_Iron_Dwarf|2193915|0.78%|
+|Troll|2193025|0.74%|
+|Panda_Feast|2190601|0.63%|
+|Earthen_Emerald|2182936|0.28%|
+|Earthen_Ruby|2181320|0.20%|
+|Earthen_Sapphire|2180259|0.16%|
+|Zandalari_Troll_Bwonsamdi|2180176|0.15%|
+|Zandalari_Troll_Kimbul|2180094|0.15%|
+|Earthen_Onyx|2180019|0.14%|
+|Undead|2178893|0.09%|
+|Vulpera|2177999|0.05%|
+|Lightforged_Draenei|2177107|0.01%|
+|Base|2176875|0.00%|

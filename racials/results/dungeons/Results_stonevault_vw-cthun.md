@@ -1,0 +1,35 @@
+# stonevault - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|2218030|1.97%|
+|Draenei|2201737|1.22%|
+|Orc|2201203|1.20%|
+|Human|2200771|1.18%|
+|Maghar_Orc|2200341|1.16%|
+|Gnome|2199021|1.10%|
+|Goblin|2198791|1.09%|
+|Night_Elf_Haste|2197765|1.04%|
+|Void_Elf|2195988|0.96%|
+|Nightborne|2195733|0.94%|
+|Highmountain_Tauren|2195313|0.93%|
+|Troll|2195166|0.92%|
+|Blood_Elf|2194572|0.89%|
+|Kul_Tiran|2194303|0.88%|
+|Dark_Iron_Dwarf|2194240|0.88%|
+|Dwarf|2194128|0.87%|
+|Dracthyr|2193725|0.85%|
+|Worgen|2193383|0.84%|
+|Tauren|2193302|0.83%|
+|Night_Elf_Crit|2193299|0.83%|
+|Zandalari_Troll_Paku|2193211|0.83%|
+|Panda_Feast|2187577|0.57%|
+|Earthen_Emerald|2178658|0.16%|
+|Zandalari_Troll_Bwonsamdi|2177408|0.10%|
+|Undead|2177220|0.09%|
+|Earthen_Sapphire|2176919|0.08%|
+|Earthen_Ruby|2176830|0.08%|
+|Earthen_Onyx|2176427|0.06%|
+|Zandalari_Troll_Kimbul|2175834|0.03%|
+|Lightforged_Draenei|2175216|0.00%|
+|Base|2175185|0.00%|
+|Vulpera|2174714|-0.02%|

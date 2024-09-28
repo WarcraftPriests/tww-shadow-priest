@@ -1,0 +1,35 @@
+# cityofthreads - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1750383|1.64%|
+|Draenei|1740036|1.04%|
+|Maghar_Orc|1739670|1.02%|
+|Human|1739365|1.00%|
+|Orc|1739302|1.00%|
+|Goblin|1737844|0.92%|
+|Night_Elf_Haste|1737795|0.91%|
+|Nightborne|1736657|0.85%|
+|Gnome|1736608|0.84%|
+|Highmountain_Tauren|1736173|0.82%|
+|Kul_Tiran|1736013|0.81%|
+|Dracthyr|1735988|0.81%|
+|Dark_Iron_Dwarf|1735705|0.79%|
+|Blood_Elf|1735589|0.79%|
+|Zandalari_Troll_Paku|1735503|0.78%|
+|Night_Elf_Crit|1735328|0.77%|
+|Void_Elf|1735304|0.77%|
+|Troll|1735303|0.77%|
+|Dwarf|1735247|0.77%|
+|Tauren|1735019|0.75%|
+|Worgen|1733994|0.69%|
+|Panda_Feast|1731029|0.52%|
+|Zandalari_Troll_Bwonsamdi|1724489|0.14%|
+|Earthen_Onyx|1724149|0.12%|
+|Zandalari_Troll_Kimbul|1723999|0.11%|
+|Earthen_Ruby|1723895|0.11%|
+|Undead|1723850|0.10%|
+|Earthen_Emerald|1723415|0.08%|
+|Earthen_Sapphire|1723210|0.07%|
+|Base|1722064|0.00%|
+|Lightforged_Draenei|1721929|-0.01%|
+|Vulpera|1721445|-0.04%|

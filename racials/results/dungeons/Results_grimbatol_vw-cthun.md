@@ -1,0 +1,35 @@
+# grimbatol - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|2051978|2.06%|
+|Draenei|2037493|1.34%|
+|Human|2037452|1.34%|
+|Orc|2036670|1.30%|
+|Night_Elf_Haste|2036299|1.28%|
+|Maghar_Orc|2036057|1.27%|
+|Gnome|2035937|1.26%|
+|Goblin|2034779|1.20%|
+|Void_Elf|2032413|1.09%|
+|Nightborne|2031333|1.03%|
+|Kul_Tiran|2031248|1.03%|
+|Dark_Iron_Dwarf|2030475|0.99%|
+|Troll|2030474|0.99%|
+|Zandalari_Troll_Paku|2030415|0.99%|
+|Highmountain_Tauren|2030334|0.98%|
+|Blood_Elf|2029913|0.96%|
+|Dracthyr|2029900|0.96%|
+|Tauren|2029735|0.95%|
+|Night_Elf_Crit|2029319|0.93%|
+|Worgen|2029206|0.93%|
+|Dwarf|2028733|0.90%|
+|Panda_Feast|2023719|0.65%|
+|Zandalari_Troll_Bwonsamdi|2015363|0.24%|
+|Earthen_Emerald|2015139|0.23%|
+|Undead|2013988|0.17%|
+|Earthen_Sapphire|2013371|0.14%|
+|Earthen_Onyx|2013053|0.12%|
+|Zandalari_Troll_Kimbul|2012719|0.11%|
+|Earthen_Ruby|2011685|0.05%|
+|Vulpera|2011082|0.02%|
+|Lightforged_Draenei|2010611|0.00%|
+|Base|2010586|0.00%|

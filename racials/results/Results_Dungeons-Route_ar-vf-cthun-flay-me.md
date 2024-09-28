@@ -1,0 +1,35 @@
+# Dungeons-Route - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1841802|1.70%|
+|Draenei|1831115|1.11%|
+|Human|1829354|1.02%|
+|Orc|1829029|1.00%|
+|Maghar_Orc|1828325|0.96%|
+|Goblin|1827919|0.94%|
+|Gnome|1827849|0.93%|
+|Night_Elf_Haste|1827367|0.91%|
+|Kul_Tiran|1825926|0.83%|
+|Nightborne|1825907|0.83%|
+|Highmountain_Tauren|1825501|0.80%|
+|Blood_Elf|1825460|0.80%|
+|Zandalari_Troll_Paku|1825409|0.80%|
+|Dracthyr|1825269|0.79%|
+|Void_Elf|1825184|0.79%|
+|Night_Elf_Crit|1824634|0.76%|
+|Dark_Iron_Dwarf|1824625|0.76%|
+|Dwarf|1824547|0.75%|
+|Tauren|1824527|0.75%|
+|Worgen|1824479|0.75%|
+|Troll|1824142|0.73%|
+|Panda_Feast|1820086|0.51%|
+|Zandalari_Troll_Bwonsamdi|1813669|0.15%|
+|Undead|1813175|0.12%|
+|Earthen_Emerald|1812868|0.11%|
+|Earthen_Ruby|1812818|0.10%|
+|Earthen_Onyx|1812688|0.10%|
+|Zandalari_Troll_Kimbul|1812405|0.08%|
+|Earthen_Sapphire|1812287|0.07%|
+|Vulpera|1811018|0.00%|
+|Base|1810934|0.00%|
+|Lightforged_Draenei|1810757|-0.01%|

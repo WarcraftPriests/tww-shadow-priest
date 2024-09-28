@@ -1,0 +1,35 @@
+# mists - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1566720|2.01%|
+|Draenei|1555096|1.25%|
+|Human|1553327|1.13%|
+|Goblin|1553210|1.13%|
+|Night_Elf_Haste|1552540|1.08%|
+|Gnome|1551890|1.04%|
+|Orc|1551487|1.01%|
+|Kul_Tiran|1550718|0.96%|
+|Highmountain_Tauren|1550467|0.95%|
+|Void_Elf|1549966|0.92%|
+|Nightborne|1549751|0.90%|
+|Dracthyr|1549663|0.90%|
+|Maghar_Orc|1549617|0.89%|
+|Dwarf|1549198|0.87%|
+|Blood_Elf|1549178|0.86%|
+|Tauren|1549145|0.86%|
+|Night_Elf_Crit|1549080|0.86%|
+|Zandalari_Troll_Paku|1548801|0.84%|
+|Troll|1548740|0.84%|
+|Worgen|1548719|0.83%|
+|Dark_Iron_Dwarf|1548355|0.81%|
+|Panda_Feast|1545464|0.62%|
+|Zandalari_Troll_Bwonsamdi|1539079|0.21%|
+|Earthen_Emerald|1538893|0.19%|
+|Undead|1538576|0.17%|
+|Earthen_Ruby|1538417|0.16%|
+|Zandalari_Troll_Kimbul|1538354|0.16%|
+|Earthen_Onyx|1538194|0.15%|
+|Earthen_Sapphire|1537661|0.11%|
+|Lightforged_Draenei|1536848|0.06%|
+|Vulpera|1536543|0.04%|
+|Base|1535899|0.00%|

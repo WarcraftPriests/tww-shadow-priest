@@ -67,13 +67,6 @@ def get_top_talents(results, combos, directory, matches, jitter):
     return list(set(talent_names))
 
 
-def filter_dungeon_type(combo):
-    if "push" in combo:
-        return True
-    else:
-        return False
-
-
 def get_hero_builds(ht, cds, idols):
     hero_talent_combos = list(config["hero"][ht].keys())
     return [
@@ -226,7 +219,7 @@ if __name__ == "__main__":
         for filler in ["Spike_ME", "Flay_ME", "Spike_DR", "Flay_DR"]
     ]  # noqa: E501
     results = utils.get_sim_types()
-    push_results = list(filter(filter_dungeon_type, utils.get_dungeon_combos()))
+    push_results = list(utils.get_dungeon_combos())
 
     # Get aggregate results
     talent_names = get_top_talents(
@@ -234,6 +227,7 @@ if __name__ == "__main__":
     )
     # Get individual push dungeon results
     if config["dungeonType"] == "route":
+        print(push_results)
         dungeon_talent_names = get_top_talents(
             push_results, combos, "talents/results/dungeons", 2, 1
         )

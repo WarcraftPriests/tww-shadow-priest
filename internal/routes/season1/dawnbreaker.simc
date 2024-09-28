@@ -18,7 +18,7 @@ keystone_level=20
 keystone_pct_hp=27
 
 # TODO: fix rashanans health
-raid_events+=/pull,pull=01,bloodlust=0,delay=006,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Curseblade_2":49737687:Humanoid|"Nightfall_Curseblade_3":49737687:Humanoid|"Nightfall_Shadowmage_1":42632303:Humanoid|"Nightfall_Shadowmage_2":42632303:Humanoid|"Nightfall_Ritualist_1":80527683:Humanoid
+raid_events+=/pull,pull=01,bloodlust=1,delay=006,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Curseblade_2":49737687:Humanoid|"Nightfall_Curseblade_3":49737687:Humanoid|"Nightfall_Shadowmage_1":42632303:Humanoid|"Nightfall_Shadowmage_2":42632303:Humanoid|"Nightfall_Ritualist_1":80527683:Humanoid
 raid_events+=/pull,pull=02,bloodlust=0,delay=007,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Curseblade_2":49737687:Humanoid|"Nightfall_Curseblade_3":49737687:Humanoid|"Nightfall_Shadowmage_1":42632303:Humanoid|"Nightfall_Ritualist_1":80527683:Humanoid|"Nightfall_Commander_1":80527683:Humanoid
 raid_events+=/pull,pull=03,bloodlust=0,delay=011,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Curseblade_2":49737687:Humanoid|"Nightfall_Shadowmage_1":42632303:Humanoid|"Sureki_Webmage_1":94738450:Humanoid
 raid_events+=/pull,pull=04,bloodlust=0,delay=012,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Commander_1":80527683:Humanoid|"Sureki_Webmage_1":94738450:Humanoid
@@ -30,4 +30,4 @@ raid_events+=/pull,pull=09,bloodlust=0,delay=006,enemies="Nightfall_Darkcaster_1
 raid_events+=/pull,pull=10,bloodlust=0,delay=008,enemies="Nightfall_Darkcaster_1":45000763:Humanoid|"Nightfall_Shadowalker_1":47369225:Humanoid|"Nightfall_Tactician_1":80527683:Humanoid|"Deathscreamer_Ikentak_1":127896909:Humanoid
 raid_events+=/pull,pull=11,bloodlust=0,delay=007,enemies="Nightfall_Darkcaster_1":45000763:Humanoid|"BOSS_Anubikkaj":517677961:Humanoid|"Nightfall_Shadowalker_1":47369225:Humanoid
 raid_events+=/pull,pull=12,bloodlust=0,delay=014,enemies="Nightfall_Dark_Architect_1":132633830:Humanoid
-raid_events+=/pull,pull=13,bloodlust=0,delay=014,enemies="BOSS_Rashanan":517677961:Humanoid
+raid_events+=/pull,pull=13,bloodlust=1,delay=014,enemies="BOSS_Rashanan":517677961:Humanoid

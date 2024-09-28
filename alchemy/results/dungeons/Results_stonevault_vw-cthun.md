@@ -1,0 +1,35 @@
+# stonevault - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|2174938|4.94%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|2167237|4.56%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|2165463|4.48%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|2164779|4.45%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|2163349|4.38%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|2150160|3.74%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|2148977|3.68%|
+|Flask_of_Tempered_Swiftness_3|2146922|3.58%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|2146784|3.58%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|2146309|3.55%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|2145491|3.52%|
+|Flask_of_Alchemical_Chaos_3|2145471|3.51%|
+|Flask_of_Tempered_Aggression_3|2142906|3.39%|
+|Flask_of_Tempered_Versatility_3|2142194|3.36%|
+|Flask_of_Tempered_Mastery_3|2141669|3.33%|
+|Flask_of_Tempered_Swiftness_2|2140548|3.28%|
+|Flask_of_Alchemical_Chaos_2|2140473|3.27%|
+|Flask_of_Tempered_Aggression_2|2137681|3.14%|
+|Flask_of_Tempered_Mastery_2|2136940|3.10%|
+|Flask_of_Tempered_Versatility_2|2136678|3.09%|
+|Flask_of_Alchemical_Chaos_1|2134458|2.98%|
+|Flask_of_Tempered_Swiftness_1|2133602|2.94%|
+|Flask_of_Tempered_Versatility_1|2131933|2.86%|
+|Flask_of_Tempered_Aggression_1|2131458|2.84%|
+|Flask_of_Tempered_Mastery_1|2130746|2.80%|
+|Tempered_Potion_3|2102342|1.43%|
+|Tempered_Potion_2|2101100|1.37%|
+|Tempered_Potion_1|2097774|1.21%|
+|Potion_of_Unwavering_Focus_3|2076264|0.18%|
+|Potion_of_Unwavering_Focus_2|2075017|0.12%|
+|Potion_of_Unwavering_Focus_1|2074405|0.09%|
+|Base|2072632|0.00%|

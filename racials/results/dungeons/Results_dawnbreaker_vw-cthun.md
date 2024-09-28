@@ -1,0 +1,35 @@
+# dawnbreaker - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1565823|1.82%|
+|Human|1557118|1.26%|
+|Draenei|1556132|1.19%|
+|Goblin|1555524|1.15%|
+|Gnome|1555448|1.15%|
+|Night_Elf_Haste|1554720|1.10%|
+|Maghar_Orc|1553456|1.02%|
+|Void_Elf|1553075|0.99%|
+|Orc|1553071|0.99%|
+|Highmountain_Tauren|1552514|0.96%|
+|Kul_Tiran|1552387|0.95%|
+|Nightborne|1551782|0.91%|
+|Worgen|1551594|0.90%|
+|Dracthyr|1551523|0.89%|
+|Zandalari_Troll_Paku|1551383|0.88%|
+|Blood_Elf|1551107|0.87%|
+|Dwarf|1550963|0.86%|
+|Tauren|1550938|0.85%|
+|Night_Elf_Crit|1550886|0.85%|
+|Dark_Iron_Dwarf|1550431|0.82%|
+|Troll|1550009|0.79%|
+|Panda_Feast|1546907|0.59%|
+|Earthen_Emerald|1541860|0.26%|
+|Zandalari_Troll_Kimbul|1540846|0.20%|
+|Earthen_Onyx|1540333|0.17%|
+|Earthen_Ruby|1540222|0.16%|
+|Undead|1540070|0.15%|
+|Earthen_Sapphire|1540066|0.15%|
+|Zandalari_Troll_Bwonsamdi|1539777|0.13%|
+|Lightforged_Draenei|1538952|0.08%|
+|Vulpera|1538374|0.04%|
+|Base|1537792|0.00%|

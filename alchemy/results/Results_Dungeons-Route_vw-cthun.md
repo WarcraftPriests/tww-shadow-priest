@@ -1,0 +1,35 @@
+# Dungeons-Route - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1726885|4.67%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1720664|4.29%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1720628|4.29%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1719301|4.21%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1718401|4.16%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1707824|3.52%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1707476|3.49%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1707160|3.48%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1705709|3.39%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1704930|3.34%|
+|Flask_of_Alchemical_Chaos_3|1704720|3.33%|
+|Flask_of_Tempered_Swiftness_3|1704636|3.32%|
+|Flask_of_Tempered_Mastery_3|1703858|3.27%|
+|Flask_of_Tempered_Aggression_3|1702632|3.20%|
+|Flask_of_Tempered_Versatility_3|1702004|3.16%|
+|Flask_of_Alchemical_Chaos_2|1700320|3.06%|
+|Flask_of_Tempered_Mastery_2|1699978|3.04%|
+|Flask_of_Tempered_Swiftness_2|1699564|3.01%|
+|Flask_of_Tempered_Aggression_2|1698410|2.94%|
+|Flask_of_Tempered_Versatility_2|1697818|2.91%|
+|Flask_of_Alchemical_Chaos_1|1695865|2.79%|
+|Flask_of_Tempered_Mastery_1|1695176|2.75%|
+|Flask_of_Tempered_Swiftness_1|1694574|2.71%|
+|Flask_of_Tempered_Aggression_1|1694470|2.71%|
+|Flask_of_Tempered_Versatility_1|1693757|2.66%|
+|Tempered_Potion_3|1670019|1.22%|
+|Tempered_Potion_2|1668654|1.14%|
+|Tempered_Potion_1|1666826|1.03%|
+|Potion_of_Unwavering_Focus_3|1652805|0.18%|
+|Potion_of_Unwavering_Focus_2|1651913|0.13%|
+|Potion_of_Unwavering_Focus_1|1651118|0.08%|
+|Base|1649828|0.00%|

@@ -1,0 +1,35 @@
+# dawnbreaker - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1604035|3.76%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1600345|3.52%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1599210|3.44%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1597934|3.36%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1596591|3.27%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1589923|2.84%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1589272|2.80%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1588024|2.72%|
+|Flask_of_Tempered_Swiftness_3|1586905|2.65%|
+|Flask_of_Tempered_Mastery_3|1586586|2.63%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1586564|2.62%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1585453|2.55%|
+|Flask_of_Alchemical_Chaos_3|1584931|2.52%|
+|Flask_of_Tempered_Versatility_3|1584002|2.46%|
+|Flask_of_Tempered_Swiftness_2|1583626|2.43%|
+|Flask_of_Tempered_Mastery_2|1583538|2.43%|
+|Flask_of_Tempered_Aggression_3|1582255|2.35%|
+|Flask_of_Alchemical_Chaos_2|1581696|2.31%|
+|Flask_of_Tempered_Mastery_1|1580009|2.20%|
+|Flask_of_Tempered_Versatility_2|1579547|2.17%|
+|Flask_of_Tempered_Aggression_2|1579305|2.16%|
+|Flask_of_Tempered_Swiftness_1|1579294|2.15%|
+|Flask_of_Alchemical_Chaos_1|1578893|2.13%|
+|Flask_of_Tempered_Versatility_1|1576287|1.96%|
+|Flask_of_Tempered_Aggression_1|1575405|1.90%|
+|Tempered_Potion_3|1564289|1.18%|
+|Tempered_Potion_2|1562276|1.05%|
+|Tempered_Potion_1|1561319|0.99%|
+|Potion_of_Unwavering_Focus_3|1548984|0.19%|
+|Potion_of_Unwavering_Focus_2|1547811|0.12%|
+|Potion_of_Unwavering_Focus_1|1547768|0.12%|
+|Base|1545982|0.00%|

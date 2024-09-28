@@ -416,6 +416,7 @@ def clear_output_files(talent_string):
     # Check if this needs to be adjusted to clear out the Slice fights
     clear_dir("results/dungeons/push", talent_string, dungeon_fights)
     clear_dir("results/dungeons/standard", talent_string, dungeon_fights)
+    clear_dir("results/dungeons", talent_string, dungeon_fights)
 
 
 def generate_result_name(result, talent):

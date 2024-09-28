@@ -1,0 +1,35 @@
+# necrotic - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1068694|3.53%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1067370|3.40%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1067042|3.37%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1066377|3.30%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1065834|3.25%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1059688|2.65%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1059336|2.62%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1059190|2.61%|
+|Flask_of_Tempered_Mastery_3|1059108|2.60%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1058693|2.56%|
+|Flask_of_Tempered_Swiftness_3|1058669|2.56%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1058310|2.52%|
+|Flask_of_Alchemical_Chaos_3|1057632|2.45%|
+|Flask_of_Tempered_Versatility_3|1057080|2.40%|
+|Flask_of_Tempered_Mastery_2|1057069|2.40%|
+|Flask_of_Tempered_Swiftness_2|1056796|2.37%|
+|Flask_of_Tempered_Aggression_3|1056359|2.33%|
+|Flask_of_Alchemical_Chaos_2|1055409|2.24%|
+|Flask_of_Tempered_Mastery_1|1055314|2.23%|
+|Flask_of_Tempered_Versatility_2|1055252|2.22%|
+|Flask_of_Tempered_Aggression_2|1054672|2.17%|
+|Flask_of_Tempered_Swiftness_1|1054468|2.15%|
+|Flask_of_Alchemical_Chaos_1|1054144|2.12%|
+|Flask_of_Tempered_Versatility_1|1053574|2.06%|
+|Flask_of_Tempered_Aggression_1|1052823|1.99%|
+|Tempered_Potion_3|1043536|1.09%|
+|Tempered_Potion_2|1042564|1.00%|
+|Tempered_Potion_1|1041628|0.90%|
+|Potion_of_Unwavering_Focus_3|1033259|0.09%|
+|Potion_of_Unwavering_Focus_1|1033146|0.08%|
+|Potion_of_Unwavering_Focus_2|1033062|0.07%|
+|Base|1032290|0.00%|

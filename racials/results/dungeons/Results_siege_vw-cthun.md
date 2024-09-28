@@ -1,0 +1,35 @@
+# siege - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1721736|2.04%|
+|Draenei|1710130|1.35%|
+|Human|1709325|1.31%|
+|Orc|1708005|1.23%|
+|Night_Elf_Haste|1706774|1.16%|
+|Goblin|1706764|1.15%|
+|Maghar_Orc|1706102|1.12%|
+|Gnome|1705830|1.10%|
+|Void_Elf|1704719|1.03%|
+|Troll|1704428|1.02%|
+|Highmountain_Tauren|1704297|1.01%|
+|Kul_Tiran|1704139|1.00%|
+|Nightborne|1703844|0.98%|
+|Dracthyr|1702984|0.93%|
+|Zandalari_Troll_Paku|1702930|0.93%|
+|Dark_Iron_Dwarf|1702862|0.92%|
+|Tauren|1702594|0.91%|
+|Blood_Elf|1702390|0.90%|
+|Night_Elf_Crit|1702220|0.89%|
+|Worgen|1702173|0.88%|
+|Dwarf|1702024|0.87%|
+|Panda_Feast|1697094|0.58%|
+|Earthen_Emerald|1690342|0.18%|
+|Earthen_Onyx|1689352|0.12%|
+|Zandalari_Troll_Bwonsamdi|1689093|0.11%|
+|Undead|1688906|0.10%|
+|Earthen_Ruby|1688481|0.07%|
+|Earthen_Sapphire|1687918|0.04%|
+|Zandalari_Troll_Kimbul|1687677|0.02%|
+|Base|1687284|0.00%|
+|Lightforged_Draenei|1687224|0.00%|
+|Vulpera|1687140|-0.01%|

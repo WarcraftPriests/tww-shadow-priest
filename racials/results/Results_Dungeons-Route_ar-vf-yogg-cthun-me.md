@@ -1,0 +1,35 @@
+# Dungeons-Route - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1827011|1.71%|
+|Draenei|1816040|1.10%|
+|Human|1815186|1.06%|
+|Orc|1814757|1.03%|
+|Gnome|1814011|0.99%|
+|Goblin|1813848|0.98%|
+|Night_Elf_Haste|1813731|0.97%|
+|Maghar_Orc|1813402|0.96%|
+|Highmountain_Tauren|1811570|0.85%|
+|Kul_Tiran|1811214|0.83%|
+|Dracthyr|1810882|0.82%|
+|Nightborne|1810632|0.80%|
+|Zandalari_Troll_Paku|1810433|0.79%|
+|Void_Elf|1810340|0.79%|
+|Blood_Elf|1810280|0.78%|
+|Troll|1810218|0.78%|
+|Dark_Iron_Dwarf|1809914|0.76%|
+|Worgen|1809848|0.76%|
+|Night_Elf_Crit|1809735|0.75%|
+|Tauren|1807450|0.62%|
+|Dwarf|1807244|0.61%|
+|Panda_Feast|1805506|0.52%|
+|Earthen_Emerald|1799099|0.16%|
+|Undead|1798897|0.15%|
+|Zandalari_Troll_Bwonsamdi|1798728|0.14%|
+|Earthen_Onyx|1798649|0.13%|
+|Zandalari_Troll_Kimbul|1797798|0.09%|
+|Earthen_Sapphire|1797767|0.09%|
+|Earthen_Ruby|1797641|0.08%|
+|Base|1796231|0.00%|
+|Lightforged_Draenei|1796182|0.00%|
+|Vulpera|1796150|0.00%|

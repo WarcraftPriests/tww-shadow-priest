@@ -1,0 +1,35 @@
+# dawnbreaker - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1623485|1.17%|
+|Orc|1616626|0.75%|
+|Draenei|1616132|0.72%|
+|Gnome|1615579|0.68%|
+|Human|1615401|0.67%|
+|Night_Elf_Haste|1615272|0.66%|
+|Maghar_Orc|1615193|0.66%|
+|Goblin|1615054|0.65%|
+|Kul_Tiran|1613709|0.56%|
+|Troll|1613679|0.56%|
+|Highmountain_Tauren|1613321|0.54%|
+|Nightborne|1613019|0.52%|
+|Void_Elf|1612892|0.51%|
+|Dracthyr|1612850|0.51%|
+|Zandalari_Troll_Paku|1612699|0.50%|
+|Night_Elf_Crit|1612641|0.50%|
+|Blood_Elf|1612481|0.49%|
+|Dark_Iron_Dwarf|1612474|0.49%|
+|Worgen|1611697|0.44%|
+|Tauren|1610437|0.36%|
+|Dwarf|1610263|0.35%|
+|Panda_Feast|1609627|0.31%|
+|Earthen_Onyx|1605329|0.04%|
+|Undead|1605320|0.04%|
+|Earthen_Sapphire|1604831|0.01%|
+|Earthen_Emerald|1604821|0.01%|
+|Earthen_Ruby|1604649|0.00%|
+|Base|1604645|0.00%|
+|Zandalari_Troll_Bwonsamdi|1604589|0.00%|
+|Zandalari_Troll_Kimbul|1604362|-0.02%|
+|Lightforged_Draenei|1603992|-0.04%|
+|Vulpera|1603627|-0.06%|

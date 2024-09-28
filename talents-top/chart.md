@@ -1,3 +1,10 @@
+| build | droute | single |
+|---|---|---|
+|AR_SP_VF_nzoth_cthun_98245991184303_Flay_ME (screams+malediction)|1817899|1329307
+|AR_SP_VF_nzoth_cthun_98241696217007_Flay_ME (screams+AS)|1816236|1327185
+|AR_SP_VF_nzoth_cthun_98181566674863_Flay_ME (AS+malediction)|1814783|1340764
+|AR_SP_VF_nzoth_cthun_100436424505263_Flay_ME (screamsx2)|1811491|1310714
+
 # Single Target Breakdown
 | Build                                                 |  DPS   |  Diff   |
 | ----------------------------------------------------- | :----: | :-----: |

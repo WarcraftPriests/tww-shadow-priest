@@ -1,0 +1,35 @@
+# necrotic - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1106808|0.99%|
+|Draenei|1103437|0.69%|
+|Gnome|1102880|0.64%|
+|Night_Elf_Haste|1102708|0.62%|
+|Human|1102610|0.61%|
+|Goblin|1102464|0.60%|
+|Dark_Iron_Dwarf|1102228|0.58%|
+|Void_Elf|1101860|0.54%|
+|Kul_Tiran|1101641|0.52%|
+|Blood_Elf|1101604|0.52%|
+|Orc|1101415|0.50%|
+|Nightborne|1101390|0.50%|
+|Zandalari_Troll_Paku|1101278|0.49%|
+|Dwarf|1101265|0.49%|
+|Highmountain_Tauren|1101204|0.48%|
+|Tauren|1101174|0.48%|
+|Night_Elf_Crit|1101121|0.48%|
+|Maghar_Orc|1101044|0.47%|
+|Dracthyr|1101008|0.46%|
+|Worgen|1100366|0.41%|
+|Panda_Feast|1099321|0.31%|
+|Zandalari_Troll_Bwonsamdi|1098611|0.25%|
+|Undead|1098242|0.21%|
+|Troll|1098172|0.21%|
+|Earthen_Onyx|1096682|0.07%|
+|Earthen_Emerald|1096580|0.06%|
+|Zandalari_Troll_Kimbul|1096432|0.05%|
+|Earthen_Ruby|1096231|0.03%|
+|Earthen_Sapphire|1096184|0.02%|
+|Vulpera|1095937|0.00%|
+|Base|1095913|0.00%|
+|Lightforged_Draenei|1095903|0.00%|

@@ -1,0 +1,35 @@
+# stonevault - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|2376881|1.55%|
+|Draenei|2363658|0.99%|
+|Maghar_Orc|2361914|0.91%|
+|Human|2361884|0.91%|
+|Orc|2361410|0.89%|
+|Goblin|2360410|0.85%|
+|Gnome|2359617|0.82%|
+|Night_Elf_Haste|2359325|0.80%|
+|Kul_Tiran|2358067|0.75%|
+|Highmountain_Tauren|2357279|0.72%|
+|Troll|2356510|0.68%|
+|Blood_Elf|2356464|0.68%|
+|Dracthyr|2356028|0.66%|
+|Night_Elf_Crit|2355877|0.66%|
+|Nightborne|2355874|0.66%|
+|Zandalari_Troll_Paku|2355642|0.65%|
+|Worgen|2355200|0.63%|
+|Tauren|2355114|0.62%|
+|Dwarf|2354996|0.62%|
+|Dark_Iron_Dwarf|2354951|0.62%|
+|Void_Elf|2354832|0.61%|
+|Panda_Feast|2349949|0.40%|
+|Zandalari_Troll_Bwonsamdi|2343454|0.13%|
+|Earthen_Ruby|2342969|0.10%|
+|Undead|2342905|0.10%|
+|Earthen_Sapphire|2342630|0.09%|
+|Earthen_Emerald|2342384|0.08%|
+|Vulpera|2341270|0.03%|
+|Zandalari_Troll_Kimbul|2341119|0.03%|
+|Earthen_Onyx|2340935|0.02%|
+|Base|2340512|0.00%|
+|Lightforged_Draenei|2339230|-0.05%|

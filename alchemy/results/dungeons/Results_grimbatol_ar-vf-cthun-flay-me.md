@@ -1,0 +1,35 @@
+# grimbatol - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|2148333|5.40%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|2141304|5.05%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|2140635|5.02%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|2138345|4.91%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|2135218|4.75%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|2121515|4.08%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|2121047|4.06%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|2120322|4.02%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|2118289|3.92%|
+|Flask_of_Tempered_Mastery_3|2117041|3.86%|
+|Flask_of_Tempered_Swiftness_3|2116149|3.82%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|2115724|3.80%|
+|Flask_of_Alchemical_Chaos_3|2115040|3.76%|
+|Flask_of_Tempered_Aggression_3|2112252|3.63%|
+|Flask_of_Tempered_Versatility_3|2111655|3.60%|
+|Flask_of_Tempered_Mastery_2|2110428|3.54%|
+|Flask_of_Alchemical_Chaos_2|2109454|3.49%|
+|Flask_of_Tempered_Swiftness_2|2108962|3.47%|
+|Flask_of_Tempered_Aggression_2|2107239|3.38%|
+|Flask_of_Tempered_Mastery_1|2105176|3.28%|
+|Flask_of_Tempered_Versatility_2|2104530|3.25%|
+|Flask_of_Tempered_Swiftness_1|2104152|3.23%|
+|Flask_of_Alchemical_Chaos_1|2103042|3.18%|
+|Flask_of_Tempered_Aggression_1|2100359|3.04%|
+|Flask_of_Tempered_Versatility_1|2099687|3.01%|
+|Tempered_Potion_3|2072715|1.69%|
+|Tempered_Potion_2|2071470|1.63%|
+|Tempered_Potion_1|2069221|1.52%|
+|Potion_of_Unwavering_Focus_3|2043970|0.28%|
+|Potion_of_Unwavering_Focus_2|2042001|0.18%|
+|Potion_of_Unwavering_Focus_1|2040720|0.12%|
+|Base|2038307|0.00%|

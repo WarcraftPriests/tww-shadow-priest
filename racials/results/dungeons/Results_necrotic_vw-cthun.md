@@ -1,0 +1,35 @@
+# necrotic - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1074565|1.21%|
+|Draenei|1069962|0.77%|
+|Human|1069781|0.76%|
+|Gnome|1069251|0.71%|
+|Goblin|1068920|0.68%|
+|Night_Elf_Haste|1068828|0.67%|
+|Dark_Iron_Dwarf|1068475|0.63%|
+|Blood_Elf|1068293|0.62%|
+|Orc|1067967|0.59%|
+|Night_Elf_Crit|1067524|0.54%|
+|Kul_Tiran|1067501|0.54%|
+|Dwarf|1067411|0.53%|
+|Void_Elf|1067346|0.53%|
+|Nightborne|1067291|0.52%|
+|Tauren|1067254|0.52%|
+|Zandalari_Troll_Paku|1067212|0.51%|
+|Highmountain_Tauren|1067197|0.51%|
+|Worgen|1067072|0.50%|
+|Dracthyr|1066923|0.49%|
+|Maghar_Orc|1066065|0.41%|
+|Troll|1065481|0.35%|
+|Zandalari_Troll_Bwonsamdi|1064758|0.28%|
+|Panda_Feast|1064744|0.28%|
+|Undead|1064725|0.28%|
+|Zandalari_Troll_Kimbul|1062342|0.06%|
+|Earthen_Emerald|1062309|0.05%|
+|Earthen_Ruby|1062157|0.04%|
+|Earthen_Onyx|1062014|0.03%|
+|Base|1061748|0.00%|
+|Earthen_Sapphire|1061611|-0.01%|
+|Vulpera|1061504|-0.02%|
+|Lightforged_Draenei|1060863|-0.08%|

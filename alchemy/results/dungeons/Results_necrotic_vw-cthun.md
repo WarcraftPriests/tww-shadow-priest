@@ -1,0 +1,35 @@
+# necrotic - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1061529|3.04%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1059920|2.88%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1059368|2.83%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1059001|2.79%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1058072|2.70%|
+|Flask_of_Tempered_Swiftness_3|1054285|2.33%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1053685|2.28%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1053187|2.23%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1052612|2.17%|
+|Flask_of_Tempered_Aggression_3|1052342|2.15%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1051965|2.11%|
+|Flask_of_Alchemical_Chaos_3|1051962|2.11%|
+|Flask_of_Tempered_Mastery_3|1051729|2.09%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1051660|2.08%|
+|Flask_of_Tempered_Swiftness_2|1051585|2.07%|
+|Flask_of_Tempered_Versatility_3|1050857|2.00%|
+|Flask_of_Tempered_Mastery_2|1050378|1.96%|
+|Flask_of_Tempered_Aggression_2|1050258|1.94%|
+|Flask_of_Alchemical_Chaos_2|1050112|1.93%|
+|Flask_of_Tempered_Versatility_2|1049716|1.89%|
+|Flask_of_Tempered_Swiftness_1|1049215|1.84%|
+|Flask_of_Tempered_Aggression_1|1048893|1.81%|
+|Flask_of_Alchemical_Chaos_1|1048566|1.78%|
+|Flask_of_Tempered_Mastery_1|1048246|1.75%|
+|Flask_of_Tempered_Versatility_1|1047959|1.72%|
+|Tempered_Potion_2|1038561|0.81%|
+|Tempered_Potion_3|1038443|0.80%|
+|Tempered_Potion_1|1037760|0.73%|
+|Potion_of_Unwavering_Focus_3|1030851|0.06%|
+|Potion_of_Unwavering_Focus_2|1030839|0.06%|
+|Potion_of_Unwavering_Focus_1|1030719|0.05%|
+|Base|1030231|0.00%|

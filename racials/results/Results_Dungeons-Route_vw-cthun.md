@@ -1,0 +1,35 @@
+# Dungeons-Route - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1760368|1.96%|
+|Draenei|1747896|1.24%|
+|Human|1747222|1.20%|
+|Goblin|1745648|1.11%|
+|Gnome|1745569|1.10%|
+|Night_Elf_Haste|1745453|1.10%|
+|Orc|1745435|1.10%|
+|Maghar_Orc|1744149|1.02%|
+|Void_Elf|1743133|0.96%|
+|Kul_Tiran|1742632|0.93%|
+|Highmountain_Tauren|1742601|0.93%|
+|Nightborne|1742589|0.93%|
+|Dracthyr|1741643|0.88%|
+|Blood_Elf|1741613|0.88%|
+|Zandalari_Troll_Paku|1741438|0.87%|
+|Tauren|1741415|0.86%|
+|Dwarf|1741304|0.86%|
+|Dark_Iron_Dwarf|1741256|0.85%|
+|Worgen|1741141|0.85%|
+|Troll|1741082|0.84%|
+|Night_Elf_Crit|1741047|0.84%|
+|Panda_Feast|1736579|0.58%|
+|Earthen_Emerald|1729854|0.19%|
+|Zandalari_Troll_Bwonsamdi|1729296|0.16%|
+|Undead|1728839|0.14%|
+|Earthen_Onyx|1728471|0.11%|
+|Earthen_Ruby|1728410|0.11%|
+|Earthen_Sapphire|1728293|0.10%|
+|Zandalari_Troll_Kimbul|1728244|0.10%|
+|Vulpera|1726766|0.02%|
+|Lightforged_Draenei|1726679|0.01%|
+|Base|1726503|0.00%|

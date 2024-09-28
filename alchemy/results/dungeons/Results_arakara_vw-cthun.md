@@ -1,0 +1,35 @@
+# arakara - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|2177424|4.60%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|2173125|4.39%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|2171603|4.32%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|2169690|4.23%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|2169323|4.21%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|2161133|3.82%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|2160183|3.77%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|2158524|3.69%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|2157983|3.66%|
+|Flask_of_Tempered_Swiftness_3|2157983|3.66%|
+|Flask_of_Alchemical_Chaos_3|2157430|3.64%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|2157334|3.63%|
+|Flask_of_Tempered_Mastery_3|2155439|3.54%|
+|Flask_of_Tempered_Versatility_3|2155289|3.54%|
+|Flask_of_Tempered_Aggression_3|2155172|3.53%|
+|Flask_of_Alchemical_Chaos_2|2151813|3.37%|
+|Flask_of_Tempered_Swiftness_2|2151618|3.36%|
+|Flask_of_Tempered_Mastery_2|2150638|3.31%|
+|Flask_of_Tempered_Aggression_2|2149858|3.27%|
+|Flask_of_Tempered_Versatility_2|2148650|3.22%|
+|Flask_of_Alchemical_Chaos_1|2146216|3.10%|
+|Flask_of_Tempered_Swiftness_1|2145062|3.04%|
+|Flask_of_Tempered_Mastery_1|2144968|3.04%|
+|Flask_of_Tempered_Aggression_1|2144781|3.03%|
+|Flask_of_Tempered_Versatility_1|2142926|2.94%|
+|Tempered_Potion_3|2104176|1.08%|
+|Tempered_Potion_2|2102056|0.98%|
+|Tempered_Potion_1|2100015|0.88%|
+|Potion_of_Unwavering_Focus_3|2083587|0.09%|
+|Potion_of_Unwavering_Focus_2|2083432|0.08%|
+|Potion_of_Unwavering_Focus_1|2082621|0.04%|
+|Base|2081697|0.00%|

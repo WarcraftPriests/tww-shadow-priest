@@ -1,0 +1,35 @@
+# siege - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|1731029|2.05%|
+|Draenei|1718976|1.34%|
+|Orc|1717524|1.26%|
+|Maghar_Orc|1716724|1.21%|
+|Human|1716412|1.19%|
+|Goblin|1714298|1.07%|
+|Gnome|1714227|1.06%|
+|Night_Elf_Haste|1714106|1.05%|
+|Nightborne|1713277|1.01%|
+|Void_Elf|1713253|1.00%|
+|Blood_Elf|1712982|0.99%|
+|Zandalari_Troll_Paku|1712947|0.99%|
+|Kul_Tiran|1712162|0.94%|
+|Highmountain_Tauren|1712118|0.94%|
+|Dracthyr|1712045|0.93%|
+|Troll|1711916|0.93%|
+|Tauren|1711755|0.92%|
+|Worgen|1711744|0.91%|
+|Dark_Iron_Dwarf|1711698|0.91%|
+|Dwarf|1711654|0.91%|
+|Night_Elf_Crit|1710576|0.85%|
+|Panda_Feast|1707171|0.65%|
+|Earthen_Emerald|1698311|0.12%|
+|Zandalari_Troll_Bwonsamdi|1698243|0.12%|
+|Earthen_Onyx|1698073|0.11%|
+|Undead|1697717|0.09%|
+|Zandalari_Troll_Kimbul|1697628|0.08%|
+|Earthen_Ruby|1697509|0.08%|
+|Earthen_Sapphire|1696735|0.03%|
+|Vulpera|1696649|0.02%|
+|Lightforged_Draenei|1696269|0.00%|
+|Base|1696225|0.00%|

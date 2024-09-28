@@ -1,0 +1,35 @@
+# arakara - ar-vf-cthun-flay-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|2269613|2.03%|
+|Draenei|2253415|1.30%|
+|Human|2251694|1.23%|
+|Gnome|2250754|1.18%|
+|Goblin|2249583|1.13%|
+|Night_Elf_Haste|2249395|1.12%|
+|Orc|2249049|1.11%|
+|Blood_Elf|2246395|0.99%|
+|Nightborne|2246008|0.97%|
+|Kul_Tiran|2246006|0.97%|
+|Maghar_Orc|2245642|0.96%|
+|Zandalari_Troll_Paku|2245506|0.95%|
+|Void_Elf|2245146|0.93%|
+|Highmountain_Tauren|2245066|0.93%|
+|Dwarf|2244632|0.91%|
+|Tauren|2244503|0.90%|
+|Worgen|2244461|0.90%|
+|Night_Elf_Crit|2244368|0.90%|
+|Dracthyr|2244305|0.90%|
+|Dark_Iron_Dwarf|2242746|0.82%|
+|Troll|2239587|0.68%|
+|Panda_Feast|2237477|0.59%|
+|Earthen_Ruby|2227870|0.16%|
+|Earthen_Emerald|2227847|0.16%|
+|Zandalari_Troll_Bwonsamdi|2227778|0.15%|
+|Undead|2227764|0.15%|
+|Earthen_Onyx|2227400|0.14%|
+|Zandalari_Troll_Kimbul|2226945|0.11%|
+|Earthen_Sapphire|2226435|0.09%|
+|Lightforged_Draenei|2224729|0.02%|
+|Base|2224395|0.00%|
+|Vulpera|2223388|-0.05%|

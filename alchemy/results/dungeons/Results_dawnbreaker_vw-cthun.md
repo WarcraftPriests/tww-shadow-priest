@@ -1,0 +1,35 @@
+# dawnbreaker - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|1539246|4.81%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|1533309|4.41%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|1531869|4.31%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|1531811|4.31%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|1531767|4.30%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|1521896|3.63%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|1521399|3.60%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|1519990|3.50%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|1519581|3.48%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|1519311|3.46%|
+|Flask_of_Tempered_Mastery_3|1519040|3.44%|
+|Flask_of_Alchemical_Chaos_3|1517210|3.31%|
+|Flask_of_Tempered_Swiftness_3|1516082|3.24%|
+|Flask_of_Tempered_Aggression_3|1515915|3.23%|
+|Flask_of_Tempered_Versatility_3|1515775|3.22%|
+|Flask_of_Tempered_Mastery_2|1514543|3.13%|
+|Flask_of_Alchemical_Chaos_2|1514165|3.11%|
+|Flask_of_Tempered_Versatility_2|1511901|2.95%|
+|Flask_of_Tempered_Aggression_2|1511636|2.93%|
+|Flask_of_Tempered_Swiftness_2|1511388|2.92%|
+|Flask_of_Tempered_Mastery_1|1510097|2.83%|
+|Flask_of_Alchemical_Chaos_1|1509307|2.78%|
+|Flask_of_Tempered_Aggression_1|1508372|2.71%|
+|Flask_of_Tempered_Swiftness_1|1508078|2.69%|
+|Flask_of_Tempered_Versatility_1|1507763|2.67%|
+|Tempered_Potion_3|1485404|1.15%|
+|Tempered_Potion_2|1484584|1.09%|
+|Tempered_Potion_1|1483118|0.99%|
+|Potion_of_Unwavering_Focus_3|1471538|0.20%|
+|Potion_of_Unwavering_Focus_2|1470269|0.12%|
+|Potion_of_Unwavering_Focus_1|1469546|0.07%|
+|Base|1468547|0.00%|
