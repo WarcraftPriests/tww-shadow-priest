@@ -97,6 +97,9 @@ def main():
         "--composite", help="only run the composite suite", action="store_true"
     )
     parser.add_argument(
+        "--trinkets", help="only run trinkets and trinket-combos", action="store_true"
+    )
+    parser.add_argument(
         "--apl",
         help="indicate if the sim should use the custom apl.",
         action="store_true",
@@ -124,6 +127,9 @@ def main():
     for sim in config["sims"].keys():
         if args.talents:
             if sim not in ["talents", "talents-top"]:
+                continue
+        if args.trinkets:
+            if sim not in ["trinkets", "trinket-combos"]:
                 continue
         elif sim in args.exclude:
             continue
