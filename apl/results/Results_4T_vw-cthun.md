@@ -1,5 +1,5 @@
 # 4T - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|move_shadowfiend|2670176|0.59%|
-|Base|2654434|0.00%|
+|spymasters_update|2775668|0.04%|
+|Base|2774584|0.00%|

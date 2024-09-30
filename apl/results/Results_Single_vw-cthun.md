@@ -1,5 +1,5 @@
 # Single - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|move_shadowfiend|1264905|0.02%|
-|Base|1264656|0.00%|
+|spymasters_update|1374847|0.00%|
+|Base|1374834|0.00%|

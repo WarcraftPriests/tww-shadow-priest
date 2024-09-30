@@ -1,1 +1,1 @@
-{"name": "4T - ar-vf-yogg-cthun-me", "data": {"move_shadowfiend": {"DPS": 2795036}, "Base": {"DPS": 2792689}}, "ids": {"move_shadowfiend": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["move_shadowfiend"], "last_updated": "2024-09-05"}
+{"name": "4T - ar-vf-yogg-cthun-me", "data": {"spymasters_update": {"DPS": 2924637}, "Base": {"DPS": 2924512}}, "ids": {"spymasters_update": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["spymasters_update"], "last_updated": "2024-09-30"}

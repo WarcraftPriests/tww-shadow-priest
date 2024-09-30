@@ -1,5 +1,5 @@
 # Composite - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|move_shadowfiend|1303234|0.01%|
-|Base|1303085|0.00%|
+|spymasters_update|1411825|0.01%|
+|Base|1411705|0.00%|

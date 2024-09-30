@@ -1,1 +1,1 @@
-{"name": "8T - ar-vf-cthun-flay-me", "data": {"Base": {"DPS": 6105941}, "move_shadowfiend": {"DPS": 6102129}}, "ids": {"move_shadowfiend": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["move_shadowfiend"], "last_updated": "2024-09-05"}
+{"name": "8T - ar-vf-cthun-flay-me", "data": {"spymasters_update": {"DPS": 6307597}, "Base": {"DPS": 6301481}}, "ids": {"spymasters_update": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["spymasters_update"], "last_updated": "2024-09-30"}

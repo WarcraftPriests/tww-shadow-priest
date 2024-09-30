@@ -1,5 +1,5 @@
 # Single - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|1291074|0.00%|
-|move_shadowfiend|1290828|-0.02%|
+|spymasters_update|1412256|0.02%|
+|Base|1412031|0.00%|

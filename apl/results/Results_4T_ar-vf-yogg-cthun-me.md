@@ -1,5 +1,5 @@
 # 4T - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|move_shadowfiend|2795036|0.08%|
-|Base|2792689|0.00%|
+|spymasters_update|2924637|0.00%|
+|Base|2924512|0.00%|

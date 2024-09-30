@@ -1,5 +1,5 @@
 # Composite - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|1327826|0.00%|
-|move_shadowfiend|1327621|-0.02%|
+|spymasters_update|1447568|0.01%|
+|Base|1447493|0.00%|

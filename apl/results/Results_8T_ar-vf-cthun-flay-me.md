@@ -1,5 +1,5 @@
 # 8T - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|6105941|0.00%|
-|move_shadowfiend|6102129|-0.06%|
+|spymasters_update|6307597|0.10%|
+|Base|6301481|0.00%|

@@ -1,5 +1,5 @@
 # 2T - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|move_shadowfiend|1704854|0.04%|
-|Base|1704200|0.00%|
+|spymasters_update|1834062|0.01%|
+|Base|1833938|0.00%|

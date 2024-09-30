@@ -1,1 +1,1 @@
-{"name": "Single - vw-cthun", "data": {"move_shadowfiend": {"DPS": 1264905}, "Base": {"DPS": 1264656}}, "ids": {"move_shadowfiend": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["move_shadowfiend"], "last_updated": "2024-09-05"}
+{"name": "Single - vw-cthun", "data": {"spymasters_update": {"DPS": 1374847}, "Base": {"DPS": 1374834}}, "ids": {"spymasters_update": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["spymasters_update"], "last_updated": "2024-09-30"}
