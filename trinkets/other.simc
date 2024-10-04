@@ -72,8 +72,17 @@ profileset."Unstable_Power_Suit_Core_626"+=trinket1=unstable_power_suit_core,id=
 # profileset."Bronzebeard_Family_Compass_619"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=619
 # profileset."Bronzebeard_Family_Compass_626"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=626
 
-# Anniversary Event
-# profileset."Hibernation_Crystal_463"+=trinket1=hibernation_crystal,id=150388,ilevel=463
+# Anniversary Event (Hero Track - 626)
+## TODO: confirm item ids
+profileset."Burst_of_Knowledge_626"+=trinket1=burst_of_knowledge,id=231424,ilevel=626
+profileset."Doperels_Calling_Rune_626"+=trinket1=doperels_calling_rune,id=231476,ilevel=626
+profileset."Cannonball_Runner_626"+=trinket1=cannonball_runner,id=13382,ilevel=626
+profileset."Mindtap_Talisman_626"+=trinket1=mindtap_talisman,id=18371,ilevel=626
+profileset."Ramsteins_Lightning_Bolts_626"+=trinket1=ramsteins_lightning_bolts,id=13515,ilevel=626
+profileset."Vigilance_Charm_626"+=trinket1=vigilance_charm,id=18370,ilevel=626
+
+## TODO: Verify Item Level
+profileset."Hibernation_Crystal_626"+=trinket1=hibernation_crystal,id=150388,ilevel=626
 
 # Darkmoon Cards (can't be upgraded - 577)
 # Darkmoon Sigil: Ascension (11300) - Gain Ascendance every 8s in combat. Grants secondary stat for 15s stacks up to 10 times
