@@ -128,7 +128,7 @@ def main():
         if args.talents:
             if sim not in ["talents", "talents-top"]:
                 continue
-        if args.trinkets:
+        elif args.trinkets:
             if sim not in ["trinkets", "trinket-combos"]:
                 continue
         elif sim in args.exclude:

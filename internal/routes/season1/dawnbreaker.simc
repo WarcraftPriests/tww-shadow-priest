@@ -1,4 +1,4 @@
-# !1rv0UXjmqWVOiHzn24h71QOwPkAK4sFCv5oStPHcr3zsV(s(2RxBdyqPcKL8YUZm7yZIm8iw32zmDNN6T)fRYZW6)O1pJvmSUPTDC476lx7ghWQImM7JtDTy9JM2hp8I(5p0)zS(8y)4LhA61wR(ldMrcYMj74hP4DdpHh2Lt7nSIJwS2QV5w)60W5FEA82B)ihRhp9l9z7vhgvETnqv3g2EVKXzzLLcGxYuaJHM74CNMX7Vtui48CoxMjaPuMtFQaRaQohzhCYNy6QfPhxj7XUqPe5YcgRihaWbRdaiGDzMQukYekhffcwrK2)d2Uo61M(jnXW5Plx0d2hM67DjdlbQNo1RFv37D5xCFDPHNxO3C)lqVrjVgLrHGLCTrlgRngqBmjfCmktQQGJisHdsbkN2WFhujmv6KudPi9OwMIhFNwanr7kIReeIP2WII0(Ic8YPiztC7k(Mte(SDeiOTIfnAPLycbdK5rUmgSG24UBh5Pm4XYOxrwNCNva6fqNPHXt5bcGaQuECuSHi1oRsrTc5V2KQoo3qPDHWJoplf9K7fEk2QyYwzWwBsLQ)5lBPnrGLnIEoZuLRchcbLtw8gwcLkscUqWwJh2iz)Ty6GAlySuWGaaYnDBdZF(qhib98UudIiGbcsVZVhW1)O8T4UFjczVkr7Yp5FAA4j94GFChZjC34o9VP5HNW6R6E3yoASASwFZFPZy)MXCvVoaCEMc(V
+# !9rvWUTnmm0VOcyzklzDCzdfRadzfqP9OWsIP68QNDrICx6L9TprjBhjJGbBiyst(EpsjkdZSZOBAT22JJDUpmBzvg9yBJr)KT5PnVHV(PUVA07BAg6FgpDUDO3STQGI699DJiL(XXtNWE3JJDD(8Hfh6XdD47i50Op1ADF3ApJUZ(C2s868pZX(LX(xWH(hAU4)hZhVdXF32)I5GrFg7WJoI5qIef(eFZt3cuZl0Bz4fOxh95UeVmYfSelX)q3WjJ2Ab0AtsigcpKvvaorkCqkqLKb)gOsyQWKqJHidOwNIhFLwaKO9kIxji6tLXII0(IccYPkXyY8k(2de(SveiitXIgD0YuaXgilGC9KZkYGvmZtDShlN6vuRtUQva4cOZ0W4P8arqavkpEkYisTQvPOsbMopnN1U5ckTkeb05fPONCUiqrUIP2kdYBtQu9pFylTiISKj65itvUkUjWsqpPoIPks)P8MnEitYHtX0gvMKJKmdgebqMvT7zH9hAdj00y3KAqmbyKaEM2Zb86evOOwnseJ(QeDlz(4(o05Wh6TduA7hDdFM8txgSzvm0TfHjhhEXV(TX(J)8WWL)(JsJE4WV83ASCdHUj(19sgNvuxlaEntb(oJ9oEym)(7evcoVKZLfcqkLL0VIZ(Hj0nuR3tY5Gy792tdWlyxPuIszfJvvca4H1daeXUUqvlffcLNIkHF0ls7)dB)h)bXxJTiZ)c
 fight_style=DungeonRoute
 override.skyfury=0
 override.arcane_intellect=0
@@ -10,24 +10,24 @@ override.chaos_brand=0
 override.hunters_mark=0
 override.mortal_wounds=0
 override.bleeding=0
-single_actor_batch=0
+single_actor_batch=1
 max_time=2700
-enemy="The Dawnbreaker 20"
+enemy="The Dawnbreaker 15"
 enemy_health=99999999
-keystone_level=20
+keystone_level=15
 keystone_pct_hp=27
 
-# TODO: fix rashanans health
-raid_events+=/pull,pull=01,bloodlust=1,delay=006,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Curseblade_2":49737687:Humanoid|"Nightfall_Curseblade_3":49737687:Humanoid|"Nightfall_Shadowmage_1":42632303:Humanoid|"Nightfall_Shadowmage_2":42632303:Humanoid|"Nightfall_Ritualist_1":80527683:Humanoid
-raid_events+=/pull,pull=02,bloodlust=0,delay=007,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Curseblade_2":49737687:Humanoid|"Nightfall_Curseblade_3":49737687:Humanoid|"Nightfall_Shadowmage_1":42632303:Humanoid|"Nightfall_Ritualist_1":80527683:Humanoid|"Nightfall_Commander_1":80527683:Humanoid
-raid_events+=/pull,pull=03,bloodlust=0,delay=011,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Curseblade_2":49737687:Humanoid|"Nightfall_Shadowmage_1":42632303:Humanoid|"Sureki_Webmage_1":94738450:Humanoid
-raid_events+=/pull,pull=04,bloodlust=0,delay=012,enemies="Nightfall_Curseblade_1":49737687:Humanoid|"Nightfall_Commander_1":80527683:Humanoid|"Sureki_Webmage_1":94738450:Humanoid
-raid_events+=/pull,pull=05,bloodlust=0,delay=006,enemies="BOSS_Speaker_Shadowcrown":345118640:Humanoid
-raid_events+=/pull,pull=06,bloodlust=0,delay=014,enemies="Nightfall_Darkcaster_1":45000763:Humanoid|"Nightfall_Shadowalker_1":47369225:Humanoid|"Nightfall_Shadowalker_2":47369225:Humanoid|"Manifested_Shadow_1":66316915:Elemental|"Nightfall_Tactician_1":80527683:Humanoid|"Nightfall_Tactician_2":80527683:Humanoid|"Nightfall_Tactician_3":80527683:Humanoid|"Nightfall_Tactician_4":80527683:Humanoid
-raid_events+=/pull,pull=07,bloodlust=0,delay=015,enemies="Nightfall_Darkcaster_1":45000763:Humanoid|"Nightfall_Shadowalker_1":47369225:Humanoid|"Nightfall_Shadowalker_2":47369225:Humanoid|"Manifested_Shadow_1":66316915:Elemental|"Nightfall_Tactician_1":80527683:Humanoid
-raid_events+=/pull,pull=08,bloodlust=0,delay=013,enemies="Nightfall_Shadowalker_1":47369225:Humanoid|"Nightfall_Shadowalker_2":47369225:Humanoid|"Manifested_Shadow_1":66316915:Elemental|"Manifested_Shadow_2":66316915:Elemental|"Ixkreten_The_Unbreakable_1":156318444:Humanoid
-raid_events+=/pull,pull=09,bloodlust=0,delay=006,enemies="Nightfall_Darkcaster_1":45000763:Humanoid|"Nightfall_Darkcaster_2":45000763:Humanoid|"Nightfall_Shadowalker_1":47369225:Humanoid|"Nightfall_Shadowalker_2":47369225:Humanoid|"Nightfall_Tactician_1":80527683:Humanoid|"Nightfall_Tactician_2":80527683:Humanoid|"Ascendant_Viscoxria_1":135002294:Humanoid
-raid_events+=/pull,pull=10,bloodlust=0,delay=008,enemies="Nightfall_Darkcaster_1":45000763:Humanoid|"Nightfall_Shadowalker_1":47369225:Humanoid|"Nightfall_Tactician_1":80527683:Humanoid|"Deathscreamer_Ikentak_1":127896909:Humanoid
-raid_events+=/pull,pull=11,bloodlust=0,delay=007,enemies="Nightfall_Darkcaster_1":45000763:Humanoid|"BOSS_Anubikkaj":517677961:Humanoid|"Nightfall_Shadowalker_1":47369225:Humanoid
-raid_events+=/pull,pull=12,bloodlust=0,delay=014,enemies="Nightfall_Dark_Architect_1":132633830:Humanoid
-raid_events+=/pull,pull=13,bloodlust=1,delay=014,enemies="BOSS_Rashanan":517677961:Humanoid
+# todo: fix rasha hp
+raid_events+=/pull,pull=01,bloodlust=1,delay=012,enemies="Nightfall_Curseblade_1":30902780:Humanoid|"Nightfall_Curseblade_2":30902780:Humanoid|"Nightfall_Curseblade_3":30902780:Humanoid|"Nightfall_Shadowmage_1":26488098:Humanoid|"Nightfall_Shadowmage_2":26488098:Humanoid|"Nightfall_Ritualist_1":50033073:Humanoid
+raid_events+=/pull,pull=02,bloodlust=0,delay=009,enemies="Nightfall_Curseblade_1":30902780:Humanoid|"Nightfall_Curseblade_2":30902780:Humanoid|"Nightfall_Curseblade_3":30902780:Humanoid|"Nightfall_Shadowmage_1":26488098:Humanoid|"Nightfall_Ritualist_1":50033073:Humanoid|"Nightfall_Commander_1":50033073:Humanoid
+raid_events+=/pull,pull=03,bloodlust=0,delay=007,enemies="Nightfall_Curseblade_1":30902780:Humanoid|"Nightfall_Curseblade_2":30902780:Humanoid|"Nightfall_Shadowmage_1":26488098:Humanoid|"Sureki_Webmage_1":58862438:Humanoid
+raid_events+=/pull,pull=04,bloodlust=0,delay=009,enemies="Nightfall_Curseblade_1":30902780:Humanoid|"Nightfall_Commander_1":50033073:Humanoid|"Sureki_Webmage_1":58862438:Humanoid
+raid_events+=/pull,pull=05,bloodlust=0,delay=013,enemies="BOSS_Speaker_Shadowcrown":214289351:Humanoid
+raid_events+=/pull,pull=06,bloodlust=0,delay=012,enemies="Nightfall_Darkcaster_1":27959658:Humanoid|"Nightfall_Shadowalker_1":29431219:Humanoid|"Nightfall_Shadowalker_2":29431219:Humanoid|"Manifested_Shadow_1":41203706:Elemental|"Nightfall_Tactician_1":50033073:Humanoid|"Nightfall_Tactician_2":50033073:Humanoid|"Nightfall_Tactician_3":50033073:Humanoid|"Nightfall_Tactician_4":50033073:Humanoid
+raid_events+=/pull,pull=07,bloodlust=0,delay=008,enemies="Nightfall_Darkcaster_1":27959658:Humanoid|"Nightfall_Shadowalker_1":29431219:Humanoid|"Nightfall_Shadowalker_2":29431219:Humanoid|"Manifested_Shadow_1":41203706:Elemental|"Nightfall_Tactician_1":50033073:Humanoid
+raid_events+=/pull,pull=08,bloodlust=0,delay=014,enemies="Nightfall_Shadowalker_1":29431219:Humanoid|"Nightfall_Shadowalker_2":29431219:Humanoid|"Manifested_Shadow_1":41203706:Elemental|"Manifested_Shadow_2":41203706:Elemental|"Ixkreten_The_Unbreakable_1":97123024:Humanoid
+raid_events+=/pull,pull=09,bloodlust=0,delay=011,enemies="Nightfall_Darkcaster_1":27959658:Humanoid|"Nightfall_Darkcaster_2":27959658:Humanoid|"Nightfall_Shadowalker_1":29431219:Humanoid|"Nightfall_Shadowalker_2":29431219:Humanoid|"Nightfall_Tactician_1":50033073:Humanoid|"Nightfall_Tactician_2":50033073:Humanoid|"Ascendant_Viscoxria_1":83878976:Humanoid
+raid_events+=/pull,pull=10,bloodlust=0,delay=005,enemies="Nightfall_Darkcaster_1":27959658:Humanoid|"Nightfall_Shadowalker_1":29431219:Humanoid|"Nightfall_Tactician_1":50033073:Humanoid|"Deathscreamer_Ikentak_1":79464292:Humanoid
+raid_events+=/pull,pull=11,bloodlust=0,delay=006,enemies="Nightfall_Darkcaster_1":27959658:Humanoid|"BOSS_Anubikkaj":321434028:Humanoid|"Nightfall_Shadowalker_1":29431219:Humanoid
+raid_events+=/pull,pull=12,bloodlust=0,delay=015,enemies="Nightfall_Dark_Architect_1":82407413:Humanoid
+raid_events+=/pull,pull=13,bloodlust=1,delay=010,enemies="BOSS_Rashanan":321434028:Humanoid

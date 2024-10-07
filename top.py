@@ -80,7 +80,6 @@ def get_builds():
     # Archon and Voidweaver can have different Idol options, manually splitting
     ar_idols = [
         "nzoth_cthun",
-        "yogg_cthun",
         "nzoth_yogg_cthun",
         "cthun",
     ]
@@ -227,9 +226,8 @@ if __name__ == "__main__":
     )
     # Get individual push dungeon results
     if config["dungeonType"] == "route":
-        print(push_results)
         dungeon_talent_names = get_top_talents(
-            push_results, combos, "talents/results/dungeons", 2, 1
+            push_results, combos, "talents/results/dungeons", 1, 1
         )
     elif config["dungeonType"] == "slice":
         dungeon_talent_names = get_top_talents(
