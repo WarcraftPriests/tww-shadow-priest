@@ -19,6 +19,9 @@ def apply_rules(line):
     # Don't add combos that waste points on Inescapable Torment without Y'Shaarj
     # if "inescapable_torment" in line and "yshaarj" not in line:
     #     return True
+    # Don't add combos that have Mind Spike without Mind Melt
+    if "mind_spike" in line and "mind_melt" not in line:
+        return True
 
     # # Make sure you are efficiently spending points
     HALF_SELECTED_MID_TALENTS = 0

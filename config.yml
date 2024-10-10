@@ -4,20 +4,20 @@ builds:
     gearSetup: default
     talents:
       composite:
-        name: VW_VE_VW_DA_yshaarj_cthun_81150817583023_Flay_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYAz4BAAAAAAAAAAAAAmxsNGzMzyYmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzySwsxG
+        name: VW_VE_DoS_DA_cthun_80603209252783_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMz4BAAAAAAAAAAAAAmxsMGzMzyYmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzySwsxC
       dungeons:
         name: VW_VE_DoS_DA_nzoth_cthun_98245853822895_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGPws4BGzMzyYmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzySwsxC
       single:
-        name: VW_VE_VW_DA_yshaarj_cthun_81150852152239_Flay_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAYAGPAAAAAAAAAAAAAwMzsNGzMzyYmZmxYmZWGMbMzMzY2YgxYYWMbTNzgFYMzAABY2mllgZjN
+        name: VW_VE_DoS_DA_cthun_82852836752303_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMm5BAAAAAAAAAAAAAGmFzYmZWGzMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsA
       2t:
-        name: VW_VE_DoS_DA_cthun_82852967824303_Flay_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMGDAAAAAAAAAAAAw4BmNzYmZWGzMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsA
+        name: VW_DH_DoS_DA_cthun_82852829412271_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmBAAAAAAAAAAAAw4BmFzYmZWGzMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsA
       4t:
-        name: VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZWYMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZb2WCmNWA
+        name: VW_VE_DoS_DA_nzoth_cthun_1_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzsYGzMzyYMzMmt5BmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmNWA
       8t:
         name: VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZb2WCmNWA
@@ -40,8 +40,8 @@ builds:
         name: AR_SP_VF_nzoth_cthun_99313291605935_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMAzMAAAAAAAAAAAAAGPwsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNbGAyYsA
       8t:
-        name: AR_EC_VF_nzoth_cthun_99313325094831_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAzMAAAAAAAAAAAAAGzsYGzMz2YYmZmtxMLDmNmZmZMbMwYMMLmtpmZwCMAmZxyoZzAQGjFA
+        name: AR_EC_VF_nzoth_cthun_99313190942639_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAz8AAAAAAAAAAAAAAGzsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMLWGNbGAyYsA
   ar-vf-yogg-cthun-me:
     gearSetup: default
     talents:
@@ -49,20 +49,20 @@ builds:
         name: AR_SP_VF_yogg_cthun_119173361940399_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAgBz8ADAAAAAAAAAAAAwwswYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
       dungeons:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962077501359_Flay_ME
+        name: AR_SP_VF_nzoth_yogg_cthun_1_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMMY8AAAAAAAAAAAAAAGzsYGzMz2YYmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
       single:
         name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMaWMAkxYB
       2t:
-        name: AR_SP_VF_yogg_cthun_121432648922031_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFzYGz2YMzMzYMzygZjZmZGzGDMGDziZbqZGsgZAMzmlRzmBgMGLA
+        name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYB
       4t:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962077501359_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMY8AAAAAAAAAAAAAAGzsYGzMz2YYmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
+        name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
       8t:
-        name: AR_EC_VF_nzoth_yogg_cthun_129962077501359_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMY8AAAAAAAAAAAAAAGzsYGzMz2YYmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMLWGNbGAyYsA
+        name: AR_EC_VF_nzoth_yogg_cthun_139024021305263_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYmBAAAAAAAAAAAAwwsYGDz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWwMAmZxyoZzAQGjFA
 hero:
   AR:
     AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/incessant_screams:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
