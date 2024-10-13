@@ -1,17 +1,17 @@
 # grimbatol - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2135186|0.93%|
-|Chippy_Tea|2128783|0.63%|
-|Zesty_Nibblers|2128736|0.62%|
-|Feast_of_the_Divine_Day|2128474|0.61%|
-|Salt_Baked_Seafood|2128473|0.61%|
-|Deepfin_Patty|2128243|0.60%|
-|Marinated_Tenderloins|2128200|0.60%|
-|Fish_and_Chips|2128074|0.59%|
-|Sweet_and_Spicy_Soup|2127891|0.58%|
-|Fiery_Fish_Sticks|2127478|0.56%|
-|Salty_Dog|2127300|0.56%|
-|Ginger_Glazed_Fillet|2126608|0.52%|
-|Stuffed_Cave_Peppers|2121291|0.27%|
-|Base|2115542|0.00%|
+|Crystallized_Augment_Rune|2062023|0.99%|
+|Salt_Baked_Seafood|2054270|0.61%|
+|Feast_of_the_Divine_Day|2054170|0.61%|
+|Chippy_Tea|2053869|0.59%|
+|Sweet_and_Spicy_Soup|2053622|0.58%|
+|Fish_and_Chips|2053424|0.57%|
+|Ginger_Glazed_Fillet|2053385|0.57%|
+|Salty_Dog|2053376|0.57%|
+|Marinated_Tenderloins|2053207|0.56%|
+|Fiery_Fish_Sticks|2052898|0.54%|
+|Deepfin_Patty|2052798|0.54%|
+|Zesty_Nibblers|2052690|0.53%|
+|Stuffed_Cave_Peppers|2048327|0.32%|
+|Base|2041778|0.00%|

@@ -1,6 +1,6 @@
 # Composite - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|TWW1-2_4-set|1499861|5.46%|
-|TWW1-2-set|1451304|2.04%|
-|Base|1422221|0.00%|
+|TWW1-2_4-set|1496203|5.13%|
+|TWW1-2-set|1447503|1.71%|
+|Base|1423147|0.00%|

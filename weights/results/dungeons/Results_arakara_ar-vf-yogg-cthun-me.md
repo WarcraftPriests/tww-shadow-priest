@@ -1,4 +1,4 @@
 # arakara - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|2195318|1.00|1.05|0.90|0.98|0.92|0.03|
+|Base|2232854|1.00|1.13|0.93|1.00|0.92|0.06|
