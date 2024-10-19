@@ -52,9 +52,10 @@ profileset."Quickwick_Candlestick_606"+=trinket1=quickwick_candlestick,id=225649
 profileset."Quickwick_Candlestick_619"+=trinket1=quickwick_candlestick,id=225649,ilevel=619
 profileset."Quickwick_Candlestick_626"+=trinket1=quickwick_candlestick,id=225649,ilevel=626
 
-profileset."Horn_of_Declaration_606"+=trinket1=horn_of_declaration,id=217041,ilevel=606
-profileset."Horn_of_Declaration_619"+=trinket1=horn_of_declaration,id=217041,ilevel=619
-profileset."Horn_of_Declaration_626"+=trinket1=horn_of_declaration,id=217041,ilevel=626
+# mostly sim bait and doesnt drop from delves
+# profileset."Horn_of_Declaration_606"+=trinket1=horn_of_declaration,id=217041,ilevel=606
+# profileset."Horn_of_Declaration_619"+=trinket1=horn_of_declaration,id=217041,ilevel=619
+# profileset."Horn_of_Declaration_626"+=trinket1=horn_of_declaration,id=217041,ilevel=626
 
 profileset."Candle_Confidant_606"+=trinket1=candle_confidant,id=225648,ilevel=606
 profileset."Candle_Confidant_619"+=trinket1=candle_confidant,id=225648,ilevel=619
@@ -72,17 +73,19 @@ profileset."Unstable_Power_Suit_Core_626"+=trinket1=unstable_power_suit_core,id=
 # profileset."Bronzebeard_Family_Compass_619"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=619
 # profileset."Bronzebeard_Family_Compass_626"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=626
 
-# Anniversary Event (Hero Track - 626)
-## TODO: confirm item ids
+# Anniversary Event
+## Blackrock Depths (Hero Track - 626)
 profileset."Burst_of_Knowledge_626"+=trinket1=burst_of_knowledge,id=231424,ilevel=626
 profileset."Doperels_Calling_Rune_626"+=trinket1=doperels_calling_rune,id=231476,ilevel=626
-profileset."Cannonball_Runner_626"+=trinket1=cannonball_runner,id=13382,ilevel=626
-profileset."Mindtap_Talisman_626"+=trinket1=mindtap_talisman,id=18371,ilevel=626
-profileset."Ramsteins_Lightning_Bolts_626"+=trinket1=ramsteins_lightning_bolts,id=13515,ilevel=626
-profileset."Vigilance_Charm_626"+=trinket1=vigilance_charm,id=18370,ilevel=626
 
-## TODO: Verify Item Level
-profileset."Hibernation_Crystal_626"+=trinket1=hibernation_crystal,id=150388,ilevel=626
+## Timewalking Dungeons (580 - Explorer)
+# profileset."Cannonball_Runner_606"+=trinket1=cannonball_runner,id=13382,ilevel=606
+profileset."Mindtap_Talisman_580"+=trinket1=mindtap_talisman,id=18371,ilevel=580
+# profileset."Ramsteins_Lightning_Bolts_606"+=trinket1=ramsteins_lightning_bolts,id=13515,ilevel=606
+# profileset."Vigilance_Charm_606"+=trinket1=vigilance_charm,id=18370,ilevel=606
+
+## World Bosses (Veteran - 606)
+# profileset."Hibernation_Crystal_606"+=trinket1=hibernation_crystal,id=150388,ilevel=606
 
 # Darkmoon Cards (can't be upgraded - 577)
 # Darkmoon Sigil: Ascension (11300) - Gain Ascendance every 8s in combat. Grants secondary stat for 15s stacks up to 10 times

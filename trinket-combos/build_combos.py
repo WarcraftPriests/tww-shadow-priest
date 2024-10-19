@@ -9,6 +9,8 @@ combos = {
     # timewalking (619)
     "Energy_Siphon_619": "energy_siphon,id=156021,ilevel=619",
     "Living_Flame_619": "living_flame,id=155947,ilevel=619",
+    # BRD
+    "Burst_of_Knowledge_626": "burst_of_knowledge,id=231424,ilevel=626",
     # s1 dungeons (?/639)
     "Ara_Kara_Sacbrood_639": "arakara_sacbrood,id=219314,ilevel=639",
     # "Harvesters_Edict_639": "harvesters_edict,id=219317,ilevel=639",
@@ -18,8 +20,8 @@ combos = {
     # "Unbound_Changeling_Crit_639": "unbound_changeling,id=178708,ilevel=639",
     "Unbound_Changeling_Haste_639": "unbound_changeling,id=178708,ilevel=639",
     "Unbound_Changeling_Mastery_639": "unbound_changeling,id=178708,ilevel=639",
-    "Satchel_of_Misbegotten_Minions_639": "satchel_of_misbegotten_minions,id=178772,ilevel=639",
-    "Hadals_Nautilus_639": "hadals_nautilus,id=159622,ilevel=639",
+    # "Satchel_of_Misbegotten_Minions_639": "satchel_of_misbegotten_minions,id=178772,ilevel=639",
+    # "Hadals_Nautilus_639": "hadals_nautilus,id=159622,ilevel=639",
     "Gale_of_Shadows_639": "gale_of_shadows1,id=133304,ilevel=639",
     # neru'bar palace (?/639)
     "Aberrant_Spellforge_639": "aberrant_spellforge,id=212451,ilevel=639",
@@ -30,6 +32,7 @@ combos = {
     # delves (626)
     "Quickwick_Candlestick_626": "quickwick_candlestick,id=225649,ilevel=626",
     "Shadowbinding_Ritual_Knife_626": "shadowbinding_ritual_knife,id=215178,ilevel=626",
+    "Candle_Confidant_626": "candle_confidant,id=225648,ilevel=626",
     # pvp (626)
     "Forged_Gladiators_Badge_of_Ferocity_626": "forged_gladiators_badge_of_ferocity,id=218713,ilevel=626",
 }
