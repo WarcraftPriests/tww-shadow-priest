@@ -38,7 +38,7 @@ profileset."Feast_of_the_Divine_Day"+=food=feast_of_the_divine_day
 # profileset."Hearty_Feast_of_the_Midnight_Masquerade"+=food=hearty_feast_of_the_midnight_masquerade
 
 ## 469 highest secondary
-# profileset."Beledars_Bounty"+=food=beledars_bounty
+profileset."Beledars_Bounty"+=food=beledars_bounty
 # profileset."Hearty_Beledars_Bounty"+=food=hearty_beledars_bounty
 # profileset."Empress_Farewell"+=food=empress_farewell
 # profileset."Hearty_Empress_Farewell"+=food=hearty_empress_farewell

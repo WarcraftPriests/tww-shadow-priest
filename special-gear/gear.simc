@@ -25,17 +25,9 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Anniversary Items
-## TODO: verify item level and item IDs
-profileset."2H_Guiding_Stave_of_Wisdom_626"+=main_hand=guiding_stave_of_wisdom,id=231435,ilevel=626,enchant=${enchants.main_hand}
-profileset."2H_Guiding_Stave_of_Wisdom_626"+=off_hand=disabled
-
-profileset."Finger1_Naglering_626"+=finger1=naglering,id=231396,ilevel=626,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
-profileset."Finger2_Naglering_626"+=finger2=naglering,id=231396,ilevel=626,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
-
-profileset."1H_Searing_Needle_626"+=main_hand=searing_needle,id=231497,ilevel=626,enchant=${enchants.main_hand}
-
-profileset."1H_Wand_of_Untainted_Power_639_OH_Book_of_the_Dead_626"+=main_hand=wand_of_untainted_power,id=133288,ilevel=639,enchant=${enchants.main_hand}
-profileset."1H_Wand_of_Untainted_Power_639_OH_Book_of_the_Dead_626"+=off_hand=book_of_the_dead,id=13353,ilevel=626
+## Blackrock Depths (626)
+# profileset."2H_Guiding_Stave_of_Wisdom_626"+=main_hand=guiding_stave_of_wisdom,id=231435,ilevel=626,enchant=${enchants.main_hand}
+# profileset."2H_Guiding_Stave_of_Wisdom_626"+=off_hand=disabled
 
 # Season 1 Cantrip Items
 profileset."1H_Fateweaved_Needle_626_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_needle,id=219382,ilevel=626,enchant=${enchants.main_hand}

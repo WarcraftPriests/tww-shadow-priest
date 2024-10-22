@@ -1,5 +1,8 @@
 # Composite - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|spymasters_update|1447568|0.01%|
-|Base|1447493|0.00%|
+|everything|1465866|1.01%|
+|dp_unlock|1461430|0.70%|
+|prepull_halo|1455915|0.32%|
+|Base|1451216|0.00%|
+|trinket_changes|1447956|-0.22%|

@@ -1,5 +1,8 @@
 # Single - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|spymasters_update|1412256|0.02%|
-|Base|1412031|0.00%|
+|everything|1433207|1.41%|
+|dp_unlock|1424410|0.79%|
+|prepull_halo|1421138|0.56%|
+|Base|1413246|0.00%|
+|trinket_changes|1412132|-0.08%|

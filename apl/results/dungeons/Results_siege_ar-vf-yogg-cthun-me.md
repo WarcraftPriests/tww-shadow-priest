@@ -1,5 +1,8 @@
 # siege - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|spymasters_update|1562583|2.36%|
-|Base|1526505|0.00%|
+|dp_unlock|1617884|0.77%|
+|Base|1605457|0.00%|
+|prepull_halo|1605206|-0.02%|
+|everything|1589491|-0.99%|
+|trinket_changes|1579515|-1.62%|

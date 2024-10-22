@@ -281,6 +281,7 @@ sims:
     chart: true
     lookupType: item
     steps:
+      - 580
       - 593
       - 606
       - 619
@@ -319,7 +320,7 @@ simcBuild: latest
 forceHeroTalents: false
 defaultIterations: 10000
 raidbots:
-  apiUrlBase: https://www.raidbots.com
+  apiUrlBase: https://mimiron.raidbots.com
   numOfRetries: 100
   retryInterval: 10
 analyze:
