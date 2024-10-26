@@ -1,17 +1,18 @@
 # stonevault - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2255174|1.07%|
-|Chippy_Tea|2246068|0.66%|
-|Deepfin_Patty|2245625|0.64%|
-|Sweet_and_Spicy_Soup|2245611|0.64%|
-|Zesty_Nibblers|2245593|0.64%|
-|Salty_Dog|2244504|0.59%|
-|Salt_Baked_Seafood|2244313|0.58%|
-|Fish_and_Chips|2244302|0.58%|
-|Fiery_Fish_Sticks|2244119|0.57%|
-|Feast_of_the_Divine_Day|2244089|0.57%|
-|Marinated_Tenderloins|2243810|0.56%|
-|Ginger_Glazed_Fillet|2243260|0.54%|
-|Stuffed_Cave_Peppers|2237019|0.26%|
-|Base|2231303|0.00%|
+|Crystallized_Augment_Rune|2229969|0.91%|
+|Beledars_Bounty|2222792|0.59%|
+|Marinated_Tenderloins|2222127|0.56%|
+|Chippy_Tea|2222001|0.55%|
+|Deepfin_Patty|2221948|0.55%|
+|Feast_of_the_Divine_Day|2221617|0.53%|
+|Salt_Baked_Seafood|2221574|0.53%|
+|Sweet_and_Spicy_Soup|2220814|0.50%|
+|Fish_and_Chips|2220520|0.48%|
+|Salty_Dog|2218787|0.41%|
+|Zesty_Nibblers|2218255|0.38%|
+|Ginger_Glazed_Fillet|2217529|0.35%|
+|Fiery_Fish_Sticks|2217501|0.35%|
+|Stuffed_Cave_Peppers|2214818|0.23%|
+|Base|2209813|0.00%|

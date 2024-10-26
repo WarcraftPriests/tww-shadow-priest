@@ -1,17 +1,18 @@
 # siege - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1689767|0.96%|
-|Salty_Dog|1684408|0.64%|
-|Zesty_Nibblers|1684200|0.63%|
-|Sweet_and_Spicy_Soup|1683880|0.61%|
-|Chippy_Tea|1683723|0.60%|
-|Deepfin_Patty|1683505|0.58%|
-|Feast_of_the_Divine_Day|1683450|0.58%|
-|Fiery_Fish_Sticks|1683398|0.58%|
-|Ginger_Glazed_Fillet|1683381|0.58%|
-|Salt_Baked_Seafood|1683328|0.57%|
-|Fish_and_Chips|1683199|0.57%|
-|Marinated_Tenderloins|1683154|0.56%|
-|Stuffed_Cave_Peppers|1678482|0.28%|
-|Base|1673716|0.00%|
+|Crystallized_Augment_Rune|1613686|0.94%|
+|Chippy_Tea|1608682|0.62%|
+|Beledars_Bounty|1608170|0.59%|
+|Deepfin_Patty|1608093|0.59%|
+|Feast_of_the_Divine_Day|1608067|0.59%|
+|Salt_Baked_Seafood|1607836|0.57%|
+|Sweet_and_Spicy_Soup|1607622|0.56%|
+|Fish_and_Chips|1607178|0.53%|
+|Marinated_Tenderloins|1607062|0.52%|
+|Zesty_Nibblers|1605226|0.41%|
+|Salty_Dog|1605147|0.40%|
+|Ginger_Glazed_Fillet|1605143|0.40%|
+|Fiery_Fish_Sticks|1605031|0.40%|
+|Stuffed_Cave_Peppers|1603368|0.29%|
+|Base|1598698|0.00%|
