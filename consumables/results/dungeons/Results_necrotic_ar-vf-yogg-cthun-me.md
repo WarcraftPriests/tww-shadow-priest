@@ -1,18 +1,18 @@
 # necrotic - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1766686|0.75%|
-|Sweet_and_Spicy_Soup|1762629|0.51%|
-|Beledars_Bounty|1762618|0.51%|
-|Marinated_Tenderloins|1762104|0.49%|
-|Salt_Baked_Seafood|1762018|0.48%|
-|Fish_and_Chips|1761933|0.48%|
-|Chippy_Tea|1761671|0.46%|
-|Feast_of_the_Divine_Day|1761383|0.44%|
-|Deepfin_Patty|1761366|0.44%|
-|Salty_Dog|1760188|0.38%|
-|Zesty_Nibblers|1759931|0.36%|
-|Ginger_Glazed_Fillet|1759109|0.31%|
-|Fiery_Fish_Sticks|1758946|0.30%|
-|Stuffed_Cave_Peppers|1758437|0.28%|
-|Base|1753598|0.00%|
+|Crystallized_Augment_Rune|1806660|0.40%|
+|Beledars_Bounty|1804804|0.29%|
+|Sweet_and_Spicy_Soup|1804618|0.28%|
+|Marinated_Tenderloins|1804608|0.28%|
+|Chippy_Tea|1804536|0.28%|
+|Fish_and_Chips|1804335|0.27%|
+|Deepfin_Patty|1804274|0.26%|
+|Salt_Baked_Seafood|1804174|0.26%|
+|Feast_of_the_Divine_Day|1804002|0.25%|
+|Salty_Dog|1803431|0.22%|
+|Ginger_Glazed_Fillet|1802899|0.19%|
+|Fiery_Fish_Sticks|1802876|0.19%|
+|Zesty_Nibblers|1802854|0.19%|
+|Stuffed_Cave_Peppers|1802281|0.15%|
+|Base|1799524|0.00%|

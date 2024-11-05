@@ -1,18 +1,18 @@
 # arakara - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2219022|0.91%|
-|Beledars_Bounty|2213069|0.64%|
-|Sweet_and_Spicy_Soup|2212326|0.61%|
-|Feast_of_the_Divine_Day|2211639|0.58%|
-|Chippy_Tea|2211276|0.56%|
-|Fish_and_Chips|2211177|0.56%|
-|Salt_Baked_Seafood|2210999|0.55%|
-|Marinated_Tenderloins|2210833|0.54%|
-|Deepfin_Patty|2210652|0.53%|
-|Zesty_Nibblers|2209079|0.46%|
-|Salty_Dog|2208781|0.45%|
-|Fiery_Fish_Sticks|2207061|0.37%|
-|Ginger_Glazed_Fillet|2206691|0.35%|
-|Stuffed_Cave_Peppers|2204542|0.25%|
-|Base|2198955|0.00%|
+|Crystallized_Augment_Rune|2293608|0.59%|
+|Beledars_Bounty|2288641|0.37%|
+|Sweet_and_Spicy_Soup|2288437|0.36%|
+|Deepfin_Patty|2288302|0.35%|
+|Marinated_Tenderloins|2288097|0.35%|
+|Feast_of_the_Divine_Day|2288046|0.34%|
+|Chippy_Tea|2287984|0.34%|
+|Salt_Baked_Seafood|2287874|0.34%|
+|Fish_and_Chips|2287813|0.33%|
+|Salty_Dog|2286035|0.26%|
+|Fiery_Fish_Sticks|2286010|0.25%|
+|Zesty_Nibblers|2285783|0.24%|
+|Ginger_Glazed_Fillet|2285769|0.24%|
+|Stuffed_Cave_Peppers|2283926|0.16%|
+|Base|2280218|0.00%|

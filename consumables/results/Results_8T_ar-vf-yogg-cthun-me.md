@@ -1,18 +1,18 @@
 # 8T - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|6845820|1.10%|
-|Salt_Baked_Seafood|6815332|0.65%|
-|Fish_and_Chips|6814964|0.65%|
-|Beledars_Bounty|6813754|0.63%|
-|Deepfin_Patty|6813413|0.62%|
-|Chippy_Tea|6813258|0.62%|
-|Feast_of_the_Divine_Day|6812185|0.60%|
-|Marinated_Tenderloins|6811301|0.59%|
-|Sweet_and_Spicy_Soup|6809355|0.56%|
-|Salty_Dog|6799773|0.42%|
-|Ginger_Glazed_Fillet|6797598|0.39%|
-|Zesty_Nibblers|6795041|0.35%|
-|Fiery_Fish_Sticks|6793710|0.33%|
-|Stuffed_Cave_Peppers|6792654|0.32%|
-|Base|6771289|0.00%|
+|Crystallized_Augment_Rune|7499812|1.13%|
+|Salt_Baked_Seafood|7470372|0.73%|
+|Chippy_Tea|7464568|0.65%|
+|Marinated_Tenderloins|7464554|0.65%|
+|Feast_of_the_Divine_Day|7463856|0.64%|
+|Fish_and_Chips|7462675|0.63%|
+|Beledars_Bounty|7462668|0.63%|
+|Deepfin_Patty|7460833|0.60%|
+|Sweet_and_Spicy_Soup|7454132|0.51%|
+|Salty_Dog|7451183|0.47%|
+|Fiery_Fish_Sticks|7449717|0.45%|
+|Ginger_Glazed_Fillet|7445819|0.40%|
+|Zesty_Nibblers|7444025|0.37%|
+|Stuffed_Cave_Peppers|7443471|0.37%|
+|Base|7416284|0.00%|

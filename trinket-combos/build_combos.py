@@ -9,8 +9,6 @@ combos = {
     # timewalking (619)
     "Energy_Siphon_619": "energy_siphon,id=156021,ilevel=619",
     "Living_Flame_619": "living_flame,id=155947,ilevel=619",
-    # BRD
-    "Burst_of_Knowledge_626": "burst_of_knowledge,id=231424,ilevel=626",
     # s1 dungeons (?/639)
     "Ara_Kara_Sacbrood_639": "arakara_sacbrood,id=219314,ilevel=639",
     # "Harvesters_Edict_639": "harvesters_edict,id=219317,ilevel=639",
