@@ -25,18 +25,18 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # 11.0.7
-profileset."Cyrces_Circlet_SRC_FRC_LSC"+=finger2=,id=228411,gem_id=228638/228639/228646,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_SRC_FRC_SSC"+=finger2=,id=228411,gem_id=228638/228639/228635,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_SRC_FRC_WRC"+=finger2=,id=228411,gem_id=228638/228639/228640,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_SRC_UOC_LSC"+=finger2=,id=228411,gem_id=228638/228636/228646,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_SRC_UOC_SSC"+=finger2=,id=228411,gem_id=228638/228636/228635,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_SRC_UOC_WRC"+=finger2=,id=228411,gem_id=228638/228636/228640,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_TCC_FRC_LSC"+=finger2=,id=228411,gem_id=228634/228639/228646,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_TCC_FRC_SSC"+=finger2=,id=228411,gem_id=228634/228639/228635,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_TCC_FRC_WRC"+=finger2=,id=228411,gem_id=228634/228639/228640,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_TCC_UOC_LSC"+=finger2=,id=228411,gem_id=228634/228636/228646,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_TCC_UOC_SSC"+=finger2=,id=228411,gem_id=228634/228636/228635,bonus_id=12025/1492,enchant=${enchants.ring}
-profileset."Cyrces_Circlet_TCC_UOC_WRC"+=finger2=,id=228411,gem_id=228634/228636/228640,bonus_id=12025/1492,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_SRC_FRC_LSC_658"+=finger2=,id=228411,gem_id=228638/228639/228646,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_SRC_FRC_SSC_658"+=finger2=,id=228411,gem_id=228638/228639/228635,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_SRC_FRC_WRC_658"+=finger2=,id=228411,gem_id=228638/228639/228640,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_SRC_UOC_LSC_658"+=finger2=,id=228411,gem_id=228638/228636/228646,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_SRC_UOC_SSC_658"+=finger2=,id=228411,gem_id=228638/228636/228635,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_SRC_UOC_WRC_658"+=finger2=,id=228411,gem_id=228638/228636/228640,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_TCC_FRC_LSC_658"+=finger2=,id=228411,gem_id=228634/228639/228646,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_TCC_FRC_SSC_658"+=finger2=,id=228411,gem_id=228634/228639/228635,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_TCC_FRC_WRC_658"+=finger2=,id=228411,gem_id=228634/228639/228640,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_TCC_UOC_LSC_658"+=finger2=,id=228411,gem_id=228634/228636/228646,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_TCC_UOC_SSC_658"+=finger2=,id=228411,gem_id=228634/228636/228635,bonus_id=12025/1511,enchant=${enchants.ring}
+profileset."Finger2_Cyrces_Circlet_TCC_UOC_WRC_658"+=finger2=,id=228411,gem_id=228634/228636/228640,bonus_id=12025/1511,enchant=${enchants.ring}
 
 # Anniversary Items
 ## Blackrock Depths (626)

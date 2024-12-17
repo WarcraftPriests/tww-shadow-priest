@@ -143,10 +143,10 @@ profileset."Hadals_Nautilus_626"+=trinket1=hadals_nautilus,id=159622,ilevel=626
 profileset."Hadals_Nautilus_639"+=trinket1=hadals_nautilus,id=159622,ilevel=639
 
 ## Grim Batol
-profileset."Gale_of_Shadows_606"+=trinket1=gale_of_shadows1,id=133304,ilevel=606
-profileset."Gale_of_Shadows_619"+=trinket1=gale_of_shadows1,id=133304,ilevel=619
-profileset."Gale_of_Shadows_626"+=trinket1=gale_of_shadows1,id=133304,ilevel=626
-profileset."Gale_of_Shadows_639"+=trinket1=gale_of_shadows1,id=133304,ilevel=639
+profileset."Gale_of_Shadows_606"+=trinket1=gale_of_shadows,id=133304,ilevel=606
+profileset."Gale_of_Shadows_619"+=trinket1=gale_of_shadows,id=133304,ilevel=619
+profileset."Gale_of_Shadows_626"+=trinket1=gale_of_shadows,id=133304,ilevel=626
+profileset."Gale_of_Shadows_639"+=trinket1=gale_of_shadows,id=133304,ilevel=639
 
 # Normal Only - 593
 ## The Rookery
