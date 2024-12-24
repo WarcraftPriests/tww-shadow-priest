@@ -1,6 +1,6 @@
 # cityofthreads - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|TWW1-2_4-set|1730451|5.47%|
-|TWW1-2-set|1672263|1.92%|
-|Base|1640778|0.00%|
+|TWW1-2_4-set|1731352|5.53%|
+|TWW1-2-set|1671840|1.90%|
+|Base|1640619|0.00%|

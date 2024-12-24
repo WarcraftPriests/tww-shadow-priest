@@ -1,18 +1,18 @@
 # dawnbreaker - ar-vf-cthun-flay-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1570775|0.84%|
-|Deepfin_Patty|1566237|0.55%|
-|Beledars_Bounty|1566109|0.54%|
-|Salt_Baked_Seafood|1565865|0.53%|
-|Chippy_Tea|1565816|0.52%|
-|Marinated_Tenderloins|1565387|0.50%|
-|Fish_and_Chips|1565253|0.49%|
-|Feast_of_the_Divine_Day|1565196|0.48%|
-|Sweet_and_Spicy_Soup|1565133|0.48%|
-|Zesty_Nibblers|1563579|0.38%|
-|Fiery_Fish_Sticks|1563200|0.36%|
-|Salty_Dog|1562842|0.33%|
-|Ginger_Glazed_Fillet|1562718|0.32%|
-|Stuffed_Cave_Peppers|1561026|0.22%|
-|Base|1557657|0.00%|
+|Crystallized_Augment_Rune|1570640|0.81%|
+|Deepfin_Patty|1566684|0.56%|
+|Beledars_Bounty|1566138|0.52%|
+|Salt_Baked_Seafood|1565728|0.50%|
+|Marinated_Tenderloins|1565563|0.48%|
+|Chippy_Tea|1565457|0.48%|
+|Fish_and_Chips|1565136|0.46%|
+|Feast_of_the_Divine_Day|1564959|0.45%|
+|Sweet_and_Spicy_Soup|1564504|0.42%|
+|Zesty_Nibblers|1563877|0.38%|
+|Salty_Dog|1563508|0.35%|
+|Fiery_Fish_Sticks|1563090|0.33%|
+|GingerGlazed_Fillet|1562294|0.28%|
+|Stuffed_Cave_Peppers|1561599|0.23%|
+|Base|1558008|0.00%|
