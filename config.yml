@@ -1,68 +1,48 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
-  vw-cthun:
-    gearSetup: default
-    talents:
-      composite:
-        name: VW_VE_DoS_DA_cthun_80603209252783_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMz4BAAAAAAAAAAAAAmxsMGzMzyYmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzySwsxC
-      dungeons:
-        name: VW_VE_DoS_DA_nzoth_cthun_98245853822895_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGPws4BGzMzyYmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzySwsxC
-      single:
-        name: VW_VE_DoS_DA_cthun_82852836752303_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMm5BAAAAAAAAAAAAAGmFzYmZWGzMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsA
-      2t:
-        name: VW_DH_DoS_DA_cthun_82852829412271_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmBAAAAAAAAAAAAw4BmFzYmZWGzMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsA
-      4t:
-        name: VW_VE_DoS_DA_nzoth_cthun_1_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzsYGzMzyYMzMmt5BmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmNWA
-      8t:
-        name: VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZb2WCmNWA
-  ar-vf-cthun-flay-me:
-    gearSetup: default
-    talents:
-      composite:
-        name: AR_SP_VF_cthun_80588449494959_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAYmHYAAAAAAAAAAAAAGmlxYmZ2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNLGAyYsA
-      dungeons:
-        name: AR_SP_VF_nzoth_cthun_98241696217007_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmBAAAAAAAAAAAAwws4BGzY2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNbGAyYsA
-      single:
-        name: AR_SP_VF_cthun_80658376897455_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGzMzygZjZmZGzGDMGDziZbqZGsADgZ2sMaWMAkxYB
-      2t:
-        name: AR_SP_VF_nzoth_cthun_98241973007279_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgxMDAAAAAAAAAAAAwws4BGzY2GjZmZGzMzygZjZmZGzGDMGDziZbqZGsADgZ2sMa2MAkxYB
-      4t:
-        name: AR_SP_VF_nzoth_cthun_99313291605935_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAzMAAAAAAAAAAAAAGPwsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNbGAyYsA
-      8t:
-        name: AR_EC_VF_nzoth_cthun_99313190942639_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAz8AAAAAAAAAAAAAAGzsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMLWGNbGAyYsA
   ar-vf-yogg-cthun-me:
     gearSetup: default
     talents:
       composite:
-        name: AR_SP_VF_yogg_cthun_119173361940399_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBz8ADAAAAAAAAAAAAwwswYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
+        name: AR_SP_VF_yogg_cthun_121432648922031_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLmxMmtxYmZmxYmlBzGzMzMmNGYMGmFz2UzMYBzAYmNLjmNDAZMWAA
       dungeons:
         name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAMMLmxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA
       single:
-        name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMaWMAkxYB
+        name: AR_SP_VF_yogg_cthun_121432648922031_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLmxMmtxYmZmxYmlBzGzMzMmNGYMGmFz2UzMYBzAYmNLjmNDAZMWAA
       2t:
-        name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYB
+        name: AR_SP_VF_yogg_cthun_121432648922031_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLmxMmtxYmZmxYmlBzGzMzMmNGYMGmFz2UzMYBzAYmNLjmNDAZMWAA
       4t:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
+        name: AR_SP_VF_nzoth_yogg_cthun_139024055874479_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMwMAAAAAAAAAAAAMmZxMGmtxYmZmxYmlBzGzMzMmNGYMGmFz2UzMYBzAYmNLjmNDAZMWAA
       8t:
-        name: AR_EC_VF_nzoth_yogg_cthun_139024021305263_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYmBAAAAAAAAAAAAwwsYGDz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWwMAmZxyoZzAQGjFA
+        name: AR_EC_VF_nzoth_yogg_cthun_139023917496239_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYGAAAAAAAAAAAAMmZxMGmtxYmZmZbMzygZjZmZGzGDMGDziZbqZGsgZAMzilRzmBgMGLAA
+  vw-cthun:
+    gearSetup: default
+    talents:
+      composite:
+        name: VW_DH_DoS_DA_cthun_82852971246511_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmx8ADAAAAAAAAAAAgBLmxMzsMGzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA
+      dungeons:
+        name: VW_DH_DoS_DA_cthun_80603201912751_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMzAAAAAAAAAAAAgZegZZMmZmlxMzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYMzAABY2mtlgZjFA
+      single:
+        name: VW_DH_DoS_DA_cthun_82852971246511_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmx8ADAAAAAAAAAAAgBLmxMzsMGzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA
+      2t:
+        name: VW_DH_DoS_DA_cthun_82852967077807_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGDAAAAAAAAAAAgBbmxMzswYmZMbzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mtlgZjFA
+      4t:
+        name: VW_DH_DoS_DA_nzoth_cthun_98245887645615_Spike_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgxYxDMmZmFGzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stEMbsAA
+      8t:
+        name: VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAgxMLegxMzsxYmZMbzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsAA
+  
 hero:
   AR:
     AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/incessant_screams:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
@@ -74,7 +54,7 @@ hero:
     VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
     VW_DH_VW: "125982:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
 gear:
-  # Xk Mastery (0.0%) | Xk Haste (0.0%) | Xk Crit (0.0%) | Xk Vers (0.0%)
+  # 21.7k Mastery (19.5%) | 21.7k Haste (32.6%) | 1k Crit (6.0%) | 1k Vers (1.2%)
   default:
     head: "tier,id=229334,ilevel=678" # haste/vers
     neck: "gobfathers_gifted_bling,id=228842,ilevel=678" # mastery/haste
