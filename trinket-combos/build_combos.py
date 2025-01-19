@@ -7,32 +7,33 @@ from itertools import combinations
 
 combos = {
     # timewalking (619)
-    "Energy_Siphon_619": "energy_siphon,id=156021,ilevel=619",
-    "Living_Flame_619": "living_flame,id=155947,ilevel=619",
-    # s1 dungeons (?/639)
-    "Ara_Kara_Sacbrood_639": "arakara_sacbrood,id=219314,ilevel=639",
-    # "Harvesters_Edict_639": "harvesters_edict,id=219317,ilevel=639",
-    # "High_Speakers_Accretion_639": "high_speakers_accretion,id=219303,ilevel=639",
-    "Empowering_Crystal_of_Anubikkaj_639": "empowering_crystal_of_anubikkaj,id=219312,ilevel=639",
-    # "Unbound_Changeling_All_639": "unbound_changeling,id=178708,ilevel=639",
-    # "Unbound_Changeling_Crit_639": "unbound_changeling,id=178708,ilevel=639",
-    "Unbound_Changeling_Haste_639": "unbound_changeling,id=178708,ilevel=639",
-    "Unbound_Changeling_Mastery_639": "unbound_changeling,id=178708,ilevel=639",
-    # "Satchel_of_Misbegotten_Minions_639": "satchel_of_misbegotten_minions,id=178772,ilevel=639",
-    # "Hadals_Nautilus_639": "hadals_nautilus,id=159622,ilevel=639",
-    "Gale_of_Shadows_639": "gale_of_shadows1,id=133304,ilevel=639",
-    # neru'bar palace (?/639)
-    "Aberrant_Spellforge_639": "aberrant_spellforge,id=212451,ilevel=639",
-    "Mad_Queens_Mandate_639": "mad_queens_mandate,id=212454,ilevel=639",
-    "Spymasters_Web_639": "spymasters_web,id=220202,ilevel=639",
-    "Ovinaxs_Mercurial_Egg_639": "ovinaxs_mercurial_egg,id=220305,ilevel=639",
-    "Treacherous_Transmitter_639": "treacherous_transmitter,id=221023,ilevel=639",
-    # delves (626)
-    "Quickwick_Candlestick_626": "quickwick_candlestick,id=225649,ilevel=626",
-    "Shadowbinding_Ritual_Knife_626": "shadowbinding_ritual_knife,id=215178,ilevel=626",
-    "Candle_Confidant_626": "candle_confidant,id=225648,ilevel=626",
-    # pvp (626)
-    "Forged_Gladiators_Badge_of_Ferocity_626": "forged_gladiators_badge_of_ferocity,id=218713,ilevel=626",
+    # "Energy_Siphon_619": "energy_siphon,id=156021,ilevel=619",
+    # "Living_Flame_619": "living_flame,id=155947,ilevel=619",
+    # s2 dungeons (665/678)
+    "Entropic_Skardyn_Core_678": "entropic_skardyn_core,id=219296,ilevel=678",
+    "Sigil_of_Algari_Concordance_678": "sigil_of_algari_concordance,id=219295,ilevel=678",
+    "Signet_of_the_Priory_678": "signet_of_the_priory,id=219308,ilevel=678",
+    "Bursting_Lightshard_678": "bursting_lightshard,id=219310,ilevel=678",
+    "Synergistic_Brewterializer_678": "synergistic_brewterializer,id=219299,ilevel=678",
+    "Remnant_of_Darkness_678": "remnant_of_darkness,id=219307,ilevel=678",
+    "Carved_Blazikon_Wax_678": "carved_blazikon_wax,id=219305,ilevel=678",
+    "Gigazaps_Zap_Cap_678": "gigazaps_zapcap,id=232545,ilevel=678",
+    "Soulletting_Ruby_678": "soulletting_ruby,id=178809,ilevel=678",
+    "Ingenious_Mana_Battery_678": "ingenious_mana_battery,id=169344,ilevel=678",
+    # Liberation of Undermine (665/678)
+    "Geargrinders_Spare_Keys_678": "geargrinders_spare_keys,id=230197,ilevel=678",
+    "Flarendos_Pilot_Light_678": "flarendos_pilot_light,id=230191,ilevel=678",
+    "Reverb_Radio_678": "reverb_radio,id=230194,ilevel=678",
+    "Mister_Lock_N_Stalk_678": "mister_locknstalk,id=230193,ilevel=678",
+    "House_of_Cards_678": "house_of_cards,id=230027,ilevel=678",
+    "Mugs_Moxie_Jug_678": "mugs_moxie_jug,id=230192,ilevel=678",
+    "Eye_of_Kezan_678": "eye_of_kezan,id=230198,ilevel=678",
+    # delves (665)
+    "Quickwick_Candlestick_665": "quickwick_candlestick,id=225649,ilevel=665",
+    "Shadowbinding_Ritual_Knife_665": "shadowbinding_ritual_knife,id=215178,ilevel=665",
+    "Candle_Confidant_665": "candle_confidant,id=225648,ilevel=665",
+    # pvp (?)
+    # "Forged_Gladiators_Badge_of_Ferocity_626": "forged_gladiators_badge_of_ferocity,id=218713,ilevel=626",
 }
 
 
