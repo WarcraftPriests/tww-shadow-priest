@@ -28,6 +28,8 @@ combos = {
     "House_of_Cards_678": "house_of_cards,id=230027,ilevel=678",
     "Mugs_Moxie_Jug_678": "mugs_moxie_jug,id=230192,ilevel=678",
     "Eye_of_Kezan_678": "eye_of_kezan,id=230198,ilevel=678",
+    # Nerubar
+    "Spymasters_Web_639": "spymasters_web,id=220202,ilevel=639",
     # delves (665)
     "Quickwick_Candlestick_665": "quickwick_candlestick,id=225649,ilevel=665",
     "Shadowbinding_Ritual_Knife_665": "shadowbinding_ritual_knife,id=215178,ilevel=665",

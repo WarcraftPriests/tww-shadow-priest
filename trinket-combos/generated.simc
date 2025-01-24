@@ -70,6 +70,9 @@ profileset."Entropic_Skardyn_Core_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_j
 profileset."Entropic_Skardyn_Core_678-Eye_of_Kezan_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
 profileset."Entropic_Skardyn_Core_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Entropic_Skardyn_Core_678-Spymasters_Web_639"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
+profileset."Entropic_Skardyn_Core_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Entropic_Skardyn_Core_678-Quickwick_Candlestick_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
 profileset."Entropic_Skardyn_Core_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -124,6 +127,9 @@ profileset."Sigil_of_Algari_Concordance_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_m
 profileset."Sigil_of_Algari_Concordance_678-Eye_of_Kezan_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
 profileset."Sigil_of_Algari_Concordance_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Sigil_of_Algari_Concordance_678-Spymasters_Web_639"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
+profileset."Sigil_of_Algari_Concordance_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Sigil_of_Algari_Concordance_678-Quickwick_Candlestick_665"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
 profileset."Sigil_of_Algari_Concordance_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -175,6 +181,9 @@ profileset."Signet_of_the_Priory_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_ju
 profileset."Signet_of_the_Priory_678-Eye_of_Kezan_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
 profileset."Signet_of_the_Priory_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Signet_of_the_Priory_678-Spymasters_Web_639"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
+profileset."Signet_of_the_Priory_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Signet_of_the_Priory_678-Quickwick_Candlestick_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
 profileset."Signet_of_the_Priory_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -223,6 +232,9 @@ profileset."Bursting_Lightshard_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug
 profileset."Bursting_Lightshard_678-Eye_of_Kezan_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
 profileset."Bursting_Lightshard_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Bursting_Lightshard_678-Spymasters_Web_639"+=trinket1=bursting_lightshard,id=219310,ilevel=678
+profileset."Bursting_Lightshard_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Bursting_Lightshard_678-Quickwick_Candlestick_665"+=trinket1=bursting_lightshard,id=219310,ilevel=678
 profileset."Bursting_Lightshard_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -268,6 +280,9 @@ profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_mo
 profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
 profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Synergistic_Brewterializer_678-Spymasters_Web_639"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
+profileset."Synergistic_Brewterializer_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Synergistic_Brewterializer_678-Quickwick_Candlestick_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
 profileset."Synergistic_Brewterializer_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -310,6 +325,9 @@ profileset."Remnant_of_Darkness_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug
 profileset."Remnant_of_Darkness_678-Eye_of_Kezan_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
 profileset."Remnant_of_Darkness_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Remnant_of_Darkness_678-Spymasters_Web_639"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
+profileset."Remnant_of_Darkness_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Remnant_of_Darkness_678-Quickwick_Candlestick_665"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
 profileset."Remnant_of_Darkness_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -349,6 +367,9 @@ profileset."Carved_Blazikon_Wax_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug
 profileset."Carved_Blazikon_Wax_678-Eye_of_Kezan_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
 profileset."Carved_Blazikon_Wax_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Carved_Blazikon_Wax_678-Spymasters_Web_639"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
+profileset."Carved_Blazikon_Wax_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Carved_Blazikon_Wax_678-Quickwick_Candlestick_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
 profileset."Carved_Blazikon_Wax_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -385,6 +406,9 @@ profileset."Gigazaps_Zap_Cap_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id
 profileset."Gigazaps_Zap_Cap_678-Eye_of_Kezan_678"+=trinket1=gigazaps_zapcap,id=232545,ilevel=678
 profileset."Gigazaps_Zap_Cap_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Gigazaps_Zap_Cap_678-Spymasters_Web_639"+=trinket1=gigazaps_zapcap,id=232545,ilevel=678
+profileset."Gigazaps_Zap_Cap_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Gigazaps_Zap_Cap_678-Quickwick_Candlestick_665"+=trinket1=gigazaps_zapcap,id=232545,ilevel=678
 profileset."Gigazaps_Zap_Cap_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -418,6 +442,9 @@ profileset."Soulletting_Ruby_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id
 profileset."Soulletting_Ruby_678-Eye_of_Kezan_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
 profileset."Soulletting_Ruby_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Soulletting_Ruby_678-Spymasters_Web_639"+=trinket1=soulletting_ruby,id=178809,ilevel=678
+profileset."Soulletting_Ruby_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Soulletting_Ruby_678-Quickwick_Candlestick_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
 profileset."Soulletting_Ruby_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -448,6 +475,9 @@ profileset."Ingenious_Mana_Battery_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_
 profileset."Ingenious_Mana_Battery_678-Eye_of_Kezan_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
 profileset."Ingenious_Mana_Battery_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Ingenious_Mana_Battery_678-Spymasters_Web_639"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Ingenious_Mana_Battery_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Ingenious_Mana_Battery_678-Quickwick_Candlestick_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
 profileset."Ingenious_Mana_Battery_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -475,6 +505,9 @@ profileset."Geargrinders_Spare_Keys_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie
 profileset."Geargrinders_Spare_Keys_678-Eye_of_Kezan_678"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
 profileset."Geargrinders_Spare_Keys_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Geargrinders_Spare_Keys_678-Spymasters_Web_639"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Geargrinders_Spare_Keys_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Geargrinders_Spare_Keys_678-Quickwick_Candlestick_665"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
 profileset."Geargrinders_Spare_Keys_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -499,6 +532,9 @@ profileset."Flarendos_Pilot_Light_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_j
 profileset."Flarendos_Pilot_Light_678-Eye_of_Kezan_678"+=trinket1=flarendos_pilot_light,id=230191,ilevel=678
 profileset."Flarendos_Pilot_Light_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Flarendos_Pilot_Light_678-Spymasters_Web_639"+=trinket1=flarendos_pilot_light,id=230191,ilevel=678
+profileset."Flarendos_Pilot_Light_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Flarendos_Pilot_Light_678-Quickwick_Candlestick_665"+=trinket1=flarendos_pilot_light,id=230191,ilevel=678
 profileset."Flarendos_Pilot_Light_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -520,6 +556,9 @@ profileset."Reverb_Radio_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230
 profileset."Reverb_Radio_678-Eye_of_Kezan_678"+=trinket1=reverb_radio,id=230194,ilevel=678
 profileset."Reverb_Radio_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Reverb_Radio_678-Spymasters_Web_639"+=trinket1=reverb_radio,id=230194,ilevel=678
+profileset."Reverb_Radio_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Reverb_Radio_678-Quickwick_Candlestick_665"+=trinket1=reverb_radio,id=230194,ilevel=678
 profileset."Reverb_Radio_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -538,6 +577,9 @@ profileset."Mister_Lock_N_Stalk_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug
 profileset."Mister_Lock_N_Stalk_678-Eye_of_Kezan_678"+=trinket1=mister_locknstalk,id=230193,ilevel=678
 profileset."Mister_Lock_N_Stalk_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Mister_Lock_N_Stalk_678-Spymasters_Web_639"+=trinket1=mister_locknstalk,id=230193,ilevel=678
+profileset."Mister_Lock_N_Stalk_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Mister_Lock_N_Stalk_678-Quickwick_Candlestick_665"+=trinket1=mister_locknstalk,id=230193,ilevel=678
 profileset."Mister_Lock_N_Stalk_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -553,6 +595,9 @@ profileset."House_of_Cards_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=2
 profileset."House_of_Cards_678-Eye_of_Kezan_678"+=trinket1=house_of_cards,id=230027,ilevel=678
 profileset."House_of_Cards_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."House_of_Cards_678-Spymasters_Web_639"+=trinket1=house_of_cards,id=230027,ilevel=678
+profileset."House_of_Cards_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."House_of_Cards_678-Quickwick_Candlestick_665"+=trinket1=house_of_cards,id=230027,ilevel=678
 profileset."House_of_Cards_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -565,6 +610,9 @@ profileset."House_of_Cards_678-Candle_Confidant_665"+=trinket2=candle_confidant,
 profileset."Mugs_Moxie_Jug_678-Eye_of_Kezan_678"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
 profileset."Mugs_Moxie_Jug_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
 
+profileset."Mugs_Moxie_Jug_678-Spymasters_Web_639"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Mugs_Moxie_Jug_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Mugs_Moxie_Jug_678-Quickwick_Candlestick_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
 profileset."Mugs_Moxie_Jug_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -574,6 +622,9 @@ profileset."Mugs_Moxie_Jug_678-Shadowbinding_Ritual_Knife_665"+=trinket2=shadowb
 profileset."Mugs_Moxie_Jug_678-Candle_Confidant_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
 profileset."Mugs_Moxie_Jug_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
 
+profileset."Eye_of_Kezan_678-Spymasters_Web_639"+=trinket1=eye_of_kezan,id=230198,ilevel=678
+profileset."Eye_of_Kezan_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+
 profileset."Eye_of_Kezan_678-Quickwick_Candlestick_665"+=trinket1=eye_of_kezan,id=230198,ilevel=678
 profileset."Eye_of_Kezan_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
 
@@ -582,6 +633,15 @@ profileset."Eye_of_Kezan_678-Shadowbinding_Ritual_Knife_665"+=trinket2=shadowbin
 
 profileset."Eye_of_Kezan_678-Candle_Confidant_665"+=trinket1=eye_of_kezan,id=230198,ilevel=678
 profileset."Eye_of_Kezan_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
+
+profileset."Spymasters_Web_639-Quickwick_Candlestick_665"+=trinket1=spymasters_web,id=220202,ilevel=639
+profileset."Spymasters_Web_639-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+
+profileset."Spymasters_Web_639-Shadowbinding_Ritual_Knife_665"+=trinket1=spymasters_web,id=220202,ilevel=639
+profileset."Spymasters_Web_639-Shadowbinding_Ritual_Knife_665"+=trinket2=shadowbinding_ritual_knife,id=215178,ilevel=665
+
+profileset."Spymasters_Web_639-Candle_Confidant_665"+=trinket1=spymasters_web,id=220202,ilevel=639
+profileset."Spymasters_Web_639-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
 
 profileset."Quickwick_Candlestick_665-Shadowbinding_Ritual_Knife_665"+=trinket1=quickwick_candlestick,id=225649,ilevel=665
 profileset."Quickwick_Candlestick_665-Shadowbinding_Ritual_Knife_665"+=trinket2=shadowbinding_ritual_knife,id=215178,ilevel=665
