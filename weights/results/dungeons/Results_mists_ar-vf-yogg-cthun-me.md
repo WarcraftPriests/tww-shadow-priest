@@ -1,4 +1,4 @@
 # mists - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|1689604|1.00|1.06|0.92|1.02|0.94|0.06|
+|Base|2359414|1.00|1.20|1.27|1.05|1.17|0.05|

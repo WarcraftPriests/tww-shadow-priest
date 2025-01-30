@@ -1,18 +1,18 @@
 # dawnbreaker - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1567152|0.95%|
-|Deepfin_Patty|1562093|0.63%|
-|Chippy_Tea|1561670|0.60%|
-|Beledars_Bounty|1561397|0.58%|
-|Salt_Baked_Seafood|1560629|0.53%|
-|Feast_of_the_Divine_Day|1560580|0.53%|
-|Marinated_Tenderloins|1560561|0.53%|
-|Sweet_and_Spicy_Soup|1560394|0.52%|
-|Fish_and_Chips|1560233|0.51%|
-|Zesty_Nibblers|1558279|0.38%|
-|Salty_Dog|1557723|0.35%|
-|Fiery_Fish_Sticks|1557490|0.33%|
-|GingerGlazed_Fillet|1557258|0.32%|
-|Stuffed_Cave_Peppers|1556242|0.25%|
-|Base|1552359|0.00%|
+|Crystallized_Augment_Rune|2373299|0.74%|
+|Fish_and_Chips|2368738|0.55%|
+|Salt_Baked_Seafood|2368312|0.53%|
+|Marinated_Tenderloins|2368240|0.53%|
+|Deepfin_Patty|2368226|0.53%|
+|Chippy_Tea|2367642|0.50%|
+|Beledars_Bounty|2367520|0.50%|
+|Sweet_and_Spicy_Soup|2367430|0.49%|
+|Feast_of_the_Divine_Day|2366649|0.46%|
+|GingerGlazed_Fillet|2364503|0.37%|
+|Fiery_Fish_Sticks|2364287|0.36%|
+|Salty_Dog|2363214|0.31%|
+|Zesty_Nibblers|2362158|0.27%|
+|Stuffed_Cave_Peppers|2360466|0.20%|
+|Base|2355801|0.00%|
