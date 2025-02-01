@@ -67,6 +67,9 @@ profileset."Funhouse_Lens_665"+=trinket1=funhouse_lens,id=234217,ilevel=665
 profileset."Ratfang_Toxin_658"+=trinket1=ratfang_toxin,id=235359,ilevel=658
 profileset."Ratfang_Toxin_665"+=trinket1=ratfang_toxin,id=235359,ilevel=665
 
+profileset."Amorphous_Relic_658"+=trinket1=amorphous_relic,id=232891,ilevel=658
+profileset."Amorphous_Relic_665"+=trinket1=amorphous_relic,id=232891,ilevel=665
+
 ## TODO: Confirm item level on this
 # profileset."Bronzebeard_Family_Compass_626"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=626
 
