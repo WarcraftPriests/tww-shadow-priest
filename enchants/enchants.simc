@@ -48,6 +48,10 @@ profileset."Legs_Weavercloth_Spellthread_1"+=legs=${gear.legs},enchant=weaverclo
 profileset."Legs_Weavercloth_Spellthread_2"+=legs=${gear.legs},enchant=weavercloth_spellthread_2
 profileset."Legs_Weavercloth_Spellthread_3"+=legs=${gear.legs},enchant=weavercloth_spellthread_3
 
+profileset."Legs_Charged_Armor_Kit_1"+=legs=${gear.legs},enchant=charged_armor_kit_1
+profileset."Legs_Charged_Armor_Kit_2"+=legs=${gear.legs},enchant=charged_armor_kit_2
+profileset."Legs_Charged_Armor_Kit_3"+=legs=${gear.legs},enchant=charged_armor_kit_3
+
 # Weapons
 profileset."Weapon_Authority_of_Radiant_Power_1"+=main_hand=${gear.main_hand},enchant=authority_of_radiant_power_1
 profileset."Weapon_Authority_of_Radiant_Power_2"+=main_hand=${gear.main_hand},enchant=authority_of_radiant_power_2

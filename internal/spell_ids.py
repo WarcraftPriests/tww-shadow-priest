@@ -73,6 +73,7 @@ enchants = {
     "Legs_Daybreak_Spellthread": 222896,
     "Legs_Sunset_Spellthread": 222893,
     "Legs_Weavercloth_Spellthread": 222890,
+    "Legs_Charged_Armor_Kit": 235336,
     "Weapon_Authority_of_Radiant_Power": 223781,
     "Weapon_Authority_of_Storms": 223772,
     "Weapon_Authority_of_the_Depths": 223784,
