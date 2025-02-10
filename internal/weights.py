@@ -48,6 +48,54 @@ weights_nerubar_palace = {
     'hm_na_8': 0.000,
 }
 
+weights_liberation_of_undermine = {
+    'pw_ba_1': 0.050,
+    'pw_sa_1': 0.113,
+    'pw_na_1': 0.488,
+    'lm_ba_1': 0.013,
+    'lm_sa_1': 0.075,
+    'lm_na_1': 0.138,
+    'hm_ba_1': 0.000,
+    'hm_sa_1': 0.000,
+    'hm_na_1': 0.038,
+    'pw_ba_2': 0.000,
+    'pw_sa_2': 0.075,
+    'pw_na_2': 0.000,
+    'lm_ba_2': 0.000,
+    'lm_sa_2': 0.013,
+    'lm_na_2': 0.000,
+    'hm_ba_2': 0.000,
+    'hm_sa_2': 0.000,
+    'hm_na_2': 0.000,
+    'pw_ba_4': 0.000,
+    'pw_sa_4': 0.000,
+    'pw_na_4': 0.000,
+    'lm_ba_4': 0.000,
+    'lm_sa_4': 0.000,
+    'lm_na_4': 0.000,
+    'hm_ba_4': 0.000,
+    'hm_sa_4': 0.000,
+    'hm_na_4': 0.000,
+    'pw_ba_3': 0.000,
+    'pw_sa_3': 0.000,
+    'pw_na_3': 0.000,
+    'lm_ba_3': 0.000,
+    'lm_sa_3': 0.000,
+    'lm_na_3': 0.000,
+    'hm_ba_3': 0.000,
+    'hm_sa_3': 0.000,
+    'hm_na_3': 0.000,
+    'pw_ba_8': 0.000,
+    'pw_sa_8': 0.000,
+    'pw_na_8': 0.000,
+    'lm_ba_8': 0.000,
+    'lm_sa_8': 0.000,
+    'lm_na_8': 0.000,
+    'hm_ba_8': 0.000,
+    'hm_sa_8': 0.000,
+    'hm_na_8': 0.000,
+}
+
 weights_single = {
     'pw_na_1': 0.73584905660,
     'lm_na_1': 0.20754716981,
@@ -129,5 +177,7 @@ def find_weights(key):
         return weights_season_one
     if key == 'weightsNerubarPalace':
         return weights_nerubar_palace
+    if key == 'weightsLiberationofUndermine':
+        return weights_liberation_of_undermine
     print(f"{key} not found")
     return None

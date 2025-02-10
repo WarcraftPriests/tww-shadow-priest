@@ -25,17 +25,17 @@ builds:
     gearSetup: default
     talents:
       composite:
-        name: VW_DH_DoS_DA_cthun_82852971246511_Spike_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmx8ADAAAAAAAAAAAgBLmxMzsMGzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA
+        name: VW_DH_DoS_DA_cthun_82853105179567_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAMMLmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwYmBACwsNbLBzGLA
       dungeons:
         name: VW_DH_DoS_DA_nzoth_cthun_98245887375279_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAMmZxDMmZmlxYmZMbzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsAA
       single:
-        name: VW_DH_DoS_DA_cthun_82852971246511_Spike_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmx8ADAAAAAAAAAAAgBLmxMzsMGzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA
+        name: VW_DH_DoS_DA_cthun_82853105179567_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAMMLmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwYmBACwsNbLBzGLA
       2t:
-        name: VW_DH_DoS_DA_cthun_80653943830447_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGDAAAAAAAAAAAgBbegxMzsMGzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stEMbsAA
+        name: VW_DH_DoS_DA_cthun_82852829412271_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmBAAAAAAAAAAAgxDMLmxMzsMmZmZMmZmlBzGzMzMmNGYMGmFz2UzMYBGzMAQAmtZbJY2YBA
       4t:
         name: VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAgxMLegxMzswYmZMbzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsAA
@@ -282,7 +282,7 @@ sims:
       - DPS
     files:
       - weights.simc
-compositeWeights: weightsNerubarPalace
+compositeWeights: weightsLiberationofUndermine
 singleTargetWeights: weightsSingle
 twoTargetWeights: weightsTwoTargets
 threeTargetWeights: weightsThreeTargets
@@ -311,10 +311,10 @@ analyze:
 stats:
   base: 4000
   steps: 1000
-  total: 37000
+  total: 47000
   min:
-    haste: 8000
-    mastery: 10000
+    haste: 15000
+    mastery: 15000
     crit: 3000
     vers: 0
   include:
