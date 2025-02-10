@@ -1,18 +1,18 @@
 # Dungeons-Route - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2822240|0.68%|
-|Deepfin_Patty|2817938|0.53%|
-|Fish_and_Chips|2817825|0.53%|
-|Sweet_and_Spicy_Soup|2817723|0.52%|
-|Beledars_Bounty|2816954|0.50%|
-|Salt_Baked_Seafood|2816952|0.50%|
-|Marinated_Tenderloins|2816641|0.48%|
-|Chippy_Tea|2816108|0.47%|
-|Feast_of_the_Divine_Day|2814392|0.40%|
-|Fiery_Fish_Sticks|2813876|0.39%|
-|Zesty_Nibblers|2813144|0.36%|
-|GingerGlazed_Fillet|2812932|0.35%|
-|Salty_Dog|2811969|0.32%|
-|Stuffed_Cave_Peppers|2809232|0.22%|
-|Base|2803058|0.00%|
+|Crystallized_Augment_Rune|3043330|0.55%|
+|Sweet_and_Spicy_Soup|3040159|0.45%|
+|Fish_and_Chips|3040072|0.44%|
+|Salt_Baked_Seafood|3039767|0.43%|
+|Deepfin_Patty|3039677|0.43%|
+|Chippy_Tea|3039416|0.42%|
+|Marinated_Tenderloins|3038843|0.40%|
+|Beledars_Bounty|3038656|0.40%|
+|Feast_of_the_Divine_Day|3037008|0.34%|
+|GingerGlazed_Fillet|3036599|0.33%|
+|Fiery_Fish_Sticks|3036022|0.31%|
+|Zesty_Nibblers|3035851|0.31%|
+|Salty_Dog|3035018|0.28%|
+|Stuffed_Cave_Peppers|3031841|0.17%|
+|Base|3026610|0.00%|
