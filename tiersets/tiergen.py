@@ -13,30 +13,37 @@ def get_item_list(name, combo):
         return name
 
 tier = {
-    'head': 'head=crest_of_lunar_communion,id=207281',
-    'shoulders': 'shoulder=shoulderguardians_of_lunar_communion,id=207279',
-    'chest': 'chest=cassock_of_lunar_communion,id=207284,enchant_id=6625',
-    'hands': 'hands=touch_of_lunar_communion,id=207282',
-    'legs': 'legs=leggings_of_lunar_communion,id=207280,enchant_id=6541'
+    'head': 'head=confessors_unshakable_halo,id=229334',
+    'shoulders': 'shoulder=confessors_unshakable_radiance,id=229332',
+    'chest': 'chest=confessors_unshakable_vestment,id=229337,enchant=crystalline_radiance_3',
+    'hands': 'hands=confessors_unshakable_mitts,id=229335',
+    'legs': 'legs=confessors_unshakable_leggings,id=229333,enchant=sunset_spellthread_3'
 }
 
-# Normal: 463/476
-# Heroic: 483
-# Mythic: 489
-item_levels = [463, 476, 483, 489]
+talents = {
+    'current': 'CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAMMLegxMzsNGzMzMmZmlBzGzMzMmNGYMGmFz2UzMYBGAzsZZ0sYAIjxCAA',
+    'new': 'CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLegxMzsNGzMzMGzsMY2YmZmxsxAjxwsY2mamBLYGAzsZZ0sZAIjxCAA'
+}
+
+# Normal: 658
+# Heroic: 665
+# Mythic: 678
+item_levels = [658, 665, 678]
 profiles = []
 two_set_combos = list(itertools.combinations(tier.keys(), 2))
 four_set_combos = list(itertools.combinations(tier.keys(), 4))
 combos = two_set_combos + four_set_combos
 
-for ilevel in item_levels:
-    for combo in combos:
-        item_list = get_item_list("", combo)
-        name = f"{len(combo)}_{item_list}_{ilevel}"
-        profile_string = ""
-        for item in combo:
-            profile_string += f"profileset.\"{name}\"+={tier[item]},ilevel={ilevel}\n"
-        profiles.append(profile_string + '\n')
+for talent in talents:
+    for ilevel in item_levels:
+        for combo in combos:
+            item_list = get_item_list("", combo)
+            name = f"{len(combo)}_{item_list}_{ilevel}_{talent}"
+            profile_string = ""
+            profile_string += f"profileset.\"{name}\"+=talents={talents[talent]}\n"
+            for item in combo:
+                profile_string += f"profileset.\"{name}\"+={tier[item]},ilevel={ilevel}\n"
+            profiles.append(profile_string + '\n')
 
 base_file_contents = ""
 with open(base_file, 'r') as file:

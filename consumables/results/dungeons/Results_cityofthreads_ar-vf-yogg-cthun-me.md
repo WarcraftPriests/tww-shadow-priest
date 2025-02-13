@@ -1,18 +1,18 @@
 # cityofthreads - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2843102|0.46%|
-|Deepfin_Patty|2841821|0.41%|
-|Sweet_and_Spicy_Soup|2841702|0.41%|
-|Chippy_Tea|2841385|0.40%|
-|Salt_Baked_Seafood|2841243|0.39%|
-|Marinated_Tenderloins|2840925|0.38%|
-|Fish_and_Chips|2840875|0.38%|
-|Beledars_Bounty|2840489|0.36%|
-|Feast_of_the_Divine_Day|2838899|0.31%|
-|GingerGlazed_Fillet|2838621|0.30%|
-|Fiery_Fish_Sticks|2837915|0.27%|
-|Zesty_Nibblers|2837455|0.26%|
-|Salty_Dog|2836646|0.23%|
-|Stuffed_Cave_Peppers|2832727|0.09%|
-|Base|2830173|0.00%|
+|Deepfin_Patty|2909183|0.55%|
+|Crystallized_Augment_Rune|2908569|0.53%|
+|Chippy_Tea|2907068|0.48%|
+|Fish_and_Chips|2906633|0.46%|
+|Sweet_and_Spicy_Soup|2905958|0.44%|
+|Beledars_Bounty|2905951|0.44%|
+|Marinated_Tenderloins|2904848|0.40%|
+|Feast_of_the_Divine_Day|2904177|0.38%|
+|Salt_Baked_Seafood|2904136|0.38%|
+|Zesty_Nibblers|2901342|0.28%|
+|Salty_Dog|2900972|0.27%|
+|GingerGlazed_Fillet|2900495|0.25%|
+|Fiery_Fish_Sticks|2900377|0.25%|
+|Stuffed_Cave_Peppers|2895547|0.08%|
+|Base|2893181|0.00%|

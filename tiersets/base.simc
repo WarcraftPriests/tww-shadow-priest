@@ -1,42 +1,26 @@
-priest="Base"
-level=70
-race=dwarf
-role=spell
+ptr=1
+priest="TWW1_Priest_Shadow_Archon"
+level=80
+race=maghar_orc
 spec=shadow
+role=spell
+position=ranged_back
+talents=CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGzMzygZjZmZGzGDMGDziZbqZGsADgZ2sMaWMAkxYB
 
-talents=BIQAdQY/q8RdYb6JH8T4eAaBLKIREAAAAAAAAAAAAgkoFkIl0OgkERSSBShkkEpFBICpItQSQBSA
-
-# Mask of the Furnace Seraph (447)
-head=,id=202542,gem_id=192988,bonus_id=6652/9229/9382/1504/8767/9413
-# Torc of Passed Time  (447)
-neck=,id=201759,gem_id=192958/192958/192958,bonus_id=8836/8840/8902/9477/8782/9405/8793/9376/8174/9366,crafted_stats=40/36,crafting_quality=5
-# Devotion of the Furnace Seraph (450)
-shoulder=,id=202540,bonus_id=6652/9227/9410/9383/1507/8767
-# Undulating Sporecloak  (447)
-back=,id=205025,enchant_id=6592,bonus_id=8836/8840/8902/8960/9405/9366/9376,crafting_quality=5
-# Reanimator's Wicked Cassock (447)
-chest=,id=202600,enchant_id=6625,bonus_id=9410/6652/9224/9221/9382/1504/8767
-# Precious' Ribbon (1)
-shirt=,id=52019
-# Tabard of the Ebon Blade (31)
-tabard=,id=43155
-# Allied Wristguards of Time Dilation  (447)
-wrist=,id=193530,gem_id=192958,bonus_id=8836/8840/8902/8960/9405/9376/9366/9413,crafting_quality=5
-# Grasp of the Furnace Seraph (447)
-hands=,id=202543,bonus_id=6652/9230/9382/1498/8767
-# Sash of the Furnace Seraph (447)
-waist=,id=202539,enchant_id=6904,gem_id=192958,bonus_id=6652/9382/1504/9413
-# Breeches of the Furnace Seraph (447)
-legs=,id=202541,enchant_id=6541,bonus_id=6652/9382/9228/1504,ilevel=450
-# Vibrant Wildercloth Slippers  (447)
-feet=,id=193519,enchant_id=6613,bonus_id=8836/8840/8902/9405/9376/8793/9237/9366,crafted_stats=36/49,crafting_quality=5
-# Ring-Bound Hourglass  (447)
-finger1=,id=193000,enchant_id=6550,gem_id=192958,bonus_id=8836/8840/8902/8780/9405/8793/9376/9366,crafted_stats=49/32,crafting_quality=5
-# Signet of Titanic Insight  (447)
-finger2=,id=192999,enchant_id=6550,gem_id=192958,bonus_id=8836/8840/8902/8780/9405/8793/9376/8174/9366,crafted_stats=32/36,crafting_quality=5
-# Spoils of Neltharus (447)
-trinket1=,id=193773,bonus_id=6652/9144/9382/1669/8767
-# Neltharion's Call to Suffering (457)
-trinket2=,id=204211,bonus_id=6652/9410/9385/1498/8767
-# Erethos, the Empty Promise (450)
-main_hand=,id=202565,enchant_id=6643,bonus_id=6652/9410/9383/1498/8767
+head=living_lusters_semblance,id=212083,ilevel=639,gem_id=213743
+neck=sureki_zealots_insignia,id=225577,ilevel=639,gem_id=213482/213458
+shoulders=living_lusters_dominion,id=212081,ilevel=639
+back=wings_of_shattered_sorrow,id=225574,ilevel=639
+chest=living_lusters_raiment,id=212086,ilevel=639,enchant=crystalline_radiance_3
+wrists=consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=636,gem_id=213491
+hands=gory_surgeons_gloves,id=178748,ilevel=639
+waist=acrid_ascendants_sash,id=225585,ilevel=639,gem_id=213473
+legs=living_lusters_trousers,id=212082,ilevel=639,enchant=sunset_spellthread_3
+feet=assimilated_eggshell_slippers,id=225582,ilevel=639
+finger1=writhing_ringworm,id=225576,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494
+finger1=cyrces_circlet,id=228411,gem_id=228638/228639/228646,bonus_id=12025/1511,enchant=radiant_mastery_3
+finger2=seal_of_the_poisoned_pact,id=225578,ilevel=639,enchant=radiant_mastery_3,gem_id=213494/213494
+trinket1=spymasters_web,id=220202,ilevel=639
+trinket2=arakara_sacbrood,id=219314,ilevel=639
+main_hand=wand_of_untainted_power,id=133288,ilevel=639,enchant=authority_of_the_depths_3
+off_hand=vagabonds_torch,id=222566,ilevel=636,bonus_id=11300/8793=

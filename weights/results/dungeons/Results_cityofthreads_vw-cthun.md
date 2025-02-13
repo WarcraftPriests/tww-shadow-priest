@@ -1,4 +1,4 @@
 # cityofthreads - vw-cthun
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|2580474|1.00|1.09|1.40|1.07|1.22|0.04|
+|Base|2824763|1.00|1.15|1.27|1.07|1.21|0.04|

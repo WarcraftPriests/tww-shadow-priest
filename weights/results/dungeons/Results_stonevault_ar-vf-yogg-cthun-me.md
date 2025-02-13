@@ -1,4 +1,4 @@
 # stonevault - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|3557975|1.00|1.23|1.29|1.06|1.17|0.03|
+|Base|3978916|1.00|1.43|1.27|1.13|1.25|0.03|

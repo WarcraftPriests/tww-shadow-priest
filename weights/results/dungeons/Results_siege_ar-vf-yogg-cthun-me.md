@@ -1,4 +1,4 @@
 # siege - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|2489941|1.00|1.21|1.31|1.06|1.21|0.05|
+|Base|2730620|1.00|1.34|1.27|1.12|1.25|0.05|

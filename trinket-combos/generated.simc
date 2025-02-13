@@ -28,14 +28,8 @@ profileset."Entropic_Skardyn_Core_678-Sigil_of_Algari_Concordance_678"+=trinket2
 profileset."Entropic_Skardyn_Core_678-Signet_of_the_Priory_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
 profileset."Entropic_Skardyn_Core_678-Signet_of_the_Priory_678"+=trinket2=signet_of_the_priory,id=219308,ilevel=678
 
-profileset."Entropic_Skardyn_Core_678-Bursting_Lightshard_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Bursting_Lightshard_678"+=trinket2=bursting_lightshard,id=219310,ilevel=678
-
 profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
 profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_678"+=trinket2=synergistic_brewterializer,id=219299,ilevel=678
-
-profileset."Entropic_Skardyn_Core_678-Remnant_of_Darkness_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Remnant_of_Darkness_678"+=trinket2=remnant_of_darkness,id=219307,ilevel=678
 
 profileset."Entropic_Skardyn_Core_678-Carved_Blazikon_Wax_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
 profileset."Entropic_Skardyn_Core_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
@@ -45,9 +39,6 @@ profileset."Entropic_Skardyn_Core_678-Gigazaps_Zap_Cap_678"+=trinket2=gigazaps_z
 
 profileset."Entropic_Skardyn_Core_678-Soulletting_Ruby_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
 profileset."Entropic_Skardyn_Core_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
-
-profileset."Entropic_Skardyn_Core_678-Ingenious_Mana_Battery_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
 
 profileset."Entropic_Skardyn_Core_678-Geargrinders_Spare_Keys_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
 profileset."Entropic_Skardyn_Core_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
@@ -85,14 +76,8 @@ profileset."Entropic_Skardyn_Core_678-Candle_Confidant_665"+=trinket2=candle_con
 profileset."Sigil_of_Algari_Concordance_678-Signet_of_the_Priory_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
 profileset."Sigil_of_Algari_Concordance_678-Signet_of_the_Priory_678"+=trinket2=signet_of_the_priory,id=219308,ilevel=678
 
-profileset."Sigil_of_Algari_Concordance_678-Bursting_Lightshard_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
-profileset."Sigil_of_Algari_Concordance_678-Bursting_Lightshard_678"+=trinket2=bursting_lightshard,id=219310,ilevel=678
-
 profileset."Sigil_of_Algari_Concordance_678-Synergistic_Brewterializer_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
 profileset."Sigil_of_Algari_Concordance_678-Synergistic_Brewterializer_678"+=trinket2=synergistic_brewterializer,id=219299,ilevel=678
-
-profileset."Sigil_of_Algari_Concordance_678-Remnant_of_Darkness_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
-profileset."Sigil_of_Algari_Concordance_678-Remnant_of_Darkness_678"+=trinket2=remnant_of_darkness,id=219307,ilevel=678
 
 profileset."Sigil_of_Algari_Concordance_678-Carved_Blazikon_Wax_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
 profileset."Sigil_of_Algari_Concordance_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
@@ -102,9 +87,6 @@ profileset."Sigil_of_Algari_Concordance_678-Gigazaps_Zap_Cap_678"+=trinket2=giga
 
 profileset."Sigil_of_Algari_Concordance_678-Soulletting_Ruby_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
 profileset."Sigil_of_Algari_Concordance_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
-
-profileset."Sigil_of_Algari_Concordance_678-Ingenious_Mana_Battery_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
-profileset."Sigil_of_Algari_Concordance_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
 
 profileset."Sigil_of_Algari_Concordance_678-Geargrinders_Spare_Keys_678"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
 profileset."Sigil_of_Algari_Concordance_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
@@ -139,14 +121,8 @@ profileset."Sigil_of_Algari_Concordance_678-Shadowbinding_Ritual_Knife_665"+=tri
 profileset."Sigil_of_Algari_Concordance_678-Candle_Confidant_665"+=trinket1=sigil_of_algari_concordance,id=219295,ilevel=678
 profileset."Sigil_of_Algari_Concordance_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
 
-profileset."Signet_of_the_Priory_678-Bursting_Lightshard_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Bursting_Lightshard_678"+=trinket2=bursting_lightshard,id=219310,ilevel=678
-
 profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
 profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_678"+=trinket2=synergistic_brewterializer,id=219299,ilevel=678
-
-profileset."Signet_of_the_Priory_678-Remnant_of_Darkness_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Remnant_of_Darkness_678"+=trinket2=remnant_of_darkness,id=219307,ilevel=678
 
 profileset."Signet_of_the_Priory_678-Carved_Blazikon_Wax_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
 profileset."Signet_of_the_Priory_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
@@ -156,9 +132,6 @@ profileset."Signet_of_the_Priory_678-Gigazaps_Zap_Cap_678"+=trinket2=gigazaps_za
 
 profileset."Signet_of_the_Priory_678-Soulletting_Ruby_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
 profileset."Signet_of_the_Priory_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
-
-profileset."Signet_of_the_Priory_678-Ingenious_Mana_Battery_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
 
 profileset."Signet_of_the_Priory_678-Geargrinders_Spare_Keys_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
 profileset."Signet_of_the_Priory_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
@@ -193,60 +166,6 @@ profileset."Signet_of_the_Priory_678-Shadowbinding_Ritual_Knife_665"+=trinket2=s
 profileset."Signet_of_the_Priory_678-Candle_Confidant_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
 profileset."Signet_of_the_Priory_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
 
-profileset."Bursting_Lightshard_678-Synergistic_Brewterializer_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Synergistic_Brewterializer_678"+=trinket2=synergistic_brewterializer,id=219299,ilevel=678
-
-profileset."Bursting_Lightshard_678-Remnant_of_Darkness_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Remnant_of_Darkness_678"+=trinket2=remnant_of_darkness,id=219307,ilevel=678
-
-profileset."Bursting_Lightshard_678-Carved_Blazikon_Wax_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
-
-profileset."Bursting_Lightshard_678-Gigazaps_Zap_Cap_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Gigazaps_Zap_Cap_678"+=trinket2=gigazaps_zapcap,id=232545,ilevel=678
-
-profileset."Bursting_Lightshard_678-Soulletting_Ruby_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
-
-profileset."Bursting_Lightshard_678-Ingenious_Mana_Battery_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
-
-profileset."Bursting_Lightshard_678-Geargrinders_Spare_Keys_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
-
-profileset."Bursting_Lightshard_678-Flarendos_Pilot_Light_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Flarendos_Pilot_Light_678"+=trinket2=flarendos_pilot_light,id=230191,ilevel=678
-
-profileset."Bursting_Lightshard_678-Reverb_Radio_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
-
-profileset."Bursting_Lightshard_678-Mister_Lock_N_Stalk_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Mister_Lock_N_Stalk_678"+=trinket2=mister_locknstalk,id=230193,ilevel=678
-
-profileset."Bursting_Lightshard_678-House_of_Cards_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
-
-profileset."Bursting_Lightshard_678-Mugs_Moxie_Jug_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
-
-profileset."Bursting_Lightshard_678-Eye_of_Kezan_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
-
-profileset."Bursting_Lightshard_678-Spymasters_Web_639"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
-
-profileset."Bursting_Lightshard_678-Quickwick_Candlestick_665"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
-
-profileset."Bursting_Lightshard_678-Shadowbinding_Ritual_Knife_665"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Shadowbinding_Ritual_Knife_665"+=trinket2=shadowbinding_ritual_knife,id=215178,ilevel=665
-
-profileset."Bursting_Lightshard_678-Candle_Confidant_665"+=trinket1=bursting_lightshard,id=219310,ilevel=678
-profileset."Bursting_Lightshard_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
-
-profileset."Synergistic_Brewterializer_678-Remnant_of_Darkness_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Remnant_of_Darkness_678"+=trinket2=remnant_of_darkness,id=219307,ilevel=678
-
 profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
 profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
 
@@ -255,9 +174,6 @@ profileset."Synergistic_Brewterializer_678-Gigazaps_Zap_Cap_678"+=trinket2=gigaz
 
 profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
 profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
-
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
 
 profileset."Synergistic_Brewterializer_678-Geargrinders_Spare_Keys_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
 profileset."Synergistic_Brewterializer_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
@@ -292,59 +208,11 @@ profileset."Synergistic_Brewterializer_678-Shadowbinding_Ritual_Knife_665"+=trin
 profileset."Synergistic_Brewterializer_678-Candle_Confidant_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
 profileset."Synergistic_Brewterializer_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
 
-profileset."Remnant_of_Darkness_678-Carved_Blazikon_Wax_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Gigazaps_Zap_Cap_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Gigazaps_Zap_Cap_678"+=trinket2=gigazaps_zapcap,id=232545,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Soulletting_Ruby_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Ingenious_Mana_Battery_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Geargrinders_Spare_Keys_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Flarendos_Pilot_Light_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Flarendos_Pilot_Light_678"+=trinket2=flarendos_pilot_light,id=230191,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Reverb_Radio_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Mister_Lock_N_Stalk_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Mister_Lock_N_Stalk_678"+=trinket2=mister_locknstalk,id=230193,ilevel=678
-
-profileset."Remnant_of_Darkness_678-House_of_Cards_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Mugs_Moxie_Jug_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Eye_of_Kezan_678"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
-
-profileset."Remnant_of_Darkness_678-Spymasters_Web_639"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
-
-profileset."Remnant_of_Darkness_678-Quickwick_Candlestick_665"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
-
-profileset."Remnant_of_Darkness_678-Shadowbinding_Ritual_Knife_665"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Shadowbinding_Ritual_Knife_665"+=trinket2=shadowbinding_ritual_knife,id=215178,ilevel=665
-
-profileset."Remnant_of_Darkness_678-Candle_Confidant_665"+=trinket1=remnant_of_darkness,id=219307,ilevel=678
-profileset."Remnant_of_Darkness_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
-
 profileset."Carved_Blazikon_Wax_678-Gigazaps_Zap_Cap_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
 profileset."Carved_Blazikon_Wax_678-Gigazaps_Zap_Cap_678"+=trinket2=gigazaps_zapcap,id=232545,ilevel=678
 
 profileset."Carved_Blazikon_Wax_678-Soulletting_Ruby_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
 profileset."Carved_Blazikon_Wax_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
-
-profileset."Carved_Blazikon_Wax_678-Ingenious_Mana_Battery_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
 
 profileset."Carved_Blazikon_Wax_678-Geargrinders_Spare_Keys_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
 profileset."Carved_Blazikon_Wax_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
@@ -382,9 +250,6 @@ profileset."Carved_Blazikon_Wax_678-Candle_Confidant_665"+=trinket2=candle_confi
 profileset."Gigazaps_Zap_Cap_678-Soulletting_Ruby_678"+=trinket1=gigazaps_zapcap,id=232545,ilevel=678
 profileset."Gigazaps_Zap_Cap_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
 
-profileset."Gigazaps_Zap_Cap_678-Ingenious_Mana_Battery_678"+=trinket1=gigazaps_zapcap,id=232545,ilevel=678
-profileset."Gigazaps_Zap_Cap_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
-
 profileset."Gigazaps_Zap_Cap_678-Geargrinders_Spare_Keys_678"+=trinket1=gigazaps_zapcap,id=232545,ilevel=678
 profileset."Gigazaps_Zap_Cap_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
 
@@ -418,9 +283,6 @@ profileset."Gigazaps_Zap_Cap_678-Shadowbinding_Ritual_Knife_665"+=trinket2=shado
 profileset."Gigazaps_Zap_Cap_678-Candle_Confidant_665"+=trinket1=gigazaps_zapcap,id=232545,ilevel=678
 profileset."Gigazaps_Zap_Cap_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
 
-profileset."Soulletting_Ruby_678-Ingenious_Mana_Battery_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
-
 profileset."Soulletting_Ruby_678-Geargrinders_Spare_Keys_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
 profileset."Soulletting_Ruby_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
 
@@ -453,39 +315,6 @@ profileset."Soulletting_Ruby_678-Shadowbinding_Ritual_Knife_665"+=trinket2=shado
 
 profileset."Soulletting_Ruby_678-Candle_Confidant_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
 profileset."Soulletting_Ruby_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
-
-profileset."Ingenious_Mana_Battery_678-Geargrinders_Spare_Keys_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
-
-profileset."Ingenious_Mana_Battery_678-Flarendos_Pilot_Light_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Flarendos_Pilot_Light_678"+=trinket2=flarendos_pilot_light,id=230191,ilevel=678
-
-profileset."Ingenious_Mana_Battery_678-Reverb_Radio_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
-
-profileset."Ingenious_Mana_Battery_678-Mister_Lock_N_Stalk_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Mister_Lock_N_Stalk_678"+=trinket2=mister_locknstalk,id=230193,ilevel=678
-
-profileset."Ingenious_Mana_Battery_678-House_of_Cards_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
-
-profileset."Ingenious_Mana_Battery_678-Mugs_Moxie_Jug_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
-
-profileset."Ingenious_Mana_Battery_678-Eye_of_Kezan_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
-
-profileset."Ingenious_Mana_Battery_678-Spymasters_Web_639"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
-
-profileset."Ingenious_Mana_Battery_678-Quickwick_Candlestick_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
-
-profileset."Ingenious_Mana_Battery_678-Shadowbinding_Ritual_Knife_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Shadowbinding_Ritual_Knife_665"+=trinket2=shadowbinding_ritual_knife,id=215178,ilevel=665
-
-profileset."Ingenious_Mana_Battery_678-Candle_Confidant_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Candle_Confidant_665"+=trinket2=candle_confidant,id=225648,ilevel=665
 
 profileset."Geargrinders_Spare_Keys_678-Flarendos_Pilot_Light_678"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
 profileset."Geargrinders_Spare_Keys_678-Flarendos_Pilot_Light_678"+=trinket2=flarendos_pilot_light,id=230191,ilevel=678
