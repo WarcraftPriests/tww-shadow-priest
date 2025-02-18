@@ -25,8 +25,23 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # 11.1
-profileset."Finger1_Miniature_Roulette_Wheel_678"+=finger1=miniature_roulette_wheel,id=228843,ilevel=678,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
-profileset."Finger2_Miniature_Roulette_Wheel_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+
+## Roulette Wheel
+### Big Stat: Crit: 11136 | Mastery: 11137 | Haste: 11138 | Vers: 11139
+### Small Stat: Crit: 8949  | Mastery: 8950  | Haste: 8948  | Vers: 8951 
+profileset."Finger1_Miniature_Roulette_Wheel_Haste_Mastery_678"+=finger1=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11138/8950,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger1_Miniature_Roulette_Wheel_Mastery_Haste_678"+=finger1=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11137/8948,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger1_Miniature_Roulette_Wheel_Haste_Crit_678"+=finger1=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11138/8949,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger1_Miniature_Roulette_Wheel_Crit_Haste_678"+=finger1=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11136/8948,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger1_Miniature_Roulette_Wheel_Mastery_Crit_678"+=finger1=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11137/8949,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger1_Miniature_Roulette_Wheel_Crit_Mastery_678"+=finger1=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11136/8950,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+
+profileset."Finger2_Miniature_Roulette_Wheel_Haste_Mastery_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11138/8950,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger2_Miniature_Roulette_Wheel_Mastery_Haste_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11137/8948,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger2_Miniature_Roulette_Wheel_Haste_Crit_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11138/8949,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger2_Miniature_Roulette_Wheel_Crit_Haste_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11136/8948,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger2_Miniature_Roulette_Wheel_Mastery_Crit_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11137/8949,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
+profileset."Finger2_Miniature_Roulette_Wheel_Crit_Mastery_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,bonus_ids=11136/8950,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
 
 profileset."1H_Big_Earners_Bludgeon_678"+=main_hand=big_earners_bludgeon,id=228901,ilevel=678,enchant=${enchants.main_hand}
 profileset."1H_Big_Earners_Bludgeon_678"+=off_hand=operators_fraud_detector,id=228906,ilevel=678
