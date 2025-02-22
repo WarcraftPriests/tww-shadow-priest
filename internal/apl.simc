@@ -15,6 +15,7 @@ actions.precombat+=/variable,name=me_force_prio,default=1,op=reset
 actions.precombat+=/variable,name=max_vts,default=12,op=reset
 actions.precombat+=/variable,name=is_vt_possible,default=0,op=reset
 actions.precombat+=/variable,name=pooling_mindblasts,default=0,op=reset
+actions.precombat+=/use_item,name=ingenious_mana_battery
 actions.precombat+=/arcane_torrent
 actions.precombat+=/use_item,name=aberrant_spellforge
 actions.precombat+=/halo,if=!fight_style.dungeonroute&!fight_style.dungeonslice&active_enemies<=4&(fight_remains>=120|active_enemies<=2)
@@ -42,16 +43,17 @@ actions.aoe_variables+=/variable,name=holding_crash,op=set,value=(variable.max_v
 actions.aoe_variables+=/variable,name=manual_vts_applied,op=set,value=(active_dot.vampiric_touch+8*!variable.holding_crash)>=variable.max_vts|!variable.is_vt_possible
 
 # TODO: Check VE/DA enter conditions based on dots
-actions.cds=potion,if=(buff.voidform.up|buff.power_infusion.up|buff.dark_ascension.up&(fight_remains<=cooldown.power_infusion.remains+15))&(fight_remains>=320|time_to_bloodlust>=320|buff.bloodlust.react)|fight_remains<=30
-actions.cds+=/fireblood,if=buff.power_infusion.up|fight_remains<=8
-actions.cds+=/berserking,if=buff.power_infusion.up|fight_remains<=12
-actions.cds+=/blood_fury,if=buff.power_infusion.up|fight_remains<=15
-actions.cds+=/ancestral_call,if=buff.power_infusion.up|fight_remains<=15
-# Sync Power Infusion with Voidform or Dark Ascension
-actions.cds+=/power_infusion,if=(buff.voidform.up|buff.dark_ascension.up&(fight_remains<=80|fight_remains>=140)|active_allied_augmentations)&(!buff.power_infusion.up|set_bonus.tww2_4pc&buff.power_infusion.remains<=15)
+actions.cds=potion,if=(buff.voidform.up&buff.power_infusion.up|buff.dark_ascension.up&(fight_remains<=cooldown.power_infusion.remains+15))&(fight_remains>=320|time_to_bloodlust>=320|buff.bloodlust.react)|fight_remains<=30
+actions.cds+=/fireblood,if=buff.power_infusion.up&(buff.voidform.up|buff.dark_ascension.up)|fight_remains<=8
+actions.cds+=/berserking,if=buff.power_infusion.up&(buff.voidform.up|buff.dark_ascension.up)|fight_remains<=12
+actions.cds+=/blood_fury,if=buff.power_infusion.up&(buff.voidform.up|buff.dark_ascension.up)|fight_remains<=15
+actions.cds+=/ancestral_call,if=buff.power_infusion.up&(buff.voidform.up|buff.dark_ascension.up)|fight_remains<=15
 # Use <a href='https://www.wowhead.com/spell=10060/power-infusion'>Power Infusion</a> while <a href='https://www.wowhead.com/spell=194249/voidform'>Voidform</a> or <a href='https://www.wowhead.com/spell=391109/dark-ascension'>Dark Ascension</a> is active. Chain directly after your own <a href='https://www.wowhead.com/spell=10060/power-infusion'>Power Infusion</a>.
-actions.cds+=/invoke_external_buff,name=power_infusion,if=(buff.voidform.up|buff.dark_ascension.up)&!buff.power_infusion.up
+actions.cds+=/cancel_buff,name=power_infusion,if=cooldown.invoke_power_infusion_0.up&cooldown.invoke_power_infusion_0.duration>0&set_bonus.tww2_4pc&buff.power_infusion.remains<=2
+actions.cds+=/invoke_external_buff,name=power_infusion,if=(buff.voidform.up|buff.dark_ascension.up|set_bonus.tww2_4pc)&!buff.power_infusion.up
 actions.cds+=/invoke_external_buff,name=bloodlust,if=buff.power_infusion.up&fight_remains<120|fight_remains<=40
+# Sync Power Infusion with Voidform or Dark Ascension
+actions.cds+=/power_infusion,if=(buff.voidform.up|buff.dark_ascension.up&(fight_remains<=80|fight_remains>=140)|active_allied_augmentations)&(!buff.power_infusion.up|set_bonus.tww2_4pc&buff.power_infusion.remains<=15)&(cooldown.invoke_power_infusion_0.remains>=10|!set_bonus.tier31_4pc|cooldown.invoke_power_infusion_0.duration=0)
 # Make sure Mindbender is active before popping Dark Ascension unless you have insignificant talent points or too many targets
 actions.cds+=/halo,if=talent.power_surge&(pet.fiend.active&cooldown.fiend.remains>=4&talent.mindbender|!talent.mindbender&!cooldown.fiend.up|active_enemies>2&!talent.inescapable_torment|!talent.dark_ascension)&(cooldown.mind_blast.charges=0|!talent.void_eruption|cooldown.void_eruption.remains>=gcd.max*4|buff.mind_devourer.up&talent.mind_devourer)
 # Make sure Mindbender is active before popping Void Eruption and dump charges of Mind Blast before casting
@@ -110,11 +112,11 @@ actions.main=variable,name=dots_up,op=set,value=active_dot.vampiric_touch=active
 actions.main+=/void_bolt,target_if=max:target.time_to_die,only_cwc=1
 # Are we pooling mindblasts? Currently only used for Voidweaver.
 actions.main+=/variable,name=pooling_mindblasts,op=setif,value=1,value_else=0,condition=(cooldown.void_torrent.remains<?(variable.holding_crash*raid_event.adds.in))<=gcd.max*(1+talent.mind_melt*1),if=talent.void_blast
-actions.main+=/call_action_list,name=cds,if=fight_remains<30|target.time_to_die>15&(!variable.holding_crash|active_enemies>2)
 # High priority action to consume Unfurling Darkness during the opener with Voidweaver
 actions.main+=/vampiric_touch,target_if=min:remains,if=buff.unfurling_darkness.up&talent.unfurling_darkness&talent.mind_melt&talent.void_blast&buff.mind_melt.stack<2&cooldown.mindbender.up&cooldown.dark_ascension.up&time<=4
-# High priority action to Mind Spike to get to enough Insanity during the opener with Voidweaver
-actions.main+=/mind_spike,if=talent.mind_melt&talent.void_blast&(buff.mind_melt.stack<(1*talent.distorted_reality+1-talent.unfurling_darkness-talent.minds_eye*1)&talent.halo|!talent.halo&buff.mind_melt.stack<2)&cooldown.mindbender.up&cooldown.dark_ascension.up&time<=4&insanity<=20
+# High priority action to Mind Spike to get to enough Insanity during the opener with Voidweaver. Do not need to do this with the 4pc.
+actions.main+=/mind_spike,if=talent.mind_melt&talent.void_blast&(buff.mind_melt.stack<(1*talent.distorted_reality+1-talent.unfurling_darkness-talent.minds_eye*1)&talent.halo|!talent.halo&buff.mind_melt.stack<2)&cooldown.mindbender.up&cooldown.dark_ascension.up&time<=4&insanity<=20&!set_bonus.tww2_4pc
+actions.main+=/call_action_list,name=cds,if=fight_remains<30|target.time_to_die>15&(!variable.holding_crash|active_enemies>2)
 # Use Shadowfiend and Mindbender on cooldown as long as Vampiric Touch and Shadow Word: Pain are active and sync with Dark Ascension
 actions.main+=/mindbender,if=(dot.shadow_word_pain.ticking&variable.dots_up|action.shadow_crash.in_flight&talent.whispering_shadows)&(fight_remains<30|target.time_to_die>15)&(!talent.dark_ascension|cooldown.dark_ascension.remains<gcd.max|fight_remains<15)
 # High Priority Shadow Word: Death when you are forcing the bonus from Devour Matter
