@@ -111,7 +111,7 @@ actions.heal_for_tof+=/holy_nova,if=buff.rhapsody.stack=20&talent.rhapsody
 actions.main=variable,name=dots_up,op=set,value=active_dot.vampiric_touch=active_enemies|action.shadow_crash.in_flight&talent.whispering_shadows,if=active_enemies<3
 actions.main+=/void_bolt,target_if=max:target.time_to_die,only_cwc=1
 # Are we pooling mindblasts? Currently only used for Voidweaver.
-actions.main+=/variable,name=pooling_mindblasts,op=setif,value=1,value_else=0,condition=(cooldown.void_torrent.remains<?(variable.holding_crash*raid_event.adds.in))<=gcd.max*(1+talent.mind_melt*1),if=talent.void_blast
+actions.main+=/variable,name=pooling_mindblasts,op=setif,value=1,value_else=0,condition=(cooldown.void_torrent.remains<?(variable.holding_crash*raid_event.adds.in))<=gcd.max*(2+talent.mind_melt*2),if=talent.void_blast
 # High priority action to consume Unfurling Darkness during the opener with Voidweaver
 actions.main+=/vampiric_touch,target_if=min:remains,if=buff.unfurling_darkness.up&talent.unfurling_darkness&talent.mind_melt&talent.void_blast&buff.mind_melt.stack<2&cooldown.mindbender.up&cooldown.dark_ascension.up&time<=4
 # High priority action to Mind Spike to get to enough Insanity during the opener with Voidweaver. Do not need to do this with the 4pc.
@@ -151,7 +151,7 @@ actions.main+=/call_action_list,name=heal_for_tof,if=!buff.twist_of_fate.up&buff
 # Spend your Insanity on Devouring Plague at will if the fight will end in less than 10s
 actions.main+=/devouring_plague,if=fight_remains<=duration+4
 # Use Devouring Plague to maximize uptime. Short circuit if you are capping on Insanity within 35 With Distorted Reality can maintain more than one at a time in multi-target.
-actions.main+=/devouring_plague,target_if=max:target.time_to_die*(dot.devouring_plague.remains<=gcd.max|variable.dr_force_prio|!talent.distorted_reality&variable.me_force_prio),if=insanity.deficit<=35&talent.distorted_reality|buff.mind_devourer.up&cooldown.mind_blast.up&(cooldown.void_eruption.remains>=3*gcd.max|!talent.void_eruption)&talent.mind_devourer|buff.entropic_rift.up
+actions.main+=/devouring_plague,target_if=max:target.time_to_die*(dot.devouring_plague.remains<=gcd.max|variable.dr_force_prio|!talent.distorted_reality&variable.me_force_prio),if=insanity.deficit<=35&talent.distorted_reality|buff.mind_devourer.up&cooldown.mind_blast.up&(cooldown.void_eruption.remains>=3*gcd.max|!talent.void_eruption)&talent.mind_devourer|buff.entropic_rift.up&(buff.dark_ascension.up|insanity.deficit>=85)
 # Use Void Torrent if it will get near full Mastery Value and you have Cthun and Void Eruption. Prune this action for Entropic Rift Builds.
 actions.main+=/void_torrent,target_if=max:(dot.devouring_plague.remains*1000+target.time_to_die),if=!variable.holding_crash&!talent.entropic_rift&(cooldown.mind_blast.full_recharge_time>=2&(!buff.voidform.up|!bugs)|(cooldown.mind_blast.full_recharge_time>=2|cooldown.void_bolt.remains<=2*gcd.max)&buff.voidform.up&bugs&cooldown.void_bolt.remains<=3-gcd.max),target_if=dot.devouring_plague.remains>=2.5
 # Use Shadow Crash as long as you are not holding for adds and Vampiric Touch is within pandemic range
