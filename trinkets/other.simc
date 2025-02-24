@@ -24,6 +24,27 @@ ${gear.off_hand}
 
 # Delves
 ## Drop: 658 / Vault: 665
+profileset."Turbo_Drain_5000_658"+=trinket1=turbodrain_5000,id=232883,ilevel=658
+profileset."Turbo_Drain_5000_665"+=trinket1=turbodrain_5000,id=232883,ilevel=665
+
+profileset."Bashful_Book_658"+=trinket1=bashful_book,id=235283,ilevel=658
+profileset."Bashful_Book_665"+=trinket1=bashful_book,id=235283,ilevel=665
+
+profileset."Abyssal_Volt_658"+=trinket1=abyssal_volt,id=235373,ilevel=658
+profileset."Abyssal_Volt_665"+=trinket1=abyssal_volt,id=235373,ilevel=665
+
+profileset."Garbagemancers_Last_Resort_658"+=trinket1=garbagemancers_last_resort,id=235984,ilevel=658
+profileset."Garbagemancers_Last_Resort_665"+=trinket1=garbagemancers_last_resort,id=235984,ilevel=665
+
+profileset."Blastmaster3000_658"+=trinket1=blastmaster3000,id=234717,ilevel=658
+profileset."Blastmaster3000_665"+=trinket1=blastmaster3000,id=234717,ilevel=665
+
+profileset."Noggenfogger_Ultimate_Deluxe_658"+=trinket1=noggenfogger_ultimate_deluxe,id=232486,ilevel=658
+profileset."Noggenfogger_Ultimate_Deluxe_665"+=trinket1=noggenfogger_ultimate_deluxe,id=232486,ilevel=665
+
+profileset."Gooblin_Grenade_658"+=trinket1=gooblin_grenade,id=234218,ilevel=658
+profileset."Gooblin_Grenade_665"+=trinket1=gooblin_grenade,id=234218,ilevel=665
+
 profileset."Fungal_Friend_Flute_658"+=trinket1=fungal_friend_flute,id=215171,ilevel=658
 profileset."Fungal_Friend_Flute_665"+=trinket1=fungal_friend_flute,id=215171,ilevel=665
 

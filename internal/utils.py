@@ -86,6 +86,17 @@ def get_dungeon_combos():
                 "siege",
                 "stonevault",
             ]
+        elif season == 2:
+            keys = [
+                "cinderbrew",
+                "darkflame",
+                "floodgate",
+                "motherlode",
+                "priory",
+                "rookery",
+                "theater",
+                "workshop",
+            ]
         else:
             print(f"No season data defined in for season {season} in utils:get_dungeon_combos")
             exit(1)

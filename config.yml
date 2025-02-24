@@ -4,8 +4,8 @@ builds:
     gearSetup: default
     talents:
       composite:
-        name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLegxMzsNGzMzMGzsMY2YmZmxsxAjxwsY2mamBLYGAzsZZ0sZAIjxCAA
+        name: AR_SP_VF_yogg_cthun_119173361940399_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBz8ADAAAAAAAAAAAghZhxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA
       dungeons:
         name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAMMLmxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA
@@ -20,28 +20,28 @@ builds:
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMMgBAAAAAAAAAAAgxMLmxMzsNGzMzMGzsMY2YmZmxsxAjxwsY2mamBLYGAzsZZ0sZAIjxCAA
       8t:
         name: AR_EC_VF_nzoth_yogg_cthun_139023917496239_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYGAAAAAAAAAAAAMmZxMGmtxYmZmZbMzygZjZmZGzGDMGDziZbqZGsgZAMzilRzmBgMGLAA
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYGAAAAAAAAAAAAMmfZxMGmtxYmZmZbMzygZjZmZGzGDMGDziZbqZGsgZAMzilRzmBgMGLAA
   vw-cthun:
     gearSetup: default
     talents:
       composite:
-        name: VW_DH_DoS_DA_cthun_82853105179567_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAMMLmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwYmBACwsNbLBzGLA
+        name: VW_DH_DoS_DA_cthun_82852690517935_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGAAAAAAAAAAAAMMbmxMzswMzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stEMbsAA
       dungeons:
-        name: VW_DH_DoS_DA_nzoth_cthun_98245887375279_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAMmZxDMmZmlxYmZMbzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsAA
+        name: VW_DH_DoS_DA_nzoth_cthun_98245853052847_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsMmZmZMbzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mtlgZjFA
       single:
-        name: VW_DH_DoS_DA_cthun_82853105179567_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAMMLmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwYmBACwsNbLBzGLA
+        name: VW_DH_DoS_DA_cthun_82852967308207_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA
       2t:
-        name: VW_DH_DoS_DA_cthun_82852829412271_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmBAAAAAAAAAAAgxDMLmxMzsMmZmZMmZmlBzGzMzMmNGYMGmFz2UzMYBGzMAQAmtZbJY2YBA
+        name: VW_DH_DoS_DA_nzoth_cthun_98246134029231_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMmHYAAAAAAAAAAAAMYzDMmZmFmZmZMmZmlBzGzMzMmNGYMGmFz2UzMYBmZmBACwsNbLBzGLA
       4t:
-        name: VW_DH_DoS_DA_nzoth_cthun_98245891561391_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAgxMLegxMzswYmZMbzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsAA
+        name: VW_DH_DoS_DA_nzoth_cthun_98245887645615_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgxYzDMmZmFGzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stEMbsAA
       8t:
-        name: VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAgxMLegxMzsxYmZMbzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsAA
+        name: VW_DH_DoS_DA_cthun_82852728772527_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMz8AAAAAAAAAAAAAMmZxMmZmFGzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYMzAABY2mtlgZjFA
 hero:
   AR:
     AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/incessant_screams:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
@@ -155,7 +155,7 @@ sims:
     iterations: 20000
     builds: true
     weights: false
-    chart: true
+    chart: false
     lookupType: none
     steps:
       - DPS
@@ -292,15 +292,15 @@ singleTargetProfiles:
   - pw_na_1
   - lm_na_1
   - hm_na_1
-dungeonSeason: 1
-dungeonStandardWeights: weightsSeasonOne
-dungeonPushWeights: weightsSeasonOne
+dungeonSeason: 2
+dungeonStandardWeights: weightsSeasonTwo
+dungeonPushWeights: weightsSeasonTwo
 dungeonType: route
 simcBuild: latest
 forceHeroTalents: false
 defaultIterations: 10000
 raidbots:
-  apiUrlBase: https://www.raidbots.com
+  apiUrlBase: https://mimiron.raidbots.com
   numOfRetries: 100
   retryInterval: 10
 analyze:
