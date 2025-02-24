@@ -199,51 +199,51 @@ profileset."Feet_Deranged_Alchemists_Slippers_678"+=feet=deranged_alchemists_sli
 
 # Rings 
 # crit/haste (R)
-# profileset."Finger1_Faded_Championship_Ring_678"+=finger1=faded_championship_ring,id=228840,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
-profileset."Finger2_Faded_Championship_Ring_678"+=finger2=faded_championship_ring,id=228840,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_Faded_Championship_Ring_678"+=finger1=faded_championship_ring,id=228840,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+# profileset."Finger2_Faded_Championship_Ring_678"+=finger2=faded_championship_ring,id=228840,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # ?/? (R) (NYI)
 # profileset."Finger1_Miniature_Roulette_Wheel_678"+=finger1=miniature_roulette_wheel,id=228843,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
-profileset."Finger2_Miniature_Roulette_Wheel_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+# profileset."Finger2_Miniature_Roulette_Wheel_678"+=finger2=miniature_roulette_wheel,id=228843,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # mastery/haste (R)
 # profileset."Finger1_The_Jastor_Diamond_678"+=finger1=the_jastor_diamond,id=231265,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 # profileset."Finger2_The_Jastor_Diamond_678"+=finger2=the_jastor_diamond,id=231265,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # mastery/crit (D)
-# profileset."Finger1_85year_Tenure_Ring_678"+=finger1=85year_tenure_ring,id=221198,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
-profileset."Finger2_85year_Tenure_Ring_678"+=finger2=85year_tenure_ring,id=221198,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_85year_Tenure_Ring_678"+=finger1=85year_tenure_ring,id=221198,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+# profileset."Finger2_85year_Tenure_Ring_678"+=finger2=85year_tenure_ring,id=221198,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # haste/vers (D)
-# profileset."Finger1_Wicks_Golden_Loop_678"+=finger1=wicks_golden_loop,id=221099,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_Wicks_Golden_Loop_678"+=finger1=wicks_golden_loop,id=221099,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 # profileset."Finger2_Wicks_Golden_Loop_678"+=finger2=wicks_golden_loop,id=221099,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # mastery/vers (D)
-# profileset."Finger1_Radiant_Necromancers_Band_678"+=finger1=radiant_necromancers_band,id=221200,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
-profileset."Finger2_Radiant_Necromancers_Band_678"+=finger2=radiant_necromancers_band,id=221200,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_Radiant_Necromancers_Band_678"+=finger1=radiant_necromancers_band,id=221200,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+# profileset."Finger2_Radiant_Necromancers_Band_678"+=finger2=radiant_necromancers_band,id=221200,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # crit/mastery (D)
-# profileset."Finger1_Hoop_of_the_Blighted_678"+=finger1=hoop_of_the_blighted,id=221197,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
-profileset."Finger2_Hoop_of_the_Blighted_678"+=finger2=hoop_of_the_blighted,id=221197,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_Hoop_of_the_Blighted_678"+=finger1=hoop_of_the_blighted,id=221197,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+# profileset."Finger2_Hoop_of_the_Blighted_678"+=finger2=hoop_of_the_blighted,id=221197,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # haste/crit (D)
-# profileset."Finger1_Bloodoath_Signet_678"+=finger1=bloodoath_signet,id=178871,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
-profileset."Finger2_Bloodoath_Signet_678"+=finger2=bloodoath_signet,id=178871,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_Bloodoath_Signet_678"+=finger1=bloodoath_signet,id=178871,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+# profileset."Finger2_Bloodoath_Signet_678"+=finger2=bloodoath_signet,id=178871,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # mastery/crit (D)
-# profileset."Finger1_Fleshfused_Circle_678"+=finger1=fleshfused_circle,id=178869,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
-profileset."Finger2_Fleshfused_Circle_678"+=finger2=fleshfused_circle,id=178869,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_Fleshfused_Circle_678"+=finger1=fleshfused_circle,id=178869,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+# profileset."Finger2_Fleshfused_Circle_678"+=finger2=fleshfused_circle,id=178869,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # crit/mastery (D)
-# profileset."Finger1_Ring_of_Perpetual_Conflict_678"+=finger1=ring_of_perpetual_conflict,id=178872,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
-profileset."Finger2_Ring_of_Perpetual_Conflict_678"+=finger2=ring_of_perpetual_conflict,id=178872,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_Ring_of_Perpetual_Conflict_678"+=finger1=ring_of_perpetual_conflict,id=178872,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+# profileset."Finger2_Ring_of_Perpetual_Conflict_678"+=finger2=ring_of_perpetual_conflict,id=178872,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # vers/mastery (D)
 # profileset."Finger1_Ritual_Bone_Band_678"+=finger1=ritual_bone_band,id=178870,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 # profileset."Finger2_Ritual_Bone_Band_678"+=finger2=ritual_bone_band,id=178870,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # mastery/haste (D)
-# profileset."Finger1_Footbomb_Championship_Ring_678"+=finger1=footbomb_championship_ring,id=159462,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
+profileset."Finger1_Footbomb_Championship_Ring_678"+=finger1=footbomb_championship_ring,id=159462,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 # profileset."Finger2_Footbomb_Championship_Ring_678"+=finger2=footbomb_championship_ring,id=159462,ilevel=678,enchant=radiant_mastery_3,gem_id=213494/213494
 
 # 1H + OH
