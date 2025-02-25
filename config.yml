@@ -2,6 +2,7 @@ builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   vw-cthun:
     gearSetup: default
+    name: Voidweaver
     talents:
       composite:
         name: VW_VE_DoS_DA_cthun_80603209252783_Flay_ME
@@ -23,6 +24,7 @@ builds:
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZb2WCmNWA
   ar-vf-cthun-flay-me:
     gearSetup: default
+    name: Archon
     talents:
       composite:
         name: AR_SP_VF_cthun_80588449494959_Flay_ME
@@ -44,6 +46,7 @@ builds:
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMAz8AAAAAAAAAAAAAAGzsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMLWGNbGAyYsA
   ar-vf-yogg-cthun-me:
     gearSetup: default
+    name: Archon + Yogg Saron
     talents:
       composite:
         name: AR_SP_VF_yogg_cthun_119173361940399_Flay_ME
@@ -323,6 +326,8 @@ raidbots:
   apiUrlBase: https://www.raidbots.com
   numOfRetries: 100
   retryInterval: 10
+charts:
+  wowheadUrl: https://www.wowhead.com/
 analyze:
   dungeonCharts: false
   markdown: true
