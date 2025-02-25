@@ -1,6 +1,7 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
   ar-vf-yogg-cthun-me:
+    name: Archon
     gearSetup: default
     talents:
       composite:
@@ -23,6 +24,7 @@ builds:
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYGAAAAAAAAAAAAMmfZxMGmtxYmZmZbMzygZjZmZGzGDMGDziZbqZGsgZAMzilRzmBgMGLAA
   vw-cthun:
     gearSetup: default
+    name: Voidweaver
     talents:
       composite:
         name: VW_DH_DoS_DA_cthun_82852690517935_Spike_DR
