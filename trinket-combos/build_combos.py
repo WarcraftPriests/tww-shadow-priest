@@ -22,9 +22,9 @@ combos = {
     "Ingenious_Mana_Battery_678": "ingenious_mana_battery,id=169344,ilevel=678",
     # Liberation of Undermine (665/678)
     "Geargrinders_Spare_Keys_678": "geargrinders_spare_keys,id=230197,ilevel=678",
-    "Flarendos_Pilot_Light_678": "flarendos_pilot_light,id=230191,ilevel=678",
+    # "Flarendos_Pilot_Light_678": "flarendos_pilot_light,id=230191,ilevel=678",
     "Reverb_Radio_678": "reverb_radio,id=230194,ilevel=678",
-    "Mister_Lock_N_Stalk_678": "mister_locknstalk,id=230193,ilevel=678",
+    # "Mister_Lock_N_Stalk_678": "mister_locknstalk,id=230193,ilevel=678",
     "House_of_Cards_678": "house_of_cards,id=230027,ilevel=678",
     "Mugs_Moxie_Jug_678": "mugs_moxie_jug,id=230192,ilevel=678",
     "Eye_of_Kezan_678": "eye_of_kezan,id=230198,ilevel=678",
@@ -33,9 +33,11 @@ combos = {
     # delves (665)
     "Quickwick_Candlestick_665": "quickwick_candlestick,id=225649,ilevel=665",
     "Shadowbinding_Ritual_Knife_665": "shadowbinding_ritual_knife,id=215178,ilevel=665",
-    "Candle_Confidant_665": "candle_confidant,id=225648,ilevel=665",
+    "Suspicious_Energy_Drink_665": "suspicious_energy_drink,id=235363,ilevel=665",
+    "Funhouse_Lens_665": "funhouse_lens,id=234217,ilevel=665",
+    "Amorphous_Relic_665": "amorphous_relic,id=232891,ilevel=665",
     # pvp (?)
-    # "Forged_Gladiators_Badge_of_Ferocity_626": "forged_gladiators_badge_of_ferocity,id=218713,ilevel=626",
+    "Prized_Gladiators_Badge_of_Ferocity_665": "prized_gladiators_badge_of_ferocity,id=229780,ilevel=665",
 }
 
 
