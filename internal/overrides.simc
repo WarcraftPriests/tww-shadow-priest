@@ -1,11 +1,2 @@
 
 # Overrides are added below here
-# Quietus - 25
-override.spell_data=effect.1146665.base_value=35
-override.spell_data=effect.1158795.base_value=35
-
-# Voidblast - 1.68
-override.spell_data=effect.1151263.sp_coefficient=2.1
-
-# Collapse - 20
-override.spell_data=effect.260941.base_value=38
