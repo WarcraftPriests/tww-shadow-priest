@@ -1,0 +1,35 @@
+# floodgate - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Tempered_Versatility_3|3331257|2.92%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|3329920|2.88%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|3329560|2.87%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|3326759|2.78%|
+|Flask_of_Tempered_Aggression_3|3326367|2.77%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|3326338|2.77%|
+|Flask_of_Alchemical_Chaos_3|3325632|2.75%|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|3324620|2.72%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|3324094|2.70%|
+|Flask_of_Tempered_Versatility_2|3322614|2.66%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|3321783|2.63%|
+|Flask_of_Tempered_Mastery_3|3321195|2.61%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|3320688|2.60%|
+|Flask_of_Tempered_Aggression_2|3317871|2.51%|
+|Flask_of_Tempered_Versatility_1|3316529|2.47%|
+|Flask_of_Alchemical_Chaos_2|3316441|2.46%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|3315671|2.44%|
+|Flask_of_Tempered_Mastery_2|3315011|2.42%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|3314211|2.40%|
+|Flask_of_Tempered_Swiftness_3|3314161|2.39%|
+|Flask_of_Tempered_Aggression_1|3312340|2.34%|
+|Flask_of_Alchemical_Chaos_1|3310272|2.27%|
+|Flask_of_Tempered_Mastery_1|3310109|2.27%|
+|Flask_of_Tempered_Swiftness_2|3308194|2.21%|
+|Flask_of_Tempered_Swiftness_1|3301781|2.01%|
+|Tempered_Potion_1|3237694|0.03%|
+|Tempered_Potion_2|3237552|0.03%|
+|Tempered_Potion_3|3237367|0.02%|
+|Potion_of_Unwavering_Focus_1|3237111|0.01%|
+|Base|3236663|0.00%|
+|Potion_of_Unwavering_Focus_2|3236591|0.00%|
+|Potion_of_Unwavering_Focus_3|3236345|-0.01%|

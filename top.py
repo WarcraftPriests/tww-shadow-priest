@@ -55,8 +55,8 @@ def get_top_talents(results, combos, directory, matches, jitter):
             count = 0
             for build in builds:
                 filler = ""
-                fillers = ["Spike_ME", "Flay_ME"]
-                # fillers = ["Spike_ME", "Spike_DR", "Flay_ME", "Flay_DR"]
+                # fillers = ["Spike_ME", "Flay_ME"]
+                fillers = ["Spike_ME", "Spike_DR", "Flay_ME", "Flay_DR"]
                 for name in fillers:
                     if name in build:
                         filler = name
@@ -83,21 +83,21 @@ def get_hero_builds(ht, cds, idols):
 
 def get_builds():
     combos = []
-    cds = ["VF", "DA"]
+    ar_cds = ["VF"]
+    vw_cds = ["DA"]
     # Archon and Voidweaver can have different Idol options, manually splitting
     ar_idols = [
         "nzoth_cthun",
         "nzoth_yogg_cthun",
         "cthun",
     ]
-    combos.extend(get_hero_builds("AR", cds, ar_idols))
+    combos.extend(get_hero_builds("AR", ar_cds, ar_idols))
     ## Voidweaver
     vw_idols = [
-        "yshaarj_cthun",
         "nzoth_cthun",
         "cthun",
     ]
-    combos.extend(get_hero_builds("VW", cds, vw_idols))
+    combos.extend(get_hero_builds("VW", vw_cds, vw_idols))
     return combos
 
 
@@ -222,8 +222,8 @@ if __name__ == "__main__":
     combos = [
         (cd, filler)
         for cd in build_configs
-        for filler in ["Spike_ME", "Flay_ME"]
-        # for filler in ["Spike_ME", "Flay_ME", "Spike_DR", "Flay_DR"]
+        # for filler in ["Spike_ME", "Flay_ME"]
+        for filler in ["Spike_ME", "Flay_ME", "Spike_DR", "Flay_DR"]
     ]  # noqa: E501
     results = utils.get_sim_types()
     push_results = list(utils.get_dungeon_combos())

@@ -1,18 +1,18 @@
 # Composite - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|1498576|0.98%|
-|Chippy_Tea|1493827|0.66%|
-|Sweet_and_Spicy_Soup|1493692|0.65%|
-|Beledars_Bounty|1493566|0.64%|
-|Salt_Baked_Seafood|1493432|0.64%|
-|Deepfin_Patty|1493198|0.62%|
-|Feast_of_the_Divine_Day|1493100|0.61%|
-|Fish_and_Chips|1492790|0.59%|
-|Marinated_Tenderloins|1492724|0.59%|
-|Zesty_Nibblers|1490978|0.47%|
-|Salty_Dog|1490831|0.46%|
-|Fiery_Fish_Sticks|1490339|0.43%|
-|GingerGlazed_Fillet|1490173|0.42%|
-|Stuffed_Cave_Peppers|1488533|0.31%|
-|Base|1484002|0.00%|
+|Crystallized_Augment_Rune|2684517|0.76%|
+|Marinated_Tenderloins|2678909|0.55%|
+|Fish_and_Chips|2678669|0.54%|
+|Beledars_Bounty|2678537|0.54%|
+|Salt_Baked_Seafood|2678174|0.52%|
+|Sweet_and_Spicy_Soup|2677967|0.52%|
+|Chippy_Tea|2677752|0.51%|
+|Deepfin_Patty|2677692|0.51%|
+|Feast_of_the_Divine_Day|2675991|0.44%|
+|GingerGlazed_Fillet|2675080|0.41%|
+|Fiery_Fish_Sticks|2674660|0.39%|
+|Salty_Dog|2673787|0.36%|
+|Zesty_Nibblers|2672623|0.32%|
+|Stuffed_Cave_Peppers|2671259|0.26%|
+|Base|2664205|0.00%|

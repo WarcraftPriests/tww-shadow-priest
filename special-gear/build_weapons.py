@@ -3,15 +3,16 @@ builds weapon strings
 python build_weapons.py
 """
 
-enchant = "enchant=authority_of_the_depths_3"
+enchant = "enchant=stormriders_fury_3"
 
 one_hands = {
-    "1h_Unceremonious_Bloodletter_639": "main_hand=unceremonious_bloodletter,id=221165,ilevel=639",
-    "1h_Kingslayers_Frostfang_639": "main_hand=kingslayers_frostfang,id=221171,ilevel=639",
-    "1h_Scithewood_Scepter_639": "main_hand=scithewood_scepter,id=178709,ilevel=639",
-    "1h_Wand_of_Untainted_Power_639": "main_hand=wand_of_untainted_power,id=133288,ilevel=639",
-    "1h_Scepter_of_Manifested_Miasma_639": "main_hand=scepter_of_manifested_miasma,id=212404,ilevel=639",
-    "1h_Sovereigns_Disdain_639": "main_hand=sovereigns_disdain,id=212394,ilevel=639",
+    "1h_stixs_metal_detector_678": "main_hand=stixs_metal_detector,id=228896,ilevel=678",
+    "1h_big_earners_bludgeon_678": "main_hand=big_earners_bludgeon,id=228901,ilevel=678",
+    "1h_scalding_queenmakers_shiv_678": "main_hand=scalding_queenmakers_shiv,id=221062,ilevel=678",
+    "1h_hand_of_beledar_678": "main_hand=hand_of_beledar,id=221122,ilevel=678",
+    "1h_fleshcrafters_knife_678": "main_hand=fleshcrafters_knife,id=178789,ilevel=678",
+    "1h_electrifying_cognitive_amplifier_678": "main_hand=electrifying_cognitive_amplifier,id=168955,ilevel=678",
+    "1h_g3t00t_678": "main_hand=g3t00t,id=159641,ilevel=678",
 }
 
 off_hands = {

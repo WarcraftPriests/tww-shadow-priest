@@ -7,6 +7,8 @@ talents=${talents}
 
 set_bonus=tww1_2pc=0
 set_bonus=tww1_4pc=0
+set_bonus=tww2_2pc=0
+set_bonus=tww2_4pc=0
 
 ${apl}
 
@@ -28,6 +30,9 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 profileset."TWW1-2-set"+=set_bonus=tww1_2pc=1
-
 profileset."TWW1-2_4-set"+=set_bonus=tww1_2pc=1
 profileset."TWW1-2_4-set"+=set_bonus=tww1_4pc=1
+
+profileset."TWW2-2-set"+=set_bonus=tww2_2pc=1
+profileset."TWW2-2_4-set"+=set_bonus=tww2_2pc=1
+profileset."TWW2-2_4-set"+=set_bonus=tww2_4pc=1

@@ -1,0 +1,35 @@
+# theater - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|2689897|1.29%|
+|Void_Elf|2686692|1.17%|
+|Human|2681437|0.97%|
+|Nightborne|2678379|0.85%|
+|Kul_Tiran|2678067|0.84%|
+|Gnome|2677951|0.84%|
+|Dwarf|2677659|0.83%|
+|Highmountain_Tauren|2677385|0.81%|
+|Maghar_Orc|2677149|0.81%|
+|Night_Elf_Haste|2676955|0.80%|
+|Goblin|2676945|0.80%|
+|Tauren|2676429|0.78%|
+|Draenei|2676271|0.77%|
+|Zandalari_Troll_Paku|2676028|0.76%|
+|Blood_Elf|2675033|0.73%|
+|Dracthyr|2674911|0.72%|
+|Worgen|2674852|0.72%|
+|Orc|2673960|0.69%|
+|Night_Elf_Crit|2673389|0.66%|
+|Troll|2671893|0.61%|
+|Dark_Iron_Dwarf|2667918|0.46%|
+|Zandalari_Troll_Kimbul|2667270|0.43%|
+|Panda_Feast|2666081|0.39%|
+|Earthen_Sapphire|2660216|0.17%|
+|Earthen_Ruby|2660020|0.16%|
+|Zandalari_Troll_Bwonsamdi|2659404|0.14%|
+|Earthen_Emerald|2658796|0.11%|
+|Earthen_Onyx|2658634|0.11%|
+|Undead|2657371|0.06%|
+|Lightforged_Draenei|2655767|0.00%|
+|Base|2655749|0.00%|
+|Vulpera|2654955|-0.03%|

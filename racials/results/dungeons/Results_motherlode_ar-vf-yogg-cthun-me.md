@@ -1,0 +1,35 @@
+# motherlode - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|3024514|1.09%|
+|Void_Elf|3022701|1.03%|
+|Human|3020615|0.96%|
+|Gnome|3019364|0.92%|
+|Night_Elf_Haste|3019061|0.91%|
+|Goblin|3018635|0.90%|
+|Maghar_Orc|3015634|0.80%|
+|Zandalari_Troll_Paku|3014231|0.75%|
+|Kul_Tiran|3013707|0.73%|
+|Draenei|3012201|0.68%|
+|Highmountain_Tauren|3011717|0.66%|
+|Troll|3010855|0.64%|
+|Night_Elf_Crit|3010663|0.63%|
+|Worgen|3010517|0.62%|
+|Blood_Elf|3009854|0.60%|
+|Nightborne|3009789|0.60%|
+|Dracthyr|3009768|0.60%|
+|Orc|3009468|0.59%|
+|Dwarf|3004711|0.43%|
+|Tauren|3004456|0.42%|
+|Dark_Iron_Dwarf|3001780|0.33%|
+|Zandalari_Troll_Kimbul|3001569|0.32%|
+|Panda_Feast|3000328|0.28%|
+|Earthen_Ruby|2995857|0.13%|
+|Earthen_Sapphire|2995761|0.13%|
+|Earthen_Emerald|2995636|0.13%|
+|Zandalari_Troll_Bwonsamdi|2995020|0.11%|
+|Earthen_Onyx|2994800|0.10%|
+|Undead|2994168|0.08%|
+|Base|2991846|0.00%|
+|Lightforged_Draenei|2989981|-0.06%|
+|Vulpera|2989546|-0.08%|

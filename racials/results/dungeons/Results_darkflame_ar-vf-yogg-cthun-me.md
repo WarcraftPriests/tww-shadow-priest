@@ -1,0 +1,35 @@
+# darkflame - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|2457241|1.31%|
+|Human|2453182|1.14%|
+|Void_Elf|2452561|1.11%|
+|Gnome|2449594|0.99%|
+|Night_Elf_Haste|2449562|0.99%|
+|Goblin|2449316|0.98%|
+|Zandalari_Troll_Paku|2445893|0.84%|
+|Draenei|2444726|0.79%|
+|Kul_Tiran|2444687|0.79%|
+|Night_Elf_Crit|2443980|0.76%|
+|Blood_Elf|2443763|0.75%|
+|Highmountain_Tauren|2443711|0.75%|
+|Worgen|2443696|0.75%|
+|Dracthyr|2443385|0.74%|
+|Nightborne|2442919|0.72%|
+|Maghar_Orc|2439946|0.59%|
+|Zandalari_Troll_Kimbul|2438361|0.53%|
+|Tauren|2438178|0.52%|
+|Dwarf|2437171|0.48%|
+|Orc|2436045|0.43%|
+|Troll|2435534|0.41%|
+|Panda_Feast|2434716|0.38%|
+|Dark_Iron_Dwarf|2433369|0.32%|
+|Earthen_Sapphire|2432026|0.27%|
+|Earthen_Emerald|2429840|0.18%|
+|Earthen_Ruby|2429588|0.17%|
+|Undead|2429305|0.15%|
+|Zandalari_Troll_Bwonsamdi|2429286|0.15%|
+|Earthen_Onyx|2429285|0.15%|
+|Lightforged_Draenei|2426582|0.04%|
+|Vulpera|2425814|0.01%|
+|Base|2425551|0.00%|

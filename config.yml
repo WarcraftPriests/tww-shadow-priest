@@ -1,71 +1,49 @@
 builds:
   # add here as well if you ever change this https://github.com/Bloodmallet/bloodytools/blob/master/bloodytools/simulations/talent_tree_paths/priest_shadow.yaml
+  ar-vf-yogg-cthun-me:
+    name: Archon
+    gearSetup: default
+    talents:
+      composite:
+        name: AR_SP_VF_yogg_cthun_119173361940399_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBz8ADAAAAAAAAAAAghZhxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA
+      dungeons:
+        name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAMMLmxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA
+      single:
+        name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLegxMzsNGzMzMGzsMY2YmZmxsxAjxwsY2mamBLYGAzsZZ0sZAIjxCAA
+      2t:
+        name: AR_SP_VF_yogg_cthun_121432648922031_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLmxMmtxYmZmxYmlBzGzMzMmNGYMGmFz2UzMYBzAYmNLjmNDAZMWAA
+      4t:
+        name: AR_SP_VF_nzoth_yogg_cthun_129962211750831_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMgBAAAAAAAAAAAgxMLmxMzsNGzMzMGzsMY2YmZmxsxAjxwsY2mamBLYGAzsZZ0sZAIjxCAA
+      8t:
+        name: AR_EC_VF_nzoth_yogg_cthun_139023917496239_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYGAAAAAAAAAAAAMmfZxMGmtxYmZmZbMzygZjZmZGzGDMGDziZbqZGsgZAMzilRzmBgMGLAA
   vw-cthun:
     gearSetup: default
     name: Voidweaver
     talents:
       composite:
-        name: VW_VE_DoS_DA_cthun_80603209252783_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMz4BAAAAAAAAAAAAAmxsMGzMzyYmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzySwsxC
+        name: VW_DH_DoS_DA_cthun_82852690517935_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGAAAAAAAAAAAAMMbmxMzswMzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stEMbsAA
       dungeons:
-        name: VW_VE_DoS_DA_nzoth_cthun_98245853822895_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGPws4BGzMzyYmZmxsNzMLDmNmZmZMbMwYMMLmtpmZwCMmZAgAMbzySwsxC
+        name: VW_DH_DoS_DA_nzoth_cthun_98245853052847_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsMmZmZMbzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mtlgZjFA
       single:
-        name: VW_VE_DoS_DA_cthun_82852836752303_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMm5BAAAAAAAAAAAAAGmFzYmZWGzMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2ssEMbsA
+        name: VW_DH_DoS_DA_cthun_82852967308207_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA
       2t:
-        name: VW_DH_DoS_DA_cthun_82852829412271_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmBAAAAAAAAAAAAw4BmFzYmZWGzMzMGzMzygZjZmZGzGDMGDziZbqZGsAjZGAIAz2stEMbsA
+        name: VW_DH_DoS_DA_nzoth_cthun_98246134029231_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMmHYAAAAAAAAAAAAMYzDMmZmFmZmZMmZmlBzGzMzMmNGYMGmFz2UzMYBmZmBACwsNbLBzGLA
       4t:
-        name: VW_VE_DoS_DA_nzoth_cthun_1_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZGAAAAAAAAAAAAAGzsYGzMzyYMzMmt5BmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZbWWCmNWA
+        name: VW_DH_DoS_DA_nzoth_cthun_98245887645615_Spike_DR
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgxYzDMmZmFGzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stEMbsAA
       8t:
-        name: VW_DH_DoS_VF_nzoth_cthun_98245891561391_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmHAAAAAAAAAAAAAwYmFPwYmZ2YMzMmtZmZZwsxMzMjZjBGjhZxsN1MDWgxMDAEgZb2WCmNWA
-  ar-vf-cthun-flay-me:
-    gearSetup: default
-    name: Archon
-    talents:
-      composite:
-        name: AR_SP_VF_cthun_80588449494959_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAYmHYAAAAAAAAAAAAAGmlxYmZ2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNLGAyYsA
-      dungeons:
-        name: AR_SP_VF_nzoth_cthun_98241696217007_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZmBAAAAAAAAAAAAwws4BGzY2GjZmZmtZmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNbGAyYsA
-      single:
-        name: AR_SP_VF_cthun_80658376897455_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGzMzygZjZmZGzGDMGDziZbqZGsADgZ2sMaWMAkxYB
-      2t:
-        name: AR_SP_VF_nzoth_cthun_98241973007279_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgxMDAAAAAAAAAAAAwws4BGzY2GjZmZGzMzygZjZmZGzGDMGDziZbqZGsADgZ2sMa2MAkxYB
-      4t:
-        name: AR_SP_VF_nzoth_cthun_99313291605935_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAzMAAAAAAAAAAAAAGPwsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMbWGNbGAyYsA
-      8t:
-        name: AR_EC_VF_nzoth_cthun_99313190942639_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMAz8AAAAAAAAAAAAAAGzsYGzMz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWgBwMLWGNbGAyYsA
-  ar-vf-yogg-cthun-me:
-    gearSetup: default
-    name: Archon + Yogg Saron
-    talents:
-      composite:
-        name: AR_SP_VF_yogg_cthun_119173361940399_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBz8ADAAAAAAAAAAAAwwswYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
-      dungeons:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
-      single:
-        name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMaWMAkxYB
-      2t:
-        name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAAGmFPwYmZ2GjZmZGjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYB
-      4t:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAAGmFzYmZ2GjZmZmtxMLDmNmZmZMbMwYMMLmtpmZwCmBwMbWGNbGAyYsA
-      8t:
-        name: AR_EC_VF_nzoth_yogg_cthun_139024021305263_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYmBAAAAAAAAAAAAwwsYGDz2YMzMzsNmZZwsxMzMjZjBGjhZxsN1MDWwMAmZxyoZzAQGjFA
+        name: VW_DH_DoS_DA_cthun_82852728772527_Flay_ME
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMz8AAAAAAAAAAAAAMmZxMmZmFGzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYMzAABY2mtlgZjFA
 hero:
   AR:
     AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/incessant_screams:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
@@ -77,42 +55,42 @@ hero:
     VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
     VW_DH_VW: "125982:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
 gear:
-  # 16.2k Mastery (15.6%) | 14.4k Haste (21.8%) | 9k Crit (17.9%) | 652 Vers (0.8%)
+  # 22.2k Mastery (19.7%) | 20.3k Haste (30.8%) | 3.5k Crit (10.0%) | 1k Vers (1.2%)
   default:
-    head: "living_lusters_semblance,id=212083,ilevel=639" # mastery/crit
-    neck: "sureki_zealots_insignia,id=225577,ilevel=639" # haste/mastery
-    shoulders: "living_lusters_dominion,id=212081,ilevel=639" # haste/vers
-    back: "wings_of_shattered_sorrow,id=225574,ilevel=639" # crit/haste
-    chest: "living_lusters_raiment,id=212086,ilevel=639" # haste/mastery
-    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=636" # haste/mastery
-    hands: "gory_surgeons_gloves,id=178748,ilevel=639" # mastery/crit
-    waist: "acrid_ascendants_sash,id=225585,ilevel=639" # mastery/haste
-    legs: "living_lusters_trousers,id=212082,ilevel=639" # crit/haste
-    feet: "assimilated_eggshell_slippers,id=225582,ilevel=639" # mastery/haste
-    finger1: "writhing_ringworm,id=225576,ilevel=639" # mastery/haste
-    finger2: "seal_of_the_poisoned_pact,id=225578,ilevel=639" # crit/mastery
-    trinket1: "spymasters_web,id=220202,ilevel=639"
-    trinket2: "arakara_sacbrood,id=219314,ilevel=639"
-    main_hand: "wand_of_untainted_power,id=133288,ilevel=639" # haste/mastery
-    off_hand: "vagabonds_torch,id=222566,ilevel=636,bonus_id=11300/8793" # haste/mastery
-  # 22.8k Mastery (20%) | 11.1k Haste (17%) | 5.5k Crit (13%) | 700 Vers (1%)
+    head: "confessors_unshakable_halo,id=229334,ilevel=678" # haste/vers
+    neck: "semicharmed_amulet,id=228841,ilevel=678" # haste/crit
+    shoulders: "confessors_unshakable_radiance,id=229332,ilevel=678" # mastery/haste
+    back: "test_pilots_gopack,id=228844,ilevel=678" # mastery/haste
+    chest: "confessors_unshakable_vestment,id=229337,ilevel=678" # haste/mastery
+    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=675" # haste/mastery
+    hands: "confessors_unshakable_mitts,id=229335,ilevel=678" # mastery/crit
+    waist: "refiners_conveyor_belt,id=228882,ilevel=678" # mastery/haste
+    legs: "pit_doctors_petticoat,id=228865,ilevel=678" # haste/mastery
+    feet: "cemented_murlocswimmers,id=228879,ilevel=678" # haste/mastery
+    finger1: "the_jastor_diamond,id=231265,ilevel=678" # mastery/haste
+    finger2: "footbomb_championship_ring,id=159462,ilevel=678" # mastery=haste
+    trinket1: "mugs_moxie_jug,id=230192,ilevel=678"
+    trinket2: "eye_of_kezan,id=230198,ilevel=678"
+    main_hand: "big_earners_bludgeon,id=228901,ilevel=678" # crit/mastery
+    off_hand: "vagabonds_torch,id=222566,ilevel=675,bonus_id=11300/8793" # haste/mastery
+  # Xk Mastery (0.0%) | Xk Haste (0.0%) | Xk Crit (0.0%) | Xk Vers (0.0%)
   noCantrip:
-    head: "living_lusters_semblance,id=212083,ilevel=639" # mastery/crit
-    neck: "emergency_stop_keychain,id=221077,ilevel=639" # mastery/haste
-    shoulders: "living_lusters_dominion,id=212081,ilevel=639" # haste/vers
-    back: "wings_of_shattered_sorrow,id=225574,ilevel=639" # crit/haste
-    chest: "living_lusters_raiment,id=212086,ilevel=639" # haste/mastery
-    wrists: "skeinspinners_duplicitous_cuffs,id=225584,ilevel=639" # haste/mastery
-    hands: "gory_surgeons_gloves,id=178748,ilevel=639" # haste/mastery
-    waist: "acrid_ascendants_sash,id=225585,ilevel=639" # mastery/haste
-    legs: "living_lusters_trousers,id=212082,ilevel=639" # crit/haste
-    feet: "assimilated_eggshell_slippers,id=225582,ilevel=639" # mastery/haste
-    finger1: "writhing_ringworm,id=225576,ilevel=639" # mastery/haste
-    finger2: "umbriss_band,id=133286,ilevel=639" # mastery/crit
-    trinket1: "spymasters_web,id=220202,ilevel=639" # mastery
-    trinket2: "arakara_sacbrood,id=219314,ilevel=639" # haste
-    main_hand: "takazjs_entropic_edict,id=212397,ilevel=639" # mastery/haste
-    off_hand: ""
+    head: "confessors_unshakable_halo,id=229334,ilevel=678" # haste/vers
+    neck: "semicharmed_amulet,id=228841,ilevel=678" # haste/crit
+    shoulders: "confessors_unshakable_radiance,id=229332,ilevel=678" # mastery/haste
+    back: "test_pilots_gopack,id=228844,ilevel=678" # mastery/haste
+    chest: "confessors_unshakable_vestment,id=229337,ilevel=678" # haste/mastery
+    wrists: "illicit_bankroll_bracers,id=228881,ilevel=678" # haste/mastery
+    hands: "confessors_unshakable_mitts,id=229335,ilevel=678" # mastery/crit
+    waist: "refiners_conveyor_belt,id=228882,ilevel=678" # mastery/haste
+    legs: "pit_doctors_petticoat,id=228865,ilevel=678" # haste/mastery
+    feet: "cemented_murlocswimmers,id=228879,ilevel=678" # haste/mastery
+    finger1: "85year_tenure_ring,id=221198,ilevel=678" # mastery/crit
+    finger2: "footbomb_championship_ring,id=159462,ilevel=678" # mastery=haste
+    trinket1: "mugs_moxie_jug,id=230192,ilevel=678"
+    trinket2: "eye_of_kezan,id=230198,ilevel=678"
+    main_hand: "stixs_metal_detector,id=228896,ilevel=678" # haste/mastery
+    off_hand: "operators_fraud_detector,id=228906,ilevel=678" # mastery/haste
 gems:
   meta: "213743" # Culminating Blasphemite
   main: "213494" # Quick Onyx
@@ -179,7 +157,7 @@ sims:
     iterations: 20000
     builds: true
     weights: false
-    chart: true
+    chart: false
     lookupType: none
     steps:
       - DPS
@@ -284,13 +262,14 @@ sims:
     chart: true
     lookupType: item
     steps:
-      - 580
-      - 593
       - 606
       - 619
       - 626
-      - 629
       - 639
+      - 645
+      - 658
+      - 665
+      - 678
     files:
       - raid.simc
       - dungeons.simc
@@ -305,7 +284,7 @@ sims:
       - DPS
     files:
       - weights.simc
-compositeWeights: weightsNerubarPalace
+compositeWeights: weightsLiberationofUndermine
 singleTargetWeights: weightsSingle
 twoTargetWeights: weightsTwoTargets
 threeTargetWeights: weightsThreeTargets
@@ -315,15 +294,15 @@ singleTargetProfiles:
   - pw_na_1
   - lm_na_1
   - hm_na_1
-dungeonSeason: 1
-dungeonStandardWeights: weightsSeasonOne
-dungeonPushWeights: weightsSeasonOne
+dungeonSeason: 2
+dungeonStandardWeights: weightsSeasonTwo
+dungeonPushWeights: weightsSeasonTwo
 dungeonType: route
 simcBuild: latest
 forceHeroTalents: false
 defaultIterations: 10000
 raidbots:
-  apiUrlBase: https://www.raidbots.com
+  apiUrlBase: https://mimiron.raidbots.com
   numOfRetries: 100
   retryInterval: 10
 charts:
@@ -336,10 +315,10 @@ analyze:
 stats:
   base: 4000
   steps: 1000
-  total: 37000
+  total: 47000
   min:
-    haste: 8000
-    mastery: 10000
+    haste: 15000
+    mastery: 15000
     crit: 3000
     vers: 0
   include:

@@ -1,0 +1,35 @@
+# rookery - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|3142752|1.05%|
+|Human|3138825|0.93%|
+|Void_Elf|3138358|0.91%|
+|Goblin|3137625|0.89%|
+|Night_Elf_Haste|3136332|0.85%|
+|Gnome|3135772|0.83%|
+|Maghar_Orc|3134495|0.79%|
+|Draenei|3131445|0.69%|
+|Zandalari_Troll_Paku|3131057|0.68%|
+|Kul_Tiran|3130869|0.67%|
+|Nightborne|3130370|0.66%|
+|Blood_Elf|3130011|0.65%|
+|Highmountain_Tauren|3129881|0.64%|
+|Dracthyr|3129277|0.62%|
+|Night_Elf_Crit|3128788|0.61%|
+|Orc|3127472|0.56%|
+|Worgen|3127426|0.56%|
+|Troll|3125581|0.50%|
+|Tauren|3124229|0.46%|
+|Dwarf|3122552|0.41%|
+|Zandalari_Troll_Kimbul|3121331|0.37%|
+|Dark_Iron_Dwarf|3121066|0.36%|
+|Panda_Feast|3120149|0.33%|
+|Earthen_Emerald|3115849|0.19%|
+|Earthen_Ruby|3115627|0.18%|
+|Earthen_Sapphire|3114795|0.16%|
+|Earthen_Onyx|3112925|0.10%|
+|Undead|3112411|0.08%|
+|Zandalari_Troll_Bwonsamdi|3110827|0.03%|
+|Base|3109943|0.00%|
+|Lightforged_Draenei|3108516|-0.05%|
+|Vulpera|3108322|-0.05%|
