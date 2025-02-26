@@ -1,0 +1,35 @@
+# floodgate - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|3425720|1.04%|
+|Void_Elf|3422188|0.94%|
+|Human|3419378|0.85%|
+|Goblin|3418323|0.82%|
+|Night_Elf_Haste|3418030|0.81%|
+|Maghar_Orc|3417200|0.79%|
+|Gnome|3416979|0.78%|
+|Zandalari_Troll_Paku|3415037|0.73%|
+|Highmountain_Tauren|3412829|0.66%|
+|Draenei|3412336|0.65%|
+|Kul_Tiran|3412314|0.64%|
+|Nightborne|3411769|0.63%|
+|Blood_Elf|3410423|0.59%|
+|Worgen|3409734|0.57%|
+|Night_Elf_Crit|3409708|0.57%|
+|Dracthyr|3409497|0.56%|
+|Troll|3408861|0.54%|
+|Orc|3407832|0.51%|
+|Dwarf|3404370|0.41%|
+|Zandalari_Troll_Kimbul|3403340|0.38%|
+|Tauren|3402767|0.36%|
+|Dark_Iron_Dwarf|3401273|0.32%|
+|Panda_Feast|3399589|0.27%|
+|Earthen_Sapphire|3398333|0.23%|
+|Earthen_Emerald|3395157|0.14%|
+|Zandalari_Troll_Bwonsamdi|3395059|0.14%|
+|Earthen_Ruby|3394749|0.13%|
+|Earthen_Onyx|3394480|0.12%|
+|Undead|3391824|0.04%|
+|Vulpera|3391043|0.02%|
+|Lightforged_Draenei|3390572|0.00%|
+|Base|3390447|0.00%|

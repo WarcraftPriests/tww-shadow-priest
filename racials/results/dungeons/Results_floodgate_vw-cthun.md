@@ -1,0 +1,35 @@
+# floodgate - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|3342064|1.23%|
+|Void_Elf|3337027|1.07%|
+|Human|3336597|1.06%|
+|Maghar_Orc|3329740|0.85%|
+|Gnome|3329258|0.84%|
+|Night_Elf_Haste|3327971|0.80%|
+|Goblin|3327607|0.79%|
+|Nightborne|3327211|0.78%|
+|Zandalari_Troll_Paku|3327199|0.78%|
+|Highmountain_Tauren|3326784|0.76%|
+|Dwarf|3326255|0.75%|
+|Kul_Tiran|3326086|0.74%|
+|Dracthyr|3325740|0.73%|
+|Tauren|3325656|0.73%|
+|Draenei|3325624|0.73%|
+|Troll|3324003|0.68%|
+|Night_Elf_Crit|3323342|0.66%|
+|Blood_Elf|3322207|0.62%|
+|Orc|3321796|0.61%|
+|Worgen|3321642|0.61%|
+|Dark_Iron_Dwarf|3317837|0.49%|
+|Zandalari_Troll_Kimbul|3313553|0.36%|
+|Panda_Feast|3312492|0.33%|
+|Earthen_Sapphire|3307859|0.19%|
+|Earthen_Ruby|3306829|0.16%|
+|Earthen_Emerald|3306636|0.15%|
+|Earthen_Onyx|3305516|0.12%|
+|Zandalari_Troll_Bwonsamdi|3304486|0.09%|
+|Undead|3302731|0.03%|
+|Base|3301584|0.00%|
+|Lightforged_Draenei|3301068|-0.02%|
+|Vulpera|3299555|-0.06%|

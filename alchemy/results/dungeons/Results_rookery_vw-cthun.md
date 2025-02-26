@@ -1,0 +1,35 @@
+# rookery - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|3022509|2.94%|
+|Flask_of_Tempered_Versatility_3|3022348|2.93%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|3022252|2.93%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|3021068|2.89%|
+|Flask_of_Tempered_Aggression_3|3018983|2.82%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|3018834|2.81%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|3018033|2.78%|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|3016953|2.75%|
+|Flask_of_Tempered_Versatility_2|3016493|2.73%|
+|Flask_of_Alchemical_Chaos_3|3015402|2.69%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|3015132|2.69%|
+|Flask_of_Tempered_Mastery_3|3015019|2.68%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|3014187|2.65%|
+|Flask_of_Tempered_Aggression_2|3011801|2.57%|
+|Flask_of_Alchemical_Chaos_2|3011598|2.57%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|3009415|2.49%|
+|Flask_of_Tempered_Swiftness_3|3009046|2.48%|
+|Flask_of_Tempered_Mastery_2|3008072|2.45%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|3007568|2.43%|
+|Flask_of_Tempered_Versatility_1|3007184|2.42%|
+|Flask_of_Tempered_Aggression_1|3005088|2.34%|
+|Flask_of_Alchemical_Chaos_1|3004978|2.34%|
+|Flask_of_Tempered_Mastery_1|3003277|2.28%|
+|Flask_of_Tempered_Swiftness_2|3002512|2.26%|
+|Flask_of_Tempered_Swiftness_1|2997634|2.09%|
+|Potion_of_Unwavering_Focus_3|2936527|0.01%|
+|Base|2936272|0.00%|
+|Potion_of_Unwavering_Focus_1|2936173|0.00%|
+|Tempered_Potion_1|2935160|-0.04%|
+|Tempered_Potion_3|2935146|-0.04%|
+|Tempered_Potion_2|2935065|-0.04%|
+|Potion_of_Unwavering_Focus_2|2935034|-0.04%|

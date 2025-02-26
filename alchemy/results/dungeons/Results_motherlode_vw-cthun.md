@@ -1,0 +1,35 @@
+# motherlode - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|2960215|3.04%|
+|Flask_of_Tempered_Versatility_3|2958795|2.99%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|2957534|2.94%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|2955405|2.87%|
+|Flask_of_Tempered_Aggression_3|2955133|2.86%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|2955093|2.86%|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|2953660|2.81%|
+|Flask_of_Tempered_Versatility_2|2952054|2.75%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|2951769|2.74%|
+|Flask_of_Tempered_Mastery_3|2951619|2.74%|
+|Flask_of_Alchemical_Chaos_3|2951338|2.73%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|2950571|2.70%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|2949922|2.68%|
+|Flask_of_Tempered_Aggression_2|2949033|2.65%|
+|Flask_of_Alchemical_Chaos_2|2947821|2.60%|
+|Flask_of_Tempered_Versatility_1|2944993|2.51%|
+|Flask_of_Tempered_Mastery_2|2943609|2.46%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|2942300|2.41%|
+|Flask_of_Tempered_Swiftness_3|2941965|2.40%|
+|Flask_of_Tempered_Aggression_1|2941831|2.40%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|2941227|2.37%|
+|Flask_of_Alchemical_Chaos_1|2939587|2.32%|
+|Flask_of_Tempered_Mastery_1|2937790|2.25%|
+|Flask_of_Tempered_Swiftness_2|2935254|2.17%|
+|Flask_of_Tempered_Swiftness_1|2929096|1.95%|
+|Tempered_Potion_3|2873830|0.03%|
+|Tempered_Potion_2|2873610|0.02%|
+|Tempered_Potion_1|2873491|0.02%|
+|Base|2873015|0.00%|
+|Potion_of_Unwavering_Focus_3|2872912|0.00%|
+|Potion_of_Unwavering_Focus_1|2872270|-0.03%|
+|Potion_of_Unwavering_Focus_2|2871594|-0.05%|

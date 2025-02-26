@@ -1,4 +1,4 @@
 # Dungeons-Route - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|3123721|1.00|1.36|1.25|1.12|1.23|0.04|
+|Base|3037881|1.00|1.18|1.22|1.08|1.20|0.05|

@@ -1,0 +1,35 @@
+# rookery - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|3022685|1.21%|
+|Void_Elf|3022570|1.21%|
+|Human|3017426|1.04%|
+|Night_Elf_Haste|3011942|0.85%|
+|Goblin|3011903|0.85%|
+|Draenei|3011709|0.85%|
+|Gnome|3011326|0.83%|
+|Highmountain_Tauren|3011099|0.82%|
+|Maghar_Orc|3011095|0.82%|
+|Kul_Tiran|3010696|0.81%|
+|Zandalari_Troll_Paku|3010537|0.81%|
+|Nightborne|3010334|0.80%|
+|Dwarf|3009301|0.76%|
+|Tauren|3009135|0.76%|
+|Dracthyr|3009077|0.76%|
+|Night_Elf_Crit|3007492|0.70%|
+|Worgen|3007023|0.69%|
+|Blood_Elf|3006921|0.68%|
+|Troll|3004542|0.61%|
+|Orc|3004522|0.60%|
+|Dark_Iron_Dwarf|3000967|0.49%|
+|Zandalari_Troll_Kimbul|2999797|0.45%|
+|Panda_Feast|2999089|0.42%|
+|Earthen_Sapphire|2993554|0.24%|
+|Earthen_Onyx|2992083|0.19%|
+|Earthen_Ruby|2991755|0.18%|
+|Earthen_Emerald|2991483|0.17%|
+|Zandalari_Troll_Bwonsamdi|2991359|0.16%|
+|Undead|2988515|0.07%|
+|Lightforged_Draenei|2986745|0.01%|
+|Base|2986470|0.00%|
+|Vulpera|2986102|-0.01%|

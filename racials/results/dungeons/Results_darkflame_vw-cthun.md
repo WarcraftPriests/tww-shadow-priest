@@ -1,0 +1,35 @@
+# darkflame - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|2474316|1.31%|
+|Void_Elf|2470620|1.16%|
+|Human|2467663|1.03%|
+|Highmountain_Tauren|2464861|0.92%|
+|Gnome|2463439|0.86%|
+|Goblin|2463369|0.86%|
+|Nightborne|2462904|0.84%|
+|Kul_Tiran|2462829|0.84%|
+|Zandalari_Troll_Paku|2462447|0.82%|
+|Night_Elf_Haste|2461845|0.80%|
+|Blood_Elf|2461772|0.79%|
+|Draenei|2461542|0.78%|
+|Tauren|2461475|0.78%|
+|Dwarf|2461368|0.78%|
+|Dracthyr|2461289|0.77%|
+|Worgen|2460516|0.74%|
+|Night_Elf_Crit|2459730|0.71%|
+|Zandalari_Troll_Kimbul|2457075|0.60%|
+|Orc|2454528|0.50%|
+|Panda_Feast|2453278|0.45%|
+|Maghar_Orc|2453096|0.44%|
+|Troll|2451955|0.39%|
+|Dark_Iron_Dwarf|2449785|0.30%|
+|Earthen_Sapphire|2448889|0.27%|
+|Earthen_Ruby|2448698|0.26%|
+|Earthen_Onyx|2448565|0.25%|
+|Undead|2447814|0.22%|
+|Zandalari_Troll_Bwonsamdi|2446612|0.17%|
+|Earthen_Emerald|2444791|0.10%|
+|Vulpera|2444463|0.08%|
+|Lightforged_Draenei|2442710|0.01%|
+|Base|2442403|0.00%|

@@ -1,0 +1,35 @@
+# cinderbrew - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|3381494|2.49%|
+|Flask_of_Tempered_Versatility_3|3379449|2.43%|
+|Flask_of_Tempered_Aggression_3|3378734|2.40%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|3378443|2.40%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|3378227|2.39%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|3377796|2.38%|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|3376881|2.35%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|3376571|2.34%|
+|Flask_of_Tempered_Versatility_2|3375116|2.29%|
+|Flask_of_Alchemical_Chaos_3|3374623|2.28%|
+|Flask_of_Tempered_Mastery_3|3373929|2.26%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|3372881|2.23%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|3371534|2.19%|
+|Flask_of_Tempered_Aggression_2|3370524|2.16%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|3369553|2.13%|
+|Flask_of_Alchemical_Chaos_2|3369509|2.12%|
+|Flask_of_Tempered_Versatility_1|3369453|2.12%|
+|Flask_of_Tempered_Swiftness_3|3368940|2.11%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|3368303|2.09%|
+|Flask_of_Tempered_Mastery_2|3366377|2.03%|
+|Flask_of_Tempered_Aggression_1|3365790|2.01%|
+|Flask_of_Alchemical_Chaos_1|3363910|1.95%|
+|Flask_of_Tempered_Swiftness_2|3363410|1.94%|
+|Flask_of_Tempered_Mastery_1|3361517|1.88%|
+|Flask_of_Tempered_Swiftness_1|3359080|1.81%|
+|Tempered_Potion_3|3299599|0.01%|
+|Base|3299417|0.00%|
+|Tempered_Potion_1|3298918|-0.02%|
+|Potion_of_Unwavering_Focus_2|3298794|-0.02%|
+|Potion_of_Unwavering_Focus_3|3298614|-0.02%|
+|Tempered_Potion_2|3298461|-0.03%|
+|Potion_of_Unwavering_Focus_1|3297573|-0.06%|

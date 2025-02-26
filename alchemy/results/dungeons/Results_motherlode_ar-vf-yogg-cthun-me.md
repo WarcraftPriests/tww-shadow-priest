@@ -1,0 +1,35 @@
+# motherlode - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|3006208|3.31%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|3001415|3.14%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|3000714|3.12%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|2998718|3.05%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|2994243|2.90%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|2985128|2.58%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|2983208|2.52%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|2983033|2.51%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|2981930|2.47%|
+|Flask_of_Tempered_Aggression_3|2978934|2.37%|
+|Flask_of_Tempered_Versatility_3|2978832|2.37%|
+|Flask_of_Alchemical_Chaos_3|2978691|2.36%|
+|Flask_of_Tempered_Swiftness_3|2978633|2.36%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|2977493|2.32%|
+|Flask_of_Tempered_Aggression_2|2975236|2.24%|
+|Flask_of_Tempered_Versatility_2|2973689|2.19%|
+|Flask_of_Tempered_Mastery_3|2972865|2.16%|
+|Flask_of_Tempered_Swiftness_2|2972718|2.16%|
+|Flask_of_Alchemical_Chaos_2|2972432|2.15%|
+|Flask_of_Tempered_Versatility_1|2970383|2.08%|
+|Flask_of_Tempered_Aggression_1|2968772|2.02%|
+|Flask_of_Tempered_Mastery_2|2968575|2.01%|
+|Flask_of_Alchemical_Chaos_1|2967561|1.98%|
+|Flask_of_Tempered_Swiftness_1|2966851|1.95%|
+|Flask_of_Tempered_Mastery_1|2962717|1.81%|
+|Tempered_Potion_3|2934360|0.84%|
+|Tempered_Potion_2|2933201|0.80%|
+|Tempered_Potion_1|2930536|0.71%|
+|Potion_of_Unwavering_Focus_3|2913821|0.13%|
+|Potion_of_Unwavering_Focus_1|2911947|0.07%|
+|Potion_of_Unwavering_Focus_2|2911887|0.07%|
+|Base|2909975|0.00%|

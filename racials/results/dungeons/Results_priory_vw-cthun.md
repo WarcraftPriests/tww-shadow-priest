@@ -1,0 +1,35 @@
+# priory - vw-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|3338524|1.33%|
+|Void_Elf|3335251|1.23%|
+|Human|3329856|1.06%|
+|Maghar_Orc|3326956|0.98%|
+|Highmountain_Tauren|3324927|0.92%|
+|Goblin|3324175|0.89%|
+|Nightborne|3323989|0.89%|
+|Night_Elf_Haste|3323909|0.88%|
+|Kul_Tiran|3323531|0.87%|
+|Draenei|3322891|0.85%|
+|Gnome|3322338|0.84%|
+|Zandalari_Troll_Paku|3322030|0.83%|
+|Dwarf|3321480|0.81%|
+|Dracthyr|3321360|0.81%|
+|Tauren|3321296|0.80%|
+|Worgen|3320736|0.79%|
+|Blood_Elf|3320338|0.78%|
+|Troll|3320199|0.77%|
+|Orc|3319547|0.75%|
+|Night_Elf_Crit|3317631|0.69%|
+|Dark_Iron_Dwarf|3312967|0.55%|
+|Panda_Feast|3309116|0.44%|
+|Zandalari_Troll_Kimbul|3306428|0.35%|
+|Earthen_Sapphire|3303239|0.26%|
+|Earthen_Ruby|3301993|0.22%|
+|Earthen_Emerald|3299496|0.14%|
+|Earthen_Onyx|3299243|0.14%|
+|Zandalari_Troll_Bwonsamdi|3298951|0.13%|
+|Undead|3297530|0.08%|
+|Vulpera|3296116|0.04%|
+|Lightforged_Draenei|3295628|0.03%|
+|Base|3294774|0.00%|

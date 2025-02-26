@@ -1,0 +1,35 @@
+# cinderbrew - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Mechagnome|3484996|1.07%|
+|Human|3479796|0.92%|
+|Void_Elf|3478115|0.87%|
+|Night_Elf_Haste|3477992|0.87%|
+|Goblin|3475698|0.80%|
+|Gnome|3475292|0.79%|
+|Maghar_Orc|3474289|0.76%|
+|Zandalari_Troll_Paku|3473135|0.72%|
+|Draenei|3471194|0.67%|
+|Highmountain_Tauren|3470614|0.65%|
+|Dracthyr|3470498|0.65%|
+|Kul_Tiran|3470077|0.64%|
+|Nightborne|3469817|0.63%|
+|Blood_Elf|3469394|0.62%|
+|Worgen|3468309|0.58%|
+|Orc|3467889|0.57%|
+|Night_Elf_Crit|3467111|0.55%|
+|Troll|3465986|0.52%|
+|Dwarf|3462208|0.41%|
+|Tauren|3461755|0.39%|
+|Panda_Feast|3458804|0.31%|
+|Dark_Iron_Dwarf|3458373|0.30%|
+|Zandalari_Troll_Kimbul|3457542|0.27%|
+|Undead|3452591|0.13%|
+|Zandalari_Troll_Bwonsamdi|3452498|0.13%|
+|Earthen_Sapphire|3452354|0.12%|
+|Earthen_Ruby|3452180|0.12%|
+|Earthen_Emerald|3452162|0.12%|
+|Earthen_Onyx|3451328|0.09%|
+|Vulpera|3449293|0.03%|
+|Base|3448142|0.00%|
+|Lightforged_Draenei|3447499|-0.02%|

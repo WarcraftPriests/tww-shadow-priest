@@ -1,0 +1,35 @@
+# floodgate - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|3399418|2.55%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|3396700|2.47%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|3396172|2.46%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|3394292|2.40%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|3389337|2.25%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|3381049|2.00%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|3380262|1.98%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|3379345|1.95%|
+|Flask_of_Tempered_Versatility_3|3379144|1.94%|
+|Flask_of_Tempered_Aggression_3|3378938|1.94%|
+|Flask_of_Alchemical_Chaos_3|3377553|1.89%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|3376969|1.88%|
+|Flask_of_Tempered_Swiftness_3|3376865|1.87%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|3374695|1.81%|
+|Flask_of_Tempered_Aggression_2|3374281|1.79%|
+|Flask_of_Tempered_Swiftness_2|3373761|1.78%|
+|Flask_of_Tempered_Versatility_2|3372928|1.75%|
+|Flask_of_Alchemical_Chaos_2|3372157|1.73%|
+|Flask_of_Tempered_Mastery_3|3371016|1.70%|
+|Flask_of_Tempered_Aggression_1|3369223|1.64%|
+|Flask_of_Alchemical_Chaos_1|3367522|1.59%|
+|Flask_of_Tempered_Versatility_1|3367035|1.58%|
+|Flask_of_Tempered_Mastery_2|3367016|1.58%|
+|Flask_of_Tempered_Swiftness_1|3366780|1.57%|
+|Flask_of_Tempered_Mastery_1|3364895|1.51%|
+|Tempered_Potion_3|3334446|0.59%|
+|Tempered_Potion_2|3333724|0.57%|
+|Tempered_Potion_1|3333631|0.57%|
+|Potion_of_Unwavering_Focus_3|3316551|0.05%|
+|Potion_of_Unwavering_Focus_2|3315735|0.03%|
+|Base|3314787|0.00%|
+|Potion_of_Unwavering_Focus_1|3314153|-0.02%|
