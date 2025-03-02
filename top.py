@@ -90,6 +90,7 @@ def get_builds():
         "nzoth_cthun",
         "nzoth_yogg_cthun",
         "cthun",
+        "yogg_cthun",
     ]
     combos.extend(get_hero_builds("AR", ar_cds, ar_idols))
     ## Voidweaver

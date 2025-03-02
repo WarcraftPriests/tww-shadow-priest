@@ -123,9 +123,9 @@ profileset."Hibernation_Crystal_645"+=trinket1=hibernation_crystal,id=150388,ile
 
 # PVP Trinkets
 #    Honor: ?
-# Conquest: 665?
-profileset."Prized_Gladiators_Badge_of_Ferocity_665"+=trinket1=prized_gladiators_badge_of_ferocity,id=229780,ilevel=665
-profileset."Prized_Gladiators_Insignia_of_Alacrity_665"+=trinket1=prized_gladiators_insignia_of_alacrity,id=229781,ilevel=665
+# Conquest: Champion Track
+profileset."Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Prized_Gladiators_Insignia_of_Alacrity_658"+=trinket1=prized_gladiators_insignia_of_alacrity,id=229781,ilevel=658
 
 # Ulduar Timewalking
 profileset."Energy_Siphon_658"+=trinket1=energy_siphon,id=156021,ilevel=658

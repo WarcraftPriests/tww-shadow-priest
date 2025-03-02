@@ -37,7 +37,7 @@ combos = {
     "Funhouse_Lens_665": "funhouse_lens,id=234217,ilevel=665",
     "Amorphous_Relic_665": "amorphous_relic,id=232891,ilevel=665",
     # pvp (?)
-    "Prized_Gladiators_Badge_of_Ferocity_665": "prized_gladiators_badge_of_ferocity,id=229780,ilevel=665",
+    "Prized_Gladiators_Badge_of_Ferocity_658": "prized_gladiators_badge_of_ferocity,id=229780,ilevel=658",
 }
 
 
