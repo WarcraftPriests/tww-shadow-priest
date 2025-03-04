@@ -42,8 +42,8 @@ actions.aoe_variables+=/variable,name=dots_up,op=set,value=(active_dot.vampiric_
 actions.aoe_variables+=/variable,name=holding_crash,op=set,value=(variable.max_vts-active_dot.vampiric_touch)<4&raid_event.adds.in>15|raid_event.adds.in<10&raid_event.adds.count>(variable.max_vts-active_dot.vampiric_touch),if=variable.holding_crash&talent.whispering_shadows&raid_event.adds.exists
 actions.aoe_variables+=/variable,name=manual_vts_applied,op=set,value=(active_dot.vampiric_touch+8*!variable.holding_crash)>=variable.max_vts|!variable.is_vt_possible
 
-# TODO: Check VE/DA enter conditions based on dots
-actions.cds=potion,if=(buff.voidform.up&buff.power_infusion.up|buff.dark_ascension.up&(fight_remains<=cooldown.power_infusion.remains+15))&(fight_remains>=320|time_to_bloodlust>=320|buff.bloodlust.react)|fight_remains<=30
+# TODO: Add holding condition for weird fight times to potion with execute
+actions.cds=potion,if=(buff.voidform.up&buff.power_infusion.up|buff.dark_ascension.up)&(fight_remains>=320|time_to_bloodlust>=320|buff.bloodlust.react)|fight_remains<=30
 actions.cds+=/fireblood,if=buff.power_infusion.up&(buff.voidform.up|buff.dark_ascension.up)|fight_remains<=8
 actions.cds+=/berserking,if=buff.power_infusion.up&(buff.voidform.up|buff.dark_ascension.up)|fight_remains<=12
 actions.cds+=/blood_fury,if=buff.power_infusion.up&(buff.voidform.up|buff.dark_ascension.up)|fight_remains<=15
@@ -109,6 +109,7 @@ actions.heal_for_tof+=/divine_star
 actions.heal_for_tof+=/holy_nova,if=buff.rhapsody.stack=20&talent.rhapsody
 
 actions.main=variable,name=dots_up,op=set,value=active_dot.vampiric_touch=active_enemies|action.shadow_crash.in_flight&talent.whispering_shadows,if=active_enemies<3
+actions.main+=/void_bolt,target_if=max:target.time_to_die,only_cwc=1
 # Are we pooling mindblasts? Currently only used for Voidweaver.
 actions.main+=/variable,name=pooling_mindblasts,op=setif,value=1,value_else=0,condition=(cooldown.void_torrent.remains<?(variable.holding_crash*raid_event.adds.in))<=gcd.max*(2+talent.mind_melt*2),if=talent.void_blast
 # High priority action to consume Unfurling Darkness during the opener with Voidweaver
@@ -166,8 +167,9 @@ actions.main+=/devouring_plague,target_if=max:target.time_to_die*(dot.devouring_
 # actions.main+=/shadow_word_death,target_if=max:dot.devouring_plague.remains,if=variable.dots_up&buff.deathspeaker.up|pet.fiend.active&talent.inescapable_torment
 actions.main+=/call_action_list,name=filler
 
-actions.trinkets=use_item,use_off_gcd=1,name=aberrant_spellforge,if=gcd.remains>0&buff.aberrant_spellforge.stack<=4
-actions.trinkets=use_item,use_off_gcd=1,name=neural_synapse_enhancer,if=(buff.power_surge.up|buff.entropic_rift.up)&(buff.voidform.up|cooldown.void_eruption.remains>=40|buff.dark_ascension.up)
+actions.trinkets=use_item,use_off_gcd=1,name=hyperthread_wristwraps,if=talent.void_blast&hyperthread_wristwraps.void_blast.count>=2&!cooldown.mind_blast.up|!talent.void_blast&((hyperthread_wristwraps.void_bolt.count>=1|!talent.void_eruption)&hyperthread_wristwraps.void_torrent.count>=1)
+actions.trinkets+=/use_item,use_off_gcd=1,name=aberrant_spellforge,if=gcd.remains>0&buff.aberrant_spellforge.stack<=4
+actions.trinkets+=/use_item,use_off_gcd=1,name=neural_synapse_enhancer,if=(buff.power_surge.up|buff.entropic_rift.up)&(buff.voidform.up|cooldown.void_eruption.remains>=40|buff.dark_ascension.up)
 actions.trinkets+=/use_item,use_off_gcd=1,name=flarendos_pilot_light,if=gcd.remains>0&(buff.voidform.up|buff.power_infusion.remains>=10|buff.dark_ascension.up)|fight_remains<20
 actions.trinkets+=/use_item,use_off_gcd=1,name=geargrinders_spare_keys,if=gcd.remains>0
 actions.trinkets+=/use_item,name=spymasters_web,if=(buff.power_infusion.remains>=10&buff.spymasters_report.stack>=36&fight_remains>240)&(buff.voidform.up|buff.dark_ascension.up|!talent.dark_ascension&!talent.void_eruption)|((buff.power_infusion.remains>=10&buff.bloodlust.up&buff.spymasters_report.stack>=10)|buff.power_infusion.remains>=10&(fight_remains<120))&(buff.voidform.up|buff.dark_ascension.up|!talent.dark_ascension&!talent.void_eruption)|(fight_remains<=20|buff.dark_ascension.up&fight_remains<=60|buff.entropic_rift.up&talent.entropic_rift&fight_remains<=30)&!buff.spymasters_web.up
