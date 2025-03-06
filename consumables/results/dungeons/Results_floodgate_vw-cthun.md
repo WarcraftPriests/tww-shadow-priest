@@ -1,18 +1,18 @@
 # floodgate - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|3244814|0.70%|
-|Chippy_Tea|3239252|0.53%|
-|Marinated_Tenderloins|3238709|0.51%|
-|Deepfin_Patty|3238488|0.50%|
-|Salt_Baked_Seafood|3238076|0.49%|
-|Fish_and_Chips|3236860|0.45%|
-|Beledars_Bounty|3236610|0.45%|
-|Sweet_and_Spicy_Soup|3236435|0.44%|
-|Fiery_Fish_Sticks|3235109|0.40%|
-|Feast_of_the_Divine_Day|3234866|0.39%|
-|Salty_Dog|3234510|0.38%|
-|GingerGlazed_Fillet|3234071|0.37%|
-|Zesty_Nibblers|3233272|0.34%|
-|Stuffed_Cave_Peppers|3230125|0.24%|
-|Base|3222251|0.00%|
+|Crystallized_Augment_Rune|2950637|0.65%|
+|Chippy_Tea|2948560|0.58%|
+|Beledars_Bounty|2947969|0.56%|
+|Deepfin_Patty|2947505|0.54%|
+|Sweet_and_Spicy_Soup|2947202|0.53%|
+|Fish_and_Chips|2945965|0.49%|
+|Marinated_Tenderloins|2945682|0.48%|
+|Salt_Baked_Seafood|2945093|0.46%|
+|Feast_of_the_Divine_Day|2944260|0.43%|
+|Zesty_Nibblers|2943148|0.39%|
+|Salty_Dog|2941850|0.35%|
+|GingerGlazed_Fillet|2941413|0.33%|
+|Fiery_Fish_Sticks|2940123|0.29%|
+|Stuffed_Cave_Peppers|2935957|0.15%|
+|Base|2931610|0.00%|

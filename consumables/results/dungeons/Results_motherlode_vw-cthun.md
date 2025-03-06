@@ -1,18 +1,18 @@
 # motherlode - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2863063|0.69%|
-|Deepfin_Patty|2858971|0.54%|
-|Sweet_and_Spicy_Soup|2857096|0.48%|
-|Marinated_Tenderloins|2856874|0.47%|
-|Salt_Baked_Seafood|2856717|0.46%|
-|Beledars_Bounty|2856039|0.44%|
-|Fish_and_Chips|2855514|0.42%|
-|Feast_of_the_Divine_Day|2855162|0.41%|
-|Chippy_Tea|2854957|0.40%|
-|Zesty_Nibblers|2853831|0.36%|
-|GingerGlazed_Fillet|2853776|0.36%|
-|Fiery_Fish_Sticks|2853263|0.34%|
-|Salty_Dog|2852066|0.30%|
-|Stuffed_Cave_Peppers|2849202|0.20%|
-|Base|2843514|0.00%|
+|Crystallized_Augment_Rune|2616043|0.80%|
+|Beledars_Bounty|2611673|0.63%|
+|Sweet_and_Spicy_Soup|2611369|0.62%|
+|Deepfin_Patty|2611269|0.61%|
+|Salt_Baked_Seafood|2611151|0.61%|
+|Chippy_Tea|2610759|0.59%|
+|Marinated_Tenderloins|2610584|0.59%|
+|Fish_and_Chips|2609872|0.56%|
+|Fiery_Fish_Sticks|2607899|0.48%|
+|Feast_of_the_Divine_Day|2607666|0.48%|
+|Zesty_Nibblers|2607565|0.47%|
+|GingerGlazed_Fillet|2606545|0.43%|
+|Salty_Dog|2605998|0.41%|
+|Stuffed_Cave_Peppers|2600882|0.21%|
+|Base|2595321|0.00%|

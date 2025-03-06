@@ -21,8 +21,7 @@ tier = {
 }
 
 talents = {
-    'current': 'CIQAAAAAAAAAAAAAAAAAAAAAAAMm5BAAAAAAAAAAAAMMLGmZmlZbmZmxYmZWGMbMzMzY2YgxYYWMbTNzgFYMzAABY2mltgZjFA',
-    'new': 'CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA'
+    'current': 'CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA',
 }
 
 # Normal: 658
@@ -40,7 +39,7 @@ for talent in talents:
             item_list = get_item_list("", combo)
             name = f"{len(combo)}_{item_list}_{ilevel}_{talent}"
             profile_string = ""
-            profile_string += f"profileset.\"{name}\"+=talents={talents[talent]}\n"
+            # profile_string += f"profileset.\"{name}\"+=talents={talents[talent]}\n"
             for item in combo:
                 profile_string += f"profileset.\"{name}\"+={tier[item]},ilevel={ilevel}\n"
             profiles.append(profile_string + '\n')

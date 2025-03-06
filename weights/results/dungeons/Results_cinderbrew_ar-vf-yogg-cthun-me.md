@@ -1,4 +1,4 @@
 # cinderbrew - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|3403757|1.00|1.22|1.22|1.08|1.25|0.05|
+|Base|3021211|1.00|1.31|1.22|1.23|1.21|0.04|
