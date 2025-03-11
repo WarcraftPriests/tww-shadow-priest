@@ -39,8 +39,20 @@ profileset."Bursting_Lightshard_665"+=trinket1=bursting_lightshard,id=219310,ile
 profileset."Bursting_Lightshard_678"+=trinket1=bursting_lightshard,id=219310,ilevel=678
 
 ## Cinderbrew Meadery
-profileset."Synergistic_Brewterializer_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
+profileset."Synergistic_Brewterializer_DMG_ToF_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
+profileset."Synergistic_Brewterializer_DMG_ToF_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
+
+### Sims as if the barrel gets exploded 100% of the time by other group members, you get the damage but not ToF procs
+profileset."Synergistic_Brewterializer_DMG_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
+profileset."Synergistic_Brewterializer_DMG_665"+=priest.synergistic_brewterializer_tof_chance=0.0
+profileset."Synergistic_Brewterializer_DMG_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
+profileset."Synergistic_Brewterializer_DMG_678"+=priest.synergistic_brewterializer_tof_chance=0.0
+
+### Sims as if the barrel is exploded, but never around any targets, you still get ToF tho
+profileset."Synergistic_Brewterializer_ToF_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
+profileset."Synergistic_Brewterializer_ToF_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.0
+profileset."Synergistic_Brewterializer_ToF_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
+profileset."Synergistic_Brewterializer_ToF_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.0
 
 ## Darkflame Cleft
 profileset."Remnant_of_Darkness_665"+=trinket1=remnant_of_darkness,id=219307,ilevel=665
