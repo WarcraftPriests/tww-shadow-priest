@@ -17,7 +17,7 @@ combos = {
     "Synergistic_Brewterializer_678": "synergistic_brewterializer,id=219299,ilevel=678",
     # "Remnant_of_Darkness_678": "remnant_of_darkness,id=219307,ilevel=678",
     "Carved_Blazikon_Wax_678": "carved_blazikon_wax,id=219305,ilevel=678",
-    "Gigazaps_Zap_Cap_678": "gigazaps_zapcap,id=232545,ilevel=678",
+    # "Gigazaps_Zap_Cap_678": "gigazaps_zapcap,id=232545,ilevel=678",
     "Soulletting_Ruby_678": "soulletting_ruby,id=178809,ilevel=678",
     "Ingenious_Mana_Battery_678": "ingenious_mana_battery,id=169344,ilevel=678",
     # Liberation of Undermine (665/678)
@@ -32,7 +32,7 @@ combos = {
     "Spymasters_Web_639": "spymasters_web,id=220202,ilevel=639",
     # delves (665)
     "Quickwick_Candlestick_665": "quickwick_candlestick,id=225649,ilevel=665",
-    "Shadowbinding_Ritual_Knife_665": "shadowbinding_ritual_knife,id=215178,ilevel=665",
+    # "Shadowbinding_Ritual_Knife_665": "shadowbinding_ritual_knife,id=215178,ilevel=665",
     "Suspicious_Energy_Drink_665": "suspicious_energy_drink,id=235363,ilevel=665",
     "Funhouse_Lens_665": "funhouse_lens,id=234217,ilevel=665",
     "Amorphous_Relic_665": "amorphous_relic,id=232891,ilevel=665",

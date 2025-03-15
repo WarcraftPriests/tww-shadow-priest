@@ -1,1 +1,1 @@
-{"name": "Single - vw-cthun", "data": {"buffs": {"DPS": 1456454}, "Base": {"DPS": 1455536}}, "ids": {"buffs": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["buffs"], "last_updated": "2024-10-25"}
+{"name": "Single - vw-cthun", "data": {"Base": {"DPS": 2381528}, "Base1": {"DPS": 2380420}}, "ids": {"Base1": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["Base1"], "last_updated": "2025-03-14"}

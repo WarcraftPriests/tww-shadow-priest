@@ -1,1 +1,1 @@
-{"name": "8T - vw-cthun", "data": {"buffs": {"DPS": 6591386}, "Base": {"DPS": 6204933}}, "ids": {"buffs": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["buffs"], "last_updated": "2024-10-25"}
+{"name": "8T - vw-cthun", "data": {"Base": {"DPS": 10498939}, "Base1": {"DPS": 10491675}}, "ids": {"Base1": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["Base1"], "last_updated": "2025-03-14"}

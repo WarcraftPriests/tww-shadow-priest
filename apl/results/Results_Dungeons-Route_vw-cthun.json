@@ -1,1 +1,1 @@
-{"name": "Dungeons-Route - vw-cthun", "data": {"buffs": {"DPS": 1894539}, "Base": {"DPS": 1856320}}, "ids": {"buffs": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["buffs"], "last_updated": "2024-10-25"}
+{"name": "Dungeons-Route - vw-cthun", "data": {"new": {"DPS": 2632966}, "Base": {"DPS": 2631301}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-03-14"}

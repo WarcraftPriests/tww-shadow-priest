@@ -1,1 +1,1 @@
-{"name": "4T - ar-vf-yogg-cthun-me", "data": {"buffs": {"DPS": 3200823}, "Base": {"DPS": 3056804}}, "ids": {"buffs": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["buffs"], "last_updated": "2024-10-25"}
+{"name": "4T - ar-vf-yogg-cthun-me", "data": {"Base": {"DPS": 4978990}, "Base1": {"DPS": 4977569}}, "ids": {"Base1": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["Base1"], "last_updated": "2025-03-14"}

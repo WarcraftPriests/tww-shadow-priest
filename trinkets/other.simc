@@ -45,23 +45,23 @@ profileset."Noggenfogger_Ultimate_Deluxe_665"+=trinket1=noggenfogger_ultimate_de
 profileset."Gooblin_Grenade_658"+=trinket1=gooblin_grenade,id=234218,ilevel=658
 profileset."Gooblin_Grenade_665"+=trinket1=gooblin_grenade,id=234218,ilevel=665
 
-profileset."Fungal_Friend_Flute_658"+=trinket1=fungal_friend_flute,id=215171,ilevel=658
-profileset."Fungal_Friend_Flute_665"+=trinket1=fungal_friend_flute,id=215171,ilevel=665
+# profileset."Fungal_Friend_Flute_658"+=trinket1=fungal_friend_flute,id=215171,ilevel=658
+# profileset."Fungal_Friend_Flute_665"+=trinket1=fungal_friend_flute,id=215171,ilevel=665
 
-profileset."Kaheti_Shadeweavers_Emblem_658"+=trinket1=kaheti_shadeweavers_emblem,id=225651,ilevel=658
-profileset."Kaheti_Shadeweavers_Emblem_665"+=trinket1=kaheti_shadeweavers_emblem,id=225651,ilevel=665
+# profileset."Kaheti_Shadeweavers_Emblem_658"+=trinket1=kaheti_shadeweavers_emblem,id=225651,ilevel=658
+# profileset."Kaheti_Shadeweavers_Emblem_665"+=trinket1=kaheti_shadeweavers_emblem,id=225651,ilevel=665
 
-profileset."Imperfect_Ascendancy_Serum_658"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=658
-profileset."Imperfect_Ascendancy_Serum_665"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=665
+# profileset."Imperfect_Ascendancy_Serum_658"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=658
+# profileset."Imperfect_Ascendancy_Serum_665"+=trinket1=imperfect_ascendancy_serum,id=225654,ilevel=665
 
-profileset."Concoction_Kiss_of_Death_658"+=trinket1=concoction_kiss_of_death,id=215174,ilevel=658
-profileset."Concoction_Kiss_of_Death_665"+=trinket1=concoction_kiss_of_death,id=215174,ilevel=665
+# profileset."Concoction_Kiss_of_Death_658"+=trinket1=concoction_kiss_of_death,id=215174,ilevel=658
+# profileset."Concoction_Kiss_of_Death_665"+=trinket1=concoction_kiss_of_death,id=215174,ilevel=665
 
-profileset."Shadowbinding_Ritual_Knife_658"+=trinket1=shadowbinding_ritual_knife,id=215178,ilevel=658
-profileset."Shadowbinding_Ritual_Knife_665"+=trinket1=shadowbinding_ritual_knife,id=215178,ilevel=665
+# profileset."Shadowbinding_Ritual_Knife_658"+=trinket1=shadowbinding_ritual_knife,id=215178,ilevel=658
+# profileset."Shadowbinding_Ritual_Knife_665"+=trinket1=shadowbinding_ritual_knife,id=215178,ilevel=665
 
-profileset."Nizreks_Holographic_Manipulator_658"+=trinket1=nizreks_holographic_manipulator,id=225970,ilevel=658
-profileset."Nizreks_Holographic_Manipulator_665"+=trinket1=nizreks_holographic_manipulator,id=225970,ilevel=665
+# profileset."Nizreks_Holographic_Manipulator_658"+=trinket1=nizreks_holographic_manipulator,id=225970,ilevel=658
+# profileset."Nizreks_Holographic_Manipulator_665"+=trinket1=nizreks_holographic_manipulator,id=225970,ilevel=665
 
 profileset."Quickwick_Candlestick_658"+=trinket1=quickwick_candlestick,id=225649,ilevel=658
 profileset."Quickwick_Candlestick_665"+=trinket1=quickwick_candlestick,id=225649,ilevel=665

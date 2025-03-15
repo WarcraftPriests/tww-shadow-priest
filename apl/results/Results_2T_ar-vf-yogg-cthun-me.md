@@ -1,5 +1,5 @@
 # 2T - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|buffs|1980269|2.54%|
-|Base|1931126|0.00%|
+|Base|3073261|0.00%|
+|Base1|3072825|-0.01%|

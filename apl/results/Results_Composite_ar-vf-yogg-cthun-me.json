@@ -1,1 +1,1 @@
-{"name": "Composite - ar-vf-yogg-cthun-me", "data": {"buffs": {"DPS": 1504641}, "Base": {"DPS": 1498307}}, "ids": {"buffs": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["buffs"], "last_updated": "2024-10-25"}
+{"name": "Composite - ar-vf-yogg-cthun-me", "data": {"Base1": {"DPS": 2238966}, "Base": {"DPS": 2238196}}, "ids": {"Base1": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["Base1"], "last_updated": "2025-03-14"}

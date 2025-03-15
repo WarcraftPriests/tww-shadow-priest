@@ -1,5 +1,5 @@
 # Dungeons-Route - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|buffs|1894539|2.06%|
-|Base|1856320|0.00%|
+|new|2632966|0.06%|
+|Base|2631301|0.00%|
