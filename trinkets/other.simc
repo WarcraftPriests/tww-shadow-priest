@@ -22,6 +22,29 @@ finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
+# 11.1.5
+## Flame's Radiance: 658
+profileset."Shining_Arathor_Insignia_658"+=trinket1=shining_arathor_insignia,id=225647,ilevel=658
+profileset."Shining_Arathor_Insignia_Cloak_658"+=trinket1=shining_arathor_insignia,id=225647,ilevel=658
+profileset."Shining_Arathor_Insignia_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+
+profileset."Arathi_Ministers_Receptacle_658"+=trinket1=arathi_ministers_receptacle,id=238391,ilevel=658
+profileset."Arathi_Ministers_Receptacle_Cloak_658"+=trinket1=arathi_ministers_receptacle,id=238391,ilevel=658
+profileset."Arathi_Ministers_Receptacle_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+
+profileset."Hallowed_Tome_Haste_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6652/12215,ilevel=658
+profileset."Hallowed_Tome_Haste_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6652/12215,ilevel=658
+profileset."Hallowed_Tome_Haste_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+profileset."Hallowed_Tome_Crit_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6652/12216,ilevel=658
+profileset."Hallowed_Tome_Crit_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6652/12216,ilevel=658
+profileset."Hallowed_Tome_Crit_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+profileset."Hallowed_Tome_Vers_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6652/12217,ilevel=658
+profileset."Hallowed_Tome_Vers_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6652/12217,ilevel=658
+profileset."Hallowed_Tome_Vers_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+profileset."Hallowed_Tome_Mastery_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6652/12218,ilevel=658
+profileset."Hallowed_Tome_Mastery_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6652/12218,ilevel=658
+profileset."Hallowed_Tome_Mastery_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+
 # Delves
 ## Drop: 658 / Vault: 665
 profileset."Turbo_Drain_5000_658"+=trinket1=turbodrain_5000,id=232883,ilevel=658

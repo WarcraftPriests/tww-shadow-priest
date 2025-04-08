@@ -95,6 +95,12 @@ enchants = {
     "Ring_Radiant_Haste": 223674,
     "Ring_Radiant_Mastery": 223677,
     "Ring_Radiant_Versatility": 223680,
+    "Head_Twilight_Devastation": 238405,
+    "Head_Gushing_Wound": 239086,
+    "Head_Void_Ritual": 239095,
+    "Head_Echoing_Void": 238680,
+    "Head_Infinite_Stars": 239080,
+    "Head_Twisted_Appendage": 239090,
 }
 
 gems = {
