@@ -1,4 +1,4 @@
 # floodgate - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|2954540|1.00|1.26|1.20|1.20|1.18|0.03|
+|Base|2860883|1.00|1.32|1.23|1.23|1.20|0.04|

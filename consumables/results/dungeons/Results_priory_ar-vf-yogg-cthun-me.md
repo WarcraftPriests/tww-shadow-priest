@@ -1,18 +1,18 @@
 # priory - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|3024457|0.59%|
-|Salt_Baked_Seafood|3020569|0.46%|
-|Sweet_and_Spicy_Soup|3020337|0.45%|
-|Chippy_Tea|3020120|0.45%|
-|Deepfin_Patty|3019679|0.43%|
-|Beledars_Bounty|3019561|0.43%|
-|Fish_and_Chips|3019060|0.41%|
-|Marinated_Tenderloins|3018032|0.38%|
-|Zesty_Nibblers|3017179|0.35%|
-|Feast_of_the_Divine_Day|3016432|0.32%|
-|GingerGlazed_Fillet|3015320|0.29%|
-|Salty_Dog|3014698|0.27%|
-|Fiery_Fish_Sticks|3014690|0.27%|
-|Stuffed_Cave_Peppers|3013159|0.22%|
-|Base|3006691|0.00%|
+|Crystallized_Augment_Rune|2973232|0.38%|
+|Beledars_Bounty|2970229|0.27%|
+|Fish_and_Chips|2970224|0.27%|
+|Feast_of_the_Divine_Day|2970180|0.27%|
+|Chippy_Tea|2969795|0.26%|
+|Deepfin_Patty|2969620|0.25%|
+|Sweet_and_Spicy_Soup|2969500|0.25%|
+|Salt_Baked_Seafood|2969284|0.24%|
+|Marinated_Tenderloins|2968766|0.22%|
+|GingerGlazed_Fillet|2967398|0.18%|
+|Zesty_Nibblers|2967374|0.18%|
+|Salty_Dog|2967005|0.17%|
+|Fiery_Fish_Sticks|2966673|0.15%|
+|Stuffed_Cave_Peppers|2964896|0.09%|
+|Base|2962115|0.00%|

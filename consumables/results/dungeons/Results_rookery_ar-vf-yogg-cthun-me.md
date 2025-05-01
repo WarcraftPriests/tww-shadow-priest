@@ -1,18 +1,18 @@
 # rookery - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2689742|0.63%|
-|Chippy_Tea|2687208|0.54%|
-|Deepfin_Patty|2687152|0.54%|
-|Sweet_and_Spicy_Soup|2687084|0.53%|
-|Fish_and_Chips|2686819|0.52%|
-|Beledars_Bounty|2686504|0.51%|
-|Marinated_Tenderloins|2686096|0.50%|
-|Salt_Baked_Seafood|2686008|0.49%|
-|Feast_of_the_Divine_Day|2683961|0.42%|
-|Fiery_Fish_Sticks|2683487|0.40%|
-|GingerGlazed_Fillet|2683088|0.38%|
-|Salty_Dog|2682547|0.36%|
-|Zesty_Nibblers|2682510|0.36%|
-|Stuffed_Cave_Peppers|2678511|0.21%|
-|Base|2672841|0.00%|
+|Crystallized_Augment_Rune|2627941|0.45%|
+|Deepfin_Patty|2626301|0.38%|
+|Beledars_Bounty|2625956|0.37%|
+|Chippy_Tea|2625717|0.36%|
+|Marinated_Tenderloins|2625492|0.35%|
+|Salt_Baked_Seafood|2625448|0.35%|
+|Fish_and_Chips|2625416|0.35%|
+|Sweet_and_Spicy_Soup|2625109|0.34%|
+|Salty_Dog|2623790|0.29%|
+|Feast_of_the_Divine_Day|2623466|0.27%|
+|Fiery_Fish_Sticks|2622997|0.26%|
+|Zesty_Nibblers|2622741|0.25%|
+|GingerGlazed_Fillet|2622650|0.24%|
+|Stuffed_Cave_Peppers|2619180|0.11%|
+|Base|2616295|0.00%|
