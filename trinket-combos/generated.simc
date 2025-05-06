@@ -22,968 +22,892 @@ finger2=${gear.finger2},enchant=${enchants.ring},gem_id=${gems.main}/${gems.main
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
-profileset."Entropic_Skardyn_Core_665-Signet_of_the_Priory_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Signet_of_the_Priory_665"+=trinket2=signet_of_the_priory,id=219308,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Signet_of_the_Priory_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Signet_of_the_Priory_672"+=trinket2=signet_of_the_priory,id=219308,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Signet_of_the_Priory_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Signet_of_the_Priory_678"+=trinket2=signet_of_the_priory,id=219308,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Signet_of_the_Priory_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Signet_of_the_Priory_684"+=trinket2=signet_of_the_priory,id=219308,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Synergistic_Brewterializer_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Entropic_Skardyn_Core_665-Synergistic_Brewterializer_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Entropic_Skardyn_Core_665-Synergistic_Brewterializer_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Synergistic_Brewterializer_665"+=trinket2=synergistic_brewterializer,id=219299,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Synergistic_Brewterializer_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Entropic_Skardyn_Core_672-Synergistic_Brewterializer_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Entropic_Skardyn_Core_672-Synergistic_Brewterializer_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Synergistic_Brewterializer_672"+=trinket2=synergistic_brewterializer,id=219299,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Synergistic_Brewterializer_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Entropic_Skardyn_Core_665-Synergistic_Brewterializer_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Entropic_Skardyn_Core_665-Synergistic_Brewterializer_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Synergistic_Brewterializer_678"+=trinket2=synergistic_brewterializer,id=219299,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Synergistic_Brewterializer_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Entropic_Skardyn_Core_672-Synergistic_Brewterializer_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Entropic_Skardyn_Core_672-Synergistic_Brewterializer_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Synergistic_Brewterializer_684"+=trinket2=synergistic_brewterializer,id=219299,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Carved_Blazikon_Wax_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Carved_Blazikon_Wax_665"+=trinket2=carved_blazikon_wax,id=219305,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Carved_Blazikon_Wax_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Carved_Blazikon_Wax_672"+=trinket2=carved_blazikon_wax,id=219305,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Carved_Blazikon_Wax_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Carved_Blazikon_Wax_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Carved_Blazikon_Wax_684"+=trinket2=carved_blazikon_wax,id=219305,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Soulletting_Ruby_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Soulletting_Ruby_665"+=trinket2=soulletting_ruby,id=178809,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Soulletting_Ruby_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Soulletting_Ruby_672"+=trinket2=soulletting_ruby,id=178809,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Soulletting_Ruby_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Soulletting_Ruby_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Soulletting_Ruby_684"+=trinket2=soulletting_ruby,id=178809,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Ingenious_Mana_Battery_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Ingenious_Mana_Battery_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Ingenious_Mana_Battery_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Ingenious_Mana_Battery_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Geargrinders_Spare_Keys_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Geargrinders_Spare_Keys_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Reverb_Radio_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Reverb_Radio_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-House_of_Cards_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Entropic_Skardyn_Core_672-House_of_Cards_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-House_of_Cards_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Entropic_Skardyn_Core_672-House_of_Cards_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Mugs_Moxie_Jug_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Mugs_Moxie_Jug_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Mugs_Moxie_Jug_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Mugs_Moxie_Jug_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Eye_of_Kezan_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Eye_of_Kezan_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Eye_of_Kezan_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Entropic_Skardyn_Core_672-Eye_of_Kezan_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Entropic_Skardyn_Core_665-Spymasters_Web_639"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Entropic_Skardyn_Core_672-Quickwick_Candlestick_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Quickwick_Candlestick_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Suspicious_Energy_Drink_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Suspicious_Energy_Drink_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Funhouse_Lens_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Entropic_Skardyn_Core_665-Funhouse_Lens_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Entropic_Skardyn_Core_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=entropic_skardyn_core,id=219296,ilevel=672
+profileset."Entropic_Skardyn_Core_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Entropic_Skardyn_Core_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=entropic_skardyn_core,id=219296,ilevel=665
-profileset."Entropic_Skardyn_Core_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Entropic_Skardyn_Core_684-Signet_of_the_Priory_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Signet_of_the_Priory_672"+=trinket2=signet_of_the_priory,id=219308,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Signet_of_the_Priory_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Signet_of_the_Priory_665"+=trinket2=signet_of_the_priory,id=219308,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Signet_of_the_Priory_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Signet_of_the_Priory_684"+=trinket2=signet_of_the_priory,id=219308,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Signet_of_the_Priory_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Signet_of_the_Priory_678"+=trinket2=signet_of_the_priory,id=219308,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Synergistic_Brewterializer_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Entropic_Skardyn_Core_684-Synergistic_Brewterializer_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Entropic_Skardyn_Core_684-Synergistic_Brewterializer_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Synergistic_Brewterializer_672"+=trinket2=synergistic_brewterializer,id=219299,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_665"+=trinket2=synergistic_brewterializer,id=219299,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Synergistic_Brewterializer_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Entropic_Skardyn_Core_684-Synergistic_Brewterializer_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Entropic_Skardyn_Core_684-Synergistic_Brewterializer_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Synergistic_Brewterializer_684"+=trinket2=synergistic_brewterializer,id=219299,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Synergistic_Brewterializer_678"+=trinket2=synergistic_brewterializer,id=219299,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Carved_Blazikon_Wax_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Carved_Blazikon_Wax_672"+=trinket2=carved_blazikon_wax,id=219305,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Carved_Blazikon_Wax_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Carved_Blazikon_Wax_665"+=trinket2=carved_blazikon_wax,id=219305,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Carved_Blazikon_Wax_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Carved_Blazikon_Wax_684"+=trinket2=carved_blazikon_wax,id=219305,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Carved_Blazikon_Wax_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Soulletting_Ruby_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Soulletting_Ruby_672"+=trinket2=soulletting_ruby,id=178809,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Soulletting_Ruby_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Soulletting_Ruby_665"+=trinket2=soulletting_ruby,id=178809,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Soulletting_Ruby_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Soulletting_Ruby_684"+=trinket2=soulletting_ruby,id=178809,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Soulletting_Ruby_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Ingenious_Mana_Battery_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Ingenious_Mana_Battery_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Ingenious_Mana_Battery_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Ingenious_Mana_Battery_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Geargrinders_Spare_Keys_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Geargrinders_Spare_Keys_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Reverb_Radio_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Reverb_Radio_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Entropic_Skardyn_Core_684-House_of_Cards_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-House_of_Cards_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Entropic_Skardyn_Core_684-House_of_Cards_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-House_of_Cards_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Mugs_Moxie_Jug_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Mugs_Moxie_Jug_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Mugs_Moxie_Jug_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Mugs_Moxie_Jug_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Eye_of_Kezan_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Eye_of_Kezan_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Eye_of_Kezan_684"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Entropic_Skardyn_Core_678-Eye_of_Kezan_678"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Entropic_Skardyn_Core_684-Quickwick_Candlestick_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Spymasters_Web_639"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Entropic_Skardyn_Core_684-Suspicious_Energy_Drink_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Quickwick_Candlestick_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Funhouse_Lens_672"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Suspicious_Energy_Drink_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Entropic_Skardyn_Core_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=entropic_skardyn_core,id=219296,ilevel=684
+profileset."Entropic_Skardyn_Core_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Entropic_Skardyn_Core_678-Funhouse_Lens_665"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Signet_of_the_Priory_672-Synergistic_Brewterializer_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Signet_of_the_Priory_672-Synergistic_Brewterializer_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Signet_of_the_Priory_672-Synergistic_Brewterializer_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Synergistic_Brewterializer_672"+=trinket2=synergistic_brewterializer,id=219299,ilevel=672
 
-profileset."Entropic_Skardyn_Core_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=entropic_skardyn_core,id=219296,ilevel=678
-profileset."Entropic_Skardyn_Core_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Signet_of_the_Priory_672-Synergistic_Brewterializer_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Signet_of_the_Priory_672-Synergistic_Brewterializer_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Signet_of_the_Priory_672-Synergistic_Brewterializer_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Synergistic_Brewterializer_684"+=trinket2=synergistic_brewterializer,id=219299,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Synergistic_Brewterializer_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Signet_of_the_Priory_665-Synergistic_Brewterializer_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Signet_of_the_Priory_665-Synergistic_Brewterializer_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Synergistic_Brewterializer_665"+=trinket2=synergistic_brewterializer,id=219299,ilevel=665
+profileset."Signet_of_the_Priory_672-Carved_Blazikon_Wax_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Carved_Blazikon_Wax_672"+=trinket2=carved_blazikon_wax,id=219305,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Synergistic_Brewterializer_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Signet_of_the_Priory_665-Synergistic_Brewterializer_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Signet_of_the_Priory_665-Synergistic_Brewterializer_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Synergistic_Brewterializer_678"+=trinket2=synergistic_brewterializer,id=219299,ilevel=678
+profileset."Signet_of_the_Priory_672-Carved_Blazikon_Wax_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Carved_Blazikon_Wax_684"+=trinket2=carved_blazikon_wax,id=219305,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Carved_Blazikon_Wax_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Carved_Blazikon_Wax_665"+=trinket2=carved_blazikon_wax,id=219305,ilevel=665
+profileset."Signet_of_the_Priory_672-Soulletting_Ruby_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Soulletting_Ruby_672"+=trinket2=soulletting_ruby,id=178809,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Carved_Blazikon_Wax_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
+profileset."Signet_of_the_Priory_672-Soulletting_Ruby_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Soulletting_Ruby_684"+=trinket2=soulletting_ruby,id=178809,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Soulletting_Ruby_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Soulletting_Ruby_665"+=trinket2=soulletting_ruby,id=178809,ilevel=665
+profileset."Signet_of_the_Priory_672-Ingenious_Mana_Battery_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Soulletting_Ruby_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
+profileset."Signet_of_the_Priory_672-Ingenious_Mana_Battery_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Ingenious_Mana_Battery_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Signet_of_the_Priory_672-Geargrinders_Spare_Keys_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Ingenious_Mana_Battery_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Signet_of_the_Priory_672-Reverb_Radio_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Geargrinders_Spare_Keys_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Signet_of_the_Priory_672-House_of_Cards_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Reverb_Radio_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Signet_of_the_Priory_672-House_of_Cards_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Signet_of_the_Priory_665-House_of_Cards_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Signet_of_the_Priory_672-Mugs_Moxie_Jug_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Signet_of_the_Priory_665-House_of_Cards_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Signet_of_the_Priory_672-Mugs_Moxie_Jug_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Mugs_Moxie_Jug_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Signet_of_the_Priory_672-Eye_of_Kezan_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Mugs_Moxie_Jug_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Signet_of_the_Priory_672-Eye_of_Kezan_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Eye_of_Kezan_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Signet_of_the_Priory_672-Quickwick_Candlestick_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Eye_of_Kezan_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Signet_of_the_Priory_672-Suspicious_Energy_Drink_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Spymasters_Web_639"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Signet_of_the_Priory_672-Funhouse_Lens_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Quickwick_Candlestick_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Signet_of_the_Priory_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=signet_of_the_priory,id=219308,ilevel=672
+profileset."Signet_of_the_Priory_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Signet_of_the_Priory_665-Suspicious_Energy_Drink_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Signet_of_the_Priory_684-Synergistic_Brewterializer_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Signet_of_the_Priory_684-Synergistic_Brewterializer_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Signet_of_the_Priory_684-Synergistic_Brewterializer_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Synergistic_Brewterializer_672"+=trinket2=synergistic_brewterializer,id=219299,ilevel=672
 
-profileset."Signet_of_the_Priory_665-Funhouse_Lens_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Signet_of_the_Priory_684-Synergistic_Brewterializer_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Signet_of_the_Priory_684-Synergistic_Brewterializer_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Signet_of_the_Priory_684-Synergistic_Brewterializer_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Synergistic_Brewterializer_684"+=trinket2=synergistic_brewterializer,id=219299,ilevel=684
 
-profileset."Signet_of_the_Priory_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=signet_of_the_priory,id=219308,ilevel=665
-profileset."Signet_of_the_Priory_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Signet_of_the_Priory_684-Carved_Blazikon_Wax_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Carved_Blazikon_Wax_672"+=trinket2=carved_blazikon_wax,id=219305,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_665"+=trinket2=synergistic_brewterializer,id=219299,ilevel=665
+profileset."Signet_of_the_Priory_684-Carved_Blazikon_Wax_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Carved_Blazikon_Wax_684"+=trinket2=carved_blazikon_wax,id=219305,ilevel=684
 
-profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Synergistic_Brewterializer_678"+=trinket2=synergistic_brewterializer,id=219299,ilevel=678
+profileset."Signet_of_the_Priory_684-Soulletting_Ruby_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Soulletting_Ruby_672"+=trinket2=soulletting_ruby,id=178809,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Carved_Blazikon_Wax_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Carved_Blazikon_Wax_665"+=trinket2=carved_blazikon_wax,id=219305,ilevel=665
+profileset."Signet_of_the_Priory_684-Soulletting_Ruby_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Soulletting_Ruby_684"+=trinket2=soulletting_ruby,id=178809,ilevel=684
 
-profileset."Signet_of_the_Priory_678-Carved_Blazikon_Wax_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
+profileset."Signet_of_the_Priory_684-Ingenious_Mana_Battery_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Soulletting_Ruby_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Soulletting_Ruby_665"+=trinket2=soulletting_ruby,id=178809,ilevel=665
+profileset."Signet_of_the_Priory_684-Ingenious_Mana_Battery_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Signet_of_the_Priory_678-Soulletting_Ruby_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
+profileset."Signet_of_the_Priory_684-Geargrinders_Spare_Keys_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Signet_of_the_Priory_678-Ingenious_Mana_Battery_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Signet_of_the_Priory_684-Reverb_Radio_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Signet_of_the_Priory_678-Ingenious_Mana_Battery_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Signet_of_the_Priory_684-House_of_Cards_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Geargrinders_Spare_Keys_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Signet_of_the_Priory_684-House_of_Cards_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Signet_of_the_Priory_678-Reverb_Radio_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Signet_of_the_Priory_684-Mugs_Moxie_Jug_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Signet_of_the_Priory_678-House_of_Cards_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Signet_of_the_Priory_684-Mugs_Moxie_Jug_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Signet_of_the_Priory_678-House_of_Cards_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Signet_of_the_Priory_684-Eye_of_Kezan_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Mugs_Moxie_Jug_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Signet_of_the_Priory_684-Eye_of_Kezan_684"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Signet_of_the_Priory_678-Mugs_Moxie_Jug_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Signet_of_the_Priory_684-Quickwick_Candlestick_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Eye_of_Kezan_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Signet_of_the_Priory_684-Suspicious_Energy_Drink_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Eye_of_Kezan_678"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Signet_of_the_Priory_684-Funhouse_Lens_672"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Spymasters_Web_639"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Signet_of_the_Priory_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=signet_of_the_priory,id=219308,ilevel=684
+profileset."Signet_of_the_Priory_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Signet_of_the_Priory_678-Quickwick_Candlestick_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Synergistic_Brewterializer_672-Carved_Blazikon_Wax_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Carved_Blazikon_Wax_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Carved_Blazikon_Wax_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Carved_Blazikon_Wax_672"+=trinket2=carved_blazikon_wax,id=219305,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Suspicious_Energy_Drink_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Synergistic_Brewterializer_672-Carved_Blazikon_Wax_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Carved_Blazikon_Wax_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Carved_Blazikon_Wax_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Carved_Blazikon_Wax_684"+=trinket2=carved_blazikon_wax,id=219305,ilevel=684
 
-profileset."Signet_of_the_Priory_678-Funhouse_Lens_665"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Synergistic_Brewterializer_672-Soulletting_Ruby_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Soulletting_Ruby_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Soulletting_Ruby_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Soulletting_Ruby_672"+=trinket2=soulletting_ruby,id=178809,ilevel=672
 
-profileset."Signet_of_the_Priory_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=signet_of_the_priory,id=219308,ilevel=678
-profileset."Signet_of_the_Priory_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Synergistic_Brewterializer_672-Soulletting_Ruby_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Soulletting_Ruby_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Soulletting_Ruby_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Soulletting_Ruby_684"+=trinket2=soulletting_ruby,id=178809,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-Carved_Blazikon_Wax_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Carved_Blazikon_Wax_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Carved_Blazikon_Wax_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Carved_Blazikon_Wax_665"+=trinket2=carved_blazikon_wax,id=219305,ilevel=665
+profileset."Synergistic_Brewterializer_672-Ingenious_Mana_Battery_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Ingenious_Mana_Battery_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Ingenious_Mana_Battery_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-Carved_Blazikon_Wax_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Carved_Blazikon_Wax_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Carved_Blazikon_Wax_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
+profileset."Synergistic_Brewterializer_672-Ingenious_Mana_Battery_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Ingenious_Mana_Battery_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Ingenious_Mana_Battery_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-Soulletting_Ruby_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Soulletting_Ruby_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Soulletting_Ruby_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Soulletting_Ruby_665"+=trinket2=soulletting_ruby,id=178809,ilevel=665
+profileset."Synergistic_Brewterializer_672-Geargrinders_Spare_Keys_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Geargrinders_Spare_Keys_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Geargrinders_Spare_Keys_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-Soulletting_Ruby_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Soulletting_Ruby_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Soulletting_Ruby_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
+profileset."Synergistic_Brewterializer_672-Reverb_Radio_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Reverb_Radio_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Reverb_Radio_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-Ingenious_Mana_Battery_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Ingenious_Mana_Battery_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Ingenious_Mana_Battery_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Synergistic_Brewterializer_672-House_of_Cards_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-House_of_Cards_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-House_of_Cards_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-Ingenious_Mana_Battery_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Ingenious_Mana_Battery_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Ingenious_Mana_Battery_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Synergistic_Brewterializer_672-House_of_Cards_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-House_of_Cards_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-House_of_Cards_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-Geargrinders_Spare_Keys_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Geargrinders_Spare_Keys_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Geargrinders_Spare_Keys_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Synergistic_Brewterializer_672-Mugs_Moxie_Jug_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Mugs_Moxie_Jug_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Mugs_Moxie_Jug_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-Reverb_Radio_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Reverb_Radio_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Reverb_Radio_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Synergistic_Brewterializer_672-Mugs_Moxie_Jug_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Mugs_Moxie_Jug_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Mugs_Moxie_Jug_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-House_of_Cards_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-House_of_Cards_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-House_of_Cards_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Synergistic_Brewterializer_672-Eye_of_Kezan_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Eye_of_Kezan_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Eye_of_Kezan_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-House_of_Cards_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-House_of_Cards_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-House_of_Cards_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Synergistic_Brewterializer_672-Eye_of_Kezan_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Eye_of_Kezan_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Eye_of_Kezan_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-Mugs_Moxie_Jug_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Mugs_Moxie_Jug_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Mugs_Moxie_Jug_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Synergistic_Brewterializer_672-Quickwick_Candlestick_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Quickwick_Candlestick_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Quickwick_Candlestick_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-Mugs_Moxie_Jug_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Mugs_Moxie_Jug_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Mugs_Moxie_Jug_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Synergistic_Brewterializer_672-Suspicious_Energy_Drink_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Suspicious_Energy_Drink_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Suspicious_Energy_Drink_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-Eye_of_Kezan_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Eye_of_Kezan_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Eye_of_Kezan_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Synergistic_Brewterializer_672-Funhouse_Lens_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Funhouse_Lens_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Funhouse_Lens_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-Eye_of_Kezan_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Eye_of_Kezan_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Eye_of_Kezan_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Synergistic_Brewterializer_672-Prized_Gladiators_Badge_of_Ferocity_658"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_672-Prized_Gladiators_Badge_of_Ferocity_658"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=synergistic_brewterializer,id=219299,ilevel=672
+profileset."Synergistic_Brewterializer_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Synergistic_Brewterializer_665-Spymasters_Web_639"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Spymasters_Web_639"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Spymasters_Web_639"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Synergistic_Brewterializer_684-Carved_Blazikon_Wax_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Carved_Blazikon_Wax_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Carved_Blazikon_Wax_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Carved_Blazikon_Wax_672"+=trinket2=carved_blazikon_wax,id=219305,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-Quickwick_Candlestick_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Quickwick_Candlestick_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Quickwick_Candlestick_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Synergistic_Brewterializer_684-Carved_Blazikon_Wax_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Carved_Blazikon_Wax_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Carved_Blazikon_Wax_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Carved_Blazikon_Wax_684"+=trinket2=carved_blazikon_wax,id=219305,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-Suspicious_Energy_Drink_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Suspicious_Energy_Drink_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Suspicious_Energy_Drink_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Synergistic_Brewterializer_684-Soulletting_Ruby_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Soulletting_Ruby_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Soulletting_Ruby_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Soulletting_Ruby_672"+=trinket2=soulletting_ruby,id=178809,ilevel=672
 
-profileset."Synergistic_Brewterializer_665-Funhouse_Lens_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Funhouse_Lens_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Funhouse_Lens_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Synergistic_Brewterializer_684-Soulletting_Ruby_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Soulletting_Ruby_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Soulletting_Ruby_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Soulletting_Ruby_684"+=trinket2=soulletting_ruby,id=178809,ilevel=684
 
-profileset."Synergistic_Brewterializer_665-Prized_Gladiators_Badge_of_Ferocity_658"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_665-Prized_Gladiators_Badge_of_Ferocity_658"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=synergistic_brewterializer,id=219299,ilevel=665
-profileset."Synergistic_Brewterializer_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Synergistic_Brewterializer_684-Ingenious_Mana_Battery_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Ingenious_Mana_Battery_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Ingenious_Mana_Battery_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_665"+=trinket2=carved_blazikon_wax,id=219305,ilevel=665
+profileset."Synergistic_Brewterializer_684-Ingenious_Mana_Battery_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Ingenious_Mana_Battery_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Ingenious_Mana_Battery_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Carved_Blazikon_Wax_678"+=trinket2=carved_blazikon_wax,id=219305,ilevel=678
+profileset."Synergistic_Brewterializer_684-Geargrinders_Spare_Keys_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Geargrinders_Spare_Keys_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Geargrinders_Spare_Keys_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_665"+=trinket2=soulletting_ruby,id=178809,ilevel=665
+profileset."Synergistic_Brewterializer_684-Reverb_Radio_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Reverb_Radio_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Reverb_Radio_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
+profileset."Synergistic_Brewterializer_684-House_of_Cards_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-House_of_Cards_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-House_of_Cards_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Synergistic_Brewterializer_684-House_of_Cards_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-House_of_Cards_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-House_of_Cards_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Synergistic_Brewterializer_684-Mugs_Moxie_Jug_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Mugs_Moxie_Jug_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Mugs_Moxie_Jug_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-Geargrinders_Spare_Keys_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Geargrinders_Spare_Keys_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Geargrinders_Spare_Keys_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Synergistic_Brewterializer_684-Mugs_Moxie_Jug_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Mugs_Moxie_Jug_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Mugs_Moxie_Jug_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-Reverb_Radio_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Reverb_Radio_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Reverb_Radio_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Synergistic_Brewterializer_684-Eye_of_Kezan_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Eye_of_Kezan_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Eye_of_Kezan_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-House_of_Cards_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-House_of_Cards_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-House_of_Cards_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Synergistic_Brewterializer_684-Eye_of_Kezan_684"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Eye_of_Kezan_684"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Eye_of_Kezan_684"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-House_of_Cards_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-House_of_Cards_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-House_of_Cards_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Synergistic_Brewterializer_684-Quickwick_Candlestick_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Quickwick_Candlestick_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Quickwick_Candlestick_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Synergistic_Brewterializer_684-Suspicious_Energy_Drink_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Suspicious_Energy_Drink_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Suspicious_Energy_Drink_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Synergistic_Brewterializer_684-Funhouse_Lens_672"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Funhouse_Lens_672"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Funhouse_Lens_672"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Synergistic_Brewterializer_684-Prized_Gladiators_Badge_of_Ferocity_658"+=priest.synergistic_brewterializer_tof_chance=0.90
+profileset."Synergistic_Brewterializer_684-Prized_Gladiators_Badge_of_Ferocity_658"+=priest.synergistic_brewterializer_barrel_hit_chance=0.75
+profileset."Synergistic_Brewterializer_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=synergistic_brewterializer,id=219299,ilevel=684
+profileset."Synergistic_Brewterializer_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_678"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_678"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_678"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Carved_Blazikon_Wax_672-Soulletting_Ruby_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Soulletting_Ruby_672"+=trinket2=soulletting_ruby,id=178809,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-Spymasters_Web_639"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Spymasters_Web_639"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Spymasters_Web_639"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Carved_Blazikon_Wax_672-Soulletting_Ruby_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Soulletting_Ruby_684"+=trinket2=soulletting_ruby,id=178809,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-Quickwick_Candlestick_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Quickwick_Candlestick_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Quickwick_Candlestick_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Carved_Blazikon_Wax_672-Ingenious_Mana_Battery_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Synergistic_Brewterializer_678-Suspicious_Energy_Drink_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Suspicious_Energy_Drink_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Suspicious_Energy_Drink_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Carved_Blazikon_Wax_672-Ingenious_Mana_Battery_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-Funhouse_Lens_665"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Funhouse_Lens_665"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Funhouse_Lens_665"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Carved_Blazikon_Wax_672-Geargrinders_Spare_Keys_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Synergistic_Brewterializer_678-Prized_Gladiators_Badge_of_Ferocity_658"+=priest.synergistic_brewterializer_tof_chance=0.90
-profileset."Synergistic_Brewterializer_678-Prized_Gladiators_Badge_of_Ferocity_658"+=priest.synergistic_brewterializer_barrel_hit_chance=0.85
-profileset."Synergistic_Brewterializer_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=synergistic_brewterializer,id=219299,ilevel=678
-profileset."Synergistic_Brewterializer_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Carved_Blazikon_Wax_672-Reverb_Radio_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Carved_Blazikon_Wax_665-Soulletting_Ruby_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Soulletting_Ruby_665"+=trinket2=soulletting_ruby,id=178809,ilevel=665
+profileset."Carved_Blazikon_Wax_672-House_of_Cards_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Carved_Blazikon_Wax_665-Soulletting_Ruby_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
+profileset."Carved_Blazikon_Wax_672-House_of_Cards_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Carved_Blazikon_Wax_665-Ingenious_Mana_Battery_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Carved_Blazikon_Wax_672-Mugs_Moxie_Jug_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Carved_Blazikon_Wax_665-Ingenious_Mana_Battery_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Carved_Blazikon_Wax_672-Mugs_Moxie_Jug_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Carved_Blazikon_Wax_665-Geargrinders_Spare_Keys_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Carved_Blazikon_Wax_672-Eye_of_Kezan_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Carved_Blazikon_Wax_665-Reverb_Radio_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Carved_Blazikon_Wax_672-Eye_of_Kezan_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Carved_Blazikon_Wax_665-House_of_Cards_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Carved_Blazikon_Wax_672-Quickwick_Candlestick_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Carved_Blazikon_Wax_665-House_of_Cards_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Carved_Blazikon_Wax_672-Suspicious_Energy_Drink_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Carved_Blazikon_Wax_665-Mugs_Moxie_Jug_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Carved_Blazikon_Wax_672-Funhouse_Lens_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Carved_Blazikon_Wax_665-Mugs_Moxie_Jug_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Carved_Blazikon_Wax_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=carved_blazikon_wax,id=219305,ilevel=672
+profileset."Carved_Blazikon_Wax_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Carved_Blazikon_Wax_665-Eye_of_Kezan_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Carved_Blazikon_Wax_684-Soulletting_Ruby_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Soulletting_Ruby_672"+=trinket2=soulletting_ruby,id=178809,ilevel=672
 
-profileset."Carved_Blazikon_Wax_665-Eye_of_Kezan_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Carved_Blazikon_Wax_684-Soulletting_Ruby_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Soulletting_Ruby_684"+=trinket2=soulletting_ruby,id=178809,ilevel=684
 
-profileset."Carved_Blazikon_Wax_665-Spymasters_Web_639"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Carved_Blazikon_Wax_684-Ingenious_Mana_Battery_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Carved_Blazikon_Wax_665-Quickwick_Candlestick_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Carved_Blazikon_Wax_684-Ingenious_Mana_Battery_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Carved_Blazikon_Wax_665-Suspicious_Energy_Drink_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Carved_Blazikon_Wax_684-Geargrinders_Spare_Keys_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Carved_Blazikon_Wax_665-Funhouse_Lens_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Carved_Blazikon_Wax_684-Reverb_Radio_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Carved_Blazikon_Wax_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=carved_blazikon_wax,id=219305,ilevel=665
-profileset."Carved_Blazikon_Wax_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Carved_Blazikon_Wax_684-House_of_Cards_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-Soulletting_Ruby_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Soulletting_Ruby_665"+=trinket2=soulletting_ruby,id=178809,ilevel=665
+profileset."Carved_Blazikon_Wax_684-House_of_Cards_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Carved_Blazikon_Wax_678-Soulletting_Ruby_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Soulletting_Ruby_678"+=trinket2=soulletting_ruby,id=178809,ilevel=678
+profileset."Carved_Blazikon_Wax_684-Mugs_Moxie_Jug_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-Ingenious_Mana_Battery_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Carved_Blazikon_Wax_684-Mugs_Moxie_Jug_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Carved_Blazikon_Wax_678-Ingenious_Mana_Battery_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Carved_Blazikon_Wax_684-Eye_of_Kezan_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-Geargrinders_Spare_Keys_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Carved_Blazikon_Wax_684-Eye_of_Kezan_684"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Carved_Blazikon_Wax_678-Reverb_Radio_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Carved_Blazikon_Wax_684-Quickwick_Candlestick_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-House_of_Cards_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Carved_Blazikon_Wax_684-Suspicious_Energy_Drink_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-House_of_Cards_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Carved_Blazikon_Wax_684-Funhouse_Lens_672"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-Mugs_Moxie_Jug_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Carved_Blazikon_Wax_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=carved_blazikon_wax,id=219305,ilevel=684
+profileset."Carved_Blazikon_Wax_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Carved_Blazikon_Wax_678-Mugs_Moxie_Jug_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Soulletting_Ruby_672-Ingenious_Mana_Battery_672"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-Eye_of_Kezan_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Soulletting_Ruby_672-Ingenious_Mana_Battery_684"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Carved_Blazikon_Wax_678-Eye_of_Kezan_678"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Soulletting_Ruby_672-Geargrinders_Spare_Keys_684"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Carved_Blazikon_Wax_678-Spymasters_Web_639"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Soulletting_Ruby_672-Reverb_Radio_684"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Carved_Blazikon_Wax_678-Quickwick_Candlestick_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Soulletting_Ruby_672-House_of_Cards_672"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-Suspicious_Energy_Drink_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Soulletting_Ruby_672-House_of_Cards_684"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Carved_Blazikon_Wax_678-Funhouse_Lens_665"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Soulletting_Ruby_672-Mugs_Moxie_Jug_672"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Carved_Blazikon_Wax_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=carved_blazikon_wax,id=219305,ilevel=678
-profileset."Carved_Blazikon_Wax_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Soulletting_Ruby_672-Mugs_Moxie_Jug_684"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Soulletting_Ruby_665-Ingenious_Mana_Battery_665"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Soulletting_Ruby_672-Eye_of_Kezan_672"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Soulletting_Ruby_665-Ingenious_Mana_Battery_678"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Soulletting_Ruby_672-Eye_of_Kezan_684"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Soulletting_Ruby_665-Geargrinders_Spare_Keys_678"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Soulletting_Ruby_672-Quickwick_Candlestick_672"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Soulletting_Ruby_665-Reverb_Radio_678"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Soulletting_Ruby_672-Suspicious_Energy_Drink_672"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Soulletting_Ruby_665-House_of_Cards_665"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Soulletting_Ruby_672-Funhouse_Lens_672"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Soulletting_Ruby_665-House_of_Cards_678"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Soulletting_Ruby_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=soulletting_ruby,id=178809,ilevel=672
+profileset."Soulletting_Ruby_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Soulletting_Ruby_665-Mugs_Moxie_Jug_665"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Soulletting_Ruby_684-Ingenious_Mana_Battery_672"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Ingenious_Mana_Battery_672"+=trinket2=ingenious_mana_battery,id=169344,ilevel=672
 
-profileset."Soulletting_Ruby_665-Mugs_Moxie_Jug_678"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Soulletting_Ruby_684-Ingenious_Mana_Battery_684"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Ingenious_Mana_Battery_684"+=trinket2=ingenious_mana_battery,id=169344,ilevel=684
 
-profileset."Soulletting_Ruby_665-Eye_of_Kezan_665"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Soulletting_Ruby_684-Geargrinders_Spare_Keys_684"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Soulletting_Ruby_665-Eye_of_Kezan_678"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Soulletting_Ruby_684-Reverb_Radio_684"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Soulletting_Ruby_665-Spymasters_Web_639"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Soulletting_Ruby_684-House_of_Cards_672"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Soulletting_Ruby_665-Quickwick_Candlestick_665"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Soulletting_Ruby_684-House_of_Cards_684"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Soulletting_Ruby_665-Suspicious_Energy_Drink_665"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Soulletting_Ruby_684-Mugs_Moxie_Jug_672"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Soulletting_Ruby_665-Funhouse_Lens_665"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Soulletting_Ruby_684-Mugs_Moxie_Jug_684"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Soulletting_Ruby_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=soulletting_ruby,id=178809,ilevel=665
-profileset."Soulletting_Ruby_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Soulletting_Ruby_684-Eye_of_Kezan_672"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Soulletting_Ruby_678-Ingenious_Mana_Battery_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Ingenious_Mana_Battery_665"+=trinket2=ingenious_mana_battery,id=169344,ilevel=665
+profileset."Soulletting_Ruby_684-Eye_of_Kezan_684"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Soulletting_Ruby_678-Ingenious_Mana_Battery_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Ingenious_Mana_Battery_678"+=trinket2=ingenious_mana_battery,id=169344,ilevel=678
+profileset."Soulletting_Ruby_684-Quickwick_Candlestick_672"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Soulletting_Ruby_678-Geargrinders_Spare_Keys_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Soulletting_Ruby_684-Suspicious_Energy_Drink_672"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Soulletting_Ruby_678-Reverb_Radio_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Soulletting_Ruby_684-Funhouse_Lens_672"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Soulletting_Ruby_678-House_of_Cards_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Soulletting_Ruby_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=soulletting_ruby,id=178809,ilevel=684
+profileset."Soulletting_Ruby_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Soulletting_Ruby_678-House_of_Cards_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Ingenious_Mana_Battery_672-Geargrinders_Spare_Keys_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Soulletting_Ruby_678-Mugs_Moxie_Jug_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Ingenious_Mana_Battery_672-Reverb_Radio_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Soulletting_Ruby_678-Mugs_Moxie_Jug_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Ingenious_Mana_Battery_672-House_of_Cards_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Soulletting_Ruby_678-Eye_of_Kezan_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Ingenious_Mana_Battery_672-House_of_Cards_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Soulletting_Ruby_678-Eye_of_Kezan_678"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Ingenious_Mana_Battery_672-Mugs_Moxie_Jug_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Soulletting_Ruby_678-Spymasters_Web_639"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Ingenious_Mana_Battery_672-Mugs_Moxie_Jug_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Soulletting_Ruby_678-Quickwick_Candlestick_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Ingenious_Mana_Battery_672-Eye_of_Kezan_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Soulletting_Ruby_678-Suspicious_Energy_Drink_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Ingenious_Mana_Battery_672-Eye_of_Kezan_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Soulletting_Ruby_678-Funhouse_Lens_665"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Ingenious_Mana_Battery_672-Quickwick_Candlestick_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Soulletting_Ruby_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=soulletting_ruby,id=178809,ilevel=678
-profileset."Soulletting_Ruby_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Ingenious_Mana_Battery_672-Suspicious_Energy_Drink_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Ingenious_Mana_Battery_665-Geargrinders_Spare_Keys_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Ingenious_Mana_Battery_672-Funhouse_Lens_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Ingenious_Mana_Battery_665-Reverb_Radio_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Ingenious_Mana_Battery_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=ingenious_mana_battery,id=169344,ilevel=672
+profileset."Ingenious_Mana_Battery_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Ingenious_Mana_Battery_665-House_of_Cards_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Ingenious_Mana_Battery_684-Geargrinders_Spare_Keys_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Geargrinders_Spare_Keys_684"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Ingenious_Mana_Battery_665-House_of_Cards_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Ingenious_Mana_Battery_684-Reverb_Radio_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Ingenious_Mana_Battery_665-Mugs_Moxie_Jug_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Ingenious_Mana_Battery_684-House_of_Cards_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Ingenious_Mana_Battery_665-Mugs_Moxie_Jug_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Ingenious_Mana_Battery_684-House_of_Cards_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Ingenious_Mana_Battery_665-Eye_of_Kezan_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Ingenious_Mana_Battery_684-Mugs_Moxie_Jug_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Ingenious_Mana_Battery_665-Eye_of_Kezan_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Ingenious_Mana_Battery_684-Mugs_Moxie_Jug_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Ingenious_Mana_Battery_665-Spymasters_Web_639"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Ingenious_Mana_Battery_684-Eye_of_Kezan_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Ingenious_Mana_Battery_665-Quickwick_Candlestick_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Ingenious_Mana_Battery_684-Eye_of_Kezan_684"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Ingenious_Mana_Battery_665-Suspicious_Energy_Drink_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Ingenious_Mana_Battery_684-Quickwick_Candlestick_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Ingenious_Mana_Battery_665-Funhouse_Lens_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Ingenious_Mana_Battery_684-Suspicious_Energy_Drink_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Ingenious_Mana_Battery_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=ingenious_mana_battery,id=169344,ilevel=665
-profileset."Ingenious_Mana_Battery_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Ingenious_Mana_Battery_684-Funhouse_Lens_672"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Ingenious_Mana_Battery_678-Geargrinders_Spare_Keys_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Geargrinders_Spare_Keys_678"+=trinket2=geargrinders_spare_keys,id=230197,ilevel=678
+profileset."Ingenious_Mana_Battery_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=ingenious_mana_battery,id=169344,ilevel=684
+profileset."Ingenious_Mana_Battery_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Ingenious_Mana_Battery_678-Reverb_Radio_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Geargrinders_Spare_Keys_684-Reverb_Radio_684"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Reverb_Radio_684"+=trinket2=reverb_radio,id=230194,ilevel=684
 
-profileset."Ingenious_Mana_Battery_678-House_of_Cards_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Geargrinders_Spare_Keys_684-House_of_Cards_672"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Ingenious_Mana_Battery_678-House_of_Cards_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Geargrinders_Spare_Keys_684-House_of_Cards_684"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Ingenious_Mana_Battery_678-Mugs_Moxie_Jug_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Geargrinders_Spare_Keys_684-Mugs_Moxie_Jug_672"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Ingenious_Mana_Battery_678-Mugs_Moxie_Jug_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Geargrinders_Spare_Keys_684-Mugs_Moxie_Jug_684"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Ingenious_Mana_Battery_678-Eye_of_Kezan_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Geargrinders_Spare_Keys_684-Eye_of_Kezan_672"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Ingenious_Mana_Battery_678-Eye_of_Kezan_678"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Geargrinders_Spare_Keys_684-Eye_of_Kezan_684"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Ingenious_Mana_Battery_678-Spymasters_Web_639"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Geargrinders_Spare_Keys_684-Quickwick_Candlestick_672"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Ingenious_Mana_Battery_678-Quickwick_Candlestick_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Geargrinders_Spare_Keys_684-Suspicious_Energy_Drink_672"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Ingenious_Mana_Battery_678-Suspicious_Energy_Drink_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Geargrinders_Spare_Keys_684-Funhouse_Lens_672"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Ingenious_Mana_Battery_678-Funhouse_Lens_665"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Geargrinders_Spare_Keys_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+profileset."Geargrinders_Spare_Keys_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Ingenious_Mana_Battery_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=ingenious_mana_battery,id=169344,ilevel=678
-profileset."Ingenious_Mana_Battery_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Reverb_Radio_684-House_of_Cards_672"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-House_of_Cards_672"+=trinket2=house_of_cards,id=230027,ilevel=672
 
-profileset."Geargrinders_Spare_Keys_678-Reverb_Radio_678"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Reverb_Radio_678"+=trinket2=reverb_radio,id=230194,ilevel=678
+profileset."Reverb_Radio_684-House_of_Cards_684"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-House_of_Cards_684"+=trinket2=house_of_cards,id=230027,ilevel=684
 
-profileset."Geargrinders_Spare_Keys_678-House_of_Cards_665"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."Reverb_Radio_684-Mugs_Moxie_Jug_672"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Geargrinders_Spare_Keys_678-House_of_Cards_678"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."Reverb_Radio_684-Mugs_Moxie_Jug_684"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Geargrinders_Spare_Keys_678-Mugs_Moxie_Jug_665"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Reverb_Radio_684-Eye_of_Kezan_672"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Geargrinders_Spare_Keys_678-Mugs_Moxie_Jug_678"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Reverb_Radio_684-Eye_of_Kezan_684"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Geargrinders_Spare_Keys_678-Eye_of_Kezan_665"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Reverb_Radio_684-Quickwick_Candlestick_672"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Geargrinders_Spare_Keys_678-Eye_of_Kezan_678"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Reverb_Radio_684-Suspicious_Energy_Drink_672"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Geargrinders_Spare_Keys_678-Spymasters_Web_639"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Reverb_Radio_684-Funhouse_Lens_672"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Geargrinders_Spare_Keys_678-Quickwick_Candlestick_665"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Reverb_Radio_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=reverb_radio,id=230194,ilevel=684
+profileset."Reverb_Radio_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Geargrinders_Spare_Keys_678-Suspicious_Energy_Drink_665"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."House_of_Cards_672-Mugs_Moxie_Jug_672"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_672-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Geargrinders_Spare_Keys_678-Funhouse_Lens_665"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."House_of_Cards_672-Mugs_Moxie_Jug_684"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_672-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Geargrinders_Spare_Keys_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
-profileset."Geargrinders_Spare_Keys_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."House_of_Cards_672-Eye_of_Kezan_672"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_672-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Reverb_Radio_678-House_of_Cards_665"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-House_of_Cards_665"+=trinket2=house_of_cards,id=230027,ilevel=665
+profileset."House_of_Cards_672-Eye_of_Kezan_684"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_672-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Reverb_Radio_678-House_of_Cards_678"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-House_of_Cards_678"+=trinket2=house_of_cards,id=230027,ilevel=678
+profileset."House_of_Cards_672-Quickwick_Candlestick_672"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Reverb_Radio_678-Mugs_Moxie_Jug_665"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."House_of_Cards_672-Suspicious_Energy_Drink_672"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Reverb_Radio_678-Mugs_Moxie_Jug_678"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."House_of_Cards_672-Funhouse_Lens_672"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Reverb_Radio_678-Eye_of_Kezan_665"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."House_of_Cards_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Reverb_Radio_678-Eye_of_Kezan_678"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."House_of_Cards_684-Mugs_Moxie_Jug_672"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Mugs_Moxie_Jug_672"+=trinket2=mugs_moxie_jug,id=230192,ilevel=672
 
-profileset."Reverb_Radio_678-Spymasters_Web_639"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."House_of_Cards_684-Mugs_Moxie_Jug_684"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Reverb_Radio_678-Quickwick_Candlestick_665"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."House_of_Cards_684-Eye_of_Kezan_672"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."Reverb_Radio_678-Suspicious_Energy_Drink_665"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."House_of_Cards_684-Eye_of_Kezan_684"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."Reverb_Radio_678-Funhouse_Lens_665"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."House_of_Cards_684-Quickwick_Candlestick_672"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Reverb_Radio_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=reverb_radio,id=230194,ilevel=678
-profileset."Reverb_Radio_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."House_of_Cards_684-Suspicious_Energy_Drink_672"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."House_of_Cards_665-Mugs_Moxie_Jug_665"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."House_of_Cards_684-Funhouse_Lens_672"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."House_of_Cards_665-Mugs_Moxie_Jug_678"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."House_of_Cards_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."House_of_Cards_665-Eye_of_Kezan_665"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Mugs_Moxie_Jug_672-Eye_of_Kezan_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=672
+profileset."Mugs_Moxie_Jug_672-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."House_of_Cards_665-Eye_of_Kezan_678"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Mugs_Moxie_Jug_672-Eye_of_Kezan_684"+=trinket1=mugs_moxie_jug,id=230192,ilevel=672
+profileset."Mugs_Moxie_Jug_672-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."House_of_Cards_665-Spymasters_Web_639"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Mugs_Moxie_Jug_672-Quickwick_Candlestick_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=672
+profileset."Mugs_Moxie_Jug_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."House_of_Cards_665-Quickwick_Candlestick_665"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Mugs_Moxie_Jug_672-Suspicious_Energy_Drink_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=672
+profileset."Mugs_Moxie_Jug_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."House_of_Cards_665-Suspicious_Energy_Drink_665"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Mugs_Moxie_Jug_672-Funhouse_Lens_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=672
+profileset."Mugs_Moxie_Jug_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."House_of_Cards_665-Funhouse_Lens_665"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Mugs_Moxie_Jug_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=mugs_moxie_jug,id=230192,ilevel=672
+profileset."Mugs_Moxie_Jug_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."House_of_Cards_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Mugs_Moxie_Jug_684-Eye_of_Kezan_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
+profileset."Mugs_Moxie_Jug_684-Eye_of_Kezan_672"+=trinket2=eye_of_kezan,id=230198,ilevel=672
 
-profileset."House_of_Cards_678-Mugs_Moxie_Jug_665"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Mugs_Moxie_Jug_665"+=trinket2=mugs_moxie_jug,id=230192,ilevel=665
+profileset."Mugs_Moxie_Jug_684-Eye_of_Kezan_684"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
+profileset."Mugs_Moxie_Jug_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
 
-profileset."House_of_Cards_678-Mugs_Moxie_Jug_678"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Mugs_Moxie_Jug_678"+=trinket2=mugs_moxie_jug,id=230192,ilevel=678
+profileset."Mugs_Moxie_Jug_684-Quickwick_Candlestick_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
+profileset."Mugs_Moxie_Jug_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."House_of_Cards_678-Eye_of_Kezan_665"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Mugs_Moxie_Jug_684-Suspicious_Energy_Drink_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
+profileset."Mugs_Moxie_Jug_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."House_of_Cards_678-Eye_of_Kezan_678"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Mugs_Moxie_Jug_684-Funhouse_Lens_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
+profileset."Mugs_Moxie_Jug_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."House_of_Cards_678-Spymasters_Web_639"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Mugs_Moxie_Jug_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
+profileset."Mugs_Moxie_Jug_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."House_of_Cards_678-Quickwick_Candlestick_665"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Eye_of_Kezan_672-Quickwick_Candlestick_672"+=trinket1=eye_of_kezan,id=230198,ilevel=672
+profileset."Eye_of_Kezan_672-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."House_of_Cards_678-Suspicious_Energy_Drink_665"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Eye_of_Kezan_672-Suspicious_Energy_Drink_672"+=trinket1=eye_of_kezan,id=230198,ilevel=672
+profileset."Eye_of_Kezan_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."House_of_Cards_678-Funhouse_Lens_665"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Eye_of_Kezan_672-Funhouse_Lens_672"+=trinket1=eye_of_kezan,id=230198,ilevel=672
+profileset."Eye_of_Kezan_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."House_of_Cards_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=house_of_cards,id=230027,ilevel=678
-profileset."House_of_Cards_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Eye_of_Kezan_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=eye_of_kezan,id=230198,ilevel=672
+profileset."Eye_of_Kezan_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Mugs_Moxie_Jug_665-Eye_of_Kezan_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=665
-profileset."Mugs_Moxie_Jug_665-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Eye_of_Kezan_684-Quickwick_Candlestick_672"+=trinket1=eye_of_kezan,id=230198,ilevel=684
+profileset."Eye_of_Kezan_684-Quickwick_Candlestick_672"+=trinket2=quickwick_candlestick,id=225649,ilevel=672
 
-profileset."Mugs_Moxie_Jug_665-Eye_of_Kezan_678"+=trinket1=mugs_moxie_jug,id=230192,ilevel=665
-profileset."Mugs_Moxie_Jug_665-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Eye_of_Kezan_684-Suspicious_Energy_Drink_672"+=trinket1=eye_of_kezan,id=230198,ilevel=684
+profileset."Eye_of_Kezan_684-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Mugs_Moxie_Jug_665-Spymasters_Web_639"+=trinket1=mugs_moxie_jug,id=230192,ilevel=665
-profileset."Mugs_Moxie_Jug_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
+profileset."Eye_of_Kezan_684-Funhouse_Lens_672"+=trinket1=eye_of_kezan,id=230198,ilevel=684
+profileset."Eye_of_Kezan_684-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Mugs_Moxie_Jug_665-Quickwick_Candlestick_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=665
-profileset."Mugs_Moxie_Jug_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
+profileset."Eye_of_Kezan_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=eye_of_kezan,id=230198,ilevel=684
+profileset."Eye_of_Kezan_684-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Mugs_Moxie_Jug_665-Suspicious_Energy_Drink_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=665
-profileset."Mugs_Moxie_Jug_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
+profileset."Quickwick_Candlestick_672-Suspicious_Energy_Drink_672"+=trinket1=quickwick_candlestick,id=225649,ilevel=672
+profileset."Quickwick_Candlestick_672-Suspicious_Energy_Drink_672"+=trinket2=suspicious_energy_drink,id=235363,ilevel=672
 
-profileset."Mugs_Moxie_Jug_665-Funhouse_Lens_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=665
-profileset."Mugs_Moxie_Jug_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
+profileset."Quickwick_Candlestick_672-Funhouse_Lens_672"+=trinket1=quickwick_candlestick,id=225649,ilevel=672
+profileset."Quickwick_Candlestick_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Mugs_Moxie_Jug_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=mugs_moxie_jug,id=230192,ilevel=665
-profileset."Mugs_Moxie_Jug_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Quickwick_Candlestick_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=quickwick_candlestick,id=225649,ilevel=672
+profileset."Quickwick_Candlestick_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Mugs_Moxie_Jug_678-Eye_of_Kezan_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
-profileset."Mugs_Moxie_Jug_678-Eye_of_Kezan_665"+=trinket2=eye_of_kezan,id=230198,ilevel=665
+profileset."Suspicious_Energy_Drink_672-Funhouse_Lens_672"+=trinket1=suspicious_energy_drink,id=235363,ilevel=672
+profileset."Suspicious_Energy_Drink_672-Funhouse_Lens_672"+=trinket2=funhouse_lens,id=234217,ilevel=672
 
-profileset."Mugs_Moxie_Jug_678-Eye_of_Kezan_678"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
-profileset."Mugs_Moxie_Jug_678-Eye_of_Kezan_678"+=trinket2=eye_of_kezan,id=230198,ilevel=678
+profileset."Suspicious_Energy_Drink_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=suspicious_energy_drink,id=235363,ilevel=672
+profileset."Suspicious_Energy_Drink_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 
-profileset."Mugs_Moxie_Jug_678-Spymasters_Web_639"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
-profileset."Mugs_Moxie_Jug_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
-
-profileset."Mugs_Moxie_Jug_678-Quickwick_Candlestick_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
-profileset."Mugs_Moxie_Jug_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
-
-profileset."Mugs_Moxie_Jug_678-Suspicious_Energy_Drink_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
-profileset."Mugs_Moxie_Jug_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
-
-profileset."Mugs_Moxie_Jug_678-Funhouse_Lens_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
-profileset."Mugs_Moxie_Jug_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
-
-profileset."Mugs_Moxie_Jug_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
-profileset."Mugs_Moxie_Jug_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
-
-profileset."Eye_of_Kezan_665-Spymasters_Web_639"+=trinket1=eye_of_kezan,id=230198,ilevel=665
-profileset."Eye_of_Kezan_665-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
-
-profileset."Eye_of_Kezan_665-Quickwick_Candlestick_665"+=trinket1=eye_of_kezan,id=230198,ilevel=665
-profileset."Eye_of_Kezan_665-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
-
-profileset."Eye_of_Kezan_665-Suspicious_Energy_Drink_665"+=trinket1=eye_of_kezan,id=230198,ilevel=665
-profileset."Eye_of_Kezan_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
-
-profileset."Eye_of_Kezan_665-Funhouse_Lens_665"+=trinket1=eye_of_kezan,id=230198,ilevel=665
-profileset."Eye_of_Kezan_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
-
-profileset."Eye_of_Kezan_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=eye_of_kezan,id=230198,ilevel=665
-profileset."Eye_of_Kezan_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
-
-profileset."Eye_of_Kezan_678-Spymasters_Web_639"+=trinket1=eye_of_kezan,id=230198,ilevel=678
-profileset."Eye_of_Kezan_678-Spymasters_Web_639"+=trinket2=spymasters_web,id=220202,ilevel=639
-
-profileset."Eye_of_Kezan_678-Quickwick_Candlestick_665"+=trinket1=eye_of_kezan,id=230198,ilevel=678
-profileset."Eye_of_Kezan_678-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
-
-profileset."Eye_of_Kezan_678-Suspicious_Energy_Drink_665"+=trinket1=eye_of_kezan,id=230198,ilevel=678
-profileset."Eye_of_Kezan_678-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
-
-profileset."Eye_of_Kezan_678-Funhouse_Lens_665"+=trinket1=eye_of_kezan,id=230198,ilevel=678
-profileset."Eye_of_Kezan_678-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
-
-profileset."Eye_of_Kezan_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=eye_of_kezan,id=230198,ilevel=678
-profileset."Eye_of_Kezan_678-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
-
-profileset."Spymasters_Web_639-Quickwick_Candlestick_665"+=trinket1=spymasters_web,id=220202,ilevel=639
-profileset."Spymasters_Web_639-Quickwick_Candlestick_665"+=trinket2=quickwick_candlestick,id=225649,ilevel=665
-
-profileset."Spymasters_Web_639-Suspicious_Energy_Drink_665"+=trinket1=spymasters_web,id=220202,ilevel=639
-profileset."Spymasters_Web_639-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
-
-profileset."Spymasters_Web_639-Funhouse_Lens_665"+=trinket1=spymasters_web,id=220202,ilevel=639
-profileset."Spymasters_Web_639-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
-
-profileset."Spymasters_Web_639-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=spymasters_web,id=220202,ilevel=639
-profileset."Spymasters_Web_639-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
-
-profileset."Quickwick_Candlestick_665-Suspicious_Energy_Drink_665"+=trinket1=quickwick_candlestick,id=225649,ilevel=665
-profileset."Quickwick_Candlestick_665-Suspicious_Energy_Drink_665"+=trinket2=suspicious_energy_drink,id=235363,ilevel=665
-
-profileset."Quickwick_Candlestick_665-Funhouse_Lens_665"+=trinket1=quickwick_candlestick,id=225649,ilevel=665
-profileset."Quickwick_Candlestick_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
-
-profileset."Quickwick_Candlestick_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=quickwick_candlestick,id=225649,ilevel=665
-profileset."Quickwick_Candlestick_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
-
-profileset."Suspicious_Energy_Drink_665-Funhouse_Lens_665"+=trinket1=suspicious_energy_drink,id=235363,ilevel=665
-profileset."Suspicious_Energy_Drink_665-Funhouse_Lens_665"+=trinket2=funhouse_lens,id=234217,ilevel=665
-
-profileset."Suspicious_Energy_Drink_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=suspicious_energy_drink,id=235363,ilevel=665
-profileset."Suspicious_Energy_Drink_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
-
-profileset."Funhouse_Lens_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=funhouse_lens,id=234217,ilevel=665
-profileset."Funhouse_Lens_665-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
+profileset."Funhouse_Lens_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=funhouse_lens,id=234217,ilevel=672
+profileset."Funhouse_Lens_672-Prized_Gladiators_Badge_of_Ferocity_658"+=trinket2=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
 

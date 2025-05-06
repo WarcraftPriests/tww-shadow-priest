@@ -23,55 +23,55 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Liberation of Undermine
-## LFR: 645 | Normal: 658 | Heroic: 665 | Mythic: 678
-profileset."Geargrinders_Spare_Keys_645"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=645
-profileset."Geargrinders_Spare_Keys_658"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=658
-profileset."Geargrinders_Spare_Keys_665"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=665
-profileset."Geargrinders_Spare_Keys_678"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=678
+## LFR: 645 | Normal: 658 | Heroic: 672 | Mythic: 684
+# profileset."Geargrinders_Spare_Keys_645"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=645
+# profileset."Geargrinders_Spare_Keys_658"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=658
+profileset."Geargrinders_Spare_Keys_672"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=672
+profileset."Geargrinders_Spare_Keys_684"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Flarendos_Pilot_Light_645"+=trinket1=flarendos_pilot_light,id=230191,ilevel=645
-profileset."Flarendos_Pilot_Light_658"+=trinket1=flarendos_pilot_light,id=230191,ilevel=658
-profileset."Flarendos_Pilot_Light_665"+=trinket1=flarendos_pilot_light,id=230191,ilevel=665
-profileset."Flarendos_Pilot_Light_678"+=trinket1=flarendos_pilot_light,id=230191,ilevel=678
+# profileset."Flarendos_Pilot_Light_645"+=trinket1=flarendos_pilot_light,id=230191,ilevel=645
+# profileset."Flarendos_Pilot_Light_658"+=trinket1=flarendos_pilot_light,id=230191,ilevel=658
+profileset."Flarendos_Pilot_Light_672"+=trinket1=flarendos_pilot_light,id=230191,ilevel=672
+profileset."Flarendos_Pilot_Light_684"+=trinket1=flarendos_pilot_light,id=230191,ilevel=684
 
-profileset."Reverb_Radio_645"+=trinket1=reverb_radio,id=230194,ilevel=645
-profileset."Reverb_Radio_658"+=trinket1=reverb_radio,id=230194,ilevel=658
-profileset."Reverb_Radio_665"+=trinket1=reverb_radio,id=230194,ilevel=665
-profileset."Reverb_Radio_678"+=trinket1=reverb_radio,id=230194,ilevel=678
+# profileset."Reverb_Radio_645"+=trinket1=reverb_radio,id=230194,ilevel=645
+# profileset."Reverb_Radio_658"+=trinket1=reverb_radio,id=230194,ilevel=658
+profileset."Reverb_Radio_672"+=trinket1=reverb_radio,id=230194,ilevel=672
+profileset."Reverb_Radio_684"+=trinket1=reverb_radio,id=230194,ilevel=684
 
-profileset."Mister_Lock_N_Stalk_645"+=trinket1=mister_locknstalk,id=230193,ilevel=645
-profileset."Mister_Lock_N_Stalk_658"+=trinket1=mister_locknstalk,id=230193,ilevel=658
-profileset."Mister_Lock_N_Stalk_665"+=trinket1=mister_locknstalk,id=230193,ilevel=665
-profileset."Mister_Lock_N_Stalk_678"+=trinket1=mister_locknstalk,id=230193,ilevel=678
+# profileset."Mister_Lock_N_Stalk_645"+=trinket1=mister_locknstalk,id=230193,ilevel=645
+# profileset."Mister_Lock_N_Stalk_658"+=trinket1=mister_locknstalk,id=230193,ilevel=658
+profileset."Mister_Lock_N_Stalk_672"+=trinket1=mister_locknstalk,id=230193,ilevel=672
+profileset."Mister_Lock_N_Stalk_684"+=trinket1=mister_locknstalk,id=230193,ilevel=684
 
-profileset."House_of_Cards_645"+=trinket1=house_of_cards,id=230027,ilevel=645
-profileset."House_of_Cards_658"+=trinket1=house_of_cards,id=230027,ilevel=658
-profileset."House_of_Cards_665"+=trinket1=house_of_cards,id=230027,ilevel=665
-profileset."House_of_Cards_678"+=trinket1=house_of_cards,id=230027,ilevel=678
+# profileset."House_of_Cards_645"+=trinket1=house_of_cards,id=230027,ilevel=645
+# profileset."House_of_Cards_658"+=trinket1=house_of_cards,id=230027,ilevel=658
+profileset."House_of_Cards_672"+=trinket1=house_of_cards,id=230027,ilevel=672
+profileset."House_of_Cards_684"+=trinket1=house_of_cards,id=230027,ilevel=684
 
-profileset."Mugs_Moxie_Jug_645"+=trinket1=mugs_moxie_jug,id=230192,ilevel=645
-profileset."Mugs_Moxie_Jug_658"+=trinket1=mugs_moxie_jug,id=230192,ilevel=658
-profileset."Mugs_Moxie_Jug_665"+=trinket1=mugs_moxie_jug,id=230192,ilevel=665
-profileset."Mugs_Moxie_Jug_678"+=trinket1=mugs_moxie_jug,id=230192,ilevel=678
+# profileset."Mugs_Moxie_Jug_645"+=trinket1=mugs_moxie_jug,id=230192,ilevel=645
+# profileset."Mugs_Moxie_Jug_658"+=trinket1=mugs_moxie_jug,id=230192,ilevel=658
+profileset."Mugs_Moxie_Jug_672"+=trinket1=mugs_moxie_jug,id=230192,ilevel=672
+profileset."Mugs_Moxie_Jug_684"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."Eye_of_Kezan_645"+=trinket1=eye_of_kezan,id=230198,ilevel=645
-profileset."Eye_of_Kezan_658"+=trinket1=eye_of_kezan,id=230198,ilevel=658
-profileset."Eye_of_Kezan_665"+=trinket1=eye_of_kezan,id=230198,ilevel=665
-profileset."Eye_of_Kezan_678"+=trinket1=eye_of_kezan,id=230198,ilevel=678
+# profileset."Eye_of_Kezan_645"+=trinket1=eye_of_kezan,id=230198,ilevel=645
+# profileset."Eye_of_Kezan_658"+=trinket1=eye_of_kezan,id=230198,ilevel=658
+profileset."Eye_of_Kezan_672"+=trinket1=eye_of_kezan,id=230198,ilevel=672
+profileset."Eye_of_Kezan_684"+=trinket1=eye_of_kezan,id=230198,ilevel=684
 
 # Nerub'ar Palace
 ## LFR: 606 | Normal: 619 | Heroic: 626 | Mythic: 639
-profileset."Aberrant_Spellforge_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
+# profileset."Aberrant_Spellforge_639"+=trinket1=aberrant_spellforge,id=212451,ilevel=639
 
-profileset."Mad_Queens_Mandate_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
+# profileset."Mad_Queens_Mandate_639"+=trinket1=mad_queens_mandate,id=212454,ilevel=639
 
-profileset."Spymasters_Web_606"+=trinket1=spymasters_web,id=220202,ilevel=606
-profileset."Spymasters_Web_619"+=trinket1=spymasters_web,id=220202,ilevel=619
-profileset."Spymasters_Web_626"+=trinket1=spymasters_web,id=220202,ilevel=626
-profileset."Spymasters_Web_639"+=trinket1=spymasters_web,id=220202,ilevel=639
+# profileset."Spymasters_Web_606"+=trinket1=spymasters_web,id=220202,ilevel=606
+# profileset."Spymasters_Web_619"+=trinket1=spymasters_web,id=220202,ilevel=619
+# profileset."Spymasters_Web_626"+=trinket1=spymasters_web,id=220202,ilevel=626
+# profileset."Spymasters_Web_639"+=trinket1=spymasters_web,id=220202,ilevel=639
 
 ## TODO: add different options when added into simc
 ## current default is 30 stacks of primary always
-profileset."Ovinaxs_Mercurial_Egg_639"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
+# profileset."Ovinaxs_Mercurial_Egg_639"+=trinket1=ovinaxs_mercurial_egg,id=220305,ilevel=639
 
-profileset."Treacherous_Transmitter_639"+=trinket1=treacherous_transmitter,id=221023,ilevel=639
+# profileset."Treacherous_Transmitter_639"+=trinket1=treacherous_transmitter,id=221023,ilevel=639

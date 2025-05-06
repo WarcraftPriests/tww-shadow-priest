@@ -57,40 +57,40 @@ hero:
 gear:
   # 16.2k Mastery | 16.5k Haste | 3.5k Crit (10.0%) | 1k Vers
   default:
-    head: "confessors_unshakable_halo,id=229334,ilevel=678" # haste/vers
-    neck: "semicharmed_amulet,id=228841,ilevel=678" # haste/crit
-    shoulders: "confessors_unshakable_radiance,id=229332,ilevel=678" # mastery/haste
-    back: "test_pilots_gopack,id=228844,ilevel=678" # mastery/haste
-    chest: "confessors_unshakable_vestment,id=229337,ilevel=678" # haste/mastery
-    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=675" # haste/mastery
-    hands: "confessors_unshakable_mitts,id=229335,ilevel=678" # mastery/crit
-    waist: "refiners_conveyor_belt,id=228882,ilevel=678" # mastery/haste
-    legs: "pit_doctors_petticoat,id=228865,ilevel=678" # haste/mastery
-    feet: "cemented_murlocswimmers,id=228879,ilevel=678" # haste/mastery
-    finger1: "the_jastor_diamond,id=231265,ilevel=678" # mastery/haste
-    finger2: "cyrces_circlet,id=228411,gem_id=228638/228639/228640,bonus_id=12025/1511" # n/a
-    trinket1: "mugs_moxie_jug,id=230192,ilevel=678"
-    trinket2: "house_of_cards,id=230027,ilevel=678"
-    main_hand: "big_earners_bludgeon,id=228901,ilevel=678" # crit/mastery
-    off_hand: "vagabonds_torch,id=222566,ilevel=675,bonus_id=11300/8793" # haste/mastery
+    head: "confessors_unshakable_halo,id=229334,ilevel=684" # haste/vers
+    neck: "semicharmed_amulet,id=228841,ilevel=684" # haste/crit
+    shoulders: "confessors_unshakable_radiance,id=229332,ilevel=684" # mastery/haste
+    back: "test_pilots_gopack,id=228844,ilevel=684" # mastery/haste
+    chest: "confessors_unshakable_vestment,id=229337,ilevel=684" # haste/mastery
+    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=681" # haste/mastery
+    hands: "confessors_unshakable_mitts,id=229335,ilevel=684" # mastery/crit
+    waist: "refiners_conveyor_belt,id=228882,ilevel=684" # mastery/haste
+    legs: "pit_doctors_petticoat,id=228865,ilevel=684" # haste/mastery
+    feet: "cemented_murlocswimmers,id=228879,ilevel=684" # haste/mastery
+    finger1: "the_jastor_diamond,id=231265,ilevel=684" # mastery/haste
+    finger2: "ritual_bone_band,id=178870,ilevel=684" # vers/mastery
+    trinket1: "mugs_moxie_jug,id=230192,ilevel=684"
+    trinket2: "house_of_cards,id=230027,ilevel=684"
+    main_hand: "big_earners_bludgeon,id=228901,ilevel=684" # crit/mastery
+    off_hand: "vagabonds_torch,id=222566,ilevel=681,bonus_id=11300/8793" # haste/mastery
   # Xk Mastery (0.0%) | Xk Haste (0.0%) | Xk Crit (0.0%) | Xk Vers (0.0%)
   noCantrip:
-    head: "confessors_unshakable_halo,id=229334,ilevel=678" # haste/vers
-    neck: "semicharmed_amulet,id=228841,ilevel=678" # haste/crit
-    shoulders: "confessors_unshakable_radiance,id=229332,ilevel=678" # mastery/haste
-    back: "test_pilots_gopack,id=228844,ilevel=678" # mastery/haste
-    chest: "confessors_unshakable_vestment,id=229337,ilevel=678" # haste/mastery
-    wrists: "illicit_bankroll_bracers,id=228881,ilevel=678" # haste/mastery
-    hands: "confessors_unshakable_mitts,id=229335,ilevel=678" # mastery/crit
-    waist: "refiners_conveyor_belt,id=228882,ilevel=678" # mastery/haste
-    legs: "pit_doctors_petticoat,id=228865,ilevel=678" # haste/mastery
-    feet: "cemented_murlocswimmers,id=228879,ilevel=678" # haste/mastery
-    finger1: "85year_tenure_ring,id=221198,ilevel=678" # mastery/crit
-    finger2: "footbomb_championship_ring,id=159462,ilevel=678" # mastery=haste
-    trinket1: "mugs_moxie_jug,id=230192,ilevel=678"
-    trinket2: "house_of_cards,id=230027,ilevel=678"
-    main_hand: "stixs_metal_detector,id=228896,ilevel=678" # haste/mastery
-    off_hand: "operators_fraud_detector,id=228906,ilevel=678" # mastery/haste
+    head: "confessors_unshakable_halo,id=229334,ilevel=684" # haste/vers
+    neck: "semicharmed_amulet,id=228841,ilevel=684" # haste/crit
+    shoulders: "confessors_unshakable_radiance,id=229332,ilevel=684" # mastery/haste
+    back: "test_pilots_gopack,id=228844,ilevel=684" # mastery/haste
+    chest: "confessors_unshakable_vestment,id=229337,ilevel=684" # haste/mastery
+    wrists: "illicit_bankroll_bracers,id=228881,ilevel=684" # haste/mastery
+    hands: "confessors_unshakable_mitts,id=229335,ilevel=684" # mastery/crit
+    waist: "refiners_conveyor_belt,id=228882,ilevel=684" # mastery/haste
+    legs: "pit_doctors_petticoat,id=228865,ilevel=684" # haste/mastery
+    feet: "cemented_murlocswimmers,id=228879,ilevel=684" # haste/mastery
+    finger1: "85year_tenure_ring,id=221198,ilevel=684" # mastery/crit
+    finger2: "footbomb_championship_ring,id=159462,ilevel=684" # mastery=haste
+    trinket1: "mugs_moxie_jug,id=230192,ilevel=684"
+    trinket2: "house_of_cards,id=230027,ilevel=684"
+    main_hand: "stixs_metal_detector,id=228896,ilevel=684" # haste/mastery
+    off_hand: "operators_fraud_detector,id=228906,ilevel=684" # mastery/haste
 gems:
   meta: "213743" # Culminating Blasphemite
   main: "213494" # Quick Onyx
@@ -262,14 +262,9 @@ sims:
     chart: true
     lookupType: item
     steps:
-      - 606
-      - 619
-      - 626
-      - 639
-      - 645
       - 658
-      - 665
-      - 678
+      - 672
+      - 684
     files:
       - raid.simc
       - dungeons.simc
