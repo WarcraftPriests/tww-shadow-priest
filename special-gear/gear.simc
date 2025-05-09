@@ -50,16 +50,16 @@ profileset."Finger2_The_Jastor_Diamond_684"+=finger2=the_jastor_diamond,id=23126
 
 profileset."2H_Voltaic_Stormcaller_684"+=main_hand=voltaic_stormcaller,id=221032,ilevel=684,enchant=${enchants.main_hand}
 profileset."2H_Voltaic_Stormcaller_684"+=off_hand=disabled
-profileset."2H_Voltaic_Stormcaller_672"+=main_hand=voltaic_stormcaller,id=221032,ilevel=672,enchant=${enchants.main_hand}
-profileset."2H_Voltaic_Stormcaller_672"+=off_hand=disabled
+profileset."2H_Voltaic_Stormcaller_671"+=main_hand=voltaic_stormcaller,id=221032,ilevel=671,enchant=${enchants.main_hand}
+profileset."2H_Voltaic_Stormcaller_671"+=off_hand=disabled
 
 profileset."2H_Neural_Synapse_Enhancer_684"+=main_hand=neural_synapse_enhancer,id=168973,ilevel=684,enchant=${enchants.main_hand}
 profileset."2H_Neural_Synapse_Enhancer_684"+=off_hand=disabled
-profileset."2H_Neural_Synapse_Enhancer_672"+=main_hand=neural_synapse_enhancer,id=168973,ilevel=672,enchant=${enchants.main_hand}
-profileset."2H_Neural_Synapse_Enhancer_672"+=off_hand=disabled
+profileset."2H_Neural_Synapse_Enhancer_671"+=main_hand=neural_synapse_enhancer,id=168973,ilevel=671,enchant=${enchants.main_hand}
+profileset."2H_Neural_Synapse_Enhancer_671"+=off_hand=disabled
 
 profileset."Wrists_Hyperthread_Wristwraps_684"+=wrists=hyperthread_wristwraps,id=168989,ilevel=684,gem_id=${gems.onyx}
-profileset."Wrists_Hyperthread_Wristwraps_672"+=wrists=hyperthread_wristwraps,id=168989,ilevel=672,gem_id=${gems.onyx}
+profileset."Wrists_Hyperthread_Wristwraps_671"+=wrists=hyperthread_wristwraps,id=168989,ilevel=671,gem_id=${gems.onyx}
 
 # 11.0.7
 profileset."Finger2_Cyrces_Circlet_SRC_FRC_LSC_658"+=finger2=,id=228411,gem_id=228638/228639/228646,bonus_id=12025/1511,enchant=${enchants.ring}
@@ -81,8 +81,8 @@ profileset."Finger2_Cyrces_Circlet_SRC_FRC_WRC_658"+=finger2=,id=228411,gem_id=2
 # profileset."2H_Guiding_Stave_of_Wisdom_626"+=off_hand=disabled
 
 # Season 1 Cantrip Items
-profileset."1H_Fateweaved_Needle_672_OH_Operators_Fraud_Detector_684"+=main_hand=fateweaved_needle,id=219382,ilevel=672,enchant=${enchants.main_hand}
-profileset."1H_Fateweaved_Needle_672_OH_Operators_Fraud_Detector_684"+=off_hand=operators_fraud_detector,id=228906,ilevel=684
+profileset."1H_Fateweaved_Needle_671_OH_Operators_Fraud_Detector_684"+=main_hand=fateweaved_needle,id=219382,ilevel=671,enchant=${enchants.main_hand}
+profileset."1H_Fateweaved_Needle_671_OH_Operators_Fraud_Detector_684"+=off_hand=operators_fraud_detector,id=228906,ilevel=684
 # profileset."1H_Fateweaved_Mallet_665_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_mallet,id=219941,ilevel=665,enchant=${enchants.main_hand}
 # profileset."1H_Fateweaved_Mallet_665_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=operators_fraud_detector,id=228906,ilevel=684
 
