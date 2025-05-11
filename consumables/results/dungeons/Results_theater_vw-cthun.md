@@ -1,18 +1,18 @@
 # theater - vw-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Crystallized_Augment_Rune|2303333|0.71%|
-|Deepfin_Patty|2300615|0.59%|
-|Marinated_Tenderloins|2300112|0.57%|
-|Chippy_Tea|2300055|0.56%|
-|Beledars_Bounty|2299854|0.55%|
-|Salt_Baked_Seafood|2299376|0.53%|
-|Fish_and_Chips|2299300|0.53%|
-|Sweet_and_Spicy_Soup|2299273|0.53%|
-|Feast_of_the_Divine_Day|2297212|0.44%|
-|Zesty_Nibblers|2297197|0.44%|
-|GingerGlazed_Fillet|2296759|0.42%|
-|Salty_Dog|2296375|0.40%|
-|Fiery_Fish_Sticks|2296109|0.39%|
-|Stuffed_Cave_Peppers|2292425|0.23%|
-|Base|2287176|0.00%|
+|Crystallized_Augment_Rune|2641958|0.53%|
+|Chippy_Tea|2640740|0.49%|
+|Deepfin_Patty|2640398|0.47%|
+|Sweet_and_Spicy_Soup|2640157|0.46%|
+|Beledars_Bounty|2639192|0.43%|
+|Salt_Baked_Seafood|2638948|0.42%|
+|Marinated_Tenderloins|2638211|0.39%|
+|Fish_and_Chips|2638162|0.39%|
+|Feast_of_the_Divine_Day|2637545|0.36%|
+|Zesty_Nibblers|2637015|0.34%|
+|Fiery_Fish_Sticks|2636469|0.32%|
+|GingerGlazed_Fillet|2635935|0.30%|
+|Salty_Dog|2635517|0.29%|
+|Stuffed_Cave_Peppers|2632160|0.16%|
+|Base|2627976|0.00%|

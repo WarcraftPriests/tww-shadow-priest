@@ -1,4 +1,4 @@
 # workshop - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|2605782|1.00|1.30|1.19|1.23|1.21|0.04|
+|Base|2962099|1.00|1.32|1.24|1.15|1.16|0.04|
