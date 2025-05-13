@@ -263,7 +263,7 @@ sims:
     lookupType: item
     steps:
       - 658
-      - 672
+      - 671
       - 684
     files:
       - raid.simc
