@@ -24,26 +24,26 @@ ${gear.off_hand}
 
 # 11.1.5
 ## Flame's Radiance: 658
-profileset."Shining_Arathor_Insignia_658"+=trinket1=shining_arathor_insignia,id=225647,ilevel=658
-profileset."Shining_Arathor_Insignia_Cloak_658"+=trinket1=shining_arathor_insignia,id=225647,ilevel=658
-profileset."Shining_Arathor_Insignia_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+# profileset."Shining_Arathor_Insignia_658"+=trinket1=shining_arathor_insignia,id=225647,ilevel=658
+# profileset."Shining_Arathor_Insignia_Cloak_658"+=trinket1=shining_arathor_insignia,id=225647,ilevel=658
+# profileset."Shining_Arathor_Insignia_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
 
-profileset."Arathi_Ministers_Receptacle_658"+=trinket1=arathi_ministers_receptacle,id=238391,ilevel=658
-profileset."Arathi_Ministers_Receptacle_Cloak_658"+=trinket1=arathi_ministers_receptacle,id=238391,ilevel=658
-profileset."Arathi_Ministers_Receptacle_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+# profileset."Arathi_Ministers_Receptacle_658"+=trinket1=arathi_ministers_receptacle,id=238391,ilevel=658
+# profileset."Arathi_Ministers_Receptacle_Cloak_658"+=trinket1=arathi_ministers_receptacle,id=238391,ilevel=658
+# profileset."Arathi_Ministers_Receptacle_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
 
-profileset."Hallowed_Tome_Haste_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12215,ilevel=658
-profileset."Hallowed_Tome_Haste_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12215,ilevel=658
-profileset."Hallowed_Tome_Haste_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
-profileset."Hallowed_Tome_Crit_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12216,ilevel=658
-profileset."Hallowed_Tome_Crit_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12216,ilevel=658
-profileset."Hallowed_Tome_Crit_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
-profileset."Hallowed_Tome_Vers_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12217,ilevel=658
-profileset."Hallowed_Tome_Vers_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12217,ilevel=658
-profileset."Hallowed_Tome_Vers_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
-profileset."Hallowed_Tome_Mastery_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12218,ilevel=658
-profileset."Hallowed_Tome_Mastery_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12218,ilevel=658
-profileset."Hallowed_Tome_Mastery_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+# profileset."Hallowed_Tome_Haste_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12215,ilevel=658
+# profileset."Hallowed_Tome_Haste_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12215,ilevel=658
+# profileset."Hallowed_Tome_Haste_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+# profileset."Hallowed_Tome_Crit_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12216,ilevel=658
+# profileset."Hallowed_Tome_Crit_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12216,ilevel=658
+# profileset."Hallowed_Tome_Crit_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+# profileset."Hallowed_Tome_Vers_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12217,ilevel=658
+# profileset."Hallowed_Tome_Vers_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12217,ilevel=658
+# profileset."Hallowed_Tome_Vers_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
+# profileset."Hallowed_Tome_Mastery_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12218,ilevel=658
+# profileset."Hallowed_Tome_Mastery_Cloak_658"+=trinket1=hallowed_tome,id=237494,bonus_id=6722/12218,ilevel=658
+# profileset."Hallowed_Tome_Mastery_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
 
 # Delves
 ## Drop: 658 / Vault: 672
