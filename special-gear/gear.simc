@@ -24,8 +24,28 @@ trinket2=${gear.trinket2}
 main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
-# 11.1
+# 11.1.7
+## Durable Information Securing Container (684 - ?)
+### Single target damage proc
+profileset."Waist_Durable_Information_Securing_Container_Charged_Bolts_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236109,ilevel=684
+### Smart healing proc
+# profileset."Waist_Durable_Information_Securing_Container_Cauterizing_Bolts_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236122,ilevel=684
+### Stacking critical strike
+profileset."Waist_Durable_Information_Securing_Container_Critical_Chain_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236272,ilevel=684
+### Haste proc
+profileset."Waist_Durable_Information_Securing_Container_Spark_Burst_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236273,ilevel=684
+### Versatility stat
+profileset."Waist_Durable_Information_Securing_Container_Static_Charge_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236275,ilevel=684
+### Smart healing proc
+# profileset."Waist_Durable_Information_Securing_Container_Charged_Touch_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236277,ilevel=684
+### Damage absorb shield
+# profileset."Waist_Durable_Information_Securing_Container_Energy_Shield_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236278,ilevel=684
+### Split damage proc
+profileset."Waist_Durable_Information_Securing_Container_Charged_Crystal_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236279,ilevel=684
+### Mastery buff
+profileset."Waist_Durable_Information_Securing_Container_Electric_Current_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236961,ilevel=684
 
+# 11.1
 ## Roulette Wheel
 ### Stat: Crit: 8949 | Mastery: 8950 | Haste: 8948 | Vers: 8951 
 profileset."Finger1_Miniature_Roulette_Wheel_Haste_Mastery_684"+=finger1=miniature_roulette_wheel,id=228843,ilevel=684,bonus_id=10356/1527/8781/8948/8950,enchant=${enchants.ring},gem_id=${gems.main}/${gems.main}
