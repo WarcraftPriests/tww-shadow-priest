@@ -37,8 +37,13 @@ profileset."Head_Gushing_Wound_2"+=head=${gear.head},gem_id=${gems.meta},enchant
 profileset."Head_Void_Ritual_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7931
 profileset."Head_Void_Ritual_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7933
 
-profileset."Head_Echoing_Void_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7915
-profileset."Head_Echoing_Void_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7917
+profileset."Head_Echoing_Void_Ranged_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7915
+profileset."Head_Echoing_Void_Ranged_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7917
+
+profileset."Head_Echoing_Void_Melee_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7915
+profileset."Head_Echoing_Void_Melee_1"+=distance=5
+profileset."Head_Echoing_Void_Melee_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7917
+profileset."Head_Echoing_Void_Melee_2"+=distance=5
 
 profileset."Head_Infinite_Stars_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7922
 profileset."Head_Infinite_Stars_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7924

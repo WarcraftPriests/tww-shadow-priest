@@ -98,7 +98,8 @@ enchants = {
     "Head_Twilight_Devastation": 238405,
     "Head_Gushing_Wound": 239086,
     "Head_Void_Ritual": 239095,
-    "Head_Echoing_Void": 238680,
+    "Head_Echoing_Void_Melee": 238680,
+    "Head_Echoing_Void_Ranged": 238680,
     "Head_Infinite_Stars": 239080,
     "Head_Twisted_Appendage": 239090,
 }
