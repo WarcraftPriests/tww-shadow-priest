@@ -25,25 +25,25 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # 11.1.7
-## Durable Information Securing Container (684 - ?)
+## Durable Information Securing Container (684 - 700)
 ### Single target damage proc
-profileset."Waist_Durable_Information_Securing_Container_Charged_Bolts_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236109,ilevel=684
+profileset."Waist_Durable_Information_Securing_Container_Charged_Bolts_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236109,ilevel=700,gem_id=${gems.sapphire}
 ### Smart healing proc
-# profileset."Waist_Durable_Information_Securing_Container_Cauterizing_Bolts_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236122,ilevel=684
+# profileset."Waist_Durable_Information_Securing_Container_Cauterizing_Bolts_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236122,ilevel=700,gem_id=${gems.sapphire}
 ### Stacking critical strike
-profileset."Waist_Durable_Information_Securing_Container_Critical_Chain_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236272,ilevel=684
+profileset."Waist_Durable_Information_Securing_Container_Critical_Chain_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236272,ilevel=700,gem_id=${gems.sapphire}
 ### Haste proc
-profileset."Waist_Durable_Information_Securing_Container_Spark_Burst_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236273,ilevel=684
+profileset."Waist_Durable_Information_Securing_Container_Spark_Burst_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236273,ilevel=700,gem_id=${gems.sapphire}
 ### Versatility stat
-profileset."Waist_Durable_Information_Securing_Container_Static_Charge_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236275,ilevel=684
+profileset."Waist_Durable_Information_Securing_Container_Static_Charge_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236275,ilevel=700,gem_id=${gems.sapphire}
 ### Smart healing proc
-# profileset."Waist_Durable_Information_Securing_Container_Charged_Touch_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236277,ilevel=684
+# profileset."Waist_Durable_Information_Securing_Container_Charged_Touch_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236277,ilevel=700,gem_id=${gems.sapphire}
 ### Damage absorb shield
-# profileset."Waist_Durable_Information_Securing_Container_Energy_Shield_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236278,ilevel=684
+# profileset."Waist_Durable_Information_Securing_Container_Energy_Shield_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236278,ilevel=700,gem_id=${gems.sapphire}
 ### Split damage proc
-profileset."Waist_Durable_Information_Securing_Container_Charged_Crystal_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236279,ilevel=684
+profileset."Waist_Durable_Information_Securing_Container_Charged_Crystal_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236279,ilevel=700,gem_id=${gems.sapphire}
 ### Mastery buff
-profileset."Waist_Durable_Information_Securing_Container_Electric_Current_684"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236961,ilevel=684
+profileset."Waist_Durable_Information_Securing_Container_Electric_Current_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236961,ilevel=700,gem_id=${gems.sapphire}
 
 # 11.1
 ## Roulette Wheel
@@ -70,13 +70,13 @@ profileset."Finger2_The_Jastor_Diamond_684"+=finger2=the_jastor_diamond,id=23126
 
 profileset."2H_Voltaic_Stormcaller_684"+=main_hand=voltaic_stormcaller,id=221032,ilevel=684,enchant=${enchants.main_hand}
 profileset."2H_Voltaic_Stormcaller_684"+=off_hand=disabled
-profileset."2H_Voltaic_Stormcaller_671"+=main_hand=voltaic_stormcaller,id=221032,ilevel=671,enchant=${enchants.main_hand}
-profileset."2H_Voltaic_Stormcaller_671"+=off_hand=disabled
+# profileset."2H_Voltaic_Stormcaller_671"+=main_hand=voltaic_stormcaller,id=221032,ilevel=671,enchant=${enchants.main_hand}
+# profileset."2H_Voltaic_Stormcaller_671"+=off_hand=disabled
 
 profileset."2H_Neural_Synapse_Enhancer_684"+=main_hand=neural_synapse_enhancer,id=168973,ilevel=684,enchant=${enchants.main_hand}
 profileset."2H_Neural_Synapse_Enhancer_684"+=off_hand=disabled
-profileset."2H_Neural_Synapse_Enhancer_671"+=main_hand=neural_synapse_enhancer,id=168973,ilevel=671,enchant=${enchants.main_hand}
-profileset."2H_Neural_Synapse_Enhancer_671"+=off_hand=disabled
+# profileset."2H_Neural_Synapse_Enhancer_671"+=main_hand=neural_synapse_enhancer,id=168973,ilevel=671,enchant=${enchants.main_hand}
+# profileset."2H_Neural_Synapse_Enhancer_671"+=off_hand=disabled
 
 profileset."Wrists_Hyperthread_Wristwraps_684"+=wrists=hyperthread_wristwraps,id=168989,ilevel=684,gem_id=${gems.onyx}
 profileset."Wrists_Hyperthread_Wristwraps_671"+=wrists=hyperthread_wristwraps,id=168989,ilevel=671,gem_id=${gems.onyx}
@@ -101,8 +101,8 @@ profileset."Finger2_Cyrces_Circlet_SRC_FRC_WRC_658"+=finger2=,id=228411,gem_id=2
 # profileset."2H_Guiding_Stave_of_Wisdom_626"+=off_hand=disabled
 
 # Season 1 Cantrip Items
-profileset."1H_Fateweaved_Needle_671_OH_Operators_Fraud_Detector_684"+=main_hand=fateweaved_needle,id=219382,ilevel=671,enchant=${enchants.main_hand}
-profileset."1H_Fateweaved_Needle_671_OH_Operators_Fraud_Detector_684"+=off_hand=operators_fraud_detector,id=228906,ilevel=684
+# profileset."1H_Fateweaved_Needle_671_OH_Operators_Fraud_Detector_684"+=main_hand=fateweaved_needle,id=219382,ilevel=671,enchant=${enchants.main_hand}
+# profileset."1H_Fateweaved_Needle_671_OH_Operators_Fraud_Detector_684"+=off_hand=operators_fraud_detector,id=228906,ilevel=684
 # profileset."1H_Fateweaved_Mallet_665_OH_Pail_of_Preserved_Obscurity_639"+=main_hand=fateweaved_mallet,id=219941,ilevel=665,enchant=${enchants.main_hand}
 # profileset."1H_Fateweaved_Mallet_665_OH_Pail_of_Preserved_Obscurity_639"+=off_hand=operators_fraud_detector,id=228906,ilevel=684
 
