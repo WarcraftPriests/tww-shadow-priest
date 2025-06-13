@@ -25,25 +25,25 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # 11.1.7
-## Durable Information Securing Container (684 - 700)
+## Durable Information Securing Container (684 - 701)
 ### Single target damage proc
-profileset."Waist_Durable_Information_Securing_Container_Charged_Bolts_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236109,ilevel=700,gem_id=${gems.sapphire}
+profileset."Waist_Durable_Information_Securing_Container_Charged_Bolts_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236109,ilevel=701,gem_id=${gems.sapphire}
 ### Smart healing proc
-# profileset."Waist_Durable_Information_Securing_Container_Cauterizing_Bolts_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236122,ilevel=700,gem_id=${gems.sapphire}
+# profileset."Waist_Durable_Information_Securing_Container_Cauterizing_Bolts_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236122,ilevel=701,gem_id=${gems.sapphire}
 ### Stacking critical strike
-profileset."Waist_Durable_Information_Securing_Container_Critical_Chain_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236272,ilevel=700,gem_id=${gems.sapphire}
+profileset."Waist_Durable_Information_Securing_Container_Critical_Chain_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236272,ilevel=701,gem_id=${gems.sapphire}
 ### Haste proc
-profileset."Waist_Durable_Information_Securing_Container_Spark_Burst_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236273,ilevel=700,gem_id=${gems.sapphire}
+profileset."Waist_Durable_Information_Securing_Container_Spark_Burst_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236273,ilevel=701,gem_id=${gems.sapphire}
 ### Versatility stat
-profileset."Waist_Durable_Information_Securing_Container_Static_Charge_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236275,ilevel=700,gem_id=${gems.sapphire}
+profileset."Waist_Durable_Information_Securing_Container_Static_Charge_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236275,ilevel=701,gem_id=${gems.sapphire}
 ### Smart healing proc
-# profileset."Waist_Durable_Information_Securing_Container_Charged_Touch_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236277,ilevel=700,gem_id=${gems.sapphire}
+# profileset."Waist_Durable_Information_Securing_Container_Charged_Touch_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236277,ilevel=701,gem_id=${gems.sapphire}
 ### Damage absorb shield
-# profileset."Waist_Durable_Information_Securing_Container_Energy_Shield_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236278,ilevel=700,gem_id=${gems.sapphire}
+# profileset."Waist_Durable_Information_Securing_Container_Energy_Shield_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236278,ilevel=701,gem_id=${gems.sapphire}
 ### Split damage proc
-profileset."Waist_Durable_Information_Securing_Container_Charged_Crystal_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236279,ilevel=700,gem_id=${gems.sapphire}
+profileset."Waist_Durable_Information_Securing_Container_Charged_Crystal_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236279,ilevel=701,gem_id=${gems.sapphire}
 ### Mastery buff
-profileset."Waist_Durable_Information_Securing_Container_Electric_Current_700"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236961,ilevel=700,gem_id=${gems.sapphire}
+profileset."Waist_Durable_Information_Securing_Container_Electric_Current_701"+=waist=durable_information_securing_container,id=242664,titan_disc_id=1236961,ilevel=701,gem_id=${gems.sapphire}
 
 # 11.1
 ## Roulette Wheel
