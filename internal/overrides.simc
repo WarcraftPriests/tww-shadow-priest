@@ -1,2 +1,6 @@
 
 # Overrides are added below here
+override.spell_data=effect.1231848.coefficient=9.1675
+override.spell_data=effect.1232881.coefficient=0.3424
+override.spell_data=effect.1232886.coefficient=0.1505
+override.spell_data=effect.1232963.coefficient=52.9531
