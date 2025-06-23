@@ -36,13 +36,11 @@ def get_top_talents(results, combos, directory, matches, jitter):
                     if build == "actor":
                         continue
                     if ht == "AR" and len(ar_st_crash) < 5:
-                        st = find_talents(build).st
-                        if "whispering_shadows" in st:
+                        if "_SC" in build:
                             ar_st_crash.append(build)
                             talent_names.append(build)
                     if ht == "VW" and len(vw_st_crash) < 5:
-                        st = find_talents(build).st
-                        if "whispering_shadows" in st:
+                        if "_SC" in build:
                             vw_st_crash.append(build)
                             talent_names.append(build)
                 if len(ar_st_crash) < 5 or len(vw_st_crash) < 5:
@@ -89,14 +87,11 @@ def get_builds():
     ar_idols = [
         "nzoth_cthun",
         "nzoth_yogg_cthun",
-        "cthun",
-        "yogg_cthun",
     ]
     combos.extend(get_hero_builds("AR", ar_cds, ar_idols))
     ## Voidweaver
     vw_idols = [
         "nzoth_cthun",
-        "cthun",
     ]
     combos.extend(get_hero_builds("VW", vw_cds, vw_idols))
     return combos
