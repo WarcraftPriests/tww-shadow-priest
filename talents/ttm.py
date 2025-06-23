@@ -110,8 +110,6 @@ def convert_builds(profile):
         # Shadow Crash
         if has_shadow_crash:
             suffix += "_SC"
-        else:
-            suffix += "_1T"
         # MeD or ShP
         if has_mental_decay:
             suffix += "_MeD"
