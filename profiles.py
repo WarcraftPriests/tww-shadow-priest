@@ -130,6 +130,15 @@ def build_stats_files():
             continue
         if crit < config["stats"]["min"]["crit"]:
             continue
+        # remove profiles with too high haste/mastery
+        if haste > config["stats"]["max"]["haste"]:
+            continue
+        if mastery > config["stats"]["max"]["mastery"]:
+            continue
+        if vers > config["stats"]["max"]["vers"]:
+            continue
+        if crit > config["stats"]["max"]["crit"]:
+            continue
         rating_combinations.append(combination)
     print(f"Simming {len(rating_combinations)} number of combinations")
     output_file = f"{args.dir}/generated.simc"

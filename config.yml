@@ -309,13 +309,18 @@ analyze:
   json: true
 stats:
   base: 4000
-  steps: 1000
-  total: 50000
+  steps: 1500
+  total: 55000
   min:
-    haste: 15000
-    mastery: 15000
-    crit: 3000
+    haste: 8000
+    mastery: 14000
+    crit: 5000
     vers: 0
+  max:
+    haste: 30000
+    mastery: 30000
+    crit: 30000
+    vers: 8500
   include:
     - mastery
     - haste
