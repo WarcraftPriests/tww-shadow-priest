@@ -110,6 +110,8 @@ actions.main+=/void_bolt,target_if=max:target.time_to_die,if=insanity.deficit>16
 actions.main+=/devouring_plague,target_if=max:target.time_to_die*(dot.devouring_plague.remains<=gcd.max|variable.dr_force_prio|!talent.distorted_reality&variable.me_force_prio),if=active_dot.devouring_plague<=1&dot.devouring_plague.remains<=gcd.max&(!talent.void_eruption|cooldown.void_eruption.remains>=gcd.max*3)|insanity.deficit<=16
 # Cast Void Torrent at very high priority if Voidweaver
 actions.main+=/void_torrent,target_if=max:(dot.devouring_plague.remains*1000+target.time_to_die),if=(dot.devouring_plague.ticking|talent.void_eruption&cooldown.void_eruption.up)&talent.entropic_rift&!variable.holding_crash&(cooldown.dark_ascension.remains>=12|!talent.dark_ascension|!talent.void_blast)
+# TODO: placeholder
+actions.main+=/void_volley
 # Use Void Bolt on the enemy with the largest time to die. Force a cooldown check here to make sure SimC doesn't wait too long (i.e. weird MF:I de-sync with GCD)
 actions.main+=/void_bolt,target_if=max:target.time_to_die,if=cooldown.void_bolt.remains<=0.1
 # Do not overcap MFI during Empowered Surges (Archon).

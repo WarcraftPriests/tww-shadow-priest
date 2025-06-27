@@ -163,8 +163,8 @@ def duplicate_builds():
             file.close()
         print(f"Starting with {len(data)} builds")
         # duplicate all builds for minds_eye
-        me_data = list(map(lambda x: x.replace("distorted_reality", "minds_eye"), data))
-        me_data = list(map(lambda x: x.replace("_DR", "_ME"), me_data))
+        me_data = list(map(lambda x: x.replace("minds_eye", "distorted_reality"), data))
+        me_data = list(map(lambda x: x.replace("_ME", "_DR"), me_data))
         data = me_data + data
         print(f"{len(data)} builds after duplicating for Mind's Eye")
         # duplicate all builds for void_eruption
