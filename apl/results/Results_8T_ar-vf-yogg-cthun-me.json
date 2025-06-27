@@ -1,1 +1,1 @@
-{"name": "8T - ar-vf-yogg-cthun-me", "data": {"Base1": {"DPS": 805847}, "Base": {"DPS": 805724}}, "ids": {"Base1": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["Base1"], "last_updated": "2025-03-14"}
+{"name": "8T - ar-vf-yogg-cthun-me", "data": {"new": {"DPS": 23336489}, "Base": {"DPS": 22290151}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-27"}
