@@ -81,7 +81,7 @@ gear:
     shoulders: "mounted_manacannons,id=237547,ilevel=723" # haste/vers
     back: "dying_stars_memory,id=237704,ilevel=723" # mastery/haste
     chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
-    wrists: "illicit_bankroll_bracers,id=228881,ilevel=684" # haste/mastery
+    wrists: "illicit_bankroll_bracers,id=228881,ilevel=723" # haste/mastery
     hands: "dying_stars_caress,id=237710,ilevel=723" # haste/crit
     waist: "singularity_cincture,id=237559,ilevel=723" # mastery/crit
     legs: "dying_stars_leggings,id=237708,ilevel=723" # crit/mastery
@@ -90,8 +90,8 @@ gear:
     finger2: "logic_gate_alpha,id=237567,ilevel=723" # crit/mastery
     trinket1: "mugs_moxie_jug,id=230192,ilevel=723"
     trinket2: "house_of_cards,id=230027,ilevel=723"
-    main_hand: "stixs_metal_detector,id=228896,ilevel=684" # haste/mastery
-    off_hand: "operators_fraud_detector,id=228906,ilevel=684" # mastery/haste
+    main_hand: "stixs_metal_detector,id=228896,ilevel=723" # haste/mastery
+    off_hand: "operators_fraud_detector,id=228906,ilevel=723" # mastery/haste
 gems:
   meta: "213743" # Culminating Blasphemite
   main: "213494" # Quick Onyx
@@ -263,9 +263,8 @@ sims:
     chart: true
     lookupType: item
     steps:
-      - 658
-      - 671
       - 684
+      - 723
     files:
       - raid.simc
       - dungeons.simc
@@ -302,7 +301,7 @@ raidbots:
   numOfRetries: 100
   retryInterval: 10
 charts:
-  wowheadUrl: https://www.wowhead.com/
+  wowheadUrl: https://www.wowhead.com/ptr-2/
 analyze:
   dungeonCharts: false
   markdown: true
@@ -311,7 +310,7 @@ analyze:
 stats:
   base: 4000
   steps: 1000
-  total: 47000
+  total: 50000
   min:
     haste: 15000
     mastery: 15000

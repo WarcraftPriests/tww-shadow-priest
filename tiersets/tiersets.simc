@@ -9,6 +9,10 @@ set_bonus=tww1_2pc=0
 set_bonus=tww1_4pc=0
 set_bonus=tww2_2pc=0
 set_bonus=tww2_4pc=0
+set_bonus=name=thewarwithin_season_3,pc=2,hero_tree=archon,enable=0
+set_bonus=name=thewarwithin_season_3,pc=4,hero_tree=archon,enable=0
+set_bonus=name=thewarwithin_season_3,pc=2,hero_tree=voidweaver,enable=0
+set_bonus=name=thewarwithin_season_3,pc=4,hero_tree=voidweaver,enable=0
 
 ${apl}
 
@@ -36,3 +40,7 @@ profileset."TWW1-2_4-set"+=set_bonus=tww1_4pc=1
 profileset."TWW2-2-set"+=set_bonus=tww2_2pc=1
 profileset."TWW2-2_4-set"+=set_bonus=tww2_2pc=1
 profileset."TWW2-2_4-set"+=set_bonus=tww2_4pc=1
+
+profileset."TWW3-2-set"+=set_bonus=name=thewarwithin_season_3,pc=2,enable=1
+profileset."TWW3-2_4-set"+=set_bonus=name=thewarwithin_season_3,pc=2,enable=1
+profileset."TWW3-2_4-set"+=set_bonus=name=thewarwithin_season_3,pc=4,enable=1
