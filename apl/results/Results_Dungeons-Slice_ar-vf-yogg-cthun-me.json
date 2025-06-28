@@ -1,1 +1,1 @@
-{"name": "Dungeons-Slice - ar-vf-yogg-cthun-me", "data": {"new": {"DPS": 4922313}, "new_force_prio": {"DPS": 4921361}, "Base": {"DPS": 4827806}}, "ids": {"new": null, "new_force_prio": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new", "new_force_prio"], "last_updated": "2025-06-27"}
+{"name": "Dungeons-Slice - ar-vf-yogg-cthun-me", "data": {"new": {"DPS": 4948813}, "Base": {"DPS": 4910000}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-28"}

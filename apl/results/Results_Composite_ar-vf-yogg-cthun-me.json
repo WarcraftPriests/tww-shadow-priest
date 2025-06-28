@@ -1,1 +1,1 @@
-{"name": "Composite - ar-vf-yogg-cthun-me", "data": {"new": {"DPS": 5021112}, "Base": {"DPS": 4802238}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-27"}
+{"name": "Composite - ar-vf-yogg-cthun-me", "data": {"Base": {"DPS": 5036836}, "new": {"DPS": 5002606}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-28"}

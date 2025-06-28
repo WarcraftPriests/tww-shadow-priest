@@ -1,5 +1,5 @@
 # Composite - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|5021112|4.56%|
-|Base|4802238|0.00%|
+|Base|5036836|0.00%|
+|new|5002606|-0.68%|

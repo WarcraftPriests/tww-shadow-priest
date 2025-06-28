@@ -1,1 +1,1 @@
-{"name": "2T - ar-vf-yogg-cthun-me", "data": {"new": {"DPS": 6859436}, "Base": {"DPS": 6498816}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-27"}
+{"name": "2T - ar-vf-yogg-cthun-me", "data": {"Base": {"DPS": 6853570}, "new": {"DPS": 6800551}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-28"}
