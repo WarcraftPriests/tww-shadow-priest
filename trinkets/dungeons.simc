@@ -58,13 +58,13 @@ profileset."Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=miniscule_mailem
 
 ## Tazavesh: So'leah's Gambit
 profileset."Soleahs_Secret_Technique_Crit_723"+=trinket1=soleahs_secret_technique_crit,id=190958,ilevel=723
-profileset."Soleahs_Secret_Technique_Crit_Crit_723"+=shadowlands.soleahs_secret_technique_type=crit
+profileset."Soleahs_Secret_Technique_Crit_723"+=shadowlands.soleahs_secret_technique_type=crit
 profileset."Soleahs_Secret_Technique_Haste_723"+=trinket1=soleahs_secret_technique_haste,id=190958,ilevel=723
-profileset."Soleahs_Secret_Technique_Haste_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
+profileset."Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."Soleahs_Secret_Technique_Mastery_723"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=723
-profileset."Soleahs_Secret_Technique_Mastery_Mastery_723"+=shadowlands.soleahs_secret_technique_type=mastery
+profileset."Soleahs_Secret_Technique_Mastery_723"+=shadowlands.soleahs_secret_technique_type=mastery
 profileset."Soleahs_Secret_Technique_Versatility_723"+=trinket1=soleahs_secret_technique_versatility,id=190958,ilevel=723
-profileset."Soleahs_Secret_Technique_Versatility_Versatility_723"+=shadowlands.soleahs_secret_technique_type=versatility
+profileset."Soleahs_Secret_Technique_Versatility_723"+=shadowlands.soleahs_secret_technique_type=versatility
 
 ## Season 2
 ## End of Dungeon: 671 | Vault: 684
