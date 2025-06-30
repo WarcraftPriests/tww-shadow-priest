@@ -1,0 +1,36 @@
+# slice - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Arazs_Ritual_Forge_723|4585589|10.39%|
+|Signet_of_the_Priory_723|4548815|9.50%|
+|AraKara_Sacbrood_723|4538060|9.25%|
+|Empowering_Crystal_of_Anubikkaj_723|4537528|9.23%|
+|Lily_of_the_Eternal_Weave_723|4536291|9.20%|
+|Soleahs_Secret_Technique_Versatility_723|4526850|8.98%|
+|Soleahs_Secret_Technique_Haste_723|4526704|8.97%|
+|Soleahs_Secret_Technique_Crit_723|4524972|8.93%|
+|Astral_Antenna_723|4522444|8.87%|
+|Soleahs_Secret_Technique_Mastery_723|4519017|8.79%|
+|Mugs_Moxie_Jug_684|4516163|8.72%|
+|Diamantine_Voidcore_723|4512791|8.64%|
+|Gigazaps_Zap_Cap_723|4497982|8.28%|
+|Harvesters_Edict_20%_723|4485524|7.98%|
+|Mereldars_Toll_723|4465748|7.51%|
+|House_of_Cards_684|4450224|7.13%|
+|Sunblood_Amethyst_723|4436761|6.81%|
+|Synergistic_Brewterializer_DMG_ToF_684|4429321|6.63%|
+|Naazindhris_Mystic_Lash_723|4429310|6.63%|
+|Bursting_Lightshard_723|4429058|6.62%|
+|Eye_of_Kezan_684|4424897|6.52%|
+|Reverb_Radio_684|4424292|6.51%|
+|Screams_of_a_Forgotten_Sky_723|4406730|6.08%|
+|Geargrinders_Spare_Keys_684|4405737|6.06%|
+|Synergistic_Brewterializer_DMG_684|4396711|5.84%|
+|Flarendos_Pilot_Light_684|4381741|5.48%|
+|Miniscule_Mailemental_in_an_Envelope_723|4381091|5.47%|
+|Synergistic_Brewterializer_ToF_684|4380025|5.44%|
+|Mister_Lock_N_Stalk_684|4363393|5.04%|
+|Azhiccaran_Parapodia_723|4262691|2.62%|
+|Perfidious_Projector_723|4260489|2.56%|
+|Unyielding_Netherprism_723|4218962|1.56%|
+|Base|4153990|0.00%|

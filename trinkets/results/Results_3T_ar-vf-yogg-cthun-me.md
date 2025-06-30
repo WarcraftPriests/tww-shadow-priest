@@ -1,0 +1,36 @@
+# 3T - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Arazs_Ritual_Forge_723|8100227|11.02%|
+|Signet_of_the_Priory_723|8012811|9.82%|
+|Empowering_Crystal_of_Anubikkaj_723|7972634|9.27%|
+|AraKara_Sacbrood_723|7970540|9.24%|
+|Soleahs_Secret_Technique_Haste_723|7970180|9.24%|
+|Lily_of_the_Eternal_Weave_723|7962959|9.14%|
+|Soleahs_Secret_Technique_Crit_723|7960511|9.10%|
+|Astral_Antenna_723|7957153|9.06%|
+|Soleahs_Secret_Technique_Versatility_723|7954249|9.02%|
+|Mugs_Moxie_Jug_684|7950001|8.96%|
+|Soleahs_Secret_Technique_Mastery_723|7948270|8.93%|
+|Diamantine_Voidcore_723|7941180|8.84%|
+|Gigazaps_Zap_Cap_723|7914512|8.47%|
+|Harvesters_Edict_20%_723|7876417|7.95%|
+|Mereldars_Toll_723|7834160|7.37%|
+|Eye_of_Kezan_684|7810363|7.04%|
+|House_of_Cards_684|7805443|6.98%|
+|Synergistic_Brewterializer_DMG_ToF_684|7804721|6.97%|
+|Naazindhris_Mystic_Lash_723|7785565|6.70%|
+|Bursting_Lightshard_723|7782602|6.66%|
+|Reverb_Radio_684|7780964|6.64%|
+|Sunblood_Amethyst_723|7777595|6.60%|
+|Synergistic_Brewterializer_ToF_684|7739279|6.07%|
+|Geargrinders_Spare_Keys_684|7706482|5.62%|
+|Synergistic_Brewterializer_DMG_684|7704204|5.59%|
+|Flarendos_Pilot_Light_684|7690341|5.40%|
+|Miniscule_Mailemental_in_an_Envelope_723|7640540|4.72%|
+|Screams_of_a_Forgotten_Sky_723|7634383|4.63%|
+|Mister_Lock_N_Stalk_684|7614676|4.36%|
+|Perfidious_Projector_723|7487209|2.62%|
+|Azhiccaran_Parapodia_723|7482662|2.55%|
+|Unyielding_Netherprism_723|7384987|1.21%|
+|Base|7296356|0.00%|

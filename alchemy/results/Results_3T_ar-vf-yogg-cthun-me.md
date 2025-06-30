@@ -1,0 +1,35 @@
+# 3T - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Flask_of_Alchemical_Chaos_3-Tempered_Potion_3|8814773|5.63%|
+|Flask_of_Tempered_Swiftness_3-Tempered_Potion_3|8798783|5.44%|
+|Flask_of_Tempered_Versatility_3-Tempered_Potion_3|8762747|5.01%|
+|Flask_of_Tempered_Mastery_3-Tempered_Potion_3|8755485|4.92%|
+|Flask_of_Tempered_Aggression_3-Tempered_Potion_3|8754701|4.91%|
+|Flask_of_Tempered_Swiftness_3-Potion_of_Unwavering_Focus_3|8679478|4.01%|
+|Flask_of_Tempered_Versatility_3-Potion_of_Unwavering_Focus_3|8671126|3.91%|
+|Flask_of_Alchemical_Chaos_3-Potion_of_Unwavering_Focus_3|8662592|3.81%|
+|Flask_of_Tempered_Aggression_3-Potion_of_Unwavering_Focus_3|8659265|3.77%|
+|Flask_of_Tempered_Mastery_3-Potion_of_Unwavering_Focus_3|8654590|3.71%|
+|Flask_of_Tempered_Swiftness_3|8642039|3.56%|
+|Flask_of_Tempered_Versatility_3|8626392|3.37%|
+|Flask_of_Tempered_Swiftness_2|8626039|3.37%|
+|Flask_of_Alchemical_Chaos_3|8624601|3.35%|
+|Flask_of_Tempered_Aggression_3|8620777|3.31%|
+|Flask_of_Tempered_Mastery_3|8618658|3.28%|
+|Flask_of_Tempered_Versatility_2|8610666|3.19%|
+|Flask_of_Tempered_Swiftness_1|8605321|3.12%|
+|Flask_of_Tempered_Aggression_2|8598638|3.04%|
+|Flask_of_Alchemical_Chaos_2|8597005|3.02%|
+|Flask_of_Tempered_Mastery_2|8597003|3.02%|
+|Flask_of_Tempered_Versatility_1|8587926|2.91%|
+|Flask_of_Alchemical_Chaos_1|8582295|2.85%|
+|Flask_of_Tempered_Aggression_1|8577131|2.78%|
+|Flask_of_Tempered_Mastery_1|8576542|2.78%|
+|Tempered_Potion_3|8526441|2.18%|
+|Tempered_Potion_2|8513737|2.02%|
+|Tempered_Potion_1|8492922|1.77%|
+|Potion_of_Unwavering_Focus_3|8382593|0.45%|
+|Potion_of_Unwavering_Focus_2|8368631|0.28%|
+|Potion_of_Unwavering_Focus_1|8360938|0.19%|
+|Base|8344857|0.00%|

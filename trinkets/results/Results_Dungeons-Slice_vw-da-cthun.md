@@ -1,0 +1,36 @@
+# Dungeons-Slice - vw-da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Arazs_Ritual_Forge_723|6050576|11.81%|
+|Signet_of_the_Priory_723|5953918|10.03%|
+|Lily_of_the_Eternal_Weave_723|5943993|9.84%|
+|AraKara_Sacbrood_723|5907586|9.17%|
+|Empowering_Crystal_of_Anubikkaj_723|5897309|8.98%|
+|Astral_Antenna_723|5889312|8.83%|
+|Soleahs_Secret_Technique_Crit_723|5889087|8.83%|
+|Soleahs_Secret_Technique_Versatility_723|5888561|8.82%|
+|Soleahs_Secret_Technique_Haste_723|5887343|8.80%|
+|Soleahs_Secret_Technique_Mastery_723|5877006|8.61%|
+|Diamantine_Voidcore_723|5864519|8.37%|
+|Mugs_Moxie_Jug_684|5859831|8.29%|
+|Gigazaps_Zap_Cap_723|5843265|7.98%|
+|House_of_Cards_684|5825891|7.66%|
+|Harvesters_Edict_20%_723|5825870|7.66%|
+|Mereldars_Toll_723|5810372|7.37%|
+|Sunblood_Amethyst_723|5807556|7.32%|
+|Naazindhris_Mystic_Lash_723|5776742|6.75%|
+|Synergistic_Brewterializer_DMG_ToF_684|5764592|6.53%|
+|Bursting_Lightshard_723|5762176|6.48%|
+|Reverb_Radio_684|5757607|6.40%|
+|Eye_of_Kezan_684|5747215|6.21%|
+|Flarendos_Pilot_Light_684|5728929|5.87%|
+|Synergistic_Brewterializer_DMG_684|5718883|5.68%|
+|Geargrinders_Spare_Keys_684|5718310|5.67%|
+|Synergistic_Brewterializer_ToF_684|5702605|5.38%|
+|Screams_of_a_Forgotten_Sky_723|5687676|5.11%|
+|Miniscule_Mailemental_in_an_Envelope_723|5670338|4.79%|
+|Mister_Lock_N_Stalk_684|5639804|4.22%|
+|Perfidious_Projector_723|5548269|2.53%|
+|Azhiccaran_Parapodia_723|5542896|2.43%|
+|Unyielding_Netherprism_723|5470046|1.09%|
+|Base|5411323|0.00%|

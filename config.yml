@@ -61,7 +61,7 @@ gear:
     head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
     neck: "duskblazes_desperation,id=237569,ilevel=723" # haste/mastery
     shoulders: "mounted_manacannons,id=237547,ilevel=723" # haste/vers
-    back: "dying_stars_memory,id=237704,ilevel=723" # mastery/haste
+    back: "reshii_wraps,id=235499,ilevel=727,bonus_id=12256" # mastery
     chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
     wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=720" # haste/mastery
     hands: "dying_stars_caress,id=237710,ilevel=723" # haste/crit
@@ -91,7 +91,7 @@ gear:
     trinket1: "mugs_moxie_jug,id=230192,ilevel=723"
     trinket2: "house_of_cards,id=230027,ilevel=723"
     main_hand: "stixs_metal_detector,id=228896,ilevel=723" # haste/mastery
-    off_hand: "operators_fraud_detector,id=228906,ilevel=723" # mastery/haste
+    off_hand: "fractillus_last_breath,id=237742,ilevel=723" # mastery/haste
 gems:
   meta: "213743" # Culminating Blasphemite
   main: "213494" # Quick Onyx
@@ -105,7 +105,7 @@ enchants:
   chest: "crystalline_radiance_3"
   ring: "radiant_mastery_3"
   legs: "sunset_spellthread_3"
-  main_hand: "authority_of_the_depths_3"
+  main_hand: "stonebound_artistry_3"
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."

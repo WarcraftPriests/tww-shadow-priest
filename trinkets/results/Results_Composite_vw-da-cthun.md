@@ -1,0 +1,36 @@
+# Composite - vw-da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Arazs_Ritual_Forge_723|5764301|11.27%|
+|Signet_of_the_Priory_723|5696415|9.96%|
+|Lily_of_the_Eternal_Weave_723|5692208|9.88%|
+|Empowering_Crystal_of_Anubikkaj_723|5648589|9.04%|
+|Soleahs_Secret_Technique_Mastery_723|5644525|8.96%|
+|Soleahs_Secret_Technique_Versatility_723|5644434|8.96%|
+|Soleahs_Secret_Technique_Crit_723|5640195|8.88%|
+|AraKara_Sacbrood_723|5639125|8.86%|
+|Astral_Antenna_723|5638708|8.85%|
+|Diamantine_Voidcore_723|5634188|8.76%|
+|Soleahs_Secret_Technique_Haste_723|5629801|8.68%|
+|Mugs_Moxie_Jug_684|5613124|8.36%|
+|Gigazaps_Zap_Cap_723|5593202|7.97%|
+|House_of_Cards_684|5587026|7.85%|
+|Harvesters_Edict_20%_723|5586990|7.85%|
+|Mereldars_Toll_723|5567847|7.48%|
+|Eye_of_Kezan_684|5549983|7.14%|
+|Synergistic_Brewterializer_DMG_ToF_684|5537201|6.89%|
+|Sunblood_Amethyst_723|5529159|6.74%|
+|Bursting_Lightshard_723|5526017|6.67%|
+|Naazindhris_Mystic_Lash_723|5525043|6.66%|
+|Reverb_Radio_684|5501894|6.21%|
+|Synergistic_Brewterializer_ToF_684|5489288|5.97%|
+|Screams_of_a_Forgotten_Sky_723|5472249|5.64%|
+|Synergistic_Brewterializer_DMG_684|5468269|5.56%|
+|Geargrinders_Spare_Keys_684|5468121|5.56%|
+|Flarendos_Pilot_Light_684|5464056|5.48%|
+|Miniscule_Mailemental_in_an_Envelope_723|5446696|5.14%|
+|Mister_Lock_N_Stalk_684|5390470|4.06%|
+|Perfidious_Projector_723|5288281|2.09%|
+|Azhiccaran_Parapodia_723|5287593|2.07%|
+|Unyielding_Netherprism_723|5237225|1.10%|
+|Base|5180252|0.00%|
