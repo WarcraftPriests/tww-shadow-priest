@@ -27,14 +27,14 @@ builds:
     name: Voidweaver
     talents:
       composite:
-        name: VW_DH_VW_DA_yshaarj_nzoth_cthun_480706272492507_DR_SC_ShP
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDMzDAAAAAAAAAAAAYM2GMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGbA2mB
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427099_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
       dungeons:
         name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854104027_DR_SC_ShP
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
       single:
-        name: VW_DH_VW_DA_yshaarj_nzoth_cthun_480706272492507_DR_SC_ShP
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDMzDAAAAAAAAAAAAYM2GMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGbA2mB
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427099_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
       2t:
         name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854104027_DR_SC_ShP
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
