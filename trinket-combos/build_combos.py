@@ -24,7 +24,6 @@ combos = {
     # Manaforge Omega (?/723)
     "Diamantine_Voidcore_723":"diamantine_voidcore,id=242392,ilevel=723",
     "Astral_Antenna_723":"astral_antenna,id=242395,ilevel=723",
-    "Unyielding_Netherprism_723":"unyielding_netherprism,id=242396,ilevel=723",
     "Naazindhris_Mystic_Lash_723":"naazindhris_mystic_lash,id=242398,ilevel=723",
     "Screams_of_a_Forgotten_Sky_723":"screams_of_a_forgotten_sky,id=242399,ilevel=723",
     "Arazs_Ritual_Forge_723":"arazs_ritual_forge,id=242402,ilevel=723",
