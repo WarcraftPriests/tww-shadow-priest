@@ -46,8 +46,29 @@ ${gear.off_hand}
 # profileset."Hallowed_Tome_Mastery_Cloak_658"+=back=arathi_crusaders_drape,id=237420,ilevel=658
 
 # Delves
-## Season 3 Drop: ? / Vault: ?
-## Season 2 Drop: 658 / Vault: 672
+## Season 3 Drop: 704 / Vault: 710
+profileset."Essence_Hunters_Eyeglass_704"+=trinket1=essencehunters_eyeglass,id=246939,ilevel=704
+profileset."Essence_Hunters_Eyeglass_710"+=trinket1=essencehunters_eyeglass,id=246939,ilevel=710
+
+profileset."Depleted_Kareshi_Battery_704"+=trinket1=depleted_kareshi_battery,id=240172,ilevel=704
+profileset."Depleted_Kareshi_Battery_710"+=trinket1=depleted_kareshi_battery,id=240172,ilevel=710
+
+## TODO: ethereal option
+profileset."Incorporeal_Essence_Gorger_704"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=704
+profileset."Incorporeal_Essence_Gorger_710"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=710
+
+profileset."Automatic_Footbomb_Dispenser_704"+=trinket1=automatic_footbomb_dispenser,id=242867,ilevel=704
+profileset."Automatic_Footbomb_Dispenser_710"+=trinket1=automatic_footbomb_dispenser,id=242867,ilevel=710
+
+profileset."Chaotic_Nethergate_704"+=trinket1=chaotic_nethergate,id=246825,ilevel=704
+profileset."Chaotic_Nethergate_710"+=trinket1=chaotic_nethergate,id=246825,ilevel=710
+
+profileset."Soulbreakers_Sigil_704"+=trinket1=soulbreakers_sigil,id=238390,ilevel=704
+profileset."Soulbreakers_Sigil_710"+=trinket1=soulbreakers_sigil,id=238390,ilevel=710
+
+profileset."Voidtouched_Fragment_704"+=trinket1=voidtouched_fragment,id=238386,ilevel=704
+profileset."Voidtouched_Fragment_710"+=trinket1=voidtouched_fragment,id=238386,ilevel=710
+
 # profileset."Turbo_Drain_5000_658"+=trinket1=turbodrain_5000,id=232883,ilevel=658
 # profileset."Turbo_Drain_5000_671"+=trinket1=turbodrain_5000,id=232883,ilevel=671
 
@@ -119,9 +140,9 @@ ${gear.off_hand}
 # profileset."Bronzebeard_Family_Compass_626"+=trinket1=bronzebeard_family_compass,id=219916,ilevel=626
 
 # Anniversary Event
-## Blackrock Depths (Hero Track - 672)
-# profileset."Burst_of_Knowledge_671"+=trinket1=burst_of_knowledge,id=231424,ilevel=671
-# profileset."Doperels_Calling_Rune_671"+=trinket1=doperels_calling_rune,id=231476,ilevel=671
+## Blackrock Depths (Hero Track - 710)
+# profileset."Burst_of_Knowledge_710"+=trinket1=burst_of_knowledge,id=231424,ilevel=710
+# profileset."Doperels_Calling_Rune_710"+=trinket1=doperels_calling_rune,id=231476,ilevel=710
 
 ## Timewalking Dungeons (? - Explorer)
 # profileset."Cannonball_Runner_606"+=trinket1=cannonball_runner,id=13382,ilevel=606
@@ -129,8 +150,8 @@ ${gear.off_hand}
 # profileset."Ramsteins_Lightning_Bolts_606"+=trinket1=ramsteins_lightning_bolts,id=13515,ilevel=606
 # profileset."Vigilance_Charm_606"+=trinket1=vigilance_charm,id=18370,ilevel=606
 
-## World Bosses (Veteran - 645)
-# profileset."Hibernation_Crystal_645"+=trinket1=hibernation_crystal,id=150388,ilevel=645
+## World Bosses (Veteran - 691)
+profileset."Hibernation_Crystal_691"+=trinket1=hibernation_crystal,id=150388,ilevel=691
 
 # Darkmoon Cards (can't be upgraded - 577)
 # Darkmoon Sigil: Ascension (11300) - Gain Ascendance every 8s in combat. Grants secondary stat for 15s stacks up to 10 times
@@ -148,22 +169,21 @@ ${gear.off_hand}
 # PVP Trinkets
 #    Honor: ?
 # Conquest: Champion Track
-# profileset."Prized_Gladiators_Badge_of_Ferocity_658"+=trinket1=prized_gladiators_badge_of_ferocity,id=229780,ilevel=658
-# profileset."Prized_Gladiators_Insignia_of_Alacrity_658"+=trinket1=prized_gladiators_insignia_of_alacrity,id=229781,ilevel=658
+profileset."Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+profileset."Astral_Gladiators_Insignia_of_Alacrity_704"+=trinket1=astral_gladiators_insignia_of_alacrity,id=230639,ilevel=704
 
-# Ulduar Timewalking
-# profileset."Energy_Siphon_658"+=trinket1=energy_siphon,id=156021,ilevel=658
-# profileset."Eye_of_the_Broodmother_658"+=trinket1=eye_of_the_broodmother,id=156036,ilevel=658
-# profileset."Living_Flame_658"+=trinket1=living_flame,id=155947,ilevel=658
-# profileset."Elemental_Focus_Stone_658"+=trinket1=elemental_focus_stone,id=156288,ilevel=658
-# profileset."Scale_of_Fates_658"+=trinket1=scale_of_fates,id=156187,ilevel=658
-# profileset."Pandoras_Plea_658"+=trinket1=pandoras_plea,id=156207,ilevel=658
-# profileset."Flare_of_the_Heavens_658"+=trinket1=flare_of_the_heavens,id=156230,ilevel=658
-# profileset."Vanquished_Clutches_of_Yogg_Saron_658"+=trinket1=vanquished_clutches_of_yoggsaron,id=156458,ilevel=658
+# Ulduar Timewalking (Champion)
+profileset."Energy_Siphon_704"+=trinket1=energy_siphon,id=156021,ilevel=704
+profileset."Eye_of_the_Broodmother_704"+=trinket1=eye_of_the_broodmother,id=156036,ilevel=704
+profileset."Living_Flame_704"+=trinket1=living_flame,id=155947,ilevel=704
+profileset."Elemental_Focus_Stone_704"+=trinket1=elemental_focus_stone,id=156288,ilevel=704
+profileset."Scale_of_Fates_704"+=trinket1=scale_of_fates,id=156187,ilevel=704
+profileset."Pandoras_Plea_704"+=trinket1=pandoras_plea,id=156207,ilevel=704
+profileset."Flare_of_the_Heavens_704"+=trinket1=flare_of_the_heavens,id=156230,ilevel=704
+profileset."Vanquished_Clutches_of_Yogg_Saron_704"+=trinket1=vanquished_clutches_of_yoggsaron,id=156458,ilevel=704
 
-# Firelands Timewalking
-## TODO: Check item level
-# profileset."Variable_Pulse_Lightning_Capacitor_658"+=trinket1=variable_pulse_lightning_capacitor,id=171640,ilevel=658
+# Firelands Timewalking (Champion) 
+profileset."Variable_Pulse_Lightning_Capacitor_704"+=trinket1=variable_pulse_lightning_capacitor,id=171640,ilevel=704
 
-# Black Temple Timewalking
-# profileset."The_Skull_of_Guldan_658"+=trinket1=the_skull_of_guldan,id=150522,ilevel=658
+# Black Temple Timewalking (Champion)
+profileset."The_Skull_of_Guldan_704"+=trinket1=the_skull_of_guldan,id=150522,ilevel=704

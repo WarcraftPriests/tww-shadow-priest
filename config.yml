@@ -61,7 +61,7 @@ gear:
     head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
     neck: "duskblazes_desperation,id=237569,ilevel=723" # haste/mastery
     shoulders: "mounted_manacannons,id=237547,ilevel=723" # haste/vers
-    back: "reshii_wraps,id=235499,ilevel=727,bonus_id=12256" # mastery
+    back: "reshii_wraps,id=235499,ilevel=730,bonus_id=12256" # mastery
     chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
     wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=720" # haste/mastery
     hands: "dying_stars_caress,id=237710,ilevel=723" # haste/crit
@@ -264,6 +264,9 @@ sims:
     lookupType: item
     steps:
       - 684
+      - 691
+      - 704
+      - 710
       - 723
     files:
       - raid.simc

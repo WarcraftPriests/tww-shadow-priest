@@ -30,14 +30,14 @@ ${gear.off_hand}
 ### Vers - Epic: 12259 | Rare: 12260
 ### Crit - Epic: 12257 | Rare: 12261
 ### Mastery - Epic: 12256 | Rare: 12255
-profileset."Reshii_Wraps_Haste_727"+=back=reshii_wraps,id=235499,ilevel=727,bonus_id=12258
-profileset."Reshii_Wraps_Mastery_727"+=back=reshii_wraps,id=235499,ilevel=727,bonus_id=12256
+profileset."Reshii_Wraps_Haste_730"+=back=reshii_wraps,id=235499,ilevel=730,bonus_id=12258
+profileset."Reshii_Wraps_Mastery_730"+=back=reshii_wraps,id=235499,ilevel=730,bonus_id=12256
 
-profileset."Reshii_Wraps_Haste_727_Interlopers_Silken_Striders_723"+=back=reshii_wraps,id=235499,ilevel=727,bonus_id=12258
-profileset."Reshii_Wraps_Haste_727_Interlopers_Silken_Striders_723"+=feet=interlopers_silken_striders,id=243305,ilevel=723
+profileset."Reshii_Wraps_Haste_730_Interlopers_Silken_Striders_723"+=back=reshii_wraps,id=235499,ilevel=730,bonus_id=12258
+profileset."Reshii_Wraps_Haste_730_Interlopers_Silken_Striders_723"+=feet=interlopers_silken_striders,id=243305,ilevel=723
 
-profileset."Reshii_Wraps_Mastery_727_Interlopers_Silken_Striders_723"+=back=reshii_wraps,id=235499,ilevel=727,bonus_id=12256
-profileset."Reshii_Wraps_Mastery_727_Interlopers_Silken_Striders_723"+=feet=interlopers_silken_striders,id=243305,ilevel=723
+profileset."Reshii_Wraps_Mastery_730_Interlopers_Silken_Striders_723"+=back=reshii_wraps,id=235499,ilevel=730,bonus_id=12256
+profileset."Reshii_Wraps_Mastery_730_Interlopers_Silken_Striders_723"+=feet=interlopers_silken_striders,id=243305,ilevel=723
 
 profileset."2H_Voidglass_Spire_723"+=main_hand=voidglass_spire,id=237730,ilevel=723,enchant=${enchants.main_hand}
 profileset."2H_Voidglass_Spire_723"+=off_hand=disabled

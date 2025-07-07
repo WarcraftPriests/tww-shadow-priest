@@ -6,8 +6,6 @@ python build_combos.py
 from itertools import combinations
 
 combos = {
-    # s2 dungeons (671/684)
-    "Synergistic_Brewterializer_684": "synergistic_brewterializer,id=219299,ilevel=684",
     # Liberation of Undermine (684)
     "House_of_Cards_684": "house_of_cards,id=230027,ilevel=684",
     "Mugs_Moxie_Jug_684": "mugs_moxie_jug,id=230192,ilevel=684",

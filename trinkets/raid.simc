@@ -23,30 +23,48 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 # Manaforge Omega
-## LFR: ? | Normal: ? | Heroic: ? | Mythic: 723
+## LFR: 691 | Normal: 704 | Heroic: 710 | Mythic: 723
 
 ### TODO: has a weird mana component + gets better if you have a special raid weapon equipped
+profileset."Diamantine_Voidcore_691"+=trinket1=diamantine_voidcore,id=242392,ilevel=691
+profileset."Diamantine_Voidcore_704"+=trinket1=diamantine_voidcore,id=242392,ilevel=704
+profileset."Diamantine_Voidcore_710"+=trinket1=diamantine_voidcore,id=242392,ilevel=710
 profileset."Diamantine_Voidcore_723"+=trinket1=diamantine_voidcore,id=242392,ilevel=723
 
+profileset."Astral_Antenna_691"+=trinket1=astral_antenna,id=242395,ilevel=691
+profileset."Astral_Antenna_704"+=trinket1=astral_antenna,id=242395,ilevel=704
+profileset."Astral_Antenna_710"+=trinket1=astral_antenna,id=242395,ilevel=710
 profileset."Astral_Antenna_723"+=trinket1=astral_antenna,id=242395,ilevel=723
 
+profileset."Naazindhris_Mystic_Lash_691"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=691
+profileset."Naazindhris_Mystic_Lash_704"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=704
+profileset."Naazindhris_Mystic_Lash_710"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=710
 profileset."Naazindhris_Mystic_Lash_723"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=723
 
+profileset."Screams_of_a_Forgotten_Sky_691"+=trinket1=screams_of_a_forgotten_sky,id=242399,ilevel=691
+profileset."Screams_of_a_Forgotten_Sky_704"+=trinket1=screams_of_a_forgotten_sky,id=242399,ilevel=704
+profileset."Screams_of_a_Forgotten_Sky_710"+=trinket1=screams_of_a_forgotten_sky,id=242399,ilevel=710
 profileset."Screams_of_a_Forgotten_Sky_723"+=trinket1=screams_of_a_forgotten_sky,id=242399,ilevel=723
 
+profileset."Arazs_Ritual_Forge_691"+=trinket1=arazs_ritual_forge,id=242402,ilevel=691
+profileset."Arazs_Ritual_Forge_704"+=trinket1=arazs_ritual_forge,id=242402,ilevel=704
+profileset."Arazs_Ritual_Forge_710"+=trinket1=arazs_ritual_forge,id=242402,ilevel=710
 profileset."Arazs_Ritual_Forge_723"+=trinket1=arazs_ritual_forge,id=242402,ilevel=723
 
+profileset."Perfidious_Projector_691"+=trinket1=perfidious_projector,id=242403,ilevel=691
+profileset."Perfidious_Projector_704"+=trinket1=perfidious_projector,id=242403,ilevel=704
+profileset."Perfidious_Projector_710"+=trinket1=perfidious_projector,id=242403,ilevel=710
 profileset."Perfidious_Projector_723"+=trinket1=perfidious_projector,id=242403,ilevel=723
 
 # Liberation of Undermine
 ## LFR: 645 | Normal: 658 | Heroic: 671 | Mythic: 684
-profileset."Geargrinders_Spare_Keys_684"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
+# profileset."Geargrinders_Spare_Keys_684"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
 
-profileset."Flarendos_Pilot_Light_684"+=trinket1=flarendos_pilot_light,id=230191,ilevel=684
+# profileset."Flarendos_Pilot_Light_684"+=trinket1=flarendos_pilot_light,id=230191,ilevel=684
 
-profileset."Reverb_Radio_684"+=trinket1=reverb_radio,id=230194,ilevel=684
+# profileset."Reverb_Radio_684"+=trinket1=reverb_radio,id=230194,ilevel=684
 
-profileset."Mister_Lock_N_Stalk_684"+=trinket1=mister_locknstalk,id=230193,ilevel=684
+# profileset."Mister_Lock_N_Stalk_684"+=trinket1=mister_locknstalk,id=230193,ilevel=684
 
 profileset."House_of_Cards_684"+=trinket1=house_of_cards,id=230027,ilevel=684
 
