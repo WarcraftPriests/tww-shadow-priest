@@ -25,11 +25,21 @@ ${gear.off_hand}
 # Manaforge Omega
 ## LFR: 691 | Normal: 704 | Heroic: 710 | Mythic: 723
 
-### TODO: has a weird mana component + gets better if you have a special raid weapon equipped
+### TODO: gets better if you have a special raid weapon equipped
 profileset."Diamantine_Voidcore_691"+=trinket1=diamantine_voidcore,id=242392,ilevel=691
 profileset."Diamantine_Voidcore_704"+=trinket1=diamantine_voidcore,id=242392,ilevel=704
 profileset."Diamantine_Voidcore_710"+=trinket1=diamantine_voidcore,id=242392,ilevel=710
 profileset."Diamantine_Voidcore_723"+=trinket1=diamantine_voidcore,id=242392,ilevel=723
+
+### TODO: mana component NYI
+# profileset."Diamantine_Voidcore_Prepull_NoMana_691"+=trinket1=diamantine_voidcore,id=242392,ilevel=691
+# profileset."Diamantine_Voidcore_Prepull_NoMana_691"+=initial_resource=mana=0
+# profileset."Diamantine_Voidcore_Prepull_NoMana_704"+=trinket1=diamantine_voidcore,id=242392,ilevel=704
+# profileset."Diamantine_Voidcore_Prepull_NoMana_704"+=initial_resource=mana=0
+# profileset."Diamantine_Voidcore_Prepull_NoMana_710"+=trinket1=diamantine_voidcore,id=242392,ilevel=710
+# profileset."Diamantine_Voidcore_Prepull_NoMana_710"+=initial_resource=mana=0
+# profileset."Diamantine_Voidcore_Prepull_NoMana_723"+=trinket1=diamantine_voidcore,id=242392,ilevel=723
+# profileset."Diamantine_Voidcore_Prepull_NoMana_723"+=initial_resource=mana=0
 
 profileset."Astral_Antenna_691"+=trinket1=astral_antenna,id=242395,ilevel=691
 profileset."Astral_Antenna_704"+=trinket1=astral_antenna,id=242395,ilevel=704
