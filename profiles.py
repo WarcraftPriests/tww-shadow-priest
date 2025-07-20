@@ -184,8 +184,8 @@ def replace_gear(data, talent_string):
     else:
         gear_setup = config["builds"][talent_string]["gearSetup"]
     # special-gear should use nonCantrip set
-    if args.dir[:-1] == "special-gear":
-        gear_setup = "noCantrip"
+    if config["sims"][args.dir[:-1]]["gearOverride"] != "none":
+        gear_setup = config["sims"][args.dir[:-1]]["gearOverride"]
     for slot in config["gear"][gear_setup]:
         if slot == "off_hand":
             if config["gear"][gear_setup][slot] != "":
