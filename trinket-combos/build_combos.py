@@ -9,14 +9,14 @@ combos = {
     # Liberation of Undermine (684)
     "House_of_Cards_684": "house_of_cards,id=230027,ilevel=684",
     "Mugs_Moxie_Jug_684": "mugs_moxie_jug,id=230192,ilevel=684",
-    "Eye_of_Kezan_684": "eye_of_kezan,id=230198,ilevel=684",
+    # "Eye_of_Kezan_684": "eye_of_kezan,id=230198,ilevel=684",
     # s3 dungeons (x/723)
     "Empowering_Crystal_of_Anubikkaj_723": "empowering_crystal_of_anubikkaj,id=219312,ilevel=723",
     "Signet_of_the_Priory_723": "signet_of_the_priory,id=219308,ilevel=723",
     "AraKara_Sacbrood_723": "arakara_sacbrood,id=219314,ilevel=723",
     "Lily_of_the_Eternal_Weave_723": "lily_of_the_eternal_weave,id=242494,ilevel=723",
     "Azhiccaran_Parapodia_723": "azhiccaran_parapodia,id=242497,ilevel=723",
-    "Miniscule_Mailemental_in_an_Envelope_723": "miniscule_mailemental_in_an_envelope,id=185846,ilevel=723",
+    # "Miniscule_Mailemental_in_an_Envelope_723": "miniscule_mailemental_in_an_envelope,id=185846,ilevel=723",
     "Soleahs_Secret_Technique_Haste_723": "soleahs_secret_technique_mastery,id=190958,ilevel=723",
     "Soleahs_Secret_Technique_Mastery_723": "soleahs_secret_technique_mastery,id=190958,ilevel=723",
     # Manaforge Omega (?/723)
@@ -30,8 +30,8 @@ combos = {
     # "Quickwick_Candlestick_671": "quickwick_candlestick,id=225649,ilevel=671",
     # "Suspicious_Energy_Drink_671": "suspicious_energy_drink,id=235363,ilevel=671",
     # "Funhouse_Lens_671": "funhouse_lens,id=234217,ilevel=671",
-    # pvp (?)
-    # "Prized_Gladiators_Badge_of_Ferocity_658": "prized_gladiators_badge_of_ferocity,id=229780,ilevel=658",
+    # pvp (704)
+    "Astral_Gladiators_Badge_of_Ferocity_704": "astral_gladiators_badge_of_ferocity,id=230638,ilevel=704",
 }
 
 

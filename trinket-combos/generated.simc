@@ -25,9 +25,6 @@ ${gear.off_hand}
 profileset."House_of_Cards_684-Mugs_Moxie_Jug_684"+=trinket1=house_of_cards,id=230027,ilevel=684
 profileset."House_of_Cards_684-Mugs_Moxie_Jug_684"+=trinket2=mugs_moxie_jug,id=230192,ilevel=684
 
-profileset."House_of_Cards_684-Eye_of_Kezan_684"+=trinket1=house_of_cards,id=230027,ilevel=684
-profileset."House_of_Cards_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
-
 profileset."House_of_Cards_684-Empowering_Crystal_of_Anubikkaj_723"+=trinket1=house_of_cards,id=230027,ilevel=684
 profileset."House_of_Cards_684-Empowering_Crystal_of_Anubikkaj_723"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
 
@@ -42,9 +39,6 @@ profileset."House_of_Cards_684-Lily_of_the_Eternal_Weave_723"+=trinket2=lily_of_
 
 profileset."House_of_Cards_684-Azhiccaran_Parapodia_723"+=trinket1=house_of_cards,id=230027,ilevel=684
 profileset."House_of_Cards_684-Azhiccaran_Parapodia_723"+=trinket2=azhiccaran_parapodia,id=242497,ilevel=723
-
-profileset."House_of_Cards_684-Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=house_of_cards,id=230027,ilevel=684
-profileset."House_of_Cards_684-Miniscule_Mailemental_in_an_Envelope_723"+=trinket2=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
 
 profileset."House_of_Cards_684-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."House_of_Cards_684-Soleahs_Secret_Technique_Haste_723"+=trinket1=house_of_cards,id=230027,ilevel=684
@@ -72,8 +66,8 @@ profileset."House_of_Cards_684-Arazs_Ritual_Forge_723"+=trinket2=arazs_ritual_fo
 profileset."House_of_Cards_684-Perfidious_Projector_723"+=trinket1=house_of_cards,id=230027,ilevel=684
 profileset."House_of_Cards_684-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
-profileset."Mugs_Moxie_Jug_684-Eye_of_Kezan_684"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
-profileset."Mugs_Moxie_Jug_684-Eye_of_Kezan_684"+=trinket2=eye_of_kezan,id=230198,ilevel=684
+profileset."House_of_Cards_684-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=house_of_cards,id=230027,ilevel=684
+profileset."House_of_Cards_684-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
 
 profileset."Mugs_Moxie_Jug_684-Empowering_Crystal_of_Anubikkaj_723"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
 profileset."Mugs_Moxie_Jug_684-Empowering_Crystal_of_Anubikkaj_723"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
@@ -89,9 +83,6 @@ profileset."Mugs_Moxie_Jug_684-Lily_of_the_Eternal_Weave_723"+=trinket2=lily_of_
 
 profileset."Mugs_Moxie_Jug_684-Azhiccaran_Parapodia_723"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
 profileset."Mugs_Moxie_Jug_684-Azhiccaran_Parapodia_723"+=trinket2=azhiccaran_parapodia,id=242497,ilevel=723
-
-profileset."Mugs_Moxie_Jug_684-Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
-profileset."Mugs_Moxie_Jug_684-Miniscule_Mailemental_in_an_Envelope_723"+=trinket2=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
 
 profileset."Mugs_Moxie_Jug_684-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."Mugs_Moxie_Jug_684-Soleahs_Secret_Technique_Haste_723"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
@@ -119,49 +110,8 @@ profileset."Mugs_Moxie_Jug_684-Arazs_Ritual_Forge_723"+=trinket2=arazs_ritual_fo
 profileset."Mugs_Moxie_Jug_684-Perfidious_Projector_723"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
 profileset."Mugs_Moxie_Jug_684-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
-profileset."Eye_of_Kezan_684-Empowering_Crystal_of_Anubikkaj_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Empowering_Crystal_of_Anubikkaj_723"+=trinket2=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
-
-profileset."Eye_of_Kezan_684-Signet_of_the_Priory_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Signet_of_the_Priory_723"+=trinket2=signet_of_the_priory,id=219308,ilevel=723
-
-profileset."Eye_of_Kezan_684-AraKara_Sacbrood_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-AraKara_Sacbrood_723"+=trinket2=arakara_sacbrood,id=219314,ilevel=723
-
-profileset."Eye_of_Kezan_684-Lily_of_the_Eternal_Weave_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Lily_of_the_Eternal_Weave_723"+=trinket2=lily_of_the_eternal_weave,id=242494,ilevel=723
-
-profileset."Eye_of_Kezan_684-Azhiccaran_Parapodia_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Azhiccaran_Parapodia_723"+=trinket2=azhiccaran_parapodia,id=242497,ilevel=723
-
-profileset."Eye_of_Kezan_684-Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Miniscule_Mailemental_in_an_Envelope_723"+=trinket2=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-
-profileset."Eye_of_Kezan_684-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
-profileset."Eye_of_Kezan_684-Soleahs_Secret_Technique_Haste_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Soleahs_Secret_Technique_Haste_723"+=trinket2=soleahs_secret_technique_mastery,id=190958,ilevel=723
-
-profileset."Eye_of_Kezan_684-Soleahs_Secret_Technique_Mastery_723"+=shadowlands.soleahs_secret_technique_type=mastery
-profileset."Eye_of_Kezan_684-Soleahs_Secret_Technique_Mastery_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Soleahs_Secret_Technique_Mastery_723"+=trinket2=soleahs_secret_technique_mastery,id=190958,ilevel=723
-
-profileset."Eye_of_Kezan_684-Diamantine_Voidcore_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Diamantine_Voidcore_723"+=trinket2=diamantine_voidcore,id=242392,ilevel=723
-
-profileset."Eye_of_Kezan_684-Astral_Antenna_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Astral_Antenna_723"+=trinket2=astral_antenna,id=242395,ilevel=723
-
-profileset."Eye_of_Kezan_684-Naazindhris_Mystic_Lash_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Naazindhris_Mystic_Lash_723"+=trinket2=naazindhris_mystic_lash,id=242398,ilevel=723
-
-profileset."Eye_of_Kezan_684-Screams_of_a_Forgotten_Sky_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Screams_of_a_Forgotten_Sky_723"+=trinket2=screams_of_a_forgotten_sky,id=242399,ilevel=723
-
-profileset."Eye_of_Kezan_684-Arazs_Ritual_Forge_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Arazs_Ritual_Forge_723"+=trinket2=arazs_ritual_forge,id=242402,ilevel=723
-
-profileset."Eye_of_Kezan_684-Perfidious_Projector_723"+=trinket1=eye_of_kezan,id=230198,ilevel=684
-profileset."Eye_of_Kezan_684-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
+profileset."Mugs_Moxie_Jug_684-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=mugs_moxie_jug,id=230192,ilevel=684
+profileset."Mugs_Moxie_Jug_684-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
 
 profileset."Empowering_Crystal_of_Anubikkaj_723-Signet_of_the_Priory_723"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
 profileset."Empowering_Crystal_of_Anubikkaj_723-Signet_of_the_Priory_723"+=trinket2=signet_of_the_priory,id=219308,ilevel=723
@@ -174,9 +124,6 @@ profileset."Empowering_Crystal_of_Anubikkaj_723-Lily_of_the_Eternal_Weave_723"+=
 
 profileset."Empowering_Crystal_of_Anubikkaj_723-Azhiccaran_Parapodia_723"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
 profileset."Empowering_Crystal_of_Anubikkaj_723-Azhiccaran_Parapodia_723"+=trinket2=azhiccaran_parapodia,id=242497,ilevel=723
-
-profileset."Empowering_Crystal_of_Anubikkaj_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
-profileset."Empowering_Crystal_of_Anubikkaj_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket2=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
 
 profileset."Empowering_Crystal_of_Anubikkaj_723-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."Empowering_Crystal_of_Anubikkaj_723-Soleahs_Secret_Technique_Haste_723"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
@@ -204,6 +151,9 @@ profileset."Empowering_Crystal_of_Anubikkaj_723-Arazs_Ritual_Forge_723"+=trinket
 profileset."Empowering_Crystal_of_Anubikkaj_723-Perfidious_Projector_723"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
 profileset."Empowering_Crystal_of_Anubikkaj_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."Empowering_Crystal_of_Anubikkaj_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
+profileset."Empowering_Crystal_of_Anubikkaj_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."Signet_of_the_Priory_723-AraKara_Sacbrood_723"+=trinket1=signet_of_the_priory,id=219308,ilevel=723
 profileset."Signet_of_the_Priory_723-AraKara_Sacbrood_723"+=trinket2=arakara_sacbrood,id=219314,ilevel=723
 
@@ -212,9 +162,6 @@ profileset."Signet_of_the_Priory_723-Lily_of_the_Eternal_Weave_723"+=trinket2=li
 
 profileset."Signet_of_the_Priory_723-Azhiccaran_Parapodia_723"+=trinket1=signet_of_the_priory,id=219308,ilevel=723
 profileset."Signet_of_the_Priory_723-Azhiccaran_Parapodia_723"+=trinket2=azhiccaran_parapodia,id=242497,ilevel=723
-
-profileset."Signet_of_the_Priory_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=signet_of_the_priory,id=219308,ilevel=723
-profileset."Signet_of_the_Priory_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket2=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
 
 profileset."Signet_of_the_Priory_723-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."Signet_of_the_Priory_723-Soleahs_Secret_Technique_Haste_723"+=trinket1=signet_of_the_priory,id=219308,ilevel=723
@@ -242,14 +189,14 @@ profileset."Signet_of_the_Priory_723-Arazs_Ritual_Forge_723"+=trinket2=arazs_rit
 profileset."Signet_of_the_Priory_723-Perfidious_Projector_723"+=trinket1=signet_of_the_priory,id=219308,ilevel=723
 profileset."Signet_of_the_Priory_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."Signet_of_the_Priory_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=signet_of_the_priory,id=219308,ilevel=723
+profileset."Signet_of_the_Priory_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."AraKara_Sacbrood_723-Lily_of_the_Eternal_Weave_723"+=trinket1=arakara_sacbrood,id=219314,ilevel=723
 profileset."AraKara_Sacbrood_723-Lily_of_the_Eternal_Weave_723"+=trinket2=lily_of_the_eternal_weave,id=242494,ilevel=723
 
 profileset."AraKara_Sacbrood_723-Azhiccaran_Parapodia_723"+=trinket1=arakara_sacbrood,id=219314,ilevel=723
 profileset."AraKara_Sacbrood_723-Azhiccaran_Parapodia_723"+=trinket2=azhiccaran_parapodia,id=242497,ilevel=723
-
-profileset."AraKara_Sacbrood_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=arakara_sacbrood,id=219314,ilevel=723
-profileset."AraKara_Sacbrood_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket2=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
 
 profileset."AraKara_Sacbrood_723-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."AraKara_Sacbrood_723-Soleahs_Secret_Technique_Haste_723"+=trinket1=arakara_sacbrood,id=219314,ilevel=723
@@ -277,11 +224,11 @@ profileset."AraKara_Sacbrood_723-Arazs_Ritual_Forge_723"+=trinket2=arazs_ritual_
 profileset."AraKara_Sacbrood_723-Perfidious_Projector_723"+=trinket1=arakara_sacbrood,id=219314,ilevel=723
 profileset."AraKara_Sacbrood_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."AraKara_Sacbrood_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=arakara_sacbrood,id=219314,ilevel=723
+profileset."AraKara_Sacbrood_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."Lily_of_the_Eternal_Weave_723-Azhiccaran_Parapodia_723"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=723
 profileset."Lily_of_the_Eternal_Weave_723-Azhiccaran_Parapodia_723"+=trinket2=azhiccaran_parapodia,id=242497,ilevel=723
-
-profileset."Lily_of_the_Eternal_Weave_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=723
-profileset."Lily_of_the_Eternal_Weave_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket2=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
 
 profileset."Lily_of_the_Eternal_Weave_723-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."Lily_of_the_Eternal_Weave_723-Soleahs_Secret_Technique_Haste_723"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=723
@@ -309,8 +256,8 @@ profileset."Lily_of_the_Eternal_Weave_723-Arazs_Ritual_Forge_723"+=trinket2=araz
 profileset."Lily_of_the_Eternal_Weave_723-Perfidious_Projector_723"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=723
 profileset."Lily_of_the_Eternal_Weave_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
-profileset."Azhiccaran_Parapodia_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=azhiccaran_parapodia,id=242497,ilevel=723
-profileset."Azhiccaran_Parapodia_723-Miniscule_Mailemental_in_an_Envelope_723"+=trinket2=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
+profileset."Lily_of_the_Eternal_Weave_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=723
+profileset."Lily_of_the_Eternal_Weave_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
 
 profileset."Azhiccaran_Parapodia_723-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."Azhiccaran_Parapodia_723-Soleahs_Secret_Technique_Haste_723"+=trinket1=azhiccaran_parapodia,id=242497,ilevel=723
@@ -338,31 +285,8 @@ profileset."Azhiccaran_Parapodia_723-Arazs_Ritual_Forge_723"+=trinket2=arazs_rit
 profileset."Azhiccaran_Parapodia_723-Perfidious_Projector_723"+=trinket1=azhiccaran_parapodia,id=242497,ilevel=723
 profileset."Azhiccaran_Parapodia_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Soleahs_Secret_Technique_Haste_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Soleahs_Secret_Technique_Haste_723"+=trinket2=soleahs_secret_technique_mastery,id=190958,ilevel=723
-
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Soleahs_Secret_Technique_Mastery_723"+=shadowlands.soleahs_secret_technique_type=mastery
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Soleahs_Secret_Technique_Mastery_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Soleahs_Secret_Technique_Mastery_723"+=trinket2=soleahs_secret_technique_mastery,id=190958,ilevel=723
-
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Diamantine_Voidcore_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Diamantine_Voidcore_723"+=trinket2=diamantine_voidcore,id=242392,ilevel=723
-
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Astral_Antenna_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Astral_Antenna_723"+=trinket2=astral_antenna,id=242395,ilevel=723
-
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Naazindhris_Mystic_Lash_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Naazindhris_Mystic_Lash_723"+=trinket2=naazindhris_mystic_lash,id=242398,ilevel=723
-
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Screams_of_a_Forgotten_Sky_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Screams_of_a_Forgotten_Sky_723"+=trinket2=screams_of_a_forgotten_sky,id=242399,ilevel=723
-
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Arazs_Ritual_Forge_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Arazs_Ritual_Forge_723"+=trinket2=arazs_ritual_forge,id=242402,ilevel=723
-
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Perfidious_Projector_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
-profileset."Miniscule_Mailemental_in_an_Envelope_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
+profileset."Azhiccaran_Parapodia_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=azhiccaran_parapodia,id=242497,ilevel=723
+profileset."Azhiccaran_Parapodia_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
 
 profileset."Soleahs_Secret_Technique_Haste_723-Diamantine_Voidcore_723"+=shadowlands.soleahs_secret_technique_type=haste
 profileset."Soleahs_Secret_Technique_Haste_723-Diamantine_Voidcore_723"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=723
@@ -388,6 +312,10 @@ profileset."Soleahs_Secret_Technique_Haste_723-Perfidious_Projector_723"+=shadow
 profileset."Soleahs_Secret_Technique_Haste_723-Perfidious_Projector_723"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=723
 profileset."Soleahs_Secret_Technique_Haste_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."Soleahs_Secret_Technique_Haste_723-Astral_Gladiators_Badge_of_Ferocity_704"+=shadowlands.soleahs_secret_technique_type=haste
+profileset."Soleahs_Secret_Technique_Haste_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=723
+profileset."Soleahs_Secret_Technique_Haste_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."Soleahs_Secret_Technique_Mastery_723-Diamantine_Voidcore_723"+=shadowlands.soleahs_secret_technique_type=mastery
 profileset."Soleahs_Secret_Technique_Mastery_723-Diamantine_Voidcore_723"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=723
 profileset."Soleahs_Secret_Technique_Mastery_723-Diamantine_Voidcore_723"+=trinket2=diamantine_voidcore,id=242392,ilevel=723
@@ -412,6 +340,10 @@ profileset."Soleahs_Secret_Technique_Mastery_723-Perfidious_Projector_723"+=shad
 profileset."Soleahs_Secret_Technique_Mastery_723-Perfidious_Projector_723"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=723
 profileset."Soleahs_Secret_Technique_Mastery_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."Soleahs_Secret_Technique_Mastery_723-Astral_Gladiators_Badge_of_Ferocity_704"+=shadowlands.soleahs_secret_technique_type=mastery
+profileset."Soleahs_Secret_Technique_Mastery_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=723
+profileset."Soleahs_Secret_Technique_Mastery_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."Diamantine_Voidcore_723-Astral_Antenna_723"+=trinket1=diamantine_voidcore,id=242392,ilevel=723
 profileset."Diamantine_Voidcore_723-Astral_Antenna_723"+=trinket2=astral_antenna,id=242395,ilevel=723
 
@@ -427,6 +359,9 @@ profileset."Diamantine_Voidcore_723-Arazs_Ritual_Forge_723"+=trinket2=arazs_ritu
 profileset."Diamantine_Voidcore_723-Perfidious_Projector_723"+=trinket1=diamantine_voidcore,id=242392,ilevel=723
 profileset."Diamantine_Voidcore_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."Diamantine_Voidcore_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=diamantine_voidcore,id=242392,ilevel=723
+profileset."Diamantine_Voidcore_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."Astral_Antenna_723-Naazindhris_Mystic_Lash_723"+=trinket1=astral_antenna,id=242395,ilevel=723
 profileset."Astral_Antenna_723-Naazindhris_Mystic_Lash_723"+=trinket2=naazindhris_mystic_lash,id=242398,ilevel=723
 
@@ -439,6 +374,9 @@ profileset."Astral_Antenna_723-Arazs_Ritual_Forge_723"+=trinket2=arazs_ritual_fo
 profileset."Astral_Antenna_723-Perfidious_Projector_723"+=trinket1=astral_antenna,id=242395,ilevel=723
 profileset."Astral_Antenna_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."Astral_Antenna_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=astral_antenna,id=242395,ilevel=723
+profileset."Astral_Antenna_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."Naazindhris_Mystic_Lash_723-Screams_of_a_Forgotten_Sky_723"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=723
 profileset."Naazindhris_Mystic_Lash_723-Screams_of_a_Forgotten_Sky_723"+=trinket2=screams_of_a_forgotten_sky,id=242399,ilevel=723
 
@@ -448,12 +386,24 @@ profileset."Naazindhris_Mystic_Lash_723-Arazs_Ritual_Forge_723"+=trinket2=arazs_
 profileset."Naazindhris_Mystic_Lash_723-Perfidious_Projector_723"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=723
 profileset."Naazindhris_Mystic_Lash_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."Naazindhris_Mystic_Lash_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=723
+profileset."Naazindhris_Mystic_Lash_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."Screams_of_a_Forgotten_Sky_723-Arazs_Ritual_Forge_723"+=trinket1=screams_of_a_forgotten_sky,id=242399,ilevel=723
 profileset."Screams_of_a_Forgotten_Sky_723-Arazs_Ritual_Forge_723"+=trinket2=arazs_ritual_forge,id=242402,ilevel=723
 
 profileset."Screams_of_a_Forgotten_Sky_723-Perfidious_Projector_723"+=trinket1=screams_of_a_forgotten_sky,id=242399,ilevel=723
 profileset."Screams_of_a_Forgotten_Sky_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
 
+profileset."Screams_of_a_Forgotten_Sky_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=screams_of_a_forgotten_sky,id=242399,ilevel=723
+profileset."Screams_of_a_Forgotten_Sky_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
 profileset."Arazs_Ritual_Forge_723-Perfidious_Projector_723"+=trinket1=arazs_ritual_forge,id=242402,ilevel=723
 profileset."Arazs_Ritual_Forge_723-Perfidious_Projector_723"+=trinket2=perfidious_projector,id=242403,ilevel=723
+
+profileset."Arazs_Ritual_Forge_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=arazs_ritual_forge,id=242402,ilevel=723
+profileset."Arazs_Ritual_Forge_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
+
+profileset."Perfidious_Projector_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket1=perfidious_projector,id=242403,ilevel=723
+profileset."Perfidious_Projector_723-Astral_Gladiators_Badge_of_Ferocity_704"+=trinket2=astral_gladiators_badge_of_ferocity,id=230638,ilevel=704
 
