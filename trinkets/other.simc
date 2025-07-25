@@ -47,11 +47,12 @@ ${gear.off_hand}
 
 # Delves
 ## Season 3 Drop: 704 / Vault: 710
+## TODO: Confirm which ones are available
 profileset."Essence_Hunters_Eyeglass_704"+=trinket1=essencehunters_eyeglass,id=246939,ilevel=704
 profileset."Essence_Hunters_Eyeglass_710"+=trinket1=essencehunters_eyeglass,id=246939,ilevel=710
 
-profileset."Depleted_Kareshi_Battery_704"+=trinket1=depleted_kareshi_battery,id=240172,ilevel=704
-profileset."Depleted_Kareshi_Battery_710"+=trinket1=depleted_kareshi_battery,id=240172,ilevel=710
+# profileset."Depleted_Kareshi_Battery_704"+=trinket1=depleted_kareshi_battery,id=240172,ilevel=704
+# profileset."Depleted_Kareshi_Battery_710"+=trinket1=depleted_kareshi_battery,id=240172,ilevel=710
 
 ## TODO: ethereal option
 profileset."Incorporeal_Essence_Gorger_704"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=704
