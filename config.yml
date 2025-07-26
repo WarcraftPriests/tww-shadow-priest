@@ -23,7 +23,7 @@ builds:
         name: AR_EC_VF_nzoth_yogg_cthun_405915853192143_ME_SC_MeD
         string: CIQAAAAAAAAAAAAAAAAAAAAAAMMmBAAAAAAAAAAAAjZWYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMLWGNbGAyYsAAbzA
   vw-da-cthun:
-    gearSetup: default
+    gearSetup: lessHaste
     name: Voidweaver
     talents:
       composite:
@@ -55,11 +55,11 @@ hero:
     VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
     VW_DH_VW: "125982:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
 gear:
-  # 23k Mastery | 18.5k Haste | 12k Crit | 1k Vers
+  # 24.2k Mastery | 19.6k Haste | 15.7k Crit | 200 Vers
   default:
     head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
     neck: "duskblazes_desperation,id=237569,ilevel=723" # haste/mastery
-    shoulders: "mounted_manacannons,id=237547,ilevel=723" # haste/vers
+    shoulders: "harmonious_spaulders,id=185804,ilevel=723" # crit/haste
     back: "reshii_wraps,id=235499,ilevel=730,bonus_id=12256" # mastery
     chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
     wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=720" # haste/mastery
@@ -73,10 +73,11 @@ gear:
     trinket2: "arazs_ritual_forge,id=242402,ilevel=723"
     main_hand: "voidglass_kris,id=237728,ilevel=723" # mastery/crit
     off_hand: "vagabonds_torch,id=222566,ilevel=720,bonus_id=11300/8793" # haste/mastery
+  # 25.5k Mastery | 13.0k Haste | 14.0k Crit | 8.0k Vers
   lessHaste:
     head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
-    neck: "duskblazes_desperation,id=237569,ilevel=723" # haste/mastery
-    shoulders: "mounted_manacannons,id=237547,ilevel=723" # haste/vers
+    neck: "chrysalis_of_sundered_souls,id=237568,ilevel=723" # vers/haste
+    shoulders: "sinlight_shoulderpads,id=246276,ilevel=723" # mastery/haste
     back: "reshii_wraps,id=235499,ilevel=730,bonus_id=12256" # mastery
     chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
     wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=720" # haste/mastery
@@ -94,7 +95,7 @@ gear:
   noCantrip:
     head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
     neck: "duskblazes_desperation,id=237569,ilevel=723" # haste/mastery
-    shoulders: "mounted_manacannons,id=237547,ilevel=723" # haste/vers
+    shoulders: "sinlight_shoulderpads,id=246276,ilevel=723" # mastery/haste
     back: "dying_stars_memory,id=237704,ilevel=723" # mastery/haste
     chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
     wrists: "illicit_bankroll_bracers,id=228881,ilevel=723" # haste/mastery
@@ -104,8 +105,8 @@ gear:
     feet: "dying_stars_soles,id=237711,ilevel=723" # haste/mastery
     finger1: "logic_gate_omega,id=237570,ilevel=723" # mastery/haste
     finger2: "logic_gate_alpha,id=237567,ilevel=723" # crit/mastery
-    trinket1: "mugs_moxie_jug,id=230192,ilevel=723"
-    trinket2: "house_of_cards,id=230027,ilevel=723"
+    trinket1: "azhiccaran_parapodia,id=242497,ilevel=723"
+    trinket2: "arazs_ritual_forge,id=242402,ilevel=723"
     main_hand: "stixs_metal_detector,id=228896,ilevel=723" # haste/mastery
     off_hand: "fractillus_last_breath,id=237742,ilevel=723" # mastery/haste
 gems:

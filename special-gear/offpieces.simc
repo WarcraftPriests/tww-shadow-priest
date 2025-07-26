@@ -35,7 +35,7 @@ profileset."Neck_Ornately_Engraved_Amplifier_723"+=neck=ornately_engraved_amplif
 
 # Shoulders
 # haste/vers (R)
-# profileset."Shoulder_Mounted_Manacannons_723"+=shoulder=mounted_manacannons,id=237547,ilevel=723
+profileset."Shoulder_Mounted_Manacannons_723"+=shoulder=mounted_manacannons,id=237547,ilevel=723
 
 # mastery/haste (D)
 profileset."Shoulder_Sinlight_Shoulderpads_723"+=shoulder=sinlight_shoulderpads,id=246276,ilevel=723
