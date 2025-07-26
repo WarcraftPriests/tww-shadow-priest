@@ -1,18 +1,18 @@
 # 2T - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Sweet_and_Spicy_Soup|6948891|0.59%|
-|Deepfin_Patty|6948287|0.58%|
-|Salt_Baked_Seafood|6947054|0.56%|
-|Crystallized_Augment_Rune|6946925|0.56%|
-|Chippy_Tea|6946169|0.55%|
-|Fish_and_Chips|6945300|0.54%|
-|Marinated_Tenderloins|6945113|0.54%|
-|Beledars_Bounty|6944599|0.53%|
-|Zesty_Nibblers|6939643|0.46%|
-|Feast_of_the_Divine_Day|6936513|0.41%|
-|GingerGlazed_Fillet|6933984|0.38%|
-|Fiery_Fish_Sticks|6933870|0.37%|
-|Salty_Dog|6933714|0.37%|
-|Stuffed_Cave_Peppers|6918281|0.15%|
-|Base|6908063|0.00%|
+|Fish_and_Chips|7817989|0.60%|
+|Salt_Baked_Seafood|7813609|0.54%|
+|Marinated_Tenderloins|7811928|0.52%|
+|Beledars_Bounty|7811685|0.52%|
+|Crystallized_Augment_Rune|7810996|0.51%|
+|Sweet_and_Spicy_Soup|7810296|0.50%|
+|Deepfin_Patty|7809614|0.49%|
+|Chippy_Tea|7807708|0.47%|
+|GingerGlazed_Fillet|7802006|0.39%|
+|Fiery_Fish_Sticks|7801208|0.38%|
+|Salty_Dog|7797112|0.33%|
+|Zesty_Nibblers|7795699|0.31%|
+|Feast_of_the_Divine_Day|7793361|0.28%|
+|Stuffed_Cave_Peppers|7782406|0.14%|
+|Base|7771337|0.00%|

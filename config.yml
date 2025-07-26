@@ -55,7 +55,6 @@ hero:
     VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
     VW_DH_VW: "125982:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
 gear:
-  # TODO: placeholder gear
   # 23k Mastery | 18.5k Haste | 12k Crit | 1k Vers
   default:
     head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
@@ -70,8 +69,25 @@ gear:
     feet: "interlopers_silken_striders,id=243305,ilevel=723" # mastery/haste
     finger1: "logic_gate_omega,id=237570,ilevel=723" # mastery/haste
     finger2: "logic_gate_alpha,id=237567,ilevel=723" # crit/mastery
-    trinket1: "mugs_moxie_jug,id=230192,ilevel=723"
-    trinket2: "house_of_cards,id=230027,ilevel=723"
+    trinket1: "azhiccaran_parapodia,id=242497,ilevel=723"
+    trinket2: "arazs_ritual_forge,id=242402,ilevel=723"
+    main_hand: "voidglass_kris,id=237728,ilevel=723" # mastery/crit
+    off_hand: "vagabonds_torch,id=222566,ilevel=720,bonus_id=11300/8793" # haste/mastery
+  lessHaste:
+    head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
+    neck: "duskblazes_desperation,id=237569,ilevel=723" # haste/mastery
+    shoulders: "mounted_manacannons,id=237547,ilevel=723" # haste/vers
+    back: "reshii_wraps,id=235499,ilevel=730,bonus_id=12256" # mastery
+    chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
+    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=720" # haste/mastery
+    hands: "dying_stars_caress,id=237710,ilevel=723" # haste/crit
+    waist: "singularity_cincture,id=237559,ilevel=723" # mastery/crit
+    legs: "dying_stars_leggings,id=237708,ilevel=723" # crit/mastery
+    feet: "interlopers_silken_striders,id=243305,ilevel=723" # mastery/haste
+    finger1: "logic_gate_omega,id=237570,ilevel=723" # mastery/haste
+    finger2: "logic_gate_alpha,id=237567,ilevel=723" # crit/mastery
+    trinket1: "azhiccaran_parapodia,id=242497,ilevel=723"
+    trinket2: "arazs_ritual_forge,id=242402,ilevel=723"
     main_hand: "voidglass_kris,id=237728,ilevel=723" # mastery/crit
     off_hand: "vagabonds_torch,id=222566,ilevel=720,bonus_id=11300/8793" # haste/mastery
   # Xk Mastery (0.0%) | Xk Haste (0.0%) | Xk Crit (0.0%) | Xk Vers (0.0%)
