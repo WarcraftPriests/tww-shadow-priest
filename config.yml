@@ -5,45 +5,45 @@ builds:
     gearSetup: default
     talents:
       composite:
-        name: AR_SP_VF_nzoth_yogg_cthun_405907403242459_ME_SC_MeD
-        string:  CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNA
+        name: AR_SP_VF_nzoth_yogg_cthun_405907403242447_ME_SC_MeD
+        string:  CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxyYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMbWGNbGAyYsAAbDA
       dungeons:
-        name: AR_SP_VF_nzoth_yogg_cthun_405915859483611_ME_SC_MeD
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMmxDAAAAAAAAAAAAYMWgZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA
+        name: AR_SP_VF_nzoth_yogg_cthun_405915859483599_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMmxDAAAAAAAAAAAAYMWYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMbWGNbGAyYsAAbzA
       single:
-        name: AR_SP_VF_nzoth_yogg_cthun_405907403242459_ME_SC_MeD
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNA
+        name: AR_SP_VF_nzoth_yogg_cthun_405907403242447_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxyYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMbWGNbGAyYsAAbDA
       2t:
-        name: AR_SP_VF_nzoth_yogg_cthun_405907269549019_ME_SC_MeD
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA
+        name: AR_SP_VF_nzoth_yogg_cthun_405907269549007_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxyYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMbWGNbGAyYsAAbzA
       3t:
-        name: AR_SP_VF_nzoth_yogg_cthun_396552832875483_ME_SC_MeD
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjZWMMzMbLbMzMzMmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA
+        name: AR_SP_VF_nzoth_yogg_cthun_405907269549007_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxyYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMbWGNbGAyYsAAbzA
       8t:
-        name: AR_EC_VF_nzoth_yogg_cthun_396553108650971_ME_SC_MeD
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMAAAAAAAAAAAAYMzihZmZbZjZmZmxMLDmNmZmZMbMwYMMLmtpmZwCmBYmFLjmNDAZMWAgNjB
+        name: AR_EC_VF_nzoth_yogg_cthun_405915853192143_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMmBAAAAAAAAAAAAjZWYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMLWGNbGAyYsAAbzA
   vw-da-cthun:
     gearSetup: default
     name: Voidweaver
     talents:
       composite:
-        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427099_DR_SC_ShP
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427087_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGjZmZZDzMmZmZWGMbMzMzY2YgxYYWMbTNzgFYmZAgAMbz2SwsxCgtZA
       dungeons:
-        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854104027_DR_SC_ShP
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854039503_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2YMzMLbYmxMzMzygZjZmZGzGDMGDziZbqZGsAzMDAEgZb2WCmNWAsNzA
       single:
-        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427099_DR_SC_ShP
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427087_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGjZmZZDzMmZmZWGMbMzMzY2YgxYYWMbTNzgFYmZAgAMbz2SwsxCgtZA
       2t:
-        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854104027_DR_SC_ShP
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854039503_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2YMzMLbYmxMzMzygZjZmZGzGDMGDziZbqZGsAzMDAEgZb2WCmNWAsNzA
       3t:
-        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427099_DR_SC_ShP
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854039503_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2YMzMLbYmxMzMzygZjZmZGzGDMGDziZbqZGsAzMDAEgZb2WCmNWAsNzA
       8t:
-        name: VW_DH_DoS_DA_nzoth_cthun_330615695932379_DR_SC_ShP
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMgZAAAAAAAAAAAAYM2MMzMLbbMzYmxMLDmNmZmZMbMwYMMLmtpmZwCMzMAQAmtZbJY2YBw2MmB
+        name: VW_DH_DoS_DA_nzoth_cthun_340527138274255_ME_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMDAAAAAAAAAAAAjxiHYMzMLbYmxMzMzygZjZmZGzGDMGDziZbqZGsAzMDAEgZb2WCmNWAsNjHA
 hero:
   AR:
     AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/incessant_screams:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
