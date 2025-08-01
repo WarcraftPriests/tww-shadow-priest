@@ -66,7 +66,7 @@ gear:
     hands: "dying_stars_caress,id=237710,ilevel=723" # haste/crit
     waist: "singularity_cincture,id=237559,ilevel=723" # mastery/crit
     legs: "dying_stars_leggings,id=237708,ilevel=723" # crit/mastery
-    feet: "interlopers_silken_striders,id=243305,ilevel=723" # mastery/haste
+    feet: "interlopers_silken_striders,id=243305,ilevel=723,bonus_id=13504" # mastery/haste
     finger1: "logic_gate_omega,id=237570,ilevel=723" # mastery/haste
     finger2: "logic_gate_alpha,id=237567,ilevel=723" # crit/mastery
     trinket1: "azhiccaran_parapodia,id=242497,ilevel=723"
