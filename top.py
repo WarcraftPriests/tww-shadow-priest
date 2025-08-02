@@ -70,7 +70,7 @@ def get_hero_builds(ht, cds, idols):
     if ht == "AR":
         hero_talent_combos = ["AR_EC", "AR_SP"]
     if ht =="VW":
-        hero_talent_combos = ["VW_VE_DoS", "VW_DH_DoS"]
+        hero_talent_combos = ["VW_VE_DoS", "VW_DH_DoS", "VW_DH_VW", "VW_DH_VW"]
     return [
         f"{ht}_{cd}_{idol}" for ht in hero_talent_combos for cd in cds for idol in idols
     ]
