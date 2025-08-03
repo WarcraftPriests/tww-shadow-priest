@@ -1,4 +1,4 @@
 # Dungeons-Slice - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|5591065|1.00|1.81|1.67|1.59|1.62|0.02|
+|Base|5659219|1.00|1.86|1.68|1.62|1.76|0.03|
