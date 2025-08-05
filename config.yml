@@ -5,45 +5,45 @@ builds:
     gearSetup: default
     talents:
       composite:
-        name: AR_SP_VF_yogg_cthun_119173361940399_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBz8ADAAAAAAAAAAAghZhxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA
+        name: AR_SP_VF_nzoth_yogg_cthun_405907269549007_ME_SC_MeD
+        string:  CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxyYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMbWGNbGAyYsAAbzA
       dungeons:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962177181615_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYMAAAAAAAAAAAAMMLmxMzsNGzMzMbjZWGMbMzMzY2YgxYYWMbTNzgFMDgZ2sMa2MAkxYBA
+        name: AR_SP_VF_nzoth_yogg_cthun_405915859483599_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMmBAAAAAAAAAAAAjxCjZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNDA
       single:
-        name: AR_SP_VF_yogg_cthun_119242215601071_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLegxMzsNGzMzMGzsMY2YmZmxsxAjxwsY2mamBLYGAzsZZ0sZAIjxCAA
+        name: AR_SP_VF_nzoth_yogg_cthun_405907152624591_ME_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMGAAAAAAAAAAAAjxygZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZ0sZAIjxCAsNA
       2t:
-        name: AR_SP_VF_yogg_cthun_121432648922031_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAgBmZAAAAAAAAAAAAMMLmxMmtxYmZmxYmlBzGzMzMmNGYMGmFz2UzMYBzAYmNLjmNDAZMWAA
-      4t:
-        name: AR_SP_VF_nzoth_yogg_cthun_129962211750831_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMgBAAAAAAAAAAAgxMLmxMzsNGzMzMGzsMY2YmZmxsxAjxwsY2mamBLYGAzsZZ0sZAIjxCAA
+        name: AR_SP_VF_nzoth_yogg_cthun_405907269549007_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMeAAAAAAAAAAAAAjxyYMzMbLYmZmZmZWGMbMzMzY2YgxYYWMbTNzgFMDwMbWGNbGAyYsAAbzA
+      3t:
+        name: AR_SP_VF_nzoth_yogg_cthun_405907269549007_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMmxDAAAAAAAAAAAAYMWgZmZbZjZmZmZmZZwsxMzMjZjBGjhZxsN1MDWwMAzsZZY2MAkxYBA2mB
       8t:
-        name: AR_EC_VF_nzoth_yogg_cthun_139023917496239_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMYGAAAAAAAAAAAAMmZxMGmtxYmZmZbMzygZjZmZGzGDMGDziZbqZGsgZAMzilRzmBgMGLAA
-  vw-cthun:
-    gearSetup: default
+        name: AR_EC_VF_nzoth_yogg_cthun_396553108650959_ME_SC_MeD
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMMMAAAAAAAAAAAAYMziZMzMbLYmZmZMzygZjZmZGzGDMGDziZbqZGsgZAmZxyoZzAQGjFAYzYA
+  vw-da-cthun:
+    gearSetup: lessHaste
     name: Voidweaver
     talents:
       composite:
-        name: VW_DH_DoS_DA_cthun_82852690517935_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmZGAAAAAAAAAAAAMMbmxMzswMzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stEMbsAA
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427087_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGjZmZZDzMmZmZWGMbMzMzY2YgxYYWMbTNzgFYmZAgAMbz2SwsxCgtZA
       dungeons:
-        name: VW_DH_DoS_DA_nzoth_cthun_98245853052847_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgBbegxMzsMmZmZMbzMzygZjZmZGzGDMGDziZbqZGsAzMzAABY2mtlgZjFA
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854169551_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2YMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
       single:
-        name: VW_DH_DoS_DA_cthun_82852967308207_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAmxYAAAAAAAAAAAAMMbmxMzswMzMjxMzsMY2YmZmxsxAjxwsY2mamBLwMzMAQAmtZbJY2YBA
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714862427087_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZeAAAAAAAAAAAAAjxGMzMLbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLBzGLA2mB
       2t:
-        name: VW_DH_DoS_DA_nzoth_cthun_98246130883503_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMGDAAAAAAAAAAAgxDYzDMmZmFmZmZMmZmlBzGzMzMmNGYMGmFz2UzMYBmZmBACwsNbLBzGLA
-      4t:
-        name: VW_DH_DoS_DA_nzoth_cthun_98245887645615_Spike_DR
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMzAAAAAAAAAAAAgxYzDMmZmFGzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYmZGAIAz2stEMbsAA
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854039503_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2YMzMLbYmxMzMzygZjZmZGzGDMGDziZbqZGsAzMDAEgZb2WCmNWAsNzA
+      3t:
+        name: VW_DH_DoS_DA_yshaarj_nzoth_cthun_480714854104015_DR_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMDmZAAAAAAAAAAAAYM2gZmZZbbMzYmZmZZwsxMzMjZjBGjhZxsN1MDWgZmBACwsNbLgZjFAbzA
       8t:
-        name: VW_DH_DoS_DA_cthun_82852728772527_Flay_ME
-        string: CIQAAAAAAAAAAAAAAAAAAAAAAAMz8AAAAAAAAAAAAAMmZxMmZmFGzMjZbmZWGMbMzMzY2YgxYYWMbTNzgFYMzAABY2mtlgZjFA
+        name: VW_DH_DoS_DA_nzoth_cthun_340527138274255_ME_SC_ShP
+        string: CIQAAAAAAAAAAAAAAAAAAAAAAMwMDAAAAAAAAAAAAjxiHYMzMLbYmxMzMzygZjZmZGzGDMGDziZbqZGsAzMDAEgZb2WCmNWAsNjHA
 hero:
   AR:
     AR_EC: "energy_compression:1/power_surge:1/perfected_form:1/resonant_energy:1/manifested_power:1/word_of_supremacy:1/incessant_screams:1/word_of_supremacy:1/empowered_surges:1/concentrated_infusion:1/energy_cycle:1/divine_halo:1"
@@ -55,42 +55,60 @@ hero:
     VW_VE_VW: "void_empowerment:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
     VW_DH_VW: "125982:1/voidwraith:1/entropic_rift:1/dark_energy:1/void_blast:1/inner_quietus:1/devour_matter:1/voidheart:1/void_infusion:1/void_leech:1/collapsing_void:1"
 gear:
-  # 16.2k Mastery | 16.5k Haste | 3.5k Crit (10.0%) | 1k Vers
+  # 24.2k Mastery | 19.6k Haste | 15.7k Crit | 200 Vers
   default:
-    head: "confessors_unshakable_halo,id=229334,ilevel=684" # haste/vers
-    neck: "semicharmed_amulet,id=228841,ilevel=684" # haste/crit
-    shoulders: "confessors_unshakable_radiance,id=229332,ilevel=684" # mastery/haste
-    back: "test_pilots_gopack,id=228844,ilevel=684" # mastery/haste
-    chest: "confessors_unshakable_vestment,id=229337,ilevel=684" # haste/mastery
-    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=681" # haste/mastery
-    hands: "confessors_unshakable_mitts,id=229335,ilevel=684" # mastery/crit
-    waist: "refiners_conveyor_belt,id=228882,ilevel=684" # mastery/haste
-    legs: "pit_doctors_petticoat,id=228865,ilevel=684" # haste/mastery
-    feet: "cemented_murlocswimmers,id=228879,ilevel=684" # haste/mastery
-    finger1: "the_jastor_diamond,id=231265,ilevel=684" # mastery/haste
-    finger2: "ritual_bone_band,id=178870,ilevel=684" # vers/mastery
-    trinket1: "mugs_moxie_jug,id=230192,ilevel=684"
-    trinket2: "house_of_cards,id=230027,ilevel=684"
-    main_hand: "big_earners_bludgeon,id=228901,ilevel=684" # crit/mastery
-    off_hand: "vagabonds_torch,id=222566,ilevel=681,bonus_id=11300/8793" # haste/mastery
+    head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
+    neck: "duskblazes_desperation,id=237569,ilevel=723" # haste/mastery
+    shoulders: "harmonious_spaulders,id=185804,ilevel=723" # crit/haste
+    back: "reshii_wraps,id=235499,ilevel=730,bonus_id=12256" # mastery
+    chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
+    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=720" # haste/mastery
+    hands: "dying_stars_caress,id=237710,ilevel=723" # haste/crit
+    waist: "singularity_cincture,id=237559,ilevel=723" # mastery/crit
+    legs: "dying_stars_leggings,id=237708,ilevel=723" # crit/mastery
+    feet: "interlopers_silken_striders,id=243305,ilevel=723,bonus_id=13504" # mastery/haste
+    finger1: "logic_gate_omega,id=237570,ilevel=723" # mastery/haste
+    finger2: "logic_gate_alpha,id=237567,ilevel=723" # crit/mastery
+    trinket1: "azhiccaran_parapodia,id=242497,ilevel=723"
+    trinket2: "arazs_ritual_forge,id=242402,ilevel=723"
+    main_hand: "voidglass_kris,id=237728,ilevel=723" # mastery/crit
+    off_hand: "vagabonds_torch,id=222566,ilevel=720,bonus_id=11300/8793" # haste/mastery
+  # 25.5k Mastery | 13.0k Haste | 14.0k Crit | 8.0k Vers
+  lessHaste:
+    head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
+    neck: "chrysalis_of_sundered_souls,id=237568,ilevel=723" # vers/haste
+    shoulders: "sinlight_shoulderpads,id=246276,ilevel=723" # mastery/haste
+    back: "reshii_wraps,id=235499,ilevel=730,bonus_id=12256" # mastery
+    chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
+    wrists: "consecrated_cuffs,id=222815,bonus_id=8793/11109,ilevel=720" # haste/mastery
+    hands: "dying_stars_caress,id=237710,ilevel=723" # haste/crit
+    waist: "singularity_cincture,id=237559,ilevel=723" # mastery/crit
+    legs: "dying_stars_leggings,id=237708,ilevel=723" # crit/mastery
+    feet: "interlopers_silken_striders,id=243305,ilevel=723" # mastery/haste
+    finger1: "logic_gate_omega,id=237570,ilevel=723" # mastery/haste
+    finger2: "logic_gate_alpha,id=237567,ilevel=723" # crit/mastery
+    trinket1: "azhiccaran_parapodia,id=242497,ilevel=723"
+    trinket2: "arazs_ritual_forge,id=242402,ilevel=723"
+    main_hand: "voidglass_kris,id=237728,ilevel=723" # mastery/crit
+    off_hand: "vagabonds_torch,id=222566,ilevel=720,bonus_id=11300/8793" # haste/mastery
   # Xk Mastery (0.0%) | Xk Haste (0.0%) | Xk Crit (0.0%) | Xk Vers (0.0%)
   noCantrip:
-    head: "confessors_unshakable_halo,id=229334,ilevel=684" # haste/vers
-    neck: "semicharmed_amulet,id=228841,ilevel=684" # haste/crit
-    shoulders: "confessors_unshakable_radiance,id=229332,ilevel=684" # mastery/haste
-    back: "test_pilots_gopack,id=228844,ilevel=684" # mastery/haste
-    chest: "confessors_unshakable_vestment,id=229337,ilevel=684" # haste/mastery
-    wrists: "illicit_bankroll_bracers,id=228881,ilevel=684" # haste/mastery
-    hands: "confessors_unshakable_mitts,id=229335,ilevel=684" # mastery/crit
-    waist: "refiners_conveyor_belt,id=228882,ilevel=684" # mastery/haste
-    legs: "pit_doctors_petticoat,id=228865,ilevel=684" # haste/mastery
-    feet: "cemented_murlocswimmers,id=228879,ilevel=684" # haste/mastery
-    finger1: "85year_tenure_ring,id=221198,ilevel=684" # mastery/crit
-    finger2: "footbomb_championship_ring,id=159462,ilevel=684" # mastery=haste
-    trinket1: "mugs_moxie_jug,id=230192,ilevel=684"
-    trinket2: "house_of_cards,id=230027,ilevel=684"
-    main_hand: "stixs_metal_detector,id=228896,ilevel=684" # haste/mastery
-    off_hand: "operators_fraud_detector,id=228906,ilevel=684" # mastery/haste
+    head: "dying_stars_veil,id=237709,ilevel=723" # mastery/haste
+    neck: "duskblazes_desperation,id=237569,ilevel=723" # haste/mastery
+    shoulders: "sinlight_shoulderpads,id=246276,ilevel=723" # mastery/haste
+    back: "dying_stars_memory,id=237704,ilevel=723" # mastery/haste
+    chest: "dying_stars_cassock,id=237712,ilevel=723" # haste/mastery
+    wrists: "illicit_bankroll_bracers,id=228881,ilevel=723" # haste/mastery
+    hands: "dying_stars_caress,id=237710,ilevel=723" # haste/crit
+    waist: "singularity_cincture,id=237559,ilevel=723" # mastery/crit
+    legs: "dying_stars_leggings,id=237708,ilevel=723" # crit/mastery
+    feet: "dying_stars_soles,id=237711,ilevel=723" # haste/mastery
+    finger1: "logic_gate_omega,id=237570,ilevel=723" # mastery/haste
+    finger2: "logic_gate_alpha,id=237567,ilevel=723" # crit/mastery
+    trinket1: "azhiccaran_parapodia,id=242497,ilevel=723"
+    trinket2: "arazs_ritual_forge,id=242402,ilevel=723"
+    main_hand: "stixs_metal_detector,id=228896,ilevel=723" # haste/mastery
+    off_hand: "fractillus_last_breath,id=237742,ilevel=723" # mastery/haste
 gems:
   meta: "213743" # Culminating Blasphemite
   main: "213494" # Quick Onyx
@@ -104,10 +122,11 @@ enchants:
   chest: "crystalline_radiance_3"
   ring: "radiant_mastery_3"
   legs: "sunset_spellthread_3"
-  main_hand: "authority_of_the_depths_3"
+  main_hand: "stonebound_artistry_3"
 sims:
   alchemy:
     description: "Sims alchemy consumables you can use to augment your character. Lists each consumable at ranks 1, 2, and 3."
+    gearOverride: none
     builds: true
     weights: false
     chart: true
@@ -120,6 +139,7 @@ sims:
       - alchemy.simc
   apl:
     description: "APL Sims used for testing rotational changes only."
+    gearOverride: none
     builds: true
     weights: false
     chart: false
@@ -130,6 +150,7 @@ sims:
       - apl.simc
   consumables:
     description: "Sims Food and Augment Rune consumables you can use to augment your character."
+    gearOverride: none
     iterations: 20000
     builds: true
     weights: false
@@ -141,6 +162,7 @@ sims:
       - consumables.simc
   enchants:
     description: "Sims all possible enchants to your characters gear by slot. Lists each enchant at ranks 1, 2, and 3."
+    gearOverride: none
     iterations: 20000
     builds: true
     weights: false
@@ -154,6 +176,7 @@ sims:
       - enchants.simc
   gem-combos:
     description: "Sims combinations of gems to optimize the meta gems using 1 of each color. Only uses max rank of gems"
+    gearOverride: none
     iterations: 20000
     builds: true
     weights: false
@@ -165,6 +188,7 @@ sims:
       - generated.simc
   gems:
     description: "Sims all available gems against each other. Lists each gem at ranks 1, 2, and 3."
+    gearOverride: none
     iterations: 20000
     builds: true
     weights: false
@@ -178,6 +202,7 @@ sims:
       - gems.simc
   racials:
     description: "Swaps out the racial that includes all stat effects or special abilities where they prove to be a DPS increase."
+    gearOverride: none
     builds: true
     weights: false
     chart: true
@@ -188,6 +213,7 @@ sims:
       - racials.simc
   special-gear:
     description: "Sims unique gear with effects to see the DPS gain. Includes Tailoring, Jewelcrafting, and Inscription gear, crafted with BiS stats when possible. Compared against Mythic BiS gear from the Raid or Mythic+ gear.<br><br>A negative DPS gain means the crafted piece with BiS stats is worse than the Mythic BiS piece. This usually means the BiS piece has a higher ilvl than the crafted piece."
+    gearOverride: noCantrip
     builds: true
     weights: false
     chart: true
@@ -198,6 +224,7 @@ sims:
       - gear.simc
   stats:
     description: "Stat distribution sim to see where we would want to add stats given the option. Each letter stands for a secondary stat and the number indicates how many steps were added to that build. So H10 means we add 10 steps of haste (currently 1000 stat each step)."
+    gearOverride: none
     builds: true
     weights: false
     chart: true
@@ -208,6 +235,7 @@ sims:
       - generated.simc
   talents:
     description: "Sims various talent builds generated by Talent Tree Manager. Shows the major cooldown and Idol combination used for that actor, names in gold can be clicked to copy the import string."
+    gearOverride: none
     iterations: smart
     builds: false
     weights: false
@@ -226,6 +254,7 @@ sims:
       - VF-Flay_DR.simc
   talents-top:
     description: "Shows top talents."
+    gearOverride: none
     iterations: 20000
     builds: false
     weights: false
@@ -237,6 +266,7 @@ sims:
       - talents.simc
   tiersets:
     description: "Sims each tier set currently available by just activating just the set effect, not with the gear."
+    gearOverride: none
     builds: true
     weights: false
     chart: true
@@ -247,6 +277,7 @@ sims:
       - tiersets.simc
   trinket-combos:
     description: "Combines the top trinkets together to get your BiS 2 trinkets."
+    gearOverride: none
     builds: true
     weights: false
     chart: true
@@ -257,20 +288,24 @@ sims:
       - generated.simc
   trinkets:
     description: "Sims all trinkets by themselves (no second trinket)."
+    gearOverride: noCantrip
     builds: true
     weights: false
     chart: true
     lookupType: item
     steps:
-      - 658
-      - 671
       - 684
+      - 691
+      - 704
+      - 710
+      - 723
     files:
       - raid.simc
       - dungeons.simc
       - other.simc
   weights:
     description: Stat weight sims for current BiS gear setup..
+    gearOverride: none
     builds: true
     weights: true
     chart: false
@@ -289,11 +324,11 @@ singleTargetProfiles:
   - pw_na_1
   - lm_na_1
   - hm_na_1
-councilTargets: 4
+councilTargets: 3
 dungeonSeason: 2
 dungeonStandardWeights: weightsSeasonTwo
 dungeonPushWeights: weightsSeasonTwo
-dungeonType: route
+dungeonType: slice
 simcBuild: latest
 forceHeroTalents: false
 defaultIterations: 10000
@@ -310,13 +345,18 @@ analyze:
   json: true
 stats:
   base: 4000
-  steps: 1000
-  total: 47000
+  steps: 1500
+  total: 55000
   min:
-    haste: 15000
-    mastery: 15000
-    crit: 3000
+    haste: 8000
+    mastery: 14000
+    crit: 5000
     vers: 0
+  max:
+    haste: 30000
+    mastery: 30000
+    crit: 30000
+    vers: 8500
   include:
     - mastery
     - haste

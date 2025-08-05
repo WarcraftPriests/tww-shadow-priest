@@ -18,6 +18,7 @@ with open("config.yml", "r", encoding="utf8") as ymlfile:
 
 def get_top_talents(results, combos, directory, matches, jitter):
     talent_names = []
+    st_crash_builds = []
     for result in results:
         builds = []
         with open(f"{directory}/Results_{result}.csv", "r", encoding="utf8") as file:
@@ -27,36 +28,28 @@ def get_top_talents(results, combos, directory, matches, jitter):
         file.close()
         # st + crash
         if result == "Single":
-            ar_st_crash = []
-            vw_st_crash = []
-            while len(ar_st_crash) < 5 and len(vw_st_crash) < 5:
+            for combo in combos:
+                count = 0
                 for build in builds:
-                    ht = build.split("_")[0]
-                    # TODO: remove this
-                    if build == "actor":
-                        continue
-                    if ht == "AR" and len(ar_st_crash) < 5:
-                        st = find_talents(build).st
-                        if "whispering_shadows" in st:
-                            ar_st_crash.append(build)
-                            talent_names.append(build)
-                    if ht == "VW" and len(vw_st_crash) < 5:
-                        st = find_talents(build).st
-                        if "whispering_shadows" in st:
-                            vw_st_crash.append(build)
-                            talent_names.append(build)
-                if len(ar_st_crash) < 5 or len(vw_st_crash) < 5:
-                    print(f"Not enough Single Target + Shadow Crash build found. AR: {ar_st_crash}, VW: {vw_st_crash}")
-                    exit()
-            print(f"Found ST + Crash builds for Archon: {ar_st_crash} and Voidweaver: {vw_st_crash}")
+                    filler = ""
+                    fillers = ["_ME", "_DR"]
+                    for name in fillers:
+                        if name in build:
+                            filler = name
+                    if combo[0] in build and filler == combo[1] and "_SC" in build:
+                        st_crash_builds.append(build)
+                        talent_names.append(build)
+                        count = count + 1
+                        # add a buffer to get more diversity
+                        if count >= jitter:
+                            break
         # get top x builds
         talent_names.extend(builds[1 : matches + 1])
         for combo in combos:
             count = 0
             for build in builds:
                 filler = ""
-                # fillers = ["Spike_ME", "Flay_ME"]
-                fillers = ["Spike_ME", "Spike_DR", "Flay_ME", "Flay_DR"]
+                fillers = ["_ME", "_DR"]
                 for name in fillers:
                     if name in build:
                         filler = name
@@ -66,6 +59,8 @@ def get_top_talents(results, combos, directory, matches, jitter):
                     # add a buffer to get more diversity
                     if count >= jitter:
                         break
+    if len(st_crash_builds) > 0:
+        print(f"Found ST + Crash builds: {st_crash_builds}")
     return list(set(talent_names))
 
 
@@ -75,7 +70,7 @@ def get_hero_builds(ht, cds, idols):
     if ht == "AR":
         hero_talent_combos = ["AR_EC", "AR_SP"]
     if ht =="VW":
-        hero_talent_combos = ["VW_VE_DoS", "VW_DH_DoS"]
+        hero_talent_combos = ["VW_VE_DoS", "VW_DH_DoS", "VW_DH_VW", "VW_DH_VW"]
     return [
         f"{ht}_{cd}_{idol}" for ht in hero_talent_combos for cd in cds for idol in idols
     ]
@@ -89,14 +84,13 @@ def get_builds():
     ar_idols = [
         "nzoth_cthun",
         "nzoth_yogg_cthun",
-        "cthun",
-        "yogg_cthun",
     ]
     combos.extend(get_hero_builds("AR", ar_cds, ar_idols))
     ## Voidweaver
     vw_idols = [
         "nzoth_cthun",
-        "cthun",
+        "yshaarj_nzoth_cthun",
+        "nzoth_yogg_cthun"
     ]
     combos.extend(get_hero_builds("VW", vw_cds, vw_idols))
     return combos
@@ -214,7 +208,7 @@ def populate_talents(talent_string_dictionary):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--top_matches", nargs="?", default=5, type=int)
-    parser.add_argument("--match_jitter", nargs="?", default=2, type=int)
+    parser.add_argument("--match_jitter", nargs="?", default=3, type=int)
     parser.add_argument("--analyze_only", nargs="?", default=False, type=bool)
     args = parser.parse_args()
 
@@ -223,8 +217,7 @@ if __name__ == "__main__":
     combos = [
         (cd, filler)
         for cd in build_configs
-        # for filler in ["Spike_ME", "Flay_ME"]
-        for filler in ["Spike_ME", "Flay_ME", "Spike_DR", "Flay_DR"]
+        for filler in ["_ME", "_DR"]
     ]  # noqa: E501
     results = utils.get_sim_types()
     push_results = list(utils.get_dungeon_combos())

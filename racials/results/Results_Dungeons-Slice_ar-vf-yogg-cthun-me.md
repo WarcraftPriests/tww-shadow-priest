@@ -1,0 +1,35 @@
+# Dungeons-Slice - ar-vf-yogg-cthun-me
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Troll|5771198|1.92%|
+|Maghar_Orc|5764862|1.81%|
+|Human|5750337|1.56%|
+|Void_Elf|5736601|1.31%|
+|Blood_Elf|5733079|1.25%|
+|Night_Elf_Haste|5730605|1.21%|
+|Tauren|5727361|1.15%|
+|Dwarf|5726282|1.13%|
+|Gnome|5724935|1.11%|
+|Goblin|5723782|1.09%|
+|Nightborne|5717906|0.98%|
+|Highmountain_Tauren|5717108|0.97%|
+|Mechagnome|5711511|0.87%|
+|Dracthyr|5711077|0.86%|
+|Zandalari_Troll_Paku|5710489|0.85%|
+|Orc|5707223|0.79%|
+|Night_Elf_Crit|5706362|0.78%|
+|Kul_Tiran|5705805|0.77%|
+|Worgen|5701973|0.70%|
+|Draenei|5699862|0.66%|
+|Dark_Iron_Dwarf|5690450|0.50%|
+|Panda_Feast|5682622|0.36%|
+|Earthen_Emerald|5679818|0.31%|
+|Earthen_Ruby|5677861|0.28%|
+|Earthen_Sapphire|5674472|0.22%|
+|Earthen_Onyx|5674303|0.21%|
+|Zandalari_Troll_Kimbul|5670210|0.14%|
+|Zandalari_Troll_Bwonsamdi|5667715|0.10%|
+|Base|5662262|0.00%|
+|Undead|5660450|-0.03%|
+|Vulpera|5659241|-0.05%|
+|Lightforged_Draenei|5657028|-0.09%|

@@ -421,7 +421,8 @@ def clear_output_files(talent_string):
 
 def generate_result_name(result, talent):
     """takes a full result file path and generate a readable name from it"""
-    fight_types = ["Composite", "Single", "Dungeons", "2T", "4T", "8T"]
+    fight_types = ["Composite", "Single", "Dungeons", "2T", "8T"]
+    fight_types.append(str(config["councilTargets"]) + "T")
     for fight_type in fight_types:
         if fight_type in result:
             return f"{fight_type} - {talent.upper()}"
@@ -475,6 +476,9 @@ def analyze(talents, directory, dungeons, weights, timestamp):
         )
     else:
         data = pandas.read_csv(csv, usecols=["profile", "actor", "DD", "DPS"])
+    
+    fights = ["Composite", "Single", "2T", "8T"]
+    fights.append(str(config["councilTargets"]) + "T")
 
     talent_string = f"_{talents}" if talents else ""
     if config["dungeonType"] == "route":
@@ -484,7 +488,7 @@ def analyze(talents, directory, dungeons, weights, timestamp):
     sim_types = (
         dungeon_list
         if dungeons
-        else ["Composite", "Single", "2T", "4T", "8T"]
+        else fights
     )
 
     # Main Composites

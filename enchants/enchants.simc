@@ -27,29 +27,29 @@ ${gear.off_hand}
 temporary_enchant=disabled
 
 # Head
-## TODO: use names at some point
-profileset."Head_Twilight_Devastation_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7912
-profileset."Head_Twilight_Devastation_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7914
+## Season 2 Only Corruption Enchants
+# profileset."Head_Twilight_Devastation_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7912
+# profileset."Head_Twilight_Devastation_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7914
 
-profileset."Head_Gushing_Wound_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7925
-profileset."Head_Gushing_Wound_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7927
+# profileset."Head_Gushing_Wound_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7925
+# profileset."Head_Gushing_Wound_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7927
 
-profileset."Head_Void_Ritual_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7931
-profileset."Head_Void_Ritual_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7933
+# profileset."Head_Void_Ritual_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7931
+# profileset."Head_Void_Ritual_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7933
 
-profileset."Head_Echoing_Void_Ranged_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7915
-profileset."Head_Echoing_Void_Ranged_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7917
+# profileset."Head_Echoing_Void_Ranged_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7915
+# profileset."Head_Echoing_Void_Ranged_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7917
 
-profileset."Head_Echoing_Void_Melee_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7915
-profileset."Head_Echoing_Void_Melee_1"+=distance=5
-profileset."Head_Echoing_Void_Melee_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7917
-profileset."Head_Echoing_Void_Melee_2"+=distance=5
+# profileset."Head_Echoing_Void_Melee_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7915
+# profileset."Head_Echoing_Void_Melee_1"+=distance=5
+# profileset."Head_Echoing_Void_Melee_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7917
+# profileset."Head_Echoing_Void_Melee_2"+=distance=5
 
-profileset."Head_Infinite_Stars_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7922
-profileset."Head_Infinite_Stars_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7924
+# profileset."Head_Infinite_Stars_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7922
+# profileset."Head_Infinite_Stars_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7924
 
-profileset."Head_Twisted_Appendage_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7928
-profileset."Head_Twisted_Appendage_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7930
+# profileset."Head_Twisted_Appendage_1"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7928
+# profileset."Head_Twisted_Appendage_2"+=head=${gear.head},gem_id=${gems.meta},enchant_id=7930
 
 # Temporary Enchants - Weapon
 profileset."Temp_Weapon_Algari_Mana_Oil_1"+=temporary_enchant=main_hand:algari_mana_oil_1

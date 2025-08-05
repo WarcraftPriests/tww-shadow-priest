@@ -19,6 +19,7 @@ def build_trinket(name, item_id, ilevel):
 
 def build_trinket_with_options(name, item_id, ilevel, options):
     """builds a trinket but with an additional option in the name"""
+    print(options)
     trinkets = []
     if name == "Inscrutable_Quantum_Device_Only_Opener":
         trinkets.append(build_trinket(name, item_id, ilevel))
@@ -33,6 +34,8 @@ def build_trinket_with_options(name, item_id, ilevel, options):
 
 def build_option(name, ilevel, option):
     """build additional option into the profileset"""
+    if "Soleahs_Secret_Technique" in name:
+        return f"profileset.\"{name}_{option}_{ilevel}\"+=shadowlands.soleahs_secret_technique_type={option.lower()}"
     if name == "Inscrutable_Quantum_Device_Only_Opener":
         return f"profileset.\"{name}_{ilevel}\"+=shadowlands.iqd_stat_fail_chance={option}"  # noqa: E501
     if "Pips_Emerald_Friendship_Badge" in name:
@@ -49,11 +52,11 @@ def main():
     parser.add_argument(
         '--min_ilevel', help='min ilevel to build items for', default=580)
     parser.add_argument(
-        '--max_ilevel', help='max ilevel to build items for', default=639)
+        '--max_ilevel', help='max ilevel to build items for', default=900)
     args = parser.parse_args()
 
     # ilevel_range = build_range(int(args.min_ilevel), int(args.max_ilevel))
-    ilevel_range = [619, 626]
+    ilevel_range = [723]
 
     trinket_list = []
     for ilevel in ilevel_range:

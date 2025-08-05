@@ -29,6 +29,8 @@ augmentation=disabled
 
 # Runes
 profileset."Crystallized_Augment_Rune"+=augmentation=crystallized_augment_rune
+# profileset."Ethereal_Augment_Rune"+=augmentation=ethereal_augment_rune
+# profileset."Soulgorged_Augment_Rune"+=augmentation=soulgorged_augment_rune
 
 # Food
 ## 446 intellect

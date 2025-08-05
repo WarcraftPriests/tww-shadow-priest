@@ -1,1 +1,1 @@
-{"name": "2T - ar-vf-yogg-cthun-me", "data": {"Base": {"DPS": 3073261}, "Base1": {"DPS": 3072825}}, "ids": {"Base1": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["Base1"], "last_updated": "2025-03-14"}
+{"name": "2T - ar-vf-yogg-cthun-me", "data": {"cancel_torrent": {"DPS": 7969670}, "Base": {"DPS": 7859390}}, "ids": {"cancel_torrent": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["cancel_torrent"], "last_updated": "2025-08-03"}

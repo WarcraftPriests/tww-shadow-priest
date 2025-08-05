@@ -114,7 +114,8 @@ def get_dungeon_combos():
         exit(1)
 
 def get_sim_types():
-    type_list = ["Composite", "Single", "2T", "4T", "8T"]
+    type_list = ["Composite", "Single", "2T", "8T"]
+    type_list.append(str(config["councilTargets"]) + "T")
     if config["dungeonType"] == "route":
         # type_list.extend(["Dungeons-Standard", "Dungeons-Push"])
         type_list.extend(["Dungeons-Route"])

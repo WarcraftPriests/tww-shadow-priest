@@ -11,25 +11,14 @@ def apply_rules(line):
     # Don't add combos that waste points on TS without Yogg
     if "tormented_spirits" in line and "idol_of_yoggsaron" not in line:
         return True
-    # Don't add combos that waste points on Shadow Crash without Whispering Shadows  # noqa: E501
-    if "shadow_crash" in line and "whispering_shadows" not in line:
-        return True
-    if "125983" in line and "whispering_shadows" not in line:
-        return True
-    # Don't add combos that waste points on Inescapable Torment without Y'Shaarj
-    # if "inescapable_torment" in line and "yshaarj" not in line:
-    #     return True
-    # Don't add combos that have Mind Spike without Mind Melt
-    if "mind_spike" in line and "mind_melt" not in line:
-        return True
 
     # # Make sure you are efficiently spending points
     HALF_SELECTED_MID_TALENTS = 0
     for t in [
         "maddening_touch",
-        "dark_evangelism",
-        "mind_devourer",
+        "instilled_doubt",
         "phantasmal_pathogen",
+        "mastermind",
     ]:  # noqa: E501
         if t + ":1" in line:
             HALF_SELECTED_MID_TALENTS = HALF_SELECTED_MID_TALENTS + 1
@@ -37,7 +26,7 @@ def apply_rules(line):
         return True
 
     HALF_SELECTED_BOT_TALENTS = 0
-    for t in ["mastermind", "screams_of_the_void", "insidious_ire"]:
+    for t in ["madness_weaving", "screams_of_the_void", "insidious_ire"]:
         if t + ":1" in line:
             HALF_SELECTED_BOT_TALENTS = HALF_SELECTED_BOT_TALENTS + 1
     if HALF_SELECTED_BOT_TALENTS >= 2:
@@ -48,14 +37,17 @@ def apply_rules(line):
     for t in [
         "mindbender",
         "deathspeaker",
+        "mind_devourer",
         "auspicious_spirits",
         "void_torrent",
         "inescapable_torment",
-        "mastermind",
+        "madness_weaving",
+        "deaths_torment",
+        "insidious_ire",
         "screams_of_the_void",
         "tormented_spirits",
         "insidious_ire",
-        "malediction",
+        "void_volley",
         "idol_of_yshaarj",
         "idol_of_nzoth",
         "idol_of_yoggsaron",
@@ -66,14 +58,6 @@ def apply_rules(line):
         if t + ":2" in line:
             BOTTOM_TALENTS = BOTTOM_TALENTS + 2
     if BOTTOM_TALENTS < 9:
-        return True
-
-    # Only use Deathspeaker with Mastermind or Inescapable Torment
-    if (
-        "deathspeaker" in line
-        and "mastermind" not in line
-        and "inescapable" not in line
-    ):  # noqa: E501
         return True
 
     # default case
@@ -96,7 +80,7 @@ def convert_builds(profile):
 
     for line in data:
         # Since we only have one Shadow Crash, force to the target version
-        line = line.replace("shadow_crash:1", "125983:1")
+        line = line.replace("shadow_crash:1", "133524:1")
         if "Solved loadout " not in line:
             if line not in lines_seen or line.isspace():
                 if "profileset" in line and apply_rules(line):
@@ -112,21 +96,28 @@ def convert_builds(profile):
         TALENT = prefix
         line = line.replace("Solved loadout ", TALENT + "_")
         # detect flay or spike and dr or me
-        has_mind_spike = "mind_spike" in line
+        has_shadow_crash = "133524" in line
         has_distorted_reality = "distorted_reality" in line
         has_minds_eye = "minds_eye" in line
-        # Spike or Flay
+        has_mental_decay = "mental_decay" in line
+        has_shattered_psyche = "shattered_psyche" in line
         suffix = ""
-        if has_mind_spike:
-            suffix += "Spike"
-        else:
-            suffix += "Flay"
         # ME or DR
         if has_distorted_reality:
-            suffix += "_DR"
+            suffix += "DR"
         elif has_minds_eye:
-            suffix += "_ME"
-        line = line.replace(" 1112", "_" + suffix)
+            suffix += "ME"
+        # Shadow Crash
+        if has_shadow_crash:
+            suffix += "_SC"
+        # MeD or ShP
+        if has_mental_decay:
+            suffix += "_MeD"
+        elif has_shattered_psyche:
+            suffix += "_ShP"
+        # TODO: figure out a better way to do this
+        line = line.replace(" 21111", "_" + suffix)
+        line = line.replace(" 21121", "_" + suffix)
 
         if apply_rules(line):
             continue
@@ -172,12 +163,14 @@ def duplicate_builds():
             file.close()
         print(f"Starting with {len(data)} builds")
         # duplicate all builds for minds_eye
-        me_data = list(map(lambda x: x.replace("distorted_reality", "minds_eye"),data))
-        me_data = list(map(lambda x: x.replace("_DR", "_ME"),me_data))
+        me_data = list(map(lambda x: x.replace("minds_eye", "distorted_reality"), data))
+        me_data = list(map(lambda x: x.replace("_ME", "_DR"), me_data))
         data = me_data + data
         print(f"{len(data)} builds after duplicating for Mind's Eye")
         # duplicate all builds for void_eruption
-        vf_data = list(map(lambda x: x.replace("dark_ascension", "void_eruption"), data))
+        vf_data = list(
+            map(lambda x: x.replace("dark_ascension", "void_eruption"), data)
+        )
         vf_data = list(map(lambda x: x.replace("DA_", "VF_"), vf_data))
         data = vf_data + data
         print(f"{len(data)} builds after duplicating for Void Eruption")
@@ -186,8 +179,8 @@ def duplicate_builds():
         for line in data:
             if "# Automatically generated by ttm.py" in line:
                 continue
-            name = line.split("+=")[0].split("profileset.")[1].replace('"', '')
-            value = line.split("+=", 1)[1].replace('"', '').strip()
+            name = line.split("+=")[0].split("profileset.")[1].replace('"', "")
+            value = line.split("+=", 1)[1].replace('"', "").strip()
             talents[name] = value
         # duplicate all builds for each hero talent combo
         hero_talents = {}
@@ -196,11 +189,13 @@ def duplicate_builds():
             talent_string = config["hero"][hero_talent][build]
             for talent in talents:
                 name = f"{build}_{talent}"
-                hero_line = f"profileset.\"{name}\"+=\"hero_talents={talent_string}\"\n"
+                hero_line = f'profileset."{name}"+="hero_talents={talent_string}"\n'
                 class_line = ""
                 if hero_talent == "AR":
-                    class_line = f"profileset.\"{name}\"+=\"class_talents+=/halo:1/divine_star:0\"\n"
-                spec_line = f"profileset.\"{name}\"+=\"{talents[talent]}\"\n"
+                    class_line = (
+                        f'profileset."{name}"+="class_talents+=/halo:1/divine_star:0"\n'
+                    )
+                spec_line = f'profileset."{name}"+="{talents[talent]}"\n'
                 hero_talents[name] = Talents(spec_line, class_line, hero_line)
         print(f"Writing builds to hero_{hero_talent}_duplicated.simc")
         with open(f"hero_{hero_talent}_duplicated.simc", "w", encoding="utf8") as file:
@@ -210,6 +205,7 @@ def duplicate_builds():
                 if hero_talents[build] != "":
                     file.writelines(hero_talents[build].ct)
             file.close()
+
 
 def make_build_files():
     hero_talents = ["AR", "VW"]

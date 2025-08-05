@@ -1,5 +1,5 @@
 # 8T - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base1|805847|0.02%|
-|Base|805724|0.00%|
+|cancel_torrent|28719167|1.72%|
+|Base|28232578|0.00%|

@@ -1,0 +1,35 @@
+# 3T - vw-da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Maghar_Orc|9902646|1.99%|
+|Human|9859742|1.54%|
+|Troll|9851358|1.46%|
+|Void_Elf|9841547|1.36%|
+|Dwarf|9830062|1.24%|
+|Tauren|9827824|1.22%|
+|Orc|9808784|1.02%|
+|Nightborne|9808688|1.02%|
+|Mechagnome|9807752|1.01%|
+|Goblin|9804164|0.97%|
+|Dracthyr|9802770|0.96%|
+|Night_Elf_Haste|9802325|0.95%|
+|Gnome|9802310|0.95%|
+|Zandalari_Troll_Paku|9797853|0.91%|
+|Highmountain_Tauren|9797155|0.90%|
+|Kul_Tiran|9794880|0.88%|
+|Worgen|9789200|0.82%|
+|Night_Elf_Crit|9787654|0.80%|
+|Blood_Elf|9779197|0.72%|
+|Draenei|9778424|0.71%|
+|Dark_Iron_Dwarf|9775309|0.68%|
+|Earthen_Emerald|9747677|0.39%|
+|Earthen_Ruby|9745832|0.37%|
+|Panda_Feast|9741255|0.32%|
+|Earthen_Onyx|9740442|0.32%|
+|Earthen_Sapphire|9738874|0.30%|
+|Zandalari_Troll_Kimbul|9728015|0.19%|
+|Undead|9718322|0.09%|
+|Zandalari_Troll_Bwonsamdi|9717622|0.08%|
+|Vulpera|9714459|0.05%|
+|Lightforged_Draenei|9709782|0.00%|
+|Base|9709738|0.00%|

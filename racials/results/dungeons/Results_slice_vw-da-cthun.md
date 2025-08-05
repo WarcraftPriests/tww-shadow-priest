@@ -1,0 +1,35 @@
+# slice - vw-da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Maghar_Orc|5852033|1.90%|
+|Troll|5841320|1.71%|
+|Human|5836803|1.63%|
+|Void_Elf|5818640|1.32%|
+|Dwarf|5810411|1.18%|
+|Goblin|5809720|1.16%|
+|Night_Elf_Haste|5807005|1.12%|
+|Gnome|5804001|1.06%|
+|Mechagnome|5800047|0.99%|
+|Tauren|5795899|0.92%|
+|Kul_Tiran|5794175|0.89%|
+|Highmountain_Tauren|5793612|0.88%|
+|Worgen|5793189|0.88%|
+|Blood_Elf|5790575|0.83%|
+|Night_Elf_Crit|5790297|0.82%|
+|Orc|5789625|0.81%|
+|Nightborne|5787739|0.78%|
+|Zandalari_Troll_Paku|5786302|0.76%|
+|Dracthyr|5783251|0.70%|
+|Dark_Iron_Dwarf|5782959|0.70%|
+|Draenei|5778107|0.61%|
+|Earthen_Emerald|5776138|0.58%|
+|Earthen_Sapphire|5757506|0.25%|
+|Zandalari_Troll_Kimbul|5755865|0.23%|
+|Earthen_Ruby|5754939|0.21%|
+|Panda_Feast|5753275|0.18%|
+|Vulpera|5751640|0.15%|
+|Earthen_Onyx|5750196|0.13%|
+|Undead|5745683|0.05%|
+|Base|5742923|0.00%|
+|Lightforged_Draenei|5740942|-0.03%|
+|Zandalari_Troll_Bwonsamdi|5736015|-0.12%|

@@ -130,6 +130,15 @@ def build_stats_files():
             continue
         if crit < config["stats"]["min"]["crit"]:
             continue
+        # remove profiles with too high haste/mastery
+        if haste > config["stats"]["max"]["haste"]:
+            continue
+        if mastery > config["stats"]["max"]["mastery"]:
+            continue
+        if vers > config["stats"]["max"]["vers"]:
+            continue
+        if crit > config["stats"]["max"]["crit"]:
+            continue
         rating_combinations.append(combination)
     print(f"Simming {len(rating_combinations)} number of combinations")
     output_file = f"{args.dir}/generated.simc"
@@ -175,8 +184,8 @@ def replace_gear(data, talent_string):
     else:
         gear_setup = config["builds"][talent_string]["gearSetup"]
     # special-gear should use nonCantrip set
-    if args.dir[:-1] == "special-gear":
-        gear_setup = "noCantrip"
+    if config["sims"][args.dir[:-1]]["gearOverride"] != "none":
+        gear_setup = config["sims"][args.dir[:-1]]["gearOverride"]
     for slot in config["gear"][gear_setup]:
         if slot == "off_hand":
             if config["gear"][gear_setup][slot] != "":
@@ -240,7 +249,8 @@ def build_profiles(talent_string, apl_string):
     """build combination list e.g. pw_sa_1"""
     fight_styles = ["pw", "lm", "hm"]
     add_types = ["sa", "ba", "na"]
-    targets = ["1", "2", "4", "8"]
+    targets = ["1", "2", "8"]
+    targets.append(str(config["councilTargets"]))
     overrides = ""
     with open("internal/overrides.simc", "r", encoding="utf8") as overrides_file:
         overrides = overrides_file.read()

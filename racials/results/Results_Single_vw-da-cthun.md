@@ -1,0 +1,35 @@
+# Single - vw-da-cthun
+| Actor | DPS | Increase |
+|---|:---:|:---:|
+|Maghar_Orc|5440537|1.99%|
+|Human|5416809|1.55%|
+|Troll|5406142|1.35%|
+|Dwarf|5402126|1.27%|
+|Tauren|5401664|1.26%|
+|Void_Elf|5401393|1.26%|
+|Orc|5387649|1.00%|
+|Mechagnome|5386688|0.98%|
+|Blood_Elf|5386126|0.97%|
+|Goblin|5385419|0.96%|
+|Gnome|5383622|0.92%|
+|Night_Elf_Haste|5382392|0.90%|
+|Dracthyr|5382198|0.90%|
+|Zandalari_Troll_Paku|5381799|0.89%|
+|Nightborne|5381787|0.89%|
+|Highmountain_Tauren|5379704|0.85%|
+|Kul_Tiran|5378106|0.82%|
+|Worgen|5376712|0.79%|
+|Night_Elf_Crit|5376110|0.78%|
+|Draenei|5370775|0.68%|
+|Dark_Iron_Dwarf|5367937|0.63%|
+|Earthen_Onyx|5354424|0.38%|
+|Panda_Feast|5352819|0.35%|
+|Earthen_Sapphire|5352086|0.33%|
+|Earthen_Ruby|5351352|0.32%|
+|Earthen_Emerald|5351325|0.32%|
+|Zandalari_Troll_Kimbul|5351203|0.32%|
+|Undead|5337810|0.06%|
+|Zandalari_Troll_Bwonsamdi|5337314|0.06%|
+|Lightforged_Draenei|5336031|0.03%|
+|Base|5334367|0.00%|
+|Vulpera|5331883|-0.05%|
