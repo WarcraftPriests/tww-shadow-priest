@@ -1,1 +1,1 @@
-{"name": "8T - vw-da-cthun", "data": {"new": {"DPS": 25416285}, "Base": {"DPS": 25203666}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-28"}
+{"name": "8T - vw-da-cthun", "data": {"Base": {"DPS": 24722937}, "cancel_torrent": {"DPS": 24688448}}, "ids": {"cancel_torrent": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["cancel_torrent"], "last_updated": "2025-08-03"}

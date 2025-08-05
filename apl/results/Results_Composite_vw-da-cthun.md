@@ -1,5 +1,5 @@
 # Composite - vw-da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|5941370|0.36%|
-|Base|5920265|0.00%|
+|Base|5466911|0.00%|
+|cancel_torrent|5463721|-0.06%|

@@ -1,5 +1,5 @@
 # 3T - vw-da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|10276886|0.60%|
-|Base|10216005|0.00%|
+|Base|9715354|0.00%|
+|cancel_torrent|9711905|-0.04%|

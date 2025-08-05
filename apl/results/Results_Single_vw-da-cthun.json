@@ -1,1 +1,1 @@
-{"name": "Single - vw-da-cthun", "data": {"new": {"DPS": 5824837}, "Base": {"DPS": 5803431}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-28"}
+{"name": "Single - vw-da-cthun", "data": {"Base": {"DPS": 5336002}, "cancel_torrent": {"DPS": 5331280}}, "ids": {"cancel_torrent": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["cancel_torrent"], "last_updated": "2025-08-03"}

@@ -1,5 +1,5 @@
 # Single - vw-da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|5824837|0.37%|
-|Base|5803431|0.00%|
+|Base|5336002|0.00%|
+|cancel_torrent|5331280|-0.09%|

@@ -139,6 +139,7 @@ sims:
       - alchemy.simc
   apl:
     description: "APL Sims used for testing rotational changes only."
+    gearOverride: none
     builds: true
     weights: false
     chart: false

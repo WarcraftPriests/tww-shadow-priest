@@ -1,5 +1,5 @@
 # 2T - vw-da-cthun
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|new|8016941|0.31%|
-|Base|7992039|0.00%|
+|Base|7529599|0.00%|
+|cancel_torrent|7526966|-0.03%|

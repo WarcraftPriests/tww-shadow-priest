@@ -1,1 +1,1 @@
-{"name": "Composite - ar-vf-yogg-cthun-me", "data": {"Base": {"DPS": 5036836}, "new": {"DPS": 5002606}}, "ids": {"new": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["new"], "last_updated": "2025-06-28"}
+{"name": "Composite - ar-vf-yogg-cthun-me", "data": {"cancel_torrent": {"DPS": 5695533}, "Base": {"DPS": 5623863}}, "ids": {"cancel_torrent": null}, "simulated_steps": ["DPS"], "sorted_data_keys": ["cancel_torrent"], "last_updated": "2025-08-03"}

@@ -1,5 +1,5 @@
 # Single - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|Base|4949914|0.00%|
-|new|4918105|-0.64%|
+|cancel_torrent|5601351|1.38%|
+|Base|5525223|0.00%|
