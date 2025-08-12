@@ -87,6 +87,12 @@ profileset."Perfidious_Projector_704"+=trinket1=perfidious_projector,id=242403,i
 profileset."Perfidious_Projector_710"+=trinket1=perfidious_projector,id=242403,ilevel=710
 profileset."Perfidious_Projector_723"+=trinket1=perfidious_projector,id=242403,ilevel=723
 
+## Cringe healer trinket
+# profileset."Nexus_Kings_Command_691"+=trinket1=nexuskings_command,id=242400,ilevel=691
+# profileset."Nexus_Kings_Command_704"+=trinket1=nexuskings_command,id=242400,ilevel=704
+# profileset."Nexus_Kings_Command_710"+=trinket1=nexuskings_command,id=242400,ilevel=710
+# profileset."Nexus_Kings_Command_723"+=trinket1=nexuskings_command,id=242400,ilevel=723
+
 # Liberation of Undermine
 ## LFR: 645 | Normal: 658 | Heroic: 671 | Mythic: 684
 # profileset."Geargrinders_Spare_Keys_684"+=trinket1=geargrinders_spare_keys,id=230197,ilevel=684
