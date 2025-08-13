@@ -288,7 +288,7 @@ sims:
       - generated.simc
   trinkets:
     description: "Sims all trinkets by themselves (no second trinket)."
-    gearOverride: noCantrip
+    gearOverride: none
     builds: true
     weights: false
     chart: true
