@@ -7,7 +7,7 @@ from itertools import combinations
 
 combos = {
     # Liberation of Undermine (684)
-    "House_of_Cards_684": "house_of_cards,id=230027,ilevel=684",
+    # "House_of_Cards_684": "house_of_cards,id=230027,ilevel=684",
     "Mugs_Moxie_Jug_684": "mugs_moxie_jug,id=230192,ilevel=684",
     # "Eye_of_Kezan_684": "eye_of_kezan,id=230198,ilevel=684",
     # s3 dungeons (x/723)
@@ -25,11 +25,9 @@ combos = {
     "Naazindhris_Mystic_Lash_723":"naazindhris_mystic_lash,id=242398,ilevel=723",
     "Screams_of_a_Forgotten_Sky_723":"screams_of_a_forgotten_sky,id=242399,ilevel=723",
     "Arazs_Ritual_Forge_723":"arazs_ritual_forge,id=242402,ilevel=723",
-    "Perfidious_Projector_723":"perfidious_projector,id=242403,ilevel=723",
-    # delves (?)
-    # "Quickwick_Candlestick_671": "quickwick_candlestick,id=225649,ilevel=671",
-    # "Suspicious_Energy_Drink_671": "suspicious_energy_drink,id=235363,ilevel=671",
-    # "Funhouse_Lens_671": "funhouse_lens,id=234217,ilevel=671",
+    # "Perfidious_Projector_723":"perfidious_projector,id=242403,ilevel=723",
+    # delves (710)
+    "Incorporeal_Essence_Gorger_NonEthereal_710": "incorporeal_essencegorger,id=246945,ilevel=710",
     # pvp (704)
     "Astral_Gladiators_Badge_of_Ferocity_704": "astral_gladiators_badge_of_ferocity,id=230638,ilevel=704",
 }

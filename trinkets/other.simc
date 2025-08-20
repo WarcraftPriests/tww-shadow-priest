@@ -54,9 +54,13 @@ profileset."Essence_Hunters_Eyeglass_710"+=trinket1=essencehunters_eyeglass,id=2
 # profileset."Depleted_Kareshi_Battery_704"+=trinket1=depleted_kareshi_battery,id=240172,ilevel=704
 # profileset."Depleted_Kareshi_Battery_710"+=trinket1=depleted_kareshi_battery,id=240172,ilevel=710
 
-## TODO: ethereal option
-profileset."Incorporeal_Essence_Gorger_704"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=704
-profileset."Incorporeal_Essence_Gorger_710"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=710
+profileset."Incorporeal_Essence_Gorger_NonEthereal_704"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=704
+profileset."Incorporeal_Essence_Gorger_NonEthereal_710"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=710
+
+profileset."Incorporeal_Essence_Gorger_Ethereal_704"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=704
+profileset."Incorporeal_Essence_Gorger_Ethereal_704"+=thewarwithin.incorporeal_essence_gorger_ethereal=1
+profileset."Incorporeal_Essence_Gorger_Ethereal_710"+=trinket1=incorporeal_essencegorger,id=246945,ilevel=710
+profileset."Incorporeal_Essence_Gorger_Ethereal_710"+=thewarwithin.incorporeal_essence_gorger_ethereal=1
 
 profileset."Automatic_Footbomb_Dispenser_704"+=trinket1=automatic_footbomb_dispenser,id=242867,ilevel=704
 profileset."Automatic_Footbomb_Dispenser_710"+=trinket1=automatic_footbomb_dispenser,id=242867,ilevel=710
