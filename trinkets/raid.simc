@@ -62,10 +62,19 @@ profileset."Diamantine_Voidcore_Prepull_NoMana_Weapon_710"+=initial_resource=man
 profileset."Diamantine_Voidcore_Prepull_NoMana_Weapon_723"+=trinket1=diamantine_voidcore,id=242392,ilevel=723
 profileset."Diamantine_Voidcore_Prepull_NoMana_Weapon_723"+=initial_resource=mana=115000
 
-profileset."Astral_Antenna_691"+=trinket1=astral_antenna,id=242395,ilevel=691
-profileset."Astral_Antenna_704"+=trinket1=astral_antenna,id=242395,ilevel=704
-profileset."Astral_Antenna_710"+=trinket1=astral_antenna,id=242395,ilevel=710
-profileset."Astral_Antenna_723"+=trinket1=astral_antenna,id=242395,ilevel=723
+profileset."Astral_Antenna_100%_691"+=trinket1=astral_antenna,id=242395,ilevel=691
+profileset."Astral_Antenna_100%_704"+=trinket1=astral_antenna,id=242395,ilevel=704
+profileset."Astral_Antenna_100%_710"+=trinket1=astral_antenna,id=242395,ilevel=710
+profileset."Astral_Antenna_100%_723"+=trinket1=astral_antenna,id=242395,ilevel=723
+
+profileset."Astral_Antenna_90%_691"+=trinket1=astral_antenna,id=242395,ilevel=691
+profileset."Astral_Antenna_90%_691"+=thewarwithin.astral_antenna_miss_chance=0.10
+profileset."Astral_Antenna_90%_704"+=trinket1=astral_antenna,id=242395,ilevel=704
+profileset."Astral_Antenna_90%_704"+=thewarwithin.astral_antenna_miss_chance=0.10
+profileset."Astral_Antenna_90%_710"+=trinket1=astral_antenna,id=242395,ilevel=710
+profileset."Astral_Antenna_90%_710"+=thewarwithin.astral_antenna_miss_chance=0.10
+profileset."Astral_Antenna_90%_723"+=trinket1=astral_antenna,id=242395,ilevel=723
+profileset."Astral_Antenna_90%_723"+=thewarwithin.astral_antenna_miss_chance=0.10
 
 profileset."Naazindhris_Mystic_Lash_691"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=691
 profileset."Naazindhris_Mystic_Lash_704"+=trinket1=naazindhris_mystic_lash,id=242398,ilevel=704
