@@ -1,5 +1,6 @@
 # Composite - ar-vf-yogg-cthun-me
 | Actor | DPS | Increase |
 |---|:---:|:---:|
-|cancel_torrent|5695533|1.27%|
-|Base|5623863|0.00%|
+|simple_halo-2blast_opener-push_voit-delay_bender|5424114|0.18%|
+|Base|5414634|0.00%|
+|simple_halo-2blast_opener-push_voit|5408891|-0.11%|
