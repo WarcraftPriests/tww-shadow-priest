@@ -1,14 +1,2 @@
 
 # Overrides are added below here
-## Screams of a Forgotten Sky - On-death damage increased by 15%.
-override.spell_data=effect.1230276.coefficient=150.74177
-## Perfidious Projector - Damage increased by 10%.
-override.spell_data=effect.1231013.coefficient=1216.0236
-## Naazindhri’s Mystic Lash - Damage increased by 15%.
-override.spell_data=effect.1230671.coefficient=28.2650335
-## Astral Antenna - Critical Strike reduced by 3%.
-override.spell_data=effect.1229154.coefficient=1.46636161
-## Gigazap’s Zap-Cap - Damage increased by 15%.
-override.spell_data=effect.1204552.coefficient=4.6985136
-## Gigazap’s Zap-Cap - Internal cooldown reduced to 0.5 seconds (was 0.75 seconds).
-override.spell_data=spell.1219103.internal_cooldown=500
