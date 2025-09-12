@@ -65,6 +65,8 @@ def build_simc_string(trinkets):
             if "Soleahs_Secret_Technique" in trinket:
                 stat_type = trinket.split("_")[3].lower()
                 result += f"profileset.\"{profileset_name}\"+=shadowlands.soleahs_secret_technique_type={stat_type}\n"
+            if "Astral_Antenna" in trinket:
+                result += f"profileset.\"{profileset_name}\"+=thewarwithin.astral_antenna_miss_chance=0.10\n"
             # TWW S2 Options
             if "Synergistic_Brewterializer" in trinket:
                 result += f"profileset.\"{profileset_name}\"+=priest.synergistic_brewterializer_tof_chance=0.90\n"
