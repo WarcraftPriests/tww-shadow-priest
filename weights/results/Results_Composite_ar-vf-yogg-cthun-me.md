@@ -1,4 +1,4 @@
 # Composite - ar-vf-yogg-cthun-me
 | Actor | DPS | Int | Haste | Crit | Mastery | Vers | DPS Weight |
 |---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|Base|5687526|1.00|1.55|1.69|1.59|1.70|0.03|
+|Base|5821962|1.00|1.55|1.74|1.61|1.78|0.03|
