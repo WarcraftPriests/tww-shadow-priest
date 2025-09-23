@@ -23,69 +23,69 @@ main_hand=${gear.main_hand},enchant=${enchants.main_hand}
 ${gear.off_hand}
 
 ## Season 3
-## End of Dungeon: 710 | Vault: 723
+## End of Dungeon: 717 | Vault: 730
 ## The Dawnbreaker
-profileset."Empowering_Crystal_of_Anubikkaj_710"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=710
-profileset."Empowering_Crystal_of_Anubikkaj_723"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=723
+profileset."Empowering_Crystal_of_Anubikkaj_717"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=717
+profileset."Empowering_Crystal_of_Anubikkaj_730"+=trinket1=empowering_crystal_of_anubikkaj,id=219312,ilevel=730
 
-profileset."Mereldars_Toll_710"+=trinket1=mereldars_toll,id=219313,ilevel=710
-profileset."Mereldars_Toll_723"+=trinket1=mereldars_toll,id=219313,ilevel=723
+profileset."Mereldars_Toll_717"+=trinket1=mereldars_toll,id=219313,ilevel=717
+profileset."Mereldars_Toll_730"+=trinket1=mereldars_toll,id=219313,ilevel=730
 
 ## Ara-Kara
-profileset."AraKara_Sacbrood_710"+=trinket1=arakara_sacbrood,id=219314,ilevel=710
-profileset."AraKara_Sacbrood_723"+=trinket1=arakara_sacbrood,id=219314,ilevel=723
+profileset."AraKara_Sacbrood_717"+=trinket1=arakara_sacbrood,id=219314,ilevel=717
+profileset."AraKara_Sacbrood_730"+=trinket1=arakara_sacbrood,id=219314,ilevel=730
 
 ### Chance to collect orb
 ### 20% is default
-profileset."Harvesters_Edict_20%_710"+=trinket1=harvesters_edict,id=219317,ilevel=710
-profileset."Harvesters_Edict_20%_710"+=thewarwithin.harvesters_edict_intercept_chance=0.2
-profileset."Harvesters_Edict_20%_723"+=trinket1=harvesters_edict,id=219317,ilevel=723
-profileset."Harvesters_Edict_20%_723"+=thewarwithin.harvesters_edict_intercept_chance=0.2
+profileset."Harvesters_Edict_20%_717"+=trinket1=harvesters_edict,id=219317,ilevel=717
+profileset."Harvesters_Edict_20%_717"+=thewarwithin.harvesters_edict_intercept_chance=0.2
+profileset."Harvesters_Edict_20%_730"+=trinket1=harvesters_edict,id=219317,ilevel=730
+profileset."Harvesters_Edict_20%_730"+=thewarwithin.harvesters_edict_intercept_chance=0.2
 
 ## Operation: Floodgate
-profileset."Gigazaps_Zap_Cap_710"+=trinket1=gigazaps_zapcap,id=232545,ilevel=710
-profileset."Gigazaps_Zap_Cap_723"+=trinket1=gigazaps_zapcap,id=232545,ilevel=723
+profileset."Gigazaps_Zap_Cap_717"+=trinket1=gigazaps_zapcap,id=232545,ilevel=717
+profileset."Gigazaps_Zap_Cap_730"+=trinket1=gigazaps_zapcap,id=232545,ilevel=730
 
 ## Priory of the Sacred Flame
-profileset."Signet_of_the_Priory_710"+=trinket1=signet_of_the_priory,id=219308,ilevel=710
-profileset."Signet_of_the_Priory_723"+=trinket1=signet_of_the_priory,id=219308,ilevel=723
+profileset."Signet_of_the_Priory_717"+=trinket1=signet_of_the_priory,id=219308,ilevel=717
+profileset."Signet_of_the_Priory_730"+=trinket1=signet_of_the_priory,id=219308,ilevel=730
 
-profileset."Bursting_Lightshard_710"+=trinket1=bursting_lightshard,id=219310,ilevel=710
-profileset."Bursting_Lightshard_723"+=trinket1=bursting_lightshard,id=219310,ilevel=723
+profileset."Bursting_Lightshard_717"+=trinket1=bursting_lightshard,id=219310,ilevel=717
+profileset."Bursting_Lightshard_730"+=trinket1=bursting_lightshard,id=219310,ilevel=730
 
 ## Eco-Dome Al'dani
-profileset."Lily_of_the_Eternal_Weave_710"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=710
-profileset."Lily_of_the_Eternal_Weave_723"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=723
+profileset."Lily_of_the_Eternal_Weave_717"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=717
+profileset."Lily_of_the_Eternal_Weave_730"+=trinket1=lily_of_the_eternal_weave,id=242494,ilevel=730
 
-profileset."Azhiccaran_Parapodia_710"+=trinket1=azhiccaran_parapodia,id=242497,ilevel=710
-profileset."Azhiccaran_Parapodia_723"+=trinket1=azhiccaran_parapodia,id=242497,ilevel=723
+profileset."Azhiccaran_Parapodia_717"+=trinket1=azhiccaran_parapodia,id=242497,ilevel=717
+profileset."Azhiccaran_Parapodia_730"+=trinket1=azhiccaran_parapodia,id=242497,ilevel=730
 
 ## Halls of Atonement
-profileset."Sunblood_Amethyst_710"+=trinket1=sunblood_amethyst,id=178826,ilevel=710
-profileset."Sunblood_Amethyst_723"+=trinket1=sunblood_amethyst,id=178826,ilevel=723
+profileset."Sunblood_Amethyst_717"+=trinket1=sunblood_amethyst,id=178826,ilevel=717
+profileset."Sunblood_Amethyst_730"+=trinket1=sunblood_amethyst,id=178826,ilevel=730
 
 ## Tazavesh: Streets of Wonder
-profileset."Miniscule_Mailemental_in_an_Envelope_710"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=710
-profileset."Miniscule_Mailemental_in_an_Envelope_723"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=723
+profileset."Miniscule_Mailemental_in_an_Envelope_717"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=717
+profileset."Miniscule_Mailemental_in_an_Envelope_730"+=trinket1=miniscule_mailemental_in_an_envelope,id=185846,ilevel=730
 
 ## Tazavesh: So'leah's Gambit
-profileset."Soleahs_Secret_Technique_Crit_710"+=trinket1=soleahs_secret_technique_crit,id=190958,ilevel=710
-profileset."Soleahs_Secret_Technique_Crit_710"+=shadowlands.soleahs_secret_technique_type=crit
-profileset."Soleahs_Secret_Technique_Haste_710"+=trinket1=soleahs_secret_technique_haste,id=190958,ilevel=710
-profileset."Soleahs_Secret_Technique_Haste_710"+=shadowlands.soleahs_secret_technique_type=haste
-profileset."Soleahs_Secret_Technique_Mastery_710"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=710
-profileset."Soleahs_Secret_Technique_Mastery_710"+=shadowlands.soleahs_secret_technique_type=mastery
-profileset."Soleahs_Secret_Technique_Versatility_710"+=trinket1=soleahs_secret_technique_versatility,id=190958,ilevel=710
-profileset."Soleahs_Secret_Technique_Versatility_710"+=shadowlands.soleahs_secret_technique_type=versatility
+profileset."Soleahs_Secret_Technique_Crit_717"+=trinket1=soleahs_secret_technique_crit,id=190958,ilevel=717
+profileset."Soleahs_Secret_Technique_Crit_717"+=shadowlands.soleahs_secret_technique_type=crit
+profileset."Soleahs_Secret_Technique_Haste_717"+=trinket1=soleahs_secret_technique_haste,id=190958,ilevel=717
+profileset."Soleahs_Secret_Technique_Haste_717"+=shadowlands.soleahs_secret_technique_type=haste
+profileset."Soleahs_Secret_Technique_Mastery_717"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=717
+profileset."Soleahs_Secret_Technique_Mastery_717"+=shadowlands.soleahs_secret_technique_type=mastery
+profileset."Soleahs_Secret_Technique_Versatility_717"+=trinket1=soleahs_secret_technique_versatility,id=190958,ilevel=717
+profileset."Soleahs_Secret_Technique_Versatility_717"+=shadowlands.soleahs_secret_technique_type=versatility
 
-profileset."Soleahs_Secret_Technique_Crit_723"+=trinket1=soleahs_secret_technique_crit,id=190958,ilevel=723
-profileset."Soleahs_Secret_Technique_Crit_723"+=shadowlands.soleahs_secret_technique_type=crit
-profileset."Soleahs_Secret_Technique_Haste_723"+=trinket1=soleahs_secret_technique_haste,id=190958,ilevel=723
-profileset."Soleahs_Secret_Technique_Haste_723"+=shadowlands.soleahs_secret_technique_type=haste
-profileset."Soleahs_Secret_Technique_Mastery_723"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=723
-profileset."Soleahs_Secret_Technique_Mastery_723"+=shadowlands.soleahs_secret_technique_type=mastery
-profileset."Soleahs_Secret_Technique_Versatility_723"+=trinket1=soleahs_secret_technique_versatility,id=190958,ilevel=723
-profileset."Soleahs_Secret_Technique_Versatility_723"+=shadowlands.soleahs_secret_technique_type=versatility
+profileset."Soleahs_Secret_Technique_Crit_730"+=trinket1=soleahs_secret_technique_crit,id=190958,ilevel=730
+profileset."Soleahs_Secret_Technique_Crit_730"+=shadowlands.soleahs_secret_technique_type=crit
+profileset."Soleahs_Secret_Technique_Haste_730"+=trinket1=soleahs_secret_technique_haste,id=190958,ilevel=730
+profileset."Soleahs_Secret_Technique_Haste_730"+=shadowlands.soleahs_secret_technique_type=haste
+profileset."Soleahs_Secret_Technique_Mastery_730"+=trinket1=soleahs_secret_technique_mastery,id=190958,ilevel=730
+profileset."Soleahs_Secret_Technique_Mastery_730"+=shadowlands.soleahs_secret_technique_type=mastery
+profileset."Soleahs_Secret_Technique_Versatility_730"+=trinket1=soleahs_secret_technique_versatility,id=190958,ilevel=730
+profileset."Soleahs_Secret_Technique_Versatility_730"+=shadowlands.soleahs_secret_technique_type=versatility
 
 ## Season 2
 ## End of Dungeon: 671 | Vault: 684

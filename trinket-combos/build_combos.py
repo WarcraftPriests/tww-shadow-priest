@@ -7,29 +7,25 @@ from itertools import combinations
 
 combos = {
     # Liberation of Undermine (684)
-    # "House_of_Cards_684": "house_of_cards,id=230027,ilevel=684",
     "Mugs_Moxie_Jug_684": "mugs_moxie_jug,id=230192,ilevel=684",
-    # "Eye_of_Kezan_684": "eye_of_kezan,id=230198,ilevel=684",
-    # s3 dungeons (x/723)
-    "Empowering_Crystal_of_Anubikkaj_723": "empowering_crystal_of_anubikkaj,id=219312,ilevel=723",
-    "Signet_of_the_Priory_723": "signet_of_the_priory,id=219308,ilevel=723",
-    "AraKara_Sacbrood_723": "arakara_sacbrood,id=219314,ilevel=723",
-    "Lily_of_the_Eternal_Weave_723": "lily_of_the_eternal_weave,id=242494,ilevel=723",
-    "Azhiccaran_Parapodia_723": "azhiccaran_parapodia,id=242497,ilevel=723",
-    # "Miniscule_Mailemental_in_an_Envelope_723": "miniscule_mailemental_in_an_envelope,id=185846,ilevel=723",
-    "Soleahs_Secret_Technique_Haste_723": "soleahs_secret_technique_mastery,id=190958,ilevel=723",
-    "Soleahs_Secret_Technique_Mastery_723": "soleahs_secret_technique_mastery,id=190958,ilevel=723",
-    # Manaforge Omega (?/723)
-    "Diamantine_Voidcore_723":"diamantine_voidcore,id=242392,ilevel=723",
-    "Astral_Antenna_723":"astral_antenna,id=242395,ilevel=723",
-    "Naazindhris_Mystic_Lash_723":"naazindhris_mystic_lash,id=242398,ilevel=723",
-    "Screams_of_a_Forgotten_Sky_723":"screams_of_a_forgotten_sky,id=242399,ilevel=723",
-    "Arazs_Ritual_Forge_723":"arazs_ritual_forge,id=242402,ilevel=723",
-    # "Perfidious_Projector_723":"perfidious_projector,id=242403,ilevel=723",
-    # delves (710)
-    "Incorporeal_Essence_Gorger_NonEthereal_710": "incorporeal_essencegorger,id=246945,ilevel=710",
-    # pvp (704)
-    "Astral_Gladiators_Badge_of_Ferocity_704": "astral_gladiators_badge_of_ferocity,id=230638,ilevel=704",
+    # s3 dungeons (x/730)
+    "Empowering_Crystal_of_Anubikkaj_730": "empowering_crystal_of_anubikkaj,id=219312,ilevel=730",
+    "Signet_of_the_Priory_730": "signet_of_the_priory,id=219308,ilevel=730",
+    "AraKara_Sacbrood_730": "arakara_sacbrood,id=219314,ilevel=730",
+    "Lily_of_the_Eternal_Weave_730": "lily_of_the_eternal_weave,id=242494,ilevel=730",
+    "Azhiccaran_Parapodia_730": "azhiccaran_parapodia,id=242497,ilevel=730",
+    "Soleahs_Secret_Technique_Haste_730": "soleahs_secret_technique_mastery,id=190958,ilevel=730",
+    "Soleahs_Secret_Technique_Mastery_730": "soleahs_secret_technique_mastery,id=190958,ilevel=730",
+    # Manaforge Omega (?/730)
+    "Diamantine_Voidcore_730":"diamantine_voidcore,id=242392,ilevel=730",
+    "Astral_Antenna_730":"astral_antenna,id=242395,ilevel=730",
+    "Naazindhris_Mystic_Lash_730":"naazindhris_mystic_lash,id=242398,ilevel=730",
+    "Screams_of_a_Forgotten_Sky_730":"screams_of_a_forgotten_sky,id=242399,ilevel=730",
+    "Arazs_Ritual_Forge_730":"arazs_ritual_forge,id=242402,ilevel=730",
+    # delves (717)
+    "Incorporeal_Essence_Gorger_NonEthereal_717": "incorporeal_essencegorger,id=246945,ilevel=717",
+    # pvp (710)
+    "Astral_Gladiators_Badge_of_Ferocity_710": "astral_gladiators_badge_of_ferocity,id=230638,ilevel=710",
 }
 
 
